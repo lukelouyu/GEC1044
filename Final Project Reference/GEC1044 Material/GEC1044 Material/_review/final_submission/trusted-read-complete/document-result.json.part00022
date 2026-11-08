@@ -1,0 +1,340 @@
+  },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://cup.columbia.edu/book/traditional-chinese-medicine/9780231175012/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19350,
+                    "endIndex": 19400,
+                    "textRun": {
+                      "content": " (B. Andrews, Trans.). Columbia University Press.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 19400,
+              "endIndex": 19577,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 19400,
+                    "endIndex": 19440,
+                    "textRun": {
+                      "content": "Unschuld, P. U., & Tessenow, H. (2011). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19440,
+                    "endIndex": 19534,
+                    "textRun": {
+                      "content": "Huang Di nei jing su wen: An annotated translation of Huang Di’s Inner Classic—Basic Questions",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.ucpress.edu/books/huang-di-nei-jing-su-wen/hardcover"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19534,
+                    "endIndex": 19577,
+                    "textRun": {
+                      "content": " (Vol. 1). University of California Press.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 19577,
+              "endIndex": 19627,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 19577,
+                    "endIndex": 19601,
+                    "textRun": {
+                      "content": "Wing Joo Loong. (n.d.). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19601,
+                    "endIndex": 19626,
+                    "textRun": {
+                      "content": "Lung soothing summer tea.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.wjl.com.sg/products/wing-joo-loong-lung-soothing-summer-tea"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19626,
+                    "endIndex": 19627,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 19627,
+              "endIndex": 19736,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 19627,
+                    "endIndex": 19662,
+                    "textRun": {
+                      "content": "World Health Organization. (2022). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19662,
+                    "endIndex": 19734,
+                    "textRun": {
+                      "content": "WHO international standard terminologies on traditional Chinese medicine",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.who.int/publications/i/item/9789240042322"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19734,
+                    "endIndex": 19736,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 19736,
+              "endIndex": 19904,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 19736,
+                    "endIndex": 19839,
+                    "textRun": {
+                      "content": "Yang, Y. (2022). A brief history of Chinese medicine in Singapore. In V. Lo & M. Stanley-Baker (Eds.), ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 19839,
+                    "endIndex": 19877,
+                    "textRun": {
+                      "content": "Routledge handbook of Chinese medicine",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://doi.org/10.4324/97802037

@@ -1,0 +1,823 @@
+
+===== PAGE 1 =====
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+        
+  
+7 
+THE CANONICITY OF 
+THE YELLOW EMPEROR’S 
+INNER CLASSIC 
+Han through Song 
+Stephen Boyanton 
+Introduction 
+Chinese medicine today is frequently said to rest on the foundation of a group of texts 
+known as the Yellow Emperor’s Inner Classic  (Huangdi neijing 黃帝內經 , hereafter the Inner 
+Classic, Neijing 內經). This point of view is found in medical texts as far back as the Song 
+(960–1279) and is even cited in modern scholarly discussions of Chinese medicine as well. 
+But is it accurate? 
+The Inner Classic is the oldest text in the received tradition of East Asian medicine and has 
+been cited since the Song to explain and justify medical practices. There are, however, many 
+ways in which a text can be authoritative or canonical, and although we now know a great 
+deal about the formation of the Inner Classic, we still know very little about how it acquired 
+its current status at the centre of the Chinese medical canon. 
+The very concept of canonicity is somewhat problematic. There is no clear Chinese equiv-
+alent to the term. The notion of a classic text ( jing 經) comes closest; however, throughout 
+China’s history, a variety of texts and groups of texts have been selected as authoritative in 
+various felds, and many of these ‘canonical’ texts were never given the label ‘classic’ (an ex-
+cellent survey of these is found in De Weerdt 1999: 91–4). Even in English, the term ‘canon’ 
+is far from precise. It can refer to closed canons, such as the Bible and open canons, such as 
+‘the canon’ of English literature. No single model of textual authority can be applied to all 
+of these cases. However, rather than lament the imprecision of this term, I wish to make 
+its vagueness a virtue. A more relaxed analytical gaze may enable us to better recognise the 
+various types of textual authority the Inner Classic  has possessed throughout its long history. 
+Therefore, in this chapter, I do not take the meaning of canonicity as a given but rather as a 
+topic for investigation. 
+The earliest mention of a Yellow Emperor’s Inner Classic  is found in the bibliographic sec -
+tion (Yiwen zhi 藝文志 ) of the Hanshu 漢書 (History of the Han) 6.30, alongside a Yellow 
+Emperor’s Outer Classic 黃帝外經 (Huangdi waijing ) and Inner and Outer Classics by the leg -
+endary physician Bian Que (扁鵲 , sixth to ffth century BCE) and a Mr White ( Baishi
+白氏 ), who is otherwise unknown ( Hanshu, 30.1776). None of the other texts in this list is 
+still extant. Surviving literature mentions six titles associated with the Yellow Emperor’s Inner 
+DOI: 10.4324/9780203740262-9 120 
+===== PAGE 2 =====
+The canonicity
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Table 7.1 Titles of Inner Classic  Texts Mentioned in Other Texts 
+Inquiry into the Fundamental ( Suwen 素問) 
+Numinous Pivot  (Lingshu 靈樞)a 
+Systematic Classic of Acumoxa ( Zhenjiu jiayi jing 針灸甲乙經 ) 
+Grand Fundamental  (Taisu 太素 ) 
+Needling Classic ( Zhenjing 針經)a 
+Nine Fascicles  ( Jiujuan 九卷)a 
+a Some scholars believe that these are variant titles for one text. Numinous Pivot  and Needling Classic 
+are most likely separate texts (Keegan 1988: 37–43). The identity of the Nine Fascicles  is unclear. 
+Classic (Table 7.1).1 A great deal of ink has been spilled arguing over which of these was the 
+original text mentioned in the Hanshu . A combination of archaeological discoveries and 
+careful investigation of extant texts, however, has led scholars to reject this question entirely 
+and radically rethink our understanding of this group of texts. 
+Te formation of the Inner Classic  corpus 
+The various texts titled Yellow Emperor’s Inner Classic share not only a title, but many passages 
+as well. These shared passages vary little from one Inner Classic  text to another and are gen -
+erally quite short, in modern terms no more than a few paragraphs in length. Although their 
+wording varies little from one text to another, they are located in radically diferent positions 
+within each text – diferent chapters, diferent positions within a chapter, etc. (Keegan 1988: 
+64–6). The explanation of these passages began to become clear after the archaeological 
+discovery of similar passages in excavated texts. In 1973, archaeologists working at a site 
+called Mawangdui (馬王堆 ) in Hunan province discovered a collection of texts buried along 
+with the occupant of a tomb (Chapter 3 in this volume). Several medical texts were included 
+among them. Since this tomb was sealed in 168 BCE, these texts provide an unparalleled 
+look into the medical world of the early Han. Four of the medical texts deal specifcally with 
+the channels ( jing 經) used in acupuncture and moxibustion, and some of their passages are 
+clearly parallel to parts of the Numinous Pivot ( Lingshu 靈樞) (Harper 1997). 
+In his seminal dissertation, David Keegan analysed these parallels and demonstrated that 
+our understanding of the Inner Classic  was hampered by the anachronistic imposition onto 
+it of our concept of a book. Keegan argues that in its earliest stages, the Inner Classic  is best 
+thought of as a large collection of very small primary texts – the shared passages noted above – 
+which were rearranged in various orders to compose the chapters and books that we know 
+as the Yellow Emperor’s Inner Classic . The Inner Classic  is therefore not a single book, and 
+the various extant books bearing that title are actually compilations produced by selection 
+and rearrangement of the primary texts. The primary texts were thus conserved with few 
+changes across all compilations, but how they were put together varied greatly. The question 
+of which extant compilation is the ‘original’ Yellow Emperor’s Inner Classic is therefore moot. 
+None of them is; there never was any such creature (Keegan 1988: 110–13). 
+Having unravelled the structure of the Inner Classic, Keegan went further. Drawing on Na-
+than Sivin’s discussion of the transmission of medical learning in the Han and medieval periods, 
+he posited a social mechanism by which the primary texts were compiled in such diferent 
+orders. Physicians learned medicine by apprenticeship to a master. Initially, learning consisted 
+of observing the master, receiving oral instructions, and being guided in the memorisation of 
+texts. When the master decided the student was ready, he would transmit a text to the student. 
+121 
+===== PAGE 3 =====
+Stephen Boyanton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The student would copy it and the master would impart an oral explanation. The texts thus 
+transmitted were not necessarily whole books, but rather short texts like the primary texts found 
+in the Inner Classic. Students copied texts in the order in which they received them and might re-
+ceive the same text in slightly diferent forms from diferent teachers. The resulting compilation 
+of primary texts was therefore unique to that student. The various Inner Classic compilations we 
+have today were produced by editing this sort of ad hoc compilation, and the order of primary 
+texts in each compilation therefore difers (Keegan 1988: 219–47; Sivin 1995a). 
+Keegan’s analysis also enabled a more accurate dating of the Inner Classic corpus by making 
+it clear that the individual primary texts were composed at diferent times and predate the 
+earliest compilation of an Inner Classic text. Comparison of the Mawangdui channel texts with 
+parallel primary texts in the Numinous Pivot reveals that the Numinous Pivot texts are substan -
+tially more developed (Harper 1997: 86–90). Given that the Mawangdui texts cannot date 
+from later than 168 BCE and that Records of the Historian ( Shiji 史記) – the earliest portions of 
+which were completed c. 100 BCE – makes no mention of the Inner Classic, we can safely take 
+100 BCE as the earliest possible date for its formation. If we take the date of the Hanshu  as its 
+terminus ante quem – the Numinous Pivot ’s passages must date from between 100 BCE and 92 
+CE. This evidence has led most scholars to conclude that the primary texts of the Inner Classic 
+corpus must have reached something approaching their current state in the frst century BCE, 
+though individual texts may have earlier or later dates (Unschuld 2003: 1–3). 
+The extant compilations of the Inner Classic  difer considerably in their structure and 
+textual history. These diferences have been discussed at length by Nathan Sivin (1993) and 
+Paul Unschuld (2003) and will not be repeated here except as they bear on the question of 
+the Inner Classic  corpus’s textual authority. 
+Te Han dynasty (202 BCE–220 CE) 
+The relative importance of the Inner Classic  before the late Han is difcult to reconstruct. We 
+can gain some sense of its relationship with the broader medical context, however, by exam -
+ining the list of medical books possessed by the Granary Master ( Canggong 倉公) Chunyu Yi 
+淳于意 (f. mid-second century BCE), as recorded in his biography in Records of the Historian. 
+Although his biography does not mention the Inner Classic , eight of the ten books he received 
+from his teachers are also mentioned in extant Inner Classic  compilations. The Granary Mas -
+ter presents his possession of these texts as proof of his medical skill and, in the case records 
+included within the biography, is depicted as relying on these texts to justify his treatments. 
+We must, however, use this source with care. Miranda Brown has pointed out that this 
+biography, along with most of the other sources used in reconstructing early medical history 
+in China, was written by non-physicians for purposes unrelated to medical practice. Fur -
+thermore, the sources used in constructing this biography have been shown to be heteroge -
+neous, some of them clearly not the work of a historical Chunyu Yi. Brown argues that the 
+practice of justifying medical treatment by textual reference is not seen elsewhere in the early 
+medical literature. Such justifcation was, however, part of the record-keeping practices of 
+government ofcials. Recording and treating illness were among the duties of ofcials, and 
+the case records in this biography were most likely derived from such records. This makes 
+it impossible to say with certainty that the use of textual justifcation was common among 
+doctors in this period (Brown 2015: 63–86). Nevertheless, the fact that medical texts are 
+mentioned at all and that many of the same texts are also referred to in the Inner Classic  does 
+support Keegan’s thesis that there was a group of medical texts circulating in the early Han 
+that were seen – by some at least – as authoritative. 
+122 
+===== PAGE 4 =====
+The canonicity
+ 
+   
+  
+    
+ 
+ 
+In addition to revealing their provenance, the use of a governmental model in the Gra -
+nary Master’s case records may also tell us something about the kind of authority these med -
+ical texts – and the Inner Classic  – claimed. The presence of terms and metaphors related to 
+government has long been recognised in both the Inner Classic  and medical literature more 
+broadly. By the end of the Warring States, there was widespread acceptance of a homology 
+between the cosmos at large, the state, and the human body (Sivin 1995b). It is possible that 
+medical practitioners adopted a governmental style of justifcation as part of their efort to 
+bolster their authority. Just as ofcials could cite law codes in deciding legal cases, doctors 
+could cite medical texts in deciding on diagnosis and treatment. The choice of the Yellow 
+Emperor as an interlocutor in the Inner Classic  may also refect this governmental sensibility. 
+The Yellow Emperor was believed to have taught humans the art of government in the dis -
+tant past and is considered by some scholars (Yates 1997: 10–16) to have been a key fgure in 
+the Huang-Lao ( 黃老 ) movement, which was purportedly infuential in the early Han and 
+made explicit links between ruling the state and caring for the body. Yamada Keiji frst put 
+forward the ‘working hypothesis’ that this choice might refect a connection between the 
+Inner Classic  and the Huang-Lao movement (Yamada Keiji 1979: 89). Subsequent research 
+has tended to support this hypothesis and has shown that the Inner Classic  relies heavily on 
+a cluster of concepts – the Way ( Dao 道), compliance ( shun 順), and rebellion ( ni 逆) – that 
+was fundamental to much of Huang-Lao thought (Peerenboom 1993: 51–3, 64–6; Boyan -
+ton 2006). In medical texts like the Inner Classic , shun and ni  can refer to compliance with 
+or variance from the natural pattern of things, or to going with or against the normal fow 
+of bodily fuids – such as qi  along the channels. In Huang-Lao texts, the same terms refect 
+positions in relation to authority (i.e. of the state). 
+By the late Han, we have more evidence for the perceived authority of the Inner Classic . 
+Its mention in the Hanshu  bibliography attests to its signifcance, but the mention of other 
+medical texts side by side with it indicates that it was not the only esteemed medical clas -
+sic. Likewise, although the titles Inquiry into the Fundamental ( Suwen 素問) and Nine Fascicles 
+( Jiujuan 九卷) appear in the preface to the Treatise on Cold Damage ( Shanghan lun 傷寒論 , 
+c. 206 CE), they are accompanied by a number of other texts ( Shanghan lun, preface.305).
+2 
+In the late Han, the Inner Classic  appears to have been one of a large number of important 
+medical texts, highly valued, but lacking its later pre-eminence. 
+In addition to considering the bibliographic evidence and the intellectual context within 
+which the Inner Classic  made its earliest claims to canonical status, it is also important to 
+bear in mind its physical aspect as a book. During the Han, texts were generally written on 
+bamboo slips that were then tied together and rolled up. These bamboo slip ‘books’ were 
+difcult to produce, very heavy, and prone to falling apart if the ties holding them together 
+were not maintained (Nylan 2000: 244). Given the technical limitations of book production, 
+it is unlikely that physicians could produce and carry about large texts like the extant com -
+pilations of the Inner Classic , and the production of standardised texts would have been all 
+but impossible. The type of authority the Inner Classic could claim was limited by the type of 
+book into which it could be formed. 
+Te period of division, Sui, and Tang (220–907) 
+We have abundant evidence for the Inner Classic’s importance throughout the period of divi-
+sion following the fall of the Han and up through the Tang. It is clear from the bibliographic 
+literature and the surviving compilations that it was not only circulating, but also circulating 
+in several compilations and various editions of these compilations. 
+123 
+===== PAGE 5 =====
+Stephen Boyanton 
+ 
+ 
+   
+ 
+  
+ 
+ 
+        
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The earliest surviving compilation of the Inner Classic  corpus is the Systematic Classic of 
+Acumoxa (Zhenjiu jiayi jing 針灸甲乙經 ), or to use its full title, the Yellow Emperor’s System -
+atic Classic of Acumoxa in Three Parts (Huangdi sanbu zhenjiu jiayi jing 黃帝三部針灸甲乙經 ). 
+Compiled by Huangfu Mi 皇 甫謐 (215–282) between 256 and his death, it is of particular 
+historical importance. Huangfu Mi became an imperial physician ( taiyi 太醫 ) under the Jin 
+(265–420) but was already an accomplished and respected scholar and author in other felds. 
+According to his preface, he became interested in medicine after sufering an illness that was 
+treated unsuccessfully ( Huangdi sanbu Zhenjiu jiayijing, preface, 16–21).
+3 The stature of the In-
+ner Classic at this time is to some degree attested by the fact that disappointment in the quality 
+of contemporary doctors would lead Huangfu Mi to examine it. More enlightening, how -
+ever, is how the preface justifes the authority of the Inner Classic . It attributes the Inner Classic 
+to the Yellow Emperor’s investigation of medicine and roots its authority in the fact the he 
+‘… inwardly investigated the fve viscera and the six bowels; outwardly, surveyed the chan -
+nels and network vessels, the qi, blood, and the complexion; consulted heaven and earth and 
+examined people and things; took the nature allotted by heaven as the basis; and exhaustively 
+studied the marvellous and thoroughly inquired into transformation’ (Huangdi sanbu Zhenjiu 
+jiayijing, preface, 16). For Huangfu Mi, the authority of the Inner Classic lay in its transmission 
+of the knowledge of the sages, a wisdom beyond the ken of contemporary humans. 
+When he investigated the Inner Classic , however, he found it in disarray. The texts were 
+not ‘in order’ and contained many ‘repetitions’ and ‘misplacements’. He therefore rearranged 
+the texts in a logical order and removed repetitions and unnecessary verbiage to produce a 
+new text (Huangdi sanbu Zhenjiu jiayijing, preface, 20). Huangfu Mi’s statement has often been 
+taken as an indication that the Inner Classic  was on the verge of being lost (Unschuld 2003: 
+22) – and he intended it that way – but given the nature of textual transmission among phy -
+sicians, described above, it is far more likely that he was simply looking at a doctor’s text with 
+the eyes of a literatus accustomed to a completely diferent book culture. Huangfu Mi ap -
+proached the Inner Classic  expecting a ‘book’ in which all of the contents had fxed locations 
+and logical relationships. The repetitions and variations inevitably produced by physicians’ 
+textual practices therefore struck him as textual errors, and he set out to do what any good 
+scholar would under the circumstances: produce a reliable edition.
+4 
+The next two known compilations of the Inner Classic  unfortunately provide us with lit -
+tle information about its claims to canonical status save the fact that they were produced by 
+and circulated among the social elite. The Quan Yuanqi 全元起 (f. sixth century) edition 
+of Inquiry into the Fundamental ( Suwen 素問) has been lost since the Song – fragments quoted 
+in other texts are all that survive – and the preface is missing from the rediscovered copy of 
+Grand Fundamental  (Taisu 太素 ), compiled by Yang Shangshan 楊 上善 (f. early Tang). The 
+third, however, reafrms Huangfu Mi’s view of the Inner Classic’s origins and authority. In 
+the preface, dated 762, to his edition of Inquiry into the Fundamental , Wang Bing 王冰 (f. 
+eighth century) afrms that the Inner Classic  is the work of the Yellow Emperor and that 
+without such sagely advice one cannot hope to ‘be released from the grievous bondage [of 
+illness], complete and guide the true qi, enable the common people to attain a long life, or 
+aid the frail and weak to obtain peace’. 
+Like Huangfu Mi, Wang Bing complains in his preface that the Inquiry into the Fundamen -
+tal was in poor condition when he started. He took a nine-fascicle edition of Quan Yuanqi’s 
+edition as his base text but found it necessary to edit it extensively. He removed redundant 
+chapters, corrected passages he deemed corrupt, altered the wording of the dialogues to 
+maintain proper etiquette between ruler and minister, divided chapters he felt combined 
+two originally separate discourses, and added chapters to replace those that had been lost 
+124 
+===== PAGE 6 =====
+The canonicity
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(Chongguang buzhu Suwen , preface, 5–6). Since Quan Yuanqi’s edition is no longer available, 
+we cannot be certain what type of text Wang Bing was examining, but it seems likely that 
+once again we are witnessing the reaction of an elite scholar to the very diferent writing and 
+reading habits of non-elite physicians. 
+In spite of the sagely pedigree claimed for it, throughout this period, the Inner Classic 
+remained one among many esteemed medical texts. In Chen Yanzhi’s 陳延之 (c. late fourth 
+to early ffth centuries) Short Essay on Classical Formulae ( Jingfang xiaopin 經方小品 ), a Methods 
+of the Yellow Fundamental  (Huangsu fang 黃素方 ) is mentioned in a list of important medical 
+texts; however, even if we assume that this text is related to Inquiry into the Fundamental , 
+it is only one text in a list of sixteen (Yan Shiyun and Li Qizhong, 2009: 785). Likewise, 
+in Sun Simiao’s 孫思邈 (d. 682) famous list of texts a doctor should study, Inquiry into the 
+Fundamental, the Systematic Classic of Acumoxa , and the Needle Classic are listed frst, but they 
+are followed by twelve other medical texts and then by a variety of non-medical texts and 
+methods of divination ( Qianjin yaofang, 1.1–2). 
+By the end of the Tang, although the position of the Inner Classic  vis-à-vis other medical 
+texts was largely unchanged, the nature of the Inner Classic  as a physical text had changed 
+greatly. What had been a corpus of texts extant only in ad hoc compilations produced by 
+and for physicians now also existed in at least four compilations produced by and structured 
+according to the norms of the literati elite. These compilations fxed the form of the text in 
+ways that decreased its mutability and made it more easily shared. The shift from writing on 
+bamboo slips to writing on paper also vastly increased its portability. They altered both the 
+nature of its claims to authority – by limiting that authority to particular books as opposed to 
+the Inner Classic corpus as a whole – and the scope of its claims – by allowing larger numbers 
+of people to share the same edition of the text. These developments continued and reached 
+unprecedented levels during the following Song dynasty. 
+Te Song dynasty (960–1279) 
+The Song was a period of intense transformation in many aspects of Chinese society, econ -
+omy, government, and thought. The changes most relevant to this discussion are the devel -
+opment of printing, an unprecedented involvement by the government in medical afairs, 
+and the changing status of medical practice as an occupation (Hinrichs 2013; Boyanton 2015: 
+76–115; Hymes 2015). 
+Although the technology of woodblock printing was invented during the Tang, it was only 
+in the Song that it became the basis of a large publishing industry. The ability to rapidly pro -
+duce large numbers of books drove the cost of books down, making literacy and book owner-
+ship afordable to a larger segment of the population than ever before. The Song book market 
+generated a wide range of books, from expensive editions that are considered among the fnest 
+examples of printing ever produced to cheap editions of poor quality. Books were published 
+on a wide variety of topics, including medical books of many types (Hymes 2015: 542–68). 
+In addition to increasing the availability of books, printing allowed the circulation of 
+texts in identical editions. Copying texts by hand tended to introduce errors, and when 
+working with manuscripts, it was a standard practice to compare several copies and produce 
+a new edition for one’s own use (Hymes 2015: 562). This process meant that for all but the 
+most common texts, any two copies were unlikely to be identical. Mass printing created the 
+possibility of readers widely separated in space or time working from truly identical editions. 
+The Song government capitalised on this possibility in one of its most innovative inter -
+ventions in medicine: large-scale, government-sponsored medical publishing. Before the 
+125 
+===== PAGE 7 =====
+Stephen Boyanton 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Song, it was rare for the court to commission medical texts. A total of fve medical books 
+were produced for the court prior to the Song. From its inception, the Song broke with this 
+precedent, and the state continued to produce and distribute medical books throughout the 
+Northern Song (960–1127). The height of Song government medical publishing occurred 
+between 1057 and 1069, when the government established the Bureau for Editing Medical 
+Texts ( Jiaozheng yishu ju校正醫書局 ). The court was concerned that the most signifcant 
+medical texts were in limited circulation in editions that were often erroneous. The Bureau 
+was tasked with correcting this problem by editing and publishing accurate editions of these 
+books. It was the frst and almost the only time a Chinese court used medical publication 
+as a means of benefting the people by improving medical practice (Hinrichs 2013: 102–8). 
+Over the course of twelve years, the Bureau produced ffteen books (Table 7.2), the last 
+eight of which rapidly became among the most widely cited medical texts in Chinese history. 
+The infuence of these texts appears to have been due to multiple factors that are not easily 
+disentangled. Medical texts produced by the government certainly carried a type of prestige 
+that other medical texts lacked. It is difcult to discern, however, whether their infuence 
+derived from this prestige or from their ready availability. The government saw to it that its 
+texts were widely distributed, and private reprints spread them even further (Goldschmidt 
+2008: 87–93; Miyashita 1967: 135–8). 
+If we cannot fully explain the success of the Bureau’s publications, the prefaces its editors 
+wrote allow us to reconstruct their purpose and reasoning to a far greater extent than is 
+possible for earlier editors of the Inner Classic. An analysis of these prefaces reveals an arbi
+-
+trariness in the process of canonisation that difers strikingly from the aura of inevitability 
+and independent value that surrounds canonical texts. 
+Table 7.2 Publications of the Song Bureau for Editing Medical Texts ( Jiaozheng yishu ju校正醫書局 ) 
+Year 
+Title Published 
+Yellow Emperor’s Inner Classic: Grand Fundamental (Huangdi neijing taisu黃帝內經太素 ) c. 1057a 
+Classic of the Numinous Pivot (Lingshu jing靈樞經 ) c. 1057a 
+Systematic Classic of Acu-moxa (Zhenjiu jiayi jing針灸甲乙經 ) c. 1057a 
+Jiayou Materia Medica ( Jiayou bencao嘉祐本草 ) 1062 
+Illustrated Classic of Materia Medica (Bencao tujing本草圖經 ) 1063 
+Treatise on Cold Damage (Shanghan lun傷寒論 ) 1065 
+Essentials of the Golden Cofer ( Jingui yaolüe金匱要略 ) 1066 
+Classic of the Golden Cofer and Jade Case ( Jingui yuhan jing金匱玉函經 ) 1066 
+Essential Formulae worth a Thousand Gold (Qianjin yaofang千金要方 ) 1066 
+Further Formulae worth a Thousand Gold (Qianjin yifang千金翼方 ) 1066b 
+Yellow Emperor’s Inner Classic: Questions on the Fundamental 1067 
+(Huangdi neijing suwen黃帝內經素問 ) 
+Systematic Classic of Acu-moxa (Zhenjiu jiayi jing針灸甲乙經 ) 1069 
+Classic of the Pulse (Maijing脈經) 1069 
+Secret Essentials of the Outer Terrace (Waitai miyao外臺秘要 ) 1069 
+a For unknown reasons, these texts were never published. No copies are extant. 
+b The Song preface to Qianjin yifang is not dated. It is usually assumed that it was edited at the same 
+time as Qianjin yaofang. 
+126 
+===== PAGE 8 =====
+The canonicity
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Although its members changed over the course of its history, a core group of six high-
+status, well-educated men was responsible for producing the last eight texts. With two 
+exceptions – who participated in the editing of only two of these eight books – the members 
+of this core group were all connected to one another through their association with a man 
+named Gao Ruona 高若訥 (997–1055). He was the father of one editor, the father-in-law 
+of another, and taught medicine to a third, whose brother, in turn, was the fourth. Gao 
+Ruona himself passed the civil service examination in 1024 and held several high positions 
+in the Song government but also nourished an interest in medicine and wrote a text on the 
+Han-dynasty medical text Treatise on Cold Damage (Goldschmidt 2008: 79–83). In addition 
+to their connection with Gao Ruona, the core group of editors all shared an active interest 
+in medicine. The two brothers were practising physicians, and their father, like Gao Ruona, 
+had written books on the Treatise on Cold Damage. 
+The original imperial mandate that created the Bureau appears to have included a 
+list of texts to be edited and published. The editors’ memorial on submitting the Jiayou 
+Materia Medica ( Jiayou bencao 嘉祐本草 ) to the throne states that they were entrusted 
+with editing: 
+… the Divine Farmer’s Materia Medica ( Shennong bencao 神農本草 ), the Numinous Pivot , 
+the Grand Fundamental , the Systematic Classic [of Acumoxa], and Inquiry into the Fundamen -
+tal, as well as the formularies Expansive Aid  (Guangji 廣濟), [Formulae worth ] a Thousand 
+Gold (Qianjin 千金), and Secret Essentials of the Outer Terrace ( Waitai miyao 外臺秘要 ) … 
+(quoted in Okanishi 2010: 1027) 
+Conspicuously absent from this list are the works of Zhang Ji 张机  (stylename Zhang 
+Zhongjing; 150–219) – author of the Treatise on Cold Damage , three of whose books the 
+Bureau published under the direction of these four editors – and the Classic of the Pulse , 
+which they published in 1069. Furthermore, they never published the formulary Expansive 
+Aid, which was included in the list. There is no evidence that the imperial mandate was 
+ever revised. The fnal decision about what to edit and publish was left in the hands of the 
+editors, and they chose to publish texts they personally felt were important. The authority 
+of imperial publication was thus conferred on texts that were chosen neither by imperial 
+decree nor because they were universally acknowledged as worthy of canonisation, but 
+merely because a small group of men was able to bend the imperial apparatus to their own 
+purposes. 
+Among the texts they chose to anoint with imperial blessing were two compilations of 
+the Inner Classic  corpus: Inquiry into the Fundamental and the Systematic Classic of Acumoxa. 
+Unlike previous editors, they do not lament fnding the texts in a deplorable condition, 
+though editing was still necessary, particularly for the Systematic Classic of Acumoxa ( Chong-
+guang buzhu Suwen , preface, 4–5; Zhenjiu jiayi jing , preface, 12–13). The Song publication 
+likely saved these compilations of the Inner Classic  from being lost. Both Grand Fundamen -
+tal and the Needle Classic were extant at the time the Bureau was working, but were lost 
+shortly afterwards. Ironically, however, the success of the Bureau’s publications may have 
+contributed to this loss. As the new, authoritative editions became widely available in 
+cheap, printed editions, there was little incentive to copy and preserve manuscripts of other 
+editions. Printing and canonisation thus acted as a two-edged sword, ensuring the survival 
+of the chosen texts and hastening the demise of those not chosen. 
+The fnal eight texts published by the Bureau both survived and thrived. They remain the 
+standard editions of these texts even today. An exception to the hegemony of the Bureau’s 
+127 
+===== PAGE 9 =====
+Stephen Boyanton 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+texts, however, is Numinous Pivot . As noted in Table 7.2 , the Numinous Pivot produced by 
+the Bureau in 1057 was not published. In their preface to Inquiry into the Fundamental , the 
+Bureau’s editors lament the poor quality of the Numinous Pivot available to them, and this 
+may account for their failure to produce an edition of it. The extant editions of the Numi-
+nous Pivot derive from a private edition submitted to the court in 1155 by Shi Song 史崧  (f. 
+twelfth century), which he produced by comparing an edition of the Numinous Pivot held 
+by his family to other texts with parallel passages (Sivin 1993: 203). Once again, we see an 
+element of arbitrariness in the process of canonisation. Although the Song government had 
+desired to publish an edition of the Numinous Pivot , the edition which fnally received its 
+blessing and became canonical was produced by a single individual with no direct connec -
+tion to the court. 
+The Song editors of the Inner Classic  continued to justify its canonicity through reference 
+to the Yellow Emperor. It would be a mistake, however, to assume that the meaning of this 
+claim was the same as it was during the Han or even the Tang. Even in the earliest periods, 
+the myth of the Yellow Emperor was polysemous. Charles LeBlanc has identifed twenty 
+diferent themes in the stories surrounding the fgure of the Yellow Emperor in the ancient 
+sources. He was the founding ancestor of Chinese civilisation, an icon of good governance, 
+a devotee of esoteric practices of sexual self-cultivation, and an immortal transcendent, 
+among many other roles (LeBlanc 1985). Nor was that the end of his transformations: the 
+meanings associated with him continued to grow and develop throughout the imperial pe -
+riod and into modern times (Jochim 1990; Yates 1997: 17–19; Harper 1999; Marsili 2003; 
+Leibold 2006; Shinno 2007). The Song editors’ support for the claim that the Inner Classic 
+conveyed the wisdom of the Yellow Emperor is particularly signifcant since the Song 
+witnessed serious challenges to that claim (Brown 2015: 146) alongside a widespread con -
+viction that the ideal method of governance was to found in the ‘Way of the sages’ (shengren 
+zhi dao 聖人之道 ) (Bol 1994: 126–31, 156–71, 181). The stakes were high. Successfully 
+claiming the Yellow Emperor as the founder of medicine would provide a strong basis for 
+assertions that it was a proper calling for the literati elite. Failure to establish a suitable ped -
+igree could result in it being seen as a profession whose respectability was dubious at best 
+(Boyanton 2015: 90–7, 130–4). 
+The Song editions of the Inner Classic  contributed to a revolution in its status. Prior to the 
+Song, the practice of medicine as an occupation was considered beneath the dignity of 
+the elite, literati stratum of society. During the Song, this changed. The Bureau’s publi -
+cations were part of an efort by the imperial government to encourage more elite men 
+to become physicians, an efort which the Bureau’s members and an increasing number 
+of literati supported (Boyanton 2015: 78–82; Goldschmidt 2008: 42–57; Hinrichs 2013: 
+99–117). Although the transformation of medicine into an elite occupation was still 
+incomplete during the Song, increasing numbers of literati became physicians, bringing 
+with them their assumptions about learning, reading, and writing. Previously, medical 
+authors did not so much cite other medical texts as excerpt from them. The medical 
+compendia of the Tang, for example, are compilations of treatment methods from a wide 
+range of earlier texts. Whole sections are excerpted, but they are not used to justify the 
+compiler’s assertions. They are simply presented as possible approaches to treatment. 
+Starting in the Song, however, medical authors cited texts as support for their own ar -
+guments. They drew on a far smaller range of texts – in particular the publications of the 
+Bureau – but they did so much more frequently. The Inner Classic  was no longer one of 
+a large group of important medical texts; it was now one of a smaller group of essential 
+128 
+===== PAGE 10 =====
+The canonicity
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+medical texts, reference to which was almost mandatory. The canon had narrowed, re -
+sulting in a more intense engagement with the texts that composed it. 
+Conclusion: canonicity as a historical process 
+In this chapter, I have shown that the nature of the authority claimed for the Inner Classic and 
+received varied greatly over the roughly 1,200 years discussed here. These diferences re -
+sulted primarily from changes in the technology of book production, the types of authority 
+available to supporters of the Inner Classic , and the varying assumptions they made about the 
+nature and use of books . The last two are inextricably tied to the changing social status of 
+medicine as an occupation. My fndings, therefore, largely parallel Richard Ohmann’s frst 
+three conclusions in his classic study of literary canon formation, namely: 
+(1) A canon – a shared understanding of what literature is worth preserving – takes shape 
+through a troubled historical process. (2) It emerges through specifc institutions and 
+practices, not in some historically invariant way. (3) These institutions are likely to have 
+a rather well-defned class base. 
+(Ohmann 1983: 219) 
+His fourth conclusion – that the ideology of the ruling class is reproduced in canon forma -
+tion by a subordinate class acting in its perceived self-interest – is, I think, also applicable 
+to the canonisation of the Inner Classic . However, limitations of space make it impossible to 
+demonstrate this point here. 
+Taken as a case study of canonisation, the example of the Inner Classic ofers several 
+further insights. First, the canonicity of long-lived canonical texts is not static. Changes 
+in social conditions, economic structures, cultural values, and technology all impact the 
+claims that can be made for a text and the types of authority it can be granted. If a text 
+remains important over a long period of time, these changes will inevitably be refected 
+in the way its canonicity is understood and even in the structure and physical form of the 
+text itself. Second, the history surveyed here suggests that such changes will tend to be 
+obscured by assertions that canonical texts possess eternal value and therefore unchanging 
+form. Third, although canonisation is a restrictive phenomenon that operates by means 
+of exclusion, it serves, somewhat counterintuitively, to enlarge the feld of discourse by 
+focusing discussion on a limited number of shared texts. This capacity of canonisation 
+becomes particularly powerful after the advent of printing and the development of a 
+thriving book market. 
+This chapter concludes with the Song dynasty because the medical canon formed by the 
+Bureau for Editing Medical Texts has remained the core of the Chinese medical canon from 
+that time up to today. This does not, however, indicate that either the canon or the canonic -
+ity of the Inner Classic has been static since that time. Research has shown that during the last 
+thousand years, other texts have risen to and fallen from prominence and the relative impor -
+tance of the texts within the canon has fuctuated greatly ( Chapter 9 in this volume; Hanson 
+2003; Leung 2003; Simonis 2015; Vigouroux 2015). The process of asserting, disputing, and 
+renegotiating the Inner Classic’s canonicity continues to this day. Far from indicating that its 
+canonical status is in jeopardy, this engagement with the text is precisely the proof of the 
+Inner Classic’s continuing signifcance for East Asian medicine. Canonicity is only fxed when 
+the texts involved are dead; the canonicity of a living text is always an ongoing process. 
+129 
+===== PAGE 11 =====
+Stephen Boyanton 
+   
+  
+     
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+   
+ 
+   
+      
+ 
+ 
+ 
+ 
+  
+ 
+ 
+Notes 
+1 The extant text, Classic of Difculties ( Nanjing 難經), is usually described as a commentary on the 
+Inner Classic . However, there is no clear relationship between it and any extant Inner Classic text, 
+and its history is very unclear (Keegan 1988: 31–3). For that reason, I have excluded it from con -
+sideration in this chapter. 
+2 Adding to the difculty of dating, this part of the preface is written as commentary in small charac -
+ters in the disputed K ōhei edition of the Treatise on Cold Damage (see Qian Chaochen 1993: 674–5). 
+Editor’s note: Suwen is often translated as ‘Simple Questions’, which readers can fnd elsewhere 
+in this volume. 
+3 Miranda Brown points out that the textual history of the Systematic Classic of Acumoxa casts some doubt 
+on the provenance of this preface; however, she concludes that the evidence available does not, so far, 
+justify rejecting Huangfu Mi’s authorship or disregarding the preface entirely (Brown 2015: 144–5). 
+4 The fact that this was seen as a necessary step in any serious study of a text in manuscript form is 
+attested by Chao Yuezhi’s (晁説之 , 1059–1129) complaint that the ubiquity of printed texts had 
+produced a generation of uncritical readers who didn’t verify a text’s accuracy by comparing it to 
+other copies (Hymes 2015: 562). 
+Bibliography 
+Pre-modern sources 
+Beiji qianjin yaofang 備急千金要方 (Essential Formulae worth a Thousand Gold in Emergencies) 652, 
+孫思邈 , Li Jingrong 李景榮 et al. (eds.) (1998) Beiji qianjin yaofang jiaoshi 備急千金要方校釋 (For-
+mulae Worth a Thousand Gold in Emergencies with Annotations), Beijing: Renmin weisheng 
+chubanshe. 
+Chongguang buzhu Huangdi neijing Suwen 重廣補註黃帝內經素問 (Yellow Emperor’s Inner Classic: 
+Inquiry into the Fundamental, Expanded with Additional Commentary) 1066, ( Gu Congde ben 顧
+從德本 1550), Chen Yongguo 陳勇國 (ed.) (1989), Taipei: Tianzi chubanshe. 
+Hanshu 漢書 (History of the Han) 92, Ban Gu 班固  (1987), Beijing: Zhonghua shuju. 
+Huangdi neijing Taisu 黃帝內經太素 (Yellow Emperor’s Inner Classic: Grand Fundamental) 7th cen -
+tury, Sago, Masami 左合昌美 (ed.) (2010) K
+ōtei daikei taiso shin k ōsei 黃帝內經太素新新校正 
+(Yellow Emperor’s Inner Classic: Grand Fundamental, Newly Annotated), 2nd edition, Tokyo: 
+Japanese Inner Classic Study Society. 
+Huangdi sanbu zhenjiu jiayi jing 黃帝三部針灸甲乙經 (Yellow Emperor’s Systematic Classic of Acumoxa 
+in Three Parts) 282, Huangfu Mi 皇 甫謐 , Xu Guoqian 徐國仟 and Zhang Canjia 張燦玾 (eds) 
+(1996) Zhenjiu jiayi jing jiaozhu 針灸甲乙經校注 (The Systematic Classic of Acumoxa, Edited with 
+Commentary), Beijing: Renmin weisheng chubanshe. 
+Jingfang xiaopin 經方小品 (A Short Essay on Classical Formulae) late 4th–early 5th century, Chen 
+Yanzhi 陳延之 , in Yan Shiyun 彥世芸 , Li Qizhong 李其忠 (eds) (2009) Sanguo liang Jin Nanbeichao 
+yixue zongji 三國兩晉南北朝醫學總集 (Medical Anthology for the Three Kingdoms, Two Jin, and 
+Northern and Southern Dynasties), Beijing: Renmin weisheng chubanshe, pp. 781–850. 
+Shanghan lun 傷寒論 (Treatise on Cold Damage) c. 206 [1065], Zhang Ji ( 張機 , ca 150–219), Zhang 
+Xinyong 張新勇 (ed.) (2010) Zhongjing quanshu zhi Shanghan lun, Jingui yaolüe fanglun 仲景全書之傷
+寒 論 、金 匱 要 略 方 論 (The Complete Works of Zhongjing, Editions of the Treatise on Cold Dam -
+age and Essentials of the Golden Cofer), Beijing: Zhongyi guji chubanshe. 
+Xinkan Huangdi neijing Lingshu 新刊黃帝內經靈樞 (Yellow Emperor’s Inner Classic: Numinous Pivot), 
+Lingshu (zuishanben) 靈樞 (最善本 ) (Numinous Pivot [Best Edition]), Unpublished ms, Japanese 
+Inner Classic Study Society. 
+Modern sources 
+Bates, D. (ed.) (1995) Knowledge and the Scholarly Medical Traditions , New York: Cambridge University 
+Press. 
+Bol, P. (1994) ‘This Culture of Ours’: intellectual transitions in T’ang and Sung China , Stanford, CA: Stan -
+ford University Press. 
+130 
+===== PAGE 12 =====
+The canonicity
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+   
+  
+  
+Boyanton, S. (2006) ‘Putting the Yellow Emperor in his place’, presented at the American Academy of 
+Religion, Annual Conference, San Diego. 
+——— (2015) The Treatise on Cold Damage and the Formation of Literati Medicine: social, epidemiological, 
+and medical change in China 1000–1400 , PhD thesis, Columbia University. 
+Brown, M. (2015) The Art of Medicine in Early China: the ancient and medieval origins of a modern archive , 
+New York: Cambridge University Press. 
+Chafee, J. and Twitchett, D. (eds) (2015) The Cambridge History of China, Vol. 5, Part 2: Sung China, 
+960–1279, New York: Cambridge University Press 
+De Weerdt, H. (1999) ‘Canon formation and examination culture: the construction of “guwen” and 
+“daoxue” canons’, Journal of Song-Yuan Studies , 29: 91–134. 
+Elman, B. (ed.) (2015) Antiquarianism, Language, and Medical Philology: from early modern to modern 
+Sino-Japanese medical discourses , Boston, MA: Brill. 
+Goldschmidt, A. (2008) The Evolution of Chinese Medicine: Song dynasty, 960–1200 , New York: 
+Routledge. 
+Hanson, M. (2003) ‘The “golden mirror” in the imperial court of the Qianlong emperor, 1739–1742’, 
+Early Science and Medicine , 8.2: 111–47. 
+Harper, D. (1997) Early Chinese Medical Literature , New York: Routledge. 
+——— (1999) ‘Physicians and diviners: the relation of divination to the medicine of the Huangdi neijing 
+(Inner Canon of the Yellow Thearch)’, Extrême-Orient Extrême-Occident , 21: 91–110. 
+Hinrichs, TJ (2013) ‘The Song and Jin periods’, in TJ Hinrichs and L.L. Barnes (eds) Chinese Medicine 
+and Healing: an illustrated history , Cambridge, MA: Harvard University Press , pp. 97–128. 
+Hinrichs, TJ and Barnes, L.L. (eds) (2013) Chinese Medicine and Healing: an illustrated history, Cambridge, 
+MA: Harvard University Press. 
+Hymes, R. (2015) ‘Sung society and social change’, in J. Chafee and D. Twitchett (eds) The Cambridge 
+History of China, Vol. 5, Part 2: Sung China, 960–1279 , New York: Cambridge University Press, 
+pp. 526–664. 
+Jochim, C. (1990) ‘Flowers, fruit, and incense only: elite versus popular in Taiwan’s religion of the 
+Yellow Emperor’, Modern China, 16: 3–38. 
+Keegan, D.J. (1988) The ‘Huang-Ti Nei-Ching’: the structure of the compilation; the signifcance of the structure, 
+PhD thesis, University of California, Berkeley. 
+LeBlanc, C. (1985) ‘A re-examination of the myth of Huang-ti’, Journal of Chinese Religions, 13: 45–63. 
+Leibold, J. (2006) ‘Competing narratives of racial unity in Republican China: from the Yellow Em -
+peror to Peking Man’, Modern China, 32: 181–220. 
+Leung, A.K.C. (2003) ‘Medical instruction and popularization in Ming-Qing China’, Late Imperial 
+China, 24: 130–52. 
+Loewe, M. (ed.) (1993) Early Chinese Texts: a bibliographical guide , Society for the Study of Early China 
+and the Institute of East Asian Studies, Berkeley: University of California. 
+Marsili, F. (2003) ‘The myth of Huangdi , the ding vases, and the quest for immortality in the Shiji : 
+some aspects of Sima Qian’s “Laicism”’, Rivista degli Studi Orientalivol, 77: 135–68. 
+Miyashita, Sabur ō 宮下三郎 (1967) ‘Sō Gen no iry ō 宋元の医療 (Song-Yuan Medicine)’, in Yabuuchi, 
+Kiyoshi 藪內清 (ed.), Sō Gen jidai no kagaku gijutsushi 宋元時代の科学技術史 (History of Science 
+and Technology in the Song-Yuan Era), Ky ōto: Ky ōto Daigaku Jinbun Kagaku Kenky ūjo, pp. 
+123–70. 
+Nylan, M. (2000) ‘Textual authority in Pre-Han and Han’, Early China, 25: 205–56. 
+Ohmann, R. (1983) ‘The shaping of a canon: U.S. fction, 1960–1975’, Critical Inquiry , 10: 199–223. 
+Okanishi, Tameto 岡西為人 (2010) Sō izen iseki kō 宋以前醫籍考 (Investigation of Medical Texts from 
+the Song and Earlier), Beijing: Xueyuan chubanshe. 
+Peerenboom, R.P. (1993) Law and Morality in Ancient China: the silk manuscripts of Huang-Lao , Albany: 
+State University of New York Press. 
+Qian Chaochen 錢超尘  (1993) Shanghan lun wenxian tongkao 傷寒論文獻通考 (Bibliographic Investi -
+gation of the Treatise on Cold Damage ), Beijing: Xueyuan chubanshe. 
+Shinno, R. (2007) ‘Medical schools and the temples for the three progenitors in Yuan China: a case of 
+cross-cultural interactions’, Harvard Journal of Asiatic Studies , 67: 89–133. 
+Simonis, F. (2015) ‘Illness, texts, and “schools” in Danxi medicine: a new look at Chinese medical 
+history from 1320 to 1800’, in B. Elman (ed.) Antiquarianism, Language, and Medical Philology: from 
+early modern to modern Sino-Japanese medical discourses , Boston, MA: Brill, pp. 52 –80. 
+131 
+===== PAGE 13 =====
+Stephen Boyanton 
+ 
+    
+ 
+ 
+Sivin, N. (1993) ‘Huang-ti nei-ching 黃帝內經 ’, in M. Loewe (ed.) Early Chinese Texts: a bibliographical 
+guide, Society for the Study of Early China and the Institute of East Asian Studies, Berkeley: Uni -
+versity of California, pp. 196–215. 
+——— (1995a) ‘Text and experience in classical Chinese medicine’, in D. Bates (ed.) Knowledge and the 
+Scholarly Medical Traditions , New York: Cambridge University Press, pp. 177–205. 
+——— (1995b) ‘State, cosmos, and body in the last three centuries B.C.’, Harvard Journal of Asiatic 
+Studies, 55: 5–37. 
+Unschuld, P.U. (2003) Huang Di nei jing su wen: nature, knowledge, imagery in an ancient Chinese medical 
+text, Berkeley: University of California Press. 
+Vigouroux, M. (2015) ‘The reception of the circulation channels theory in Japan (1500–1800)’, in B. 
+Elman (ed.) Antiquarianism, Language, and Medical Philology: from early modern to modern Sino-Japanese 
+medical discourses , Boston, MA: Brill, pp. 105 –32. 
+Yabuuchi, Kiyoshi 藪內清 (ed.) (1967) Sō Gen jidai no kagaku gijutsushi 宋元時代の科学技術史 (His-
+tory of Science and Technology in the Song-Yuan Era), Ky ōto: Kyōto Daigaku Jinbun Kagaku 
+Kenky ūjo. 
+Yamada, Keiji (1979) ‘The formation of the Huang-ti nei-ching ’, Acta Asiatica , 36: 67–89. 
+Yan Shiyun 彥世芸 and Li Qizhong 李其忠 (eds) (2009) Sanguo Liangjin Nanbeichao yixue zongji 三國
+兩晉南北朝醫學總集 (Medical Anthology for the Three Kingdoms, Two Jin, and Northern and 
+Southern Dynasties), Beijing: Renmin weisheng chubanshe. 
+Yates, R. (trans.) (1997) Five Lost Classics: Tao, Huanglao, and Yin-Yang in Han China , New York: Bal-
+lantine Books. 
+132 

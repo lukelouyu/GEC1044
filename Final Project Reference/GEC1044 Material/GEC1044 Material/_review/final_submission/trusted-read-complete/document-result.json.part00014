@@ -1,0 +1,345 @@
+         }
+                  },
+                  {
+                    "startIndex": 16061,
+                    "endIndex": 16077,
+                    "textRun": {
+                      "content": "American ginseng",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/american-ginseng"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16077,
+                    "endIndex": 16113,
+                    "textRun": {
+                      "content": ". Chinese Herbal Medicine Database.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 16113,
+              "endIndex": 16220,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16113,
+                    "endIndex": 16161,
+                    "textRun": {
+                      "content": "The Hong Kong Polytechnic University. (n.d.-b). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16161,
+                    "endIndex": 16184,
+                    "textRun": {
+                      "content": "Barbary wolfberry fruit",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/barbary-wolfberry-fruit"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16184,
+                    "endIndex": 16220,
+                    "textRun": {
+                      "content": ". Chinese Herbal Medicine Database.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 16220,
+              "endIndex": 16326,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16220,
+                    "endIndex": 16268,
+                    "textRun": {
+                      "content": "The Hong Kong Polytechnic University. (n.d.-c). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16268,
+                    "endIndex": 16290,
+                    "textRun": {
+                      "content": "Barbated skullcup herb",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/barbated-skullcup-herb"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16290,
+                    "endIndex": 16326,
+                    "textRun": {
+                      "content": ". Chinese Herbal Medicine Database.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 16326,
+              "endIndex": 16422,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16326,
+                    "endIndex": 16374,
+                    "textRun": {
+                      "content": "The Hong Kong Polytechnic University. (n.d.-d). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16374,
+                    "endIndex": 16386,
+                    "textRun": {
+                      "content": "Chinese date",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-date"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16386,
+                    "endIndex": 16422,
+                    "textRun": {
+                      "content": ". Chinese Herbal Medicine Database.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 16422,
+              "endIndex": 16527,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16422,
+                    "endIndex": 16470,
+                    "textRun": {
+                      "content": "The Hong Kong Polytechnic University. (n.d.-e). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16470,
+                    "endIndex": 16491,
+                    "textRun": {
+                      "content": "Chinese thorowax root",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+             

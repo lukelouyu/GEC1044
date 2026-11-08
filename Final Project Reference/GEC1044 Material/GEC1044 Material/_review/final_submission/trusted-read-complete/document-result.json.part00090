@@ -1,0 +1,259 @@
+                      },
+                                {
+                                  "startIndex": 26958,
+                                  "endIndex": 26959,
+                                  "textRun": {
+                                    "content": "\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 26959,
+                            "endIndex": 26985,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 26959,
+                                  "endIndex": 26985,
+                                  "textRun": {
+                                    "content": "大补方\u000bStrong tonic formulas\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 26985,
+                        "endIndex": 27513,
+                        "content": [
+                          {
+                            "startIndex": 26986,
+                            "endIndex": 27513,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 26986,
+                                  "endIndex": 27424,
+                                  "textRun": {
+                                    "content": "Intended for more intensive replenishment when an assessed deficiency calls for it; the ingredients and preparation depend on the chosen formula. Staff linked lower appeal to Singapore's hot, humid climate and a preference for lighter qing bu (清补) options. This is a retail interpretation, rather than evidence that every strong tonic is unsuitable locally. Unlike a general food tonic, a medicinal tonic needs selection according to the ",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "startIndex": 27424,
+                                  "endIndex": 27459,
+                                  "textRun": {
+                                    "content": "person's constitution and condition",
+                                    "textStyle": {
+                                      "underline": true,
+                                      "foregroundColor": {
+                                        "color": {
+                                          "rgbColor": {
+                                            "red": 0.06666667,
+                                            "green": 0.33333334,
+                                            "blue": 0.8
+                                          }
+                                        }
+                                      },
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      },
+                                      "link": {
+                                        "url": "https://www.cmro.gov.hk/html/eng/useful_information/public_health/pamphlet/General_Knowledge_of_Taking_Chinese_Medicines.html"
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "startIndex": 27459,
+                                  "endIndex": 27513,
+                                  "textRun": {
+                                    "content": ", adding decisions about suitability and preparation.\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+     

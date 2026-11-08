@@ -1,0 +1,327 @@
+late these ideas into household practice: the shop selects and portions the materials, while buyers still cook the soup at home.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 4732,
+                    "endIndex": 4733,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 4733,
+              "endIndex": 5144,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 4733,
+                    "endIndex": 5144,
+                    "textRun": {
+                      "content": "Several soups, especially Five Finger Fig, emphasise Spleen/digestive support. The TCM Spleen refers to a broader functional system, rather than the anatomical organ (WHO, 2022). However, the labels also describe moistening and general nourishment, so the range should not be reduced to one organ system. Their differing purposes show how similar cooking formats can communicate distinct traditional-use ideas.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 5144,
+              "endIndex": 5198,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 5144,
+                    "endIndex": 5198,
+                    "textRun": {
+                      "content": "3.3 Singapore weather and the appeal of lighter soups\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.tkm4khug00rg",
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true,
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 5198,
+              "endIndex": 5596,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 5198,
+                    "endIndex": 5595,
+                    "textRun": {
+                      "content": "Staff described monk fruit and lighter soups as popular, linking this perceived demand to Singapore’s environment. Meteorological Service Singapore describes high temperatures, heavy rainfall and humidity throughout the year, with monsoon and inter-monsoon periods (Meteorological Service Singapore [MSS], n.d.). This differs from the four temperate seasons underlying classical seasonal guidance.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 5595,
+                    "endIndex": 5596,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 5596,
+              "endIndex": 6250,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 5596,
+                    "endIndex": 6250,
+                    "textRun": {
+                      "content": "The Suwen links health maintenance to adapting to seasonal cycles (Unschuld & Tessenow, 2011, pp. 45–57). In that framework, Yu Zhu is associated with autumn dryness (qiu zao / 秋燥): it nourishes Yin, moistens dryness and generates fluids, particularly for Lung and Stomach Yin. Singapore has no equivalent four-season cycle, so the shop’s explanations apply these ideas through local conditions. Yu Zhu appears in the recorded Yu Zhu–Huai Shan soup, which staff described through gentle moistening and fluid replenishment. This illustrates a change in the language and setting of use, without establishing that climate determines individual suitability.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 6250,
+              "endIndex": 6253,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6250,
+                    "endIndex": 6251,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.6g44dukdnhug",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6251,
+                    "endIndex": 6252,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.mdopn387j5ro",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6252,
+                    "endIndex": 6253,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 3,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 6253,
+              "endIndex": 6303,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6253,
+                    "endIndex": 6303,
+                    "textRun": {
+                      "content": "4 Convenience and changing ways of using products\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 6303,
+              "endIndex": 6345,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6303,
+                    "endIndex": 6345,
+                    "textRun": {
+                      "con

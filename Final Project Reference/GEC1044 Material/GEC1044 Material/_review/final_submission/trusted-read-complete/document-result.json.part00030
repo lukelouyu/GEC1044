@@ -1,0 +1,282 @@
+PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 1,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 20390,
+                        "endIndex": 20411,
+                        "content": [
+                          {
+                            "startIndex": 20391,
+                            "endIndex": 20411,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 20391,
+                                  "endIndex": 20411,
+                                  "textRun": {
+                                    "content": "Heart, Lung, Kidney\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "keepLinesTogether": true,
+                                "keepWithNext": false,
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 1,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 1,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 20411,
+                        "endIndex": 20474,
+                        "content": [
+                          {
+                            "startIndex": 20412,
+                            "endIndex": 20474,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 20412,
+                                  "endIndex": 20474,
+                                  "textRun": {
+                                    "content": "Tonifies Qi and nourishes Yin; clears heat; generates fluids.\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "keepLinesTogether": true,
+                                "keepWithNext": false,
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 1,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 1,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 20474,
+                        "endIndex": 20555,
+                        "content": [
+                          {
+                            "startIndex": 20475,
+                            "endIndex": 20555,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 20475,
+                                  "endIndex": 20555,
+                                  "textRun": {
+                                    "content": "Fatigue, dry mouth, thirst and cough in Qi–Yin deficiency with deficiency heat.\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "m

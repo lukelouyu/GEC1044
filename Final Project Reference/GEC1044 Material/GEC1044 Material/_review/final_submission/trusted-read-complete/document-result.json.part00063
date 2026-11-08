@@ -1,0 +1,280 @@
+                         "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 23471,
+                        "endIndex": 23484,
+                        "content": [
+                          {
+                            "startIndex": 23472,
+                            "endIndex": 23484,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 23472,
+                                  "endIndex": 23484,
+                                  "textRun": {
+                                    "content": "Application\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "backgroundColor": {
+                            "color": {
+                              "rgbColor": {
+                                "red": 0.91764706,
+                                "green": 0.91764706,
+                                "blue": 0.91764706
+                              }
+                            }
+                          },
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      }
+                    ],
+                    "tableRowStyle": {
+                      "minRowHeight": {
+                        "unit": "PT"
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 23484,
+                    "endIndex": 23784,
+                    "tableCells": [
+                      {
+                        "startIndex": 23485,
+                        "endIndex": 23510,
+                        "content": [
+                          {
+                            "startIndex": 23486,
+                            "endIndex": 23488,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 23486,
+                                  "endIndex": 23487,
+                                  "inlineObjectElement": {
+                                    "inlineObjectId": "kix.wfyeix3uokbf",
+                                    "textStyle": {}
+                                  }
+                                },
+                                {
+                                  "startIndex": 23487,
+                                  "endIndex": 23488,
+                                  "textRun": {
+                                    "content": "\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 23488,
+                            "endIndex": 23503,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 23488,
+                                  "endIndex": 23503,
+                                  "textRun": {
+                                    "content": "Ginseng tonics\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 23503,
+                            "endIndex": 23510,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 23503,
+                                  "endIndex": 23510,
+                                  "textRun": {
+                                    "content": "人参／西洋参\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                     

@@ -1,0 +1,384 @@
+ontrols": []
+    },
+    {
+      "paragraphId": "P00312",
+      "path": "tabs.t.0.body.content[142].table.rows[1].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 27701,
+      "endIndex": 27712,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "text": "Cactus 仙人掌",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00313",
+      "path": "tabs.t.0.body.content[142].table.rows[1].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 27713,
+      "endIndex": 27864,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 1,
+        "columnIndex": 1
+      },
+      "text": "Reference cactus Opuntia cochenillifera is native to Mexico/Central America. The interview did not identify the shop’s cactus species or stock origin.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00314",
+      "path": "tabs.t.0.body.content[142].table.rows[1].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 27865,
+      "endIndex": 28010,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 1,
+        "columnIndex": 2
+      },
+      "text": "Raw-plant example: the local link is cultivation, rather than manufacture of a finished medicine. No finished cactus preparation was identified.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00315",
+      "path": "tabs.t.0.body.content[142].table.rows[1].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28011,
+      "endIndex": 28165,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 1,
+        "columnIndex": 3
+      },
+      "text": "[NParks](https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2281) describes propagation from stem pads and use of the stems raw or cooked. This botanical example does not identify a commercial producer or packer.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00316",
+      "path": "tabs.t.0.body.content[142].table.rows[2].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28167,
+      "endIndex": 28169,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.kfs8mqjgmkhf]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00317",
+      "path": "tabs.t.0.body.content[142].table.rows[2].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28169,
+      "endIndex": 28181,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "Roselle 洛神花",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00318",
+      "path": "tabs.t.0.body.content[142].table.rows[2].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28182,
+      "endIndex": 28306,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 2,
+        "columnIndex": 1
+      },
+      "text": "Roselle (Hibiscus sabdariffa) is native to parts of Africa. The interview did not identify the shop’s roselle stock origin.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00319",
+      "path": "tabs.t.0.body.content[142].table.rows[2].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28307,
+      "endIndex": 28457,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 2,
+        "columnIndex": 2
+      },
+      "text": "Raw-plant example: local cultivation is documented by [NParks](https://www.nparks.gov.sg/florafaunaweb/flora/2/0/2096). This does not establish Singapore manufacture of a particular packaged roselle product.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00320",
+      "path": "tabs.t.0.body.content[142].table.rows[2].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28458,
+      "endIndex": 28584,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 2,
+        "columnIndex": 3
+      },
+      "text": "Fresh or dried calyces can be steeped to make beverages. No commercial roselle brand or processor was named in the interview.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00321",
+      "path": "tabs.t.0.body.content[142].table.rows[3].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28586,
+      "endIndex": 28588,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.nl2vnqg6jnb5]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00322",
+      "path": "tabs.t.0.body.content[142].table.rows[3].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28588,
+      "endIndex": 28616,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "Mind Soothe Capsules\u000b舒肝解郁胶囊",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00323",
+      "path": "tabs.t.0.body.content[142].table.rows[3].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28617,
+      "endIndex": 28789,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "[Tong Jum Chew](https://tongjumchew.com/product/natures-green-mind-soothe-capsules-60s/) lists 16 ingredients, including bupleurum root, lily bulb and jujube. Their source countries and Singapore cultivation are not disclosed on the product page.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00324",
+      "path": "tabs.t.0.body.content[142].table.rows[3].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28790,
+      "endIndex": 28887,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "text": "HSA lists Tong Jum Chew as manufacturer and Singapore as the manufacturing country (HSA, 2025b).",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00325",
+      "path": "tabs.t.0.body.content[142].table.rows[3].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28888,
+      "endIndex": 28963,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 3,
+        "columnIndex": 3
+      },
+      "text": "Nature’s Green is the brand of this finished Chinese Proprietary Medicine.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00326",
+      "path": "tabs.t.0.body.content[142].table.rows[4].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28965,
+      "endIndex": 28967,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.k9rlao8vz4g]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00327",
+      "path": "tabs.t.0.body.content[142].table.rows[4].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28967,
+      "endIndex": 28983,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "Five Flower Tea",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00328",
+      "path": "tabs.t.0.body.content[142].table.rows[4].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28983,
+      "endIndex": 28987,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "五花茶",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00329",
+      "path": "tabs.t.0.body.content[142].table.rows[4].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 28988,
+      "endIndex": 29161,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "The reference blend contains frangipani, capillary wormwood, kapok, sophora flower, chrysanthemum and honeysuckle. [Wing Joo Loong](https://www.wjl.com.sg/products/wing-joo-loong-lung-soothing-summer-tea) does not disclose their growing countries.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00330",
+      "path": "tabs.t.0.body.content[142].table.rows[4].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 29162,
+      "endIndex": 29328,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 27575,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "text": "[Wing Joo Loong](https://www.wjl.com.sg/products/wing-joo-loong-lung-soothing-summer-tea) labels the reference tea “Product of Singapore” and “Packed in Singapore”. Local packing is documented; ingredient cultivation is a separate question.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": 

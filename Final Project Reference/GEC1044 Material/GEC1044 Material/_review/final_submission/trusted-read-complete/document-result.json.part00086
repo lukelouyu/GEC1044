@@ -1,0 +1,313 @@
+                  {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 82.5,
+                        "unit": "PT"
+                      }
+                    },
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 82.5,
+                        "unit": "PT"
+                      }
+                    },
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 80.25,
+                        "unit": "PT"
+                      }
+                    },
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 142.5,
+                        "unit": "PT"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "startIndex": 25548,
+              "endIndex": 25785,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 25548,
+                    "endIndex": 25785,
+                    "textRun": {
+                      "content": "Sources (text): staff interview; The Hong Kong Polytechnic University (n.d.-a, n.d.-e, n.d.-f, n.d.-g, n.d.-h, n.d.-i, n.d.-j, n.d.-l, n.d.-n); Fei Fah (n.d.). Herb profiles describe reference ingredients, not complete product formulas.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 4,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 25785,
+              "endIndex": 25855,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 25785,
+                    "endIndex": 25855,
+                    "textRun": {
+                      "content": "Table A4 Three comparatively lower-demand examples with illustrations\n",
+                      "textStyle": {
+                        "bold": true
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true,
+                  "pageBreakBefore": true
+                }
+              }
+            },
+            {
+              "startIndex": 25855,
+              "endIndex": 25856,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 25855,
+                    "endIndex": 25856,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "keepWithNext": true,
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 25856,
+              "endIndex": 27514,
+              "table": {
+                "rows": 4,
+                "columns": 2,
+                "tableRows": [
+                  {
+                    "startIndex": 25857,
+                    "endIndex": 25892,
+                    "tableCells": [
+                      {
+                        "startIndex": 25858,
+                        "endIndex": 25879,
+                        "content": [
+                          {
+                            "startIndex": 25859,
+                            "endIndex": 25879,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 25859,
+                                  "endIndex": 25879,
+                                  "textRun": {
+                                    "content": "Product or category\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "backgroundColor": {
+                            "color": {
+                              "rgbColor": {
+                                "red": 0.91764706,
+                                "green": 0.91764706,
+                                "blue": 0.91764706
+                              }
+                            }
+                          },
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 25879,
+                        "endIndex": 25892,
+                        "content": [
+                          {
+                            "startIndex": 25880,
+                            "endIndex": 25892,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 25880,
+                                  "endIndex": 25892,
+                                  "textRun": {
+                                    "content": "Application\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                          

@@ -1,0 +1,441 @@
+{
+  "version": 1,
+  "kind": "google-docs-trusted-read-context",
+  "target": {
+    "documentId": "1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "title": "GEC1044 Field Trip Report",
+    "revisionId": "AHj4eMRYAyIutohCJ5nDMbN_iffIm6io-8RQvxO5GU0mpf1aUQEUqY7XC88CvLQINRGW0oxpHUW7_xu9RD01j7qr-k--IKN77wysEgr72Q",
+    "documentUrl": "https://docs.google.com/document/d/1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "derivedControlInventory": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "nativeElementCounts": {
+      "inlineObjectElement": 48
+    },
+    "tabsScanned": [
+      "t.0"
+    ],
+    "controls": [],
+    "nativeElements": [
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 48,
+        "endIndex": 49,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[2]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 48,
+          "endIndex": 50,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.o0vxtcbeml3e",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 2331,
+        "endIndex": 2332,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[28]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 2331,
+          "endIndex": 2334,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.76qzu6jlbbws",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 2332,
+        "endIndex": 2333,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[28]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 2331,
+          "endIndex": 2334,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.ug9vxj32widv",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 3233,
+        "endIndex": 3234,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[32]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 3233,
+          "endIndex": 3236,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.8vvmv1f80ppz",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 3234,
+        "endIndex": 3235,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[32]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 3233,
+          "endIndex": 3236,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.pons4fnu5h03",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 6250,
+        "endIndex": 6251,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[43]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 6250,
+          "endIndex": 6253,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.6g44dukdnhug",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 6251,
+        "endIndex": 6252,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[43]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 6250,
+          "endIndex": 6253,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.mdopn387j5ro",
+          "textStyle": {
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 11445,
+        "endIndex": 11446,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[60]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 11445,
+          "endIndex": 11450,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.c359rnuto9ey",
+          "textStyle": {
+            "italic": true,
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 11448,
+        "endIndex": 11449,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[60]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 11445,
+          "endIndex": 11450,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": null
+        },
+        "properties": {
+          "inlineObjectId": "kix.8uejwrks5qo0",
+          "textStyle": {
+            "italic": true,
+            "fontSize": {
+              "magnitude": 11,
+              "unit": "PT"
+            }
+          }
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 20039,
+        "endIndex": 20040,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[1].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 20039,
+          "endIndex": 20041,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 1,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.xb4jwurmcgvg",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 20317,
+        "endIndex": 20318,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[2].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 20317,
+          "endIndex": 20319,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 2,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.d7iltcybc47e",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 20557,
+        "endIndex": 20558,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[3].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 20557,
+          "endIndex": 20559,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 3,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.qrijre8rs8vf",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 20774,
+        "endIndex": 20775,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[4].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 20774,
+          "endIndex": 20776,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 4,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.z3laky9thc1l",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 21041,
+        "endIndex": 21042,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[5].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 21041,
+          "endIndex": 21043,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 5,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.w74mgl1kovml",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 21264,
+        "endIndex": 21265,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[128].table.rows[6].cells[0].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 21264,
+          "endIndex": 21266,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 19978,
+            "rowIndex": 6,
+            "columnIndex": 0
+          }
+        },
+        "properties": {
+ 

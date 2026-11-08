@@ -1,0 +1,59 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03",
+  "target": {
+    "documentId": "1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "title": "GEC1044 Tong Keow Fieldwork Report Revised",
+    "revisionId": "AHj4eMSGfz8kZvXro5kkcacfG07VjhsZf454rOSaiHKMM1_7u5G9TlYZijomGQBdK5lO2FUQdmsBH_hWrFIg9GzjCGuS8PvSiuubItuR-w",
+    "documentUrl": "https://docs.google.com/document/d/1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "inlineObjectElement": 36
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03/document-result.json",
+      "bytes": 2061506,
+      "sha256": "2f37b64da288cefb3041c66a2f1082774a7b66b327c70ea8777867e4c9e1731f"
+    },
+    "control_inventory": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03/control-inventory.json",
+      "bytes": 40162,
+      "sha256": "a46d50a442514f78d5294603aa7387880c9c57b8fe81d08df524b440c4e1fe0b"
+    },
+    "document_outline": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03/document-outline.json",
+      "bytes": 253066,
+      "sha256": "77a2a35197c19db8ca943ccf43f2d6376e8eb25a8c1dc34b991dd40196af25b3"
+    },
+    "document_text": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03/document-text.md",
+      "bytes": 65819,
+      "sha256": "5f3d6f481d05aab1ed785c66fc62facdced57060609e801716bf40f103e8a2a5"
+    },
+    "receipt": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/trusted-review-03/receipt.json",
+      "bytes": 1015,
+      "sha256": "49ef9c139ae548f36972132e388b799a0e700aae1baa7a017ef52739e9e32074"
+    }
+  },
+  "error": null
+}

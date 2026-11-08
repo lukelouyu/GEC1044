@@ -1,0 +1,266 @@
+fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "CENTER",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 3,
+                                  "unit": "PT"
+                                },
+                                "keepWithNext": true,
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          },
+                          {
+                            "startIndex": 30136,
+                            "endIndex": 30159,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 30136,
+                                  "endIndex": 30159,
+                                  "textRun": {
+                                    "content": "Yin Qiao type remedies\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "CENTER",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "keepWithNext": false,
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderBottom": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "paddingLeft": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingRight": {
+                            "magnitude": 4.5,
+                            "unit": "PT"
+                          },
+                          "paddingTop": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "paddingBottom": {
+                            "magnitude": 4.75,
+                            "unit": "PT"
+                          },
+                          "contentAlignment": "MIDDLE"
+                        }
+                      },
+                      {
+                        "startIndex": 30159,
+                        "endIndex": 30532,
+                        "content": [
+                          {
+                            "startIndex": 30160,
+                            "endIndex": 30532,
+                            "paragraph": {
+                              "elements": [
+                                {
+                                  "startIndex": 30160,
+                                  "endIndex": 30315,
+                                  "textRun": {
+                                    "content": "Mei Hua Yin Qiao contains honeysuckle, forsythia, platycodon, mint, lophatherum, licorice, schizonepeta, prepared soybean, burdock fruit and reed rhizome. ",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "startIndex": 30315,
+                                  "endIndex": 30327,
+                                  "textRun": {
+                                    "content": "Science Arts",
+                                    "textStyle": {
+                                      "underline": true,
+                                      "foregroundColor": {
+                                        "color": {
+                                          "rgbColor": {
+                                            "red": 0.06666667,
+                                            "green": 0.33333334,
+                                            "blue": 0.8
+                                          }
+                                        }
+                                      },
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      },
+                                      "link": {
+                                        "url": "https://www.sciencearts.com/shop/yin-qiao-capsules-30-s"
+                                      }
+                                    }
+                                  }
+                                },
+                                {
+                                  "startIndex": 30327,
+                                  "endIndex": 30532,
+                                  "textRun": {
+                                    "content": " describes a heat-related presentation involving fever, sore throat and thirst, with tongue and pulse features also listed. These are reference descriptors for comparison with the broad complaint “colds”.\n",
+                                    "textStyle": {
+                                      "fontSize": {
+                                        "magnitude": 11,
+                                        "unit": "PT"
+                                      }
+                                    }
+                                  }
+                                }
+                              ],
+                              "paragraphStyle": {
+                                "namedStyleType": "NORMAL_TEXT",
+                                "alignment": "START",
+                                "lineSpacing": 115,
+                                "direction": "LEFT_TO_RIGHT",
+                                "spaceAbove": {
+                                  "unit": "PT"
+                                },
+                                "spaceBelow": {
+                                  "magnitude": 4,
+                                  "unit": "PT"
+                                },
+                                "keepWithNext": false,
+                                "avoidWidowAndOrphan": true
+                              }
+                            }
+                          }
+                        ],
+                        "tableCellStyle": {
+                          "rowSpan": 1,
+                          "columnSpan": 1,
+                          "borderLeft": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderRight": {
+                            "color": {
+                              "color": {
+                                "rgbColor": {
+                                  "red": 0.8509804,
+                                  "green": 0.8509804,
+                                  "blue": 0.8509804
+                                }
+                              }
+                            },
+                            "width": {
+                              "magnitude": 0.5,
+                              "unit": "PT"
+                            },
+                            "dashStyle": "SOLID"
+                          },
+                          "borderTop": {
+                            "color": {
+                   

@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 436,
+    "BrandName": "NATURE'S GREEN(绿叶)",
+    "ProductName": "MIND SOOTHE CAPSULES(舒肝解郁胶囊)",
+    "DosageForm": "Capsules",
+    "CompanyName": "TONG JUM CHEW PTE LTD",
+    "Manufacturer": "TONG JUM CHEW PTE LTD",
+    "CountryofManufacturer": "SINGAPORE"
+  },
+  {
+    "_id": 2460,
+    "BrandName": "NATURE'S GREEN(绿叶)",
+    "ProductName": "MIND SOOTHE GRANULES(舒肝解郁颗粒)",
+    "DosageForm": "Granules (Internal Use)",
+    "CompanyName": "TONG JUM CHEW PTE LTD",
+    "Manufacturer": "TONG JUM CHEW PTE LTD",
+    "CountryofManufacturer": "SINGAPORE"
+  }
+]

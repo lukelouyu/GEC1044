@@ -1,0 +1,425 @@
+d": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20041,
+      "endIndex": 20053,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "text": "人参 Ren Shen",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00146",
+      "path": "tabs.t.0.body.content[128].table.rows[1].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20053,
+      "endIndex": 20068,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "text": "[Ginseng (root)](https://herbaltcm.sn.polyu.edu.hk/herbal/ginseng)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00147",
+      "path": "tabs.t.0.body.content[128].table.rows[1].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20069,
+      "endIndex": 20101,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 1
+      },
+      "text": "Sweet, slightly bitter; neutral",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00148",
+      "path": "tabs.t.0.body.content[128].table.rows[1].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20102,
+      "endIndex": 20122,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 2
+      },
+      "text": "Heart, Spleen, Lung",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00149",
+      "path": "tabs.t.0.body.content[128].table.rows[1].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20123,
+      "endIndex": 20216,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 3
+      },
+      "text": "Strongly tonifies original Qi; supports Spleen and Lung; generates fluids; calms the spirit.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00150",
+      "path": "tabs.t.0.body.content[128].table.rows[1].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20217,
+      "endIndex": 20315,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 1,
+        "columnIndex": 4
+      },
+      "text": "Poor appetite, fatigue and breathlessness in Qi-deficiency patterns; thirst from fluid depletion.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00151",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20317,
+      "endIndex": 20319,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.d7iltcybc47e]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00152",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20319,
+      "endIndex": 20336,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "西洋参 Xi Yang Shen",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00153",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20336,
+      "endIndex": 20360,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "[American ginseng (root)](https://herbaltcm.sn.polyu.edu.hk/herbal/american-ginseng)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00154",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20361,
+      "endIndex": 20390,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 1
+      },
+      "text": "Sweet, slightly bitter; cool",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00155",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20391,
+      "endIndex": 20411,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 2
+      },
+      "text": "Heart, Lung, Kidney",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00156",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20412,
+      "endIndex": 20474,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 3
+      },
+      "text": "Tonifies Qi and nourishes Yin; clears heat; generates fluids.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00157",
+      "path": "tabs.t.0.body.content[128].table.rows[2].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20475,
+      "endIndex": 20555,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 2,
+        "columnIndex": 4
+      },
+      "text": "Fatigue, dry mouth, thirst and cough in Qi–Yin deficiency with deficiency heat.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00158",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20557,
+      "endIndex": 20559,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.qrijre8rs8vf]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00159",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20559,
+      "endIndex": 20572,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "党参 Dang Shen",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00160",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20572,
+      "endIndex": 20590,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "[Codonopsis (root)](https://herbaltcm.sn.polyu.edu.hk/herbal/tangshen)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00161",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20591,
+      "endIndex": 20606,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "Sweet; neutral",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00162",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20607,
+      "endIndex": 20620,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "text": "Spleen, Lung",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00163",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20621,
+      "endIndex": 20680,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 3
+      },
+      "text": "Tonifies middle Qi; strengthens Spleen and Lung functions.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00164",
+      "path": "tabs.t.0.body.content[128].table.rows[3].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20681,
+      "endIndex": 20772,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 3,
+        "columnIndex": 4
+      },
+      "text": "Poor appetite, loose stools, fatigue and shortness of breath in Spleen–Lung Qi deficiency.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00165",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20774,
+      "endIndex": 20776,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.z3laky9thc1l]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00166",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20776,
+      "endIndex":

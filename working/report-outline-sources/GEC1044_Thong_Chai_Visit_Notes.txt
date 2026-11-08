@@ -1,0 +1,392 @@
+
+--- PAGE 1 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+1
+GEC1044 / FIELD VISIT NOTES
+1. Thong Chai: the essentials
+Singapore Thong Chai Medical Institution 新加坡同济医院 | Notes from the supplied
+slide photographs and partial transcript
+Main takeaway: The visit presented TCM (中医) as an individualised system of assessment
+and treatment (辨证论治), delivered here through a charitable institution committed to
+accessible care.
+Institution and community role
+Key point
+What the speaker reported
+History
+Established in 1867, with more than 150 years of history.
+Founding principle
+Free medical consultation and TCM treatment for the public, regardless of race,
+religion or nationality.
+Mission and vision
+Promote TCM, provide free consultation, treat people equally and give back to the
+community; aspire to be a leading charitable TCM provider in the region.
+Scale of service
+More than 1,300 patients daily across its clinics, according to the briefing. This is
+a visit-time statement, not an independently checked current statistic.
+Clinic network
+The speaker mentioned a main institution and four community clinics. Place names
+in the automated transcript are unclear and are not reproduced here as confirmed
+facts.
+What the session covered
+Assessment: the four diagnostic methods (四诊) - inspection (望诊); listening and smelling
+(闻诊); inquiry (问诊); and palpation (切诊). Tongue inspection and pulse taking were the main
+demonstrations.
+Medicines: how Chinese medicinal materials are classified, and examples including Danggui,
+Huangqi, Duzhong, Meiguihua and Chantui.
+Treatments: acupuncture sensations, selected acupoints and cupping methods. These later
+topics are documented mainly by photographs.
+Central principle: individualised treatment
+At about 34:20-35:20, the speaker explained that people with the same disease may show
+different symptoms and receive different treatments. The key idea is to assess the individual
+pattern rather than assume that one diagnosis always leads to one prescription.
+Sources: transcribe.txt, main recording 00:00-02:48 and 34:20-35:47. The second transcript file is an identical copy.
+
+
+--- PAGE 2 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+2
+GEC1044 / FIELD VISIT NOTES
+2. Tongue diagnosis 舌诊
+Observe the tongue body and its coating together.
+The speaker described a normal tongue as light red with a thin white coating (薄白苔). The
+tongue body (舌质) is assessed for colour, shape, size and movement; the coating (舌苔) for
+colour, thickness, moisture and greasiness.
+Patterns shown in the teaching slides
+TCM pattern label
+Appearance shown
+Blood deficiency 血虚
+Pale tongue; little or no coating.
+Heat 热证
+Red tongue; thin yellow coating.
+Damp retention 湿阻
+Swollen tongue; white greasy coating.
+Qi stagnation 气滞
+Red tongue tip.
+Blood stasis 血瘀
+Purple tongue; dark spots.
+Damp heat 湿热
+Red tongue; greasy yellow coating.
+Yin deficiency 阴虚
+Red tongue with cracks; little or no coating.
+Qi deficiency 气虚
+Pale tongue with red spots and thin white coating. The separate
+common-types slide also shows teeth marks.
+Yang deficiency 阳虚
+Pale, swollen tongue; thin white coating and teeth marks.
+How the lecturer explained the observations
+Colour: paleness was linked to qi/blood deficiency, redness to heat, and purple colour to blood
+stagnation within TCM theory.
+Shape: swelling was associated with retained fluids or dampness; a thin tongue with
+deficiency; teeth marks with spleen-qi deficiency and dampness.
+Coating: yellowing was associated with heat, greasiness with dampness, and moisture or
+dryness with the condition of body fluids.
+What to remember for the report
+These are TCM pattern descriptions presented during teaching. They are not evidence that a
+tongue photograph alone can establish a medical diagnosis. The materials support describing
+how practitioners interpret signs; they do not establish the accuracy of those interpretations.
+Sources: Photos ending 23-47-36, 23-47-37 and 23-47-38; transcribe.txt 02:49-07:05. The first two photographs show
+the same slide.
+
+
+--- PAGE 3 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+3
+GEC1044 / FIELD VISIT NOTES
+2A. Tongue: photo reference
+A photographed teaching chart, placed beside the tongue diagnosis notes.
+Figure 1. Tongue patterns 舌象. Compare the tongue body (舌质), coating (舌苔), colour and shape. The chart
+illustrates the TCM labels summarised in Section 2.
+Useful visual features
+Pale tongue 淡白舌: shown under deficiency patterns. Purple tongue 紫舌: shown under
+blood stasis. Yellow greasy coating 黄腻苔: shown under damp heat.
+Sources: Cropped from photo_2026-10-15_23-47-38.jpg. Original teaching labels retained; use with the explanation
+and limitations in Section 2.
+
+
+--- PAGE 4 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+4
+GEC1044 / FIELD VISIT NOTES
+3. Pulse diagnosis 脉诊
+Assess position, depth, speed, rhythm, strength and texture.
+Pulse taking was demonstrated over the radial artery at the wrist. Three fingers assess cun
+寸, guan 关 and chi 尺; the slide uses the radial styloid as the landmark for guan. Pressure
+progresses from superficial (浮) to middle (中) to deep (沉).
+Position
+Left wrist: slide correspondence
+Right wrist: slide correspondence
+Cun 寸
+Heart 心
+Lung 肺
+Guan 关
+Liver / gallbladder 肝胆
+Spleen / stomach 脾胃
+Chi 尺
+Kidney 肾
+Kidney / life gate 肾 / 命门
+These are correspondences within TCM theory. The speaker described a normal pulse as regular, neither excessively
+strong nor weak, with about 4-5 beats per complete breath.
+Pulse type
+Description and teaching association
+Superficial 浮脉
+Felt with light pressure, weaker with heavy pressure; linked to exterior patterns
+such as cold/flu presentations.
+Deep 沉脉
+Requires heavier pressure; linked to interior patterns. The depth slide distinguishes
+forceful/excess from weak/deficiency.
+Rapid 数脉
+Slide: more than 5 beats per breath, above 90/min; linked to heat patterns.
+Moderate 缓脉
+Slide: relaxed and forceful, about 60-70/min; may be healthy or associated with
+dampness or insufficient qi/blood.
+Excess 实脉
+Strong at all three positions; associated with excess patterns, but also possible in
+healthy people.
+Thin 细脉
+Fine like a thread but still palpable; linked to qi/blood deficiency, with yin deficiency
+also on the strength slide.
+Wiry 弦脉
+Tense like a violin string; linked to stress, anger, pain and liver/gallbladder patterns.
+Slippery 滑脉
+Smooth, like beads rolling on a plate; linked to phlegm/fluid or food retention and
+heat; also shown for pregnancy and healthy adults.
+Context matters: the slides list exercise, stress/anger, a heavy meal, age, athletic conditioning, body build and
+sex-related generalisations as influences. The clearest stress-related statement is “Stress/anger: more wiry.” These
+teaching ranges are not general medical screening cut-offs.
+Sources: Photos ending 23-47-39 through 23-47-47; transcribe.txt 12:55-22:48. The transcript also mentions an
+intermittent pulse, but its explanation is too unclear to summarise reliably.
+
+
+--- PAGE 5 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+5
+GEC1044 / FIELD VISIT NOTES
+3A. Pulse: photo reference
+The wrist positions and pressure levels used in the demonstration.
+Figure 2. Three positions 寸、关、尺. The photographed slide combines the wrist diagram with left/right TCM organ
+correspondences.
+Figure 3. Three pressure levels 浮、中、沉. Light, moderate and deeper pressure were used to assess pulse depth.
+Sources: Cropped from photos ending 23-47-39 and 23-47-42. These illustrate the TCM assessment framework.
+
+
+--- PAGE 6 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+6
+GEC1044 / FIELD VISIT NOTES
+4. Chinese medicinal materials
+Classification and five examples introduced in the slides.
+The speaker identified plant, animal and mineral sources. “Chinese herbs” therefore
+includes more than plants. Students were invited to observe and smell the samples, but were
+explicitly told not to taste them.
+Classification
+Terms used in the session
+Four natures 四气
+Cold 寒, cool 凉, hot 热 and warm 温.
+Five flavours 五味
+Sour 酸, bitter 苦, salty 咸, pungent 辛 and sweet 甘.
+Meridian affinity 归经
+The TCM meridian or organ system that a medicinal material is understood to act
+on.
+Function 功效
+The traditional therapeutic action used to guide selection.
+The five slide examples
+Material and properties
+Traditional functions / applications presented
+Danggui 当归
+Angelica sinensis
+Sweet, pungent, warm
+Liver, heart, spleen
+Nourish blood, promote blood circulation, regulate menstruation,
+relieve pain and moisten the intestines. Examples: dizziness,
+palpitations, menstrual irregularities, injuries and constipation.
+Huangqi 黄芪
+Astragalus membranaceus
+Sweet, slightly warm
+Spleen, lung
+Invigorate qi and strengthen exterior defence. Examples: fatigue,
+poor appetite, shortness of breath, sweating and loose stools.
+Duzhong 杜仲
+Eucommia ulmoides
+Sweet, warm
+Liver, kidney
+Nourish liver/kidney and strengthen bones; the slide also gives a
+traditional pregnancy-support function. Examples include back/knee
+pain and frequent urination.
+Meiguihua 玫瑰花
+Rosa rugosa
+Sweet, slightly bitter, warm
+Liver, spleen
+Promote qi circulation, relieve stress, harmonise blood and relieve
+pain. Examples: abdominal pain, menstrual irregularities and
+injuries.
+Chantui 蝉蜕
+Cicadae Periostracum
+Sweet, cold
+Lung, liver
+Cicada moulting material: an animal-derived example. Slide
+functions include dispersing wind-heat, relieving itching, improving
+vision and relieving spasms; examples include rashes and eye
+discomfort.
+Interpretation: these examples show how TCM links material properties, pattern assessment and treatment choice.
+They are not a ranked list of best-selling herbs or a record of actual prescriptions. Botanical names follow the slides.
+Sources: Photos ending 23-47-48, 23-47-49, 23-47-49 (2), 23-47-50, 23-47-51 and 23-47-52; transcribe.txt
+34:20-38:44. Only Danggui is reached before the supplied main transcript stops.
+
+
+--- PAGE 7 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+7
+GEC1044 / FIELD VISIT NOTES
+4A. Medicinal materials: images
+Reference illustrations photographed from the five teaching slides.
+Danggui 当归
+Source slide: 23-47-49
+Huangqi 黄芪
+Source slide: 23-47-49 (2)
+Duzhong 杜仲
+Source slide: 23-47-50
+Meiguihua 玫瑰花
+Source slide: 23-47-51
+Chantui 蝉蜕
+Source slide: 23-47-52
+Read alongside Section 4
+The preceding table explains the traditional
+properties, meridian affinities and
+applications.
+Illustrations are cropped from the visit slides, with the
+printed names retained.
+Sources: Image areas cropped from the Danggui, Huangqi, Duzhong, Meiguihua and Chantui slides. Captions use the
+names printed on those slides.
+
+
+--- PAGE 8 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+8
+GEC1044 / FIELD VISIT NOTES
+5. Acupuncture and cupping
+Acupuncture 针刺 and cupping 拔罐, documented by the later slide photographs.
+Acupoints 穴位 introduced
+Point
+General location
+Uses listed in the slide
+DU20 Baihui 百会
+Top of the head
+Headache, dizziness, insomnia, tinnitus; dementia
+and stroke are also listed.
+LI11 Quchi 曲池
+Outer end of the elbow
+crease
+Arm/elbow pain, heat, toothache and sore throat.
+LI4 Hegu 合谷
+Back of the hand, between
+first and second
+metacarpals
+Heat, headache, toothache, eye and digestive
+issues.
+ST36 Zusanli 足三里
+Front/outer lower leg, below
+the knee
+Bloating, diarrhoea and constipation; an immunity
+claim is also listed.
+LIV3 Taichong 太冲
+Top of the foot, near first
+and second metatarsals
+Liver-qi stagnation patterns, including stress,
+irritability and menstrual irregularities.
+Slide-label correction: Quchi appears as “LI21” in the photo; this is a likely slide typo for LI11. Locations above are
+descriptive summaries, not needling instructions.
+Sensations and adverse effects discussed
+The slide describes aching, numbness, distension and heaviness (酸麻胀重) as expected
+needling sensations. It also lists mild pain, bleeding or bruising after removal; nausea, dizziness
+or fainting; skin/allergic reactions; and infection. Fear of needles, hunger and insufficient rest
+were mentioned in relation to fainting. Sterile, single-use needles were highlighted.
+Cupping 拔罐 methods
+Method
+Description in the slide
+Stationary 留罐
+Cups remain in place for about 10-15 minutes.
+Flash 闪罐
+Cups are applied and removed quickly and repeatedly over a broad area.
+Moving / gliding 走罐
+Cups move along meridians for about 5-10 minutes.
+The slide presents cupping as helping pain/inflammation, muscle tightness, blood flow and range of movement. A
+separate colour chart assigns TCM labels to marks, including stagnation and dampness. Record these as claims shown
+in teaching; the chart does not itself demonstrate that mark colour measures toxins or internal disease.
+Sources: Photos ending 23-47-53, 23-47-54, 23-47-55 and 23-47-55 (2). The cupping colour chart carries Thomson
+branding, so its exact wording should not be attributed as an original Thong Chai statement.
+
+
+--- PAGE 9 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+9
+GEC1044 / FIELD VISIT NOTES
+5A. Treatment: photo references
+Acupoint illustrations and the three cupping methods shown during teaching.
+Figure 4. Acupoints 穴位. The five illustrated points match Section 5. The original slide prints Quchi as LI21; the notes
+flag the likely correction to LI11.
+Figure 5. Cupping 拔罐. Stationary 留罐, flash 闪罐 and moving/gliding 走罐 methods. The original benefit statements
+are presented as teaching claims.
+Sources: Cropped from photos ending 23-47-54 and 23-47-55. These are descriptive visit references, not instructions
+for self-treatment.
+
+
+--- PAGE 10 ---
+GEC1044 | Thong Chai visit | Source-based study notes
+10
+GEC1044 / FIELD VISIT NOTES
+6. Using the visit in your report
+Keep observations, interpretation and missing evidence separate.
+Three strong report themes
+Theme
+Evidence from the visit
+Reasonable interpretation
+Accessible, inclusive
+care
+The speaker described free care
+regardless of race, religion or
+nationality.
+TCM can function as a community
+resource extending across ethnic and
+religious boundaries. This illustrates an
+inclusive intention, not measured social
+outcomes.
+Individualised
+assessment
+Tongue and pulse demonstrations; the
+speaker said the same disease may
+receive different treatments.
+The visit illustrates pattern
+differentiation and the role of
+practitioner judgement in tailoring care.
+Stress within TCM
+theory
+Stress/anger linked to wiry pulse;
+Meiguihua described as relieving stress;
+LIV3 linked with stress/irritability.
+The teaching connects emotional
+experience with bodily patterns. It does
+not establish diagnosis or effective
+treatment of clinical anxiety or
+depression.
+Claims to exclude or qualify
+The extra file txt1.txt contains earlier commentary and suggested report prose. It is secondary
+material, not a verified transcript. The supplied primary material does not establish that damp
+heat is the most common pattern among Singaporean youth, that Thong Chai follows a specific
+local “Qing Bu” policy, or that the speaker described a mental-health referral policy.
+The slides separately map the left guan position to liver/gallbladder and link stress with wiry
+pulse. They do not show that stress must produce a wiry pulse specifically at left guan.
+Avoid combining these statements into a stronger claim.
+What remains missing
+No confirmed visit date, speaker name, actual patient records or treatment outcomes are
+supplied. There is no sales ranking, locally produced product list, soup-therapy ranking,
+least-used product list or prescribing-frequency dataset. These materials cannot fill those
+survey requirements without additional evidence.
+Source and coverage guide
+Main transcript: transcribe.txt, duplicated verbatim in “# Singapore Thong Chai Medical Inst.txt”. The main transcript
+reaches 38:44 of a stated 1:14:02 recording. Its backup excerpt reaches 07:21 and overlaps the same session; the two
+are not independent interviews. Timestamps used here follow the main transcript.
+Photographs: 21 files named photo_2026-10-15_23-47-36.jpg through photo_2026-10-15_23-47-55.jpg, including (2)
+versions at 49 and 55. Photo suffixes in each source note identify the original files.
+Coverage: this document summarises the supplied photos and existing transcription. The included audio has not been
+newly transcribed or independently checked. Health-related statements are reported as session content, not clinical
+recommendations.

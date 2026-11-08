@@ -1,0 +1,56 @@
+"paragraph",
+          "path": "root.tabs[0].body.content[145].table.rows[5].cells[1].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 31843,
+          "endIndex": 31845,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 30014,
+            "rowIndex": 5,
+            "columnIndex": 1
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.4d7d05ly06h",
+          "textStyle": {}
+        }
+      },
+      {
+        "type": "inlineObjectElement",
+        "startIndex": 32286,
+        "endIndex": 32287,
+        "tabId": "t.0",
+        "segmentId": null,
+        "container": {
+          "kind": "paragraph",
+          "path": "root.tabs[0].body.content[145].table.rows[6].cells[1].content[0]",
+          "tabId": "t.0",
+          "segmentId": null,
+          "startIndex": 32286,
+          "endIndex": 32288,
+          "namedStyleType": "NORMAL_TEXT",
+          "listId": null,
+          "nestingLevel": null,
+          "table": {
+            "tableStartIndex": 30014,
+            "rowIndex": 6,
+            "columnIndex": 1
+          }
+        },
+        "properties": {
+          "inlineObjectId": "kix.bv9pp2j4h4zb",
+          "textStyle": {}
+        }
+      }
+    ]
+  },
+  "editGuidance": {
+    "advisoryOnly": true,
+    "requiresTargetedPreservation": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope.",
+    "warnings": []
+  }
+}

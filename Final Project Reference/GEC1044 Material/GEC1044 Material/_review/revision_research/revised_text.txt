@@ -1,0 +1,462 @@
+Traditional Chinese Medicine at Tong Keow Healthcare
+Localisation everyday care and pattern differentiation
+GEC1044 Group Fieldwork Report   •   Revised complete draft
+TD3 Group 2
+Lou Yu Luke · Chang Tze Yi Othniel · Li Xudong
+Curtis Chang Kai Xian · Hu Zhixuan Shirley
+Tutor Lin Shi Ting
+Field visit 13 September 2026
+Block 809 Hougang Central #01-170 Singapore 530809
+Revised 4 October 2026
+Revision note
+This revision develops the group presentation around everyday food care, convenient consumption forms and localisation, following the tutor’s feedback. All eight herb entries, eight product categories, five locally linked examples, five soup labels, lower-demand examples and retail symptom associations are retained in Appendix A. Former Sections 3.2 and 3.5 become illustrated Tables A2 and A5 in the same five-column style as the herb table. New sources supply business, neighbourhood and industry context; staff testimony, photographic evidence and our interpretations remain distinct. The presentation itself has not been changed.
+1 Introduction
+Tong Keow’s Hougang outlet provides a small-scale case of continuity through adaptation in Traditional Chinese Medicine (TCM). Our field photographs show medicinal materials and packaged soups within a shop selling everyday foods. The staff member described nourishment, throat comfort, fatigue and lifestyle concerns as reasons for purchasing herbs and prepared products. This is our interpretation: TCM becomes usable through familiar meals, selected ingredients and convenient formats that change how consumers encounter traditional knowledge. These adaptations help explain access to TCM without establishing the effectiveness of any treatment or the beliefs of individual customers.
+The report asks how that accessibility is produced. Everyday food therapy places herbs within household routines; convenience changes the work needed to select and prepare them; and localisation concerns retail organisation, processing, packaging and cultural contact. These themes deepen the presentation’s account of preventive care, generational differences and local adaptation. The detailed survey record is preserved in Appendix A so that the analysis can follow the relationships among findings rather than the order of questionnaire requirements.
+Our critical concept is pattern differentiation and treatment according to the identified pattern 辨证论治. Retail language can associate fatigue with a tonic or a cold with a familiar remedy, but an individual treatment decision requires assessment of the person’s configuration of signs and symptoms. The same format can therefore widen access while simplifying the reasoning through which a remedy is selected. We investigate that tension without presenting this retail visit as an observed clinical consultation.
+2 Fieldwork method and the neighbourhood medicine hall
+2.1 Sources and levels of evidence
+We observed the shop, photographed displays and conducted a semi-structured interview with one staff member on 13 September 2026. The group presentation organises the fieldwork record; the interview transcripts, presentation script and photographs are used to check its claims. Because the transcripts contain recognition errors, we paraphrase clear statements rather than invent exact quotations. References to “the staff member” below refer to this interview (Tong Keow staff member, personal communication, September 13, 2026). Reports about other TCM institutions provide structural comparison only and are not evidence of our own patient encounters.
+Staff reports document the interviewee’s descriptions of demand, clientele and sourcing. Direct observations identify what photographs and displays visibly show. Our interpretations connect those findings to course concepts; they are marked explicitly. Secondary evidence is cited where it establishes historical, demographic, regulatory or industry context. We obtained no numerical sales records, customer survey, clinical case notes or supply-chain documentation. “Commonly sold” and “popular” retain the presentation’s terminology but do not mean a verified twelve-month sales ranking.
+2.2 Tong Keow history and its mixed retail model
+The presentation describes an original Toa Payoh shop dating to 1968. A healthcare directory’s account of a fiftieth anniversary in 2018 is consistent with that heritage narrative, but neither establishes the date of legal incorporation. ACRA’s open records identify Tong Keow Medicine and Provision Shop, formerly Tong Keow Medicine Hall, as registered on 29 March 1975. They separately identify Tong Keow Medical Hall Pte. Ltd. as incorporated on 1 January 2015. We retain the presentation’s history as a reported account and distinguish it from the registration chronology; succession between these entities was not independently documented (Accounting and Corporate Regulatory Authority [ACRA], n.d.; Healthcare.com.sg, n.d.).
+Both records list 70 Lorong 4 Toa Payoh #01-333, Toa Payoh Vista, as the registered address. This is evidence of an address, not proof of a headquarters or central warehouse. Their primary activity code is 47723 and secondary code 47102. SingStat maps these to Chinese medicine shops and mini-marts, convenience stores and provision shops respectively (ACRA, n.d.; Singapore Department of Statistics [DOS], n.d.). The photographs show a similarly mixed range of herbs, soups, grains and other food products. This is our interpretation: food retail is compatible with the business model rather than an incidental departure from a narrowly medicinal shop.
+The tutor’s feedback identifies Tong Keow as a chain with multiple outlets, and the directory links its Toa Payoh and Hougang locations. Our study concerns only the Hougang shop. This is our interpretation: a multi-outlet business could share suppliers, packaging and brand decisions, making part of a branch’s stock selection a chain-level choice. We did not interview management, compare branches or obtain purchasing records, so shared procurement remains a question raised by the chain format rather than an established explanation for the observed shelves. Branded Tong Keow packs demonstrate common visual identity; they do not establish how the contents were purchased or assembled.
+2.3 Hougang context and the reported customer base
+The staff member described the clientele as mainly Chinese, middle-aged and older, including people in their forties and fifties. Official neighbourhood figures provide a context for that impression, with different geographical units kept separate. Hougang planning area had 228,140 residents in June 2024. HDB reported 57,557 dwelling units managed in Hougang and 165,450 residents housed in its flats as at 31 March 2024. The planning-area total includes other housing and is not interchangeable with the HDB-town figure (DOS, 2024; Housing & Development Board [HDB], 2024, pp. 11–12).
+In the official June 2025 table, Hougang Central subzone has 4,620 residents. Summing its rounded age bands from 65–69 through 90 and over gives approximately 1,070 people aged 65 or above, or about 23% of the subzone population. We calculated this from the total-sex, total-dwelling rows, not by adding dwelling subtotals. These are resident-population figures rounded to the nearest ten; the subzone is a contextual boundary rather than a measured catchment for the shop (DOS, 2025).
+An older-adult study offers a separate view of established neighbourhood life. Among 647 Hougang respondents, 17% lived alone, compared with 15% among 552 respondents in Taman Jurong; the difference was not statistically significant. The Hougang respondents had an average age of 69 and residential tenure of 22 years. These are sample characteristics, not evidence that 17% of Singapore’s solitary older residents live in Hougang or that solitary living causes medicine-hall purchases (Chua et al., 2025). This is our interpretation: long residence and repeated use of local amenities provide a plausible setting for familiar neighbourhood retail relationships, although the study did not measure purchases at Tong Keow.
+NHB’s history of Tou Mu Kung records a Teochew community in Hougang associated with fishing, farming and rubber cultivation (National Heritage Board [NHB], n.d.). This supplies historical context for the presentation’s discussion of Chinese medicine within local community life. It does not establish the dialect identity of current customers. This is our interpretation: established housing, a substantial older population and Chinese community history make the staff’s account contextually intelligible. They cannot demonstrate causation, determine consumer preferences by ethnicity or show that every visitor lives nearby. The reported forty- and fifty-year-old clientele also cannot be equated with the demographic category aged 65 and over.
+3 Everyday care and food therapy
+3.1 Medicinal materials within household nourishment
+The presentation’s eight common-herb entries are ginseng/American ginseng, Dang Shen, Huang Qi, Yu Zhu, Huai Shan, red dates, goji and monk fruit. Table A1 retains these entries while separating the two ginseng materials into distinct reference profiles. The staff member described Dang Shen, Huang Qi, Yu Zhu, Huai Shan, red dates and goji as common soup ingredients. This is evidence of their reported use in cooking, not a complete prescription. The photographs show prepared ingredient packs and a family cooking image on the soup display (Figures 1–2). They corroborate a domestic food setting without establishing how often households cook or consume these preparations.
+This is our interpretation: the overlap between herbs and familiar foods gives medicinal vocabulary an ordinary setting. Nourishing life 养生 concerns everyday maintenance, while the idea of medicine and food sharing a source 药食同源 helps describe the movement of materials between nourishment and treatment. An ingredient does not automatically perform the same role in every preparation. Lim et al.’s (2005) earlier survey of complementary and alternative medicine in multiracial Singapore provides evidence that health maintenance was a significant use context; it does not supply present-day sales or customer data for our outlet. Yang’s (2022) history similarly places Chinese medicine within changing community and institutional arrangements. These sources contextualise the field account rather than verify its product claims.
+3.2 Soup packs and the meanings of light replenishment
+The presentation names Qing Bu Liang 清补凉, Dang Shen–Huang Qi soup 党参北芪补气汤, Yu Zhu–Huai Shan soup 玉竹淮山润燥汤, goji–red date soup 枸杞红枣养生汤 and Five Finger Fig soup 五指毛桃健脾汤. Table A4 preserves all five and distinguishes named ingredients from unknown complete recipes. The interview supplied an ingredient list rather than five fully documented formulas; the photographs do not independently confirm every presentation label. This qualification keeps the written report aligned with the slides while making the evidential status of their synthesis explicit.
+The staff member and presentation associated these soups with maintenance, digestion, moistening and light replenishment 清补, rather than intensive tonification 大补. This is our interpretation: such positioning makes replenishment compatible with ordinary meals, without requiring consumers to describe themselves as patients. The Five Phases association of Earth with the Spleen helps explain traditional digestive-support language; Wood and the Liver help contextualise the mood-related language discussed later. These refer to TCM functional relations, not direct equivalents of biomedical organs (World Health Organization [WHO], 2022). Soup labels and functional vocabulary describe intended use; they do not demonstrate a diagnosed pattern, a recovery outcome or a clinically appropriate dose.
+3.3 Climate as a retail explanation rather than a diagnosis
+The staff member linked monk fruit’s popularity and lighter soups to Singapore’s environment. MSS describes an equatorial climate with high temperatures, abundant rainfall and high humidity throughout the year, with monsoon and inter-monsoon periods (Meteorological Service Singapore [MSS], n.d.). That is an independently documented climatic background. It does not independently verify the staff’s explanation of sales. The phrase “without four distinct seasons” in the presentation is therefore treated as a broad description of tropical conditions rather than a claim that Singapore lacks seasonal weather variation.
+The course reading of the Suwen relates seasonal conduct to the maintenance of health (Unschuld & Tessenow, 2011, pp. 45–57). This is our interpretation: the staff’s account shows environmental reasoning being adapted from a seasonal vocabulary to an equatorial retail setting. It remains a situated interpretation. High ambient heat does not mean every individual has a heat pattern; high humidity does not establish dampness in every body. Yu Zhu’s moistening association is not synonymous with eliminating dampness. 辨证论治 requires the person’s signs and circumstances to justify selection, so climatic context cannot substitute for individual assessment.
+4 Convenience and changing consumption forms
+4.1 Generational accounts and redistributed preparation
+The staff member described younger customers as buying fewer raw herbs and preferring teas, supplements and simpler preparations. The eight categories in Table A2 retain exactly the presentation’s list: ginseng tonics, monk-fruit products, flower/herbal teas, soup packs, Lingzhi supplements, liver-care/mood-support products, Yin Qiao-type remedies and medicated oils. We did not interview consumers or measure purchases by age. The generational account is therefore staff testimony about this outlet, not evidence that all young Singaporeans have the same preference or have abandoned traditional medicine.
+The photographs show preselected dried packs, packaged goods and a multi-buy promotion. Selection and portioning have already been performed for the buyer, but the photographed soups still require cooking. This is our interpretation: convenience redistributes effort rather than necessarily eliminating it. A packer selects the combination, staff explain its purpose and a household completes preparation. A ready-to-drink tea would shift brewing to the seller, whereas a capsule changes both preparation and consumption. We did not confirm a ready-to-drink range at Tong Keow. This distinction develops the slides’ convenience argument without adding an unobserved product to the field inventory.
+4.2 Industry comparisons and the limits of claims about youth
+Nanyang Polytechnic documents a collaboration with Heng Foh Tong to position herbal drinks for daily consumption among millennials. Business students worked on market positioning, design students on bottle identity and a vending concept, and applied-science work addressed sugar reduction and stability (Nanyang Polytechnic [NYP], n.d.). This is evidence of a specific industry strategy, not a national estimate of young consumers’ preferences. Its relevance to Tong Keow is comparative: formats and presentation can be deliberately redesigned to create everyday entry points into herbal consumption.
+Amacha supplies a more recent comparison. In a founder interview, Angelynn T. (2026) reported the business’s claim of more than 150,000 cups sold within eight months and three outlets by January 2026. The founder described customers as largely working adults and also families introducing children to herbal drinks. Those statements are not audited sales or an age-disaggregated customer survey. The article also describes daily brewing before sale, illustrating how convenience for the purchaser can depend on preparation retained by the producer. Amacha’s own menu presents TCM-inspired milk teas, including monk-fruit combinations (Amacha, n.d.). Neither source establishes sales or customer behaviour at Tong Keow.
+This is our interpretation: the two comparisons strengthen the plausibility of the presentation’s convenience theme by showing that businesses actively change formats and communication. They cannot prove that convenience caused young people’s purchases at our site. Teck Soon’s owner reported a 30% sales increase after replacing drawer storage with storefront herb displays in 1982 (Chin, 2024). This historical comparison concerns visibility as a form of access. Tong Keow’s photographed frontage similarly makes preparations visible, but we have no before-and-after sales data to test its effect.
+4.3 Lifestyle language and what lower demand reveals
+The staff member associated late nights, long work hours, stress and prolonged phone use with liver-care or mood-support preparations. This is our interpretation: wellness marketing can turn a diffuse lifestyle concern into a familiar product choice, linking the presentation’s account of pressure to its account of convenient forms. We did not verify a causal relation between any habit and a purchase, diagnose customers or identify the exact mood-related preparation. 疏肝解郁 describes soothing Liver-related constraint in a TCM vocabulary; it does not itself establish depression treatment or a biomedical hepatic disorder.
+National labour data also qualify a simple story of ever-increasing work intensity. MOM reported average usual weekly working hours of 41.4 among employed residents in 2025, down from 44.2 a decade earlier (Ministry of Manpower [MOM], 2026). An average does not describe each customer’s schedule or stress. It provides context while preventing us from turning staff accounts of pressure into an unsupported claim that national working hours are continually rising. Preparation effort, work routines and product use would need to be studied together through customer interviews before this suggested relationship could be tested.
+The presentation’s low-demand examples are Ban Zhi Lian 半枝莲, specialist herbs requiring combinations and strong tonic formulas 大补方. Table A5 retains one named material and two categories, rather than inventing three ranked herbs. The staff member linked lower appeal to unfamiliarity, preparation and the need for guidance; the presentation also linked strong tonics to climatic suitability. This is our interpretation: reduced demand for a more demanding format need not imply rejection of TCM as a whole. The staff also described stocking less of poorly selling items, so observed availability is partly selected by the retailer and cannot independently validate a bottom-three ranking.
+5 Localisation through processing packaging and cultural contact
+5.1 Separating cultivation manufacture and retail selection
+The staff member described raw materials as coming mainly from China, citing variety and cost, and described limited local cultivation. Cactus 仙人掌, roselle 洛神花, patent medicines 中成药, Five Flower Tea 五花茶 and monk-fruit tea 罗汉果茶 remain the five locally linked examples in Table A3. They were not verified as five Singapore-grown or Singapore-manufactured items. The staff member described a mood-related proprietary preparation as Singapore-made, but we did not record its identity or producer. Statements about climatic limits on cultivation and the relative cost of Chinese supply remain the interviewee’s explanations, not an agronomic or price comparison conducted by the group.
+The photographs show Tong Keow branding, selected soup materials and geographical labels on the cabinet. This is our interpretation: localisation can occur at several stages, including assembling ingredients into a familiar soup, portioning, naming and presenting them for local use. Visible branding supports retail adaptation. It does not establish the place where a specific ingredient was grown or a pack was assembled. This distinction refines the presentation’s statement that imported materials are processed and packaged locally: that account is retained as staff-reported, while product-level local processing remains unverified.
+Singapore’s Chinese Proprietary Medicines (CPM) framework establishes that local manufacture and assembly are formal regulated activities. HSA’s dealer guidance requires the relevant licences for importing and wholesale supply, and a valid manufacturer’s licence and GMP compliance for local manufacturing or assembly facilities. Its consumer guidance includes re-packers among regulated dealers and requires product listing before a CPM is imported, manufactured or sold (Health Sciences Authority [HSA], 2026c, 2026d). These obligations concern finished Chinese Proprietary Medicines and the activities performed by a dealer. They do not automatically classify every raw herb, food, tea or soup pack as a CPM, or prove that Tong Keow operates a licensed assembly facility. We did not audit its licences or identified products.
+5.2 Packaging as regulatory and cultural translation
+HSA’s CPM listing guidelines require full labelling in English and allow additional languages, whose text must correspond to the English information. Required particulars include product and ingredient information, batch and expiry details, with relevant manufacturer, importer or assembler details on outer packaging (HSA, 2025, section 5). These requirements show how a finished medicinal product must become legible within Singapore’s regulatory setting. Listing is not evidence that its therapeutic effects have been proven (HSA, 2026b). The photographs of Tong Keow packs establish branding and packaged form, but our images and records are insufficient for a complete bilingual label or compliance audit.
+A packaging study provides a regional comparison rather than Singapore-specific field evidence. Liu et al. (2026) examined Chinese herbal medicines sold in Malaysia and showed how legal constraints shape translated product names and therapeutic statements. Their account helps frame translation as a negotiation between medical vocabulary, permissible claims and consumer communication. Malaysia’s rules and sampled products cannot substitute for HSA requirements or evidence about Tong Keow’s labels. This is our interpretation: packaging can alter how inherited knowledge is encountered, but changes in language, dosage form or branding alone do not establish that a customer understands the underlying pattern logic.
+Quality language also affects that encounter. The staff member emphasised fresh colour, visible freshness and sulphur-free materials. Figure 3 shows the sulphur-free Dang Shen claim and separate American ginseng label. It verifies the presence of the claims rather than production methods, authenticity or safety. HSA’s supplement-claims guidance rejects the implication that natural origin guarantees safety (HSA, 2026a). This is our interpretation: reassuring labels can support retail trust, but neither a quality claim nor convenient packaging resolves individual suitability under 辨证论治.
+5.3 A shared shopping space and differing meanings of use
+The staff member described Malay customers buying dessert ingredients and Indian customers buying nuts, alongside a largely Chinese clientele. We did not independently identify customers’ ethnicity or ask them about medical beliefs. The photographs show a product mix compatible with culinary shopping, but cannot verify the reported purchasing pattern. This is our interpretation: the medicine hall’s combined food and medicinal range offers reasons for contact across cultural boundaries. Buying a dessert ingredient in this space does not show acceptance of Qi, meridians or pattern differentiation.
+Eu Yan Sang’s Singapore website provides an industry example through a halal product category containing preparations with ingredients such as goji and red dates (Eu Yan Sang, n.d.). This is evidence of another company’s certification-oriented market presentation, not halal status at Tong Keow. This is our interpretation: dietary certification and familiar food uses can make products accessible across communities while meanings remain diverse. Shared shopping space, shared consumption and shared therapeutic understanding require different evidence. The fieldwork supports an account of possible contact through everyday retail, not a demonstrated effect on racial harmony or uniform TCM adoption.
+6 Pattern differentiation and continuity through adaptation
+6.1 What is missing between a complaint and a remedy
+WHO terminology describes the four examinations 望闻问切 through inspection, listening and smelling, inquiry and palpation. These contribute to pattern differentiation 辨证; treatment reasoning 论治 then follows the identified pattern (WHO, 2022). This is our interpretation: the analytical issue is the route from information about a person to a justified choice. An ingredient’s traditional function, a product label or a familiar complaint cannot alone supply that route. Table A1 illustrates the distinction through the separate ginseng and American ginseng profiles: their different traditional nature and Yin-related functions prevent a general fatigue association from making them interchangeable.
+The six pairings in Table A6 are exactly the presentation’s retail associations: colds with Yin Qiao-type remedies; diarrhoea with Huoxiang Zhengqi-type remedies; fatigue/Qi-deficiency language with ginseng or Dang Shen; lower-immunity language with Lingzhi or supplements; late nights/stress with liver-care or mood-support products; and aches/injuries with medicated oils. We did not observe the signs, examination, reasoning, dosage or duration supporting an individual prescription. Fatigue alone does not establish Qi deficiency, and the marketing term “immunity” is not a direct equivalent of Qi. These findings document accessible retail explanations rather than eight physician-treated symptoms or eight clinical prescriptions.
+An in-house physician was not clearly confirmed. That means physician availability and the survey’s clinical requirements remain not established, not that the outlet has no physician. MOH’s practitioner information supplies a context of professional registration, but our interview does not establish the staff member’s role or credentials (Ministry of Health [MOH], 2026). Prepared products can be selected through an individual clinical assessment; raw herbs can also be purchased without one. This is our interpretation: format and diagnostic individualisation are distinct dimensions, so convenience should not be treated as proof that pattern differentiation has disappeared.
+6.2 Connecting everyday routines formats and local institutions
+This is our interpretation: the three themes reveal connected mechanisms of access. Food use places traditional materials within household maintenance; convenient forms redistribute selection and preparation; retail organisation and packaging make them available and recognisable in a Singapore neighbourhood. Climate enters through the staff’s account of local suitability, regulation through formal product requirements, and cultural contact through different culinary and wellness uses. Chain purchasing and neighbourhood habits remain plausible contextual influences whose operation at this outlet still needs direct investigation.
+This understanding follows the course’s treatment of Chinese medicine as historically shaped by selection and adaptation (Unschuld, 2018). Yang (2022) describes Singapore’s history through migration, community institutions and changing professional arrangements. The outlet adds a retail perspective to that history without proving a change from an earlier Tong Keow clinic to its present form. MOH reported that nearly 40% of TCM users in the 2022 National Population Health Survey combined TCM and Western medicine for the same condition (MOH, 2025). That wider context supports the possibility of complementary use, not evidence about our customers’ treatment choices. We did not establish motivations such as avoiding side effects or preferring “natural” medicine.
+This is our interpretation: adaptation can preserve visible ingredients and functional vocabulary while changing where expertise resides, among a packer, staff member, household cook, consumer and, when involved, clinician. The distinction supplied by 辨证论治 prevents retail familiarity from being mistaken for clinical reasoning. The fieldwork shows mechanisms that make TCM approachable; it cannot determine how frequently those mechanisms lead to an assessed, individually suitable treatment.
+7 Limitations and remaining evidence gaps
+The study covers one visit, one staff interview and one outlet. Its common-seller and lower-demand lists are unranked accounts, with no sales totals or verified twelve-month period. Customer age, ethnicity and motives were not measured. We lack item-level sourcing, complete soup formulas and an identified locally manufactured preparation. Reference herb photographs and external product illustrations added to Tables A1, A2 and A5 are visibly labelled as such; they add no observed stock or new fieldwork findings. Demographic boundaries, older-adult samples and industry comparisons provide context rather than a substitute for outlet data.
+The presentation is retained as the main synthesis of our findings, with its limits made explicit. Its 1968 heritage account is distinguished from registration dates; its local-processing statement remains staff-reported; and its climatic preferences are not applied as diagnoses to all residents. Follow-up evidence would need to identify exact product and soup labels, clarify a physician’s role, compare chain purchasing practices and obtain a defensible demand record. Until then, the clinical survey answers remain unestablished. No conclusion about therapeutic efficacy, regulatory compliance or a whole ethnic group’s beliefs follows from the photographed shelves.
+8 Conclusion
+Tong Keow’s case shows how TCM can be made usable through specific arrangements of everyday access. The group’s herbs, soups and product categories connect nourishment to familiar household practices; packaged forms redistribute the work of selection and preparation; and the mixed retail model accommodates medicinal and culinary shopping. The staff’s accounts of younger buyers, lighter replenishment and local processing add situated explanations whose limits remain visible. Verified business records, neighbourhood statistics and comparative industry cases deepen those accounts without replacing the fieldwork.
+Our contribution is an account of continuity through adaptation at the retail counter. The case reveals how ingredients, formats, language and use settings can sustain contact with TCM. It also shows why that contact should be distinguished from 辨证论治: a complaint–product association is a compressed retail explanation, while an individual treatment requires assessed signs and justified selection. Keeping the two levels separate allows the report to explain accessibility and cultural change without converting availability, packaging or climatic context into evidence of effective personalised care.
+
+Appendix A Detailed fieldwork evidence
+These records preserve the presentation’s substantive inventory. A1–A5 correspond to former Sections 3.1–3.5; the questionnaire sequence is retained here for checking completeness, while Sections 3–5 supply the thematic analysis. Traditional applications are reference information or reported positioning, not evidence of clinical efficacy.
+A1 Eight herb entries with separate reference profiles
+The presentation groups ginseng and American ginseng in one entry. Nine reference rows therefore represent eight reported entries, not a ninth seller or an annual ranking. The field cabinet independently labels American ginseng.
+Note. Reference photographs and traditional profiles are adapted from the Hong Kong Polytechnic University database (PolyU); they were not photographed at Tong Keow. Meridian names refer to TCM functional systems. Applications depend on assessed patterns, not a symptom alone. 
+Table A1 Traditional herb profiles in the eight presentation entries
+
+A2 Eight reported product categories with illustrations
+The categories, their uses and their order match presentation slide 4. They are not identified brands, exact formulas or measured popularity ranks. The five-column layout follows Table A1. Nature and meridians are not assigned to an unidentified finished product from the properties of one illustrated ingredient.
+Note. Ingredient images are illustrative references, not photographs of the finished products sold at the outlet. “Display context” images show fieldwork shelves without confirming the named category’s exact item. The Fei Fah red-flower oil image is an external category example, not verified Tong Keow stock. Photographs and properties do not add products to the field inventory.
+Table A2 Illustrated profiles of the eight presentation product categories
+
+A3 Five locally linked examples and production status
+The staff account names five examples but does not verify five locally grown or manufactured products. Local cultivation, finished-product manufacture, processing, packing and branding are different claims. One mood-related preparation was described as Singapore-made, with its identity unrecorded.
+Table A3 Locally linked examples retained from the presentation
+
+A4 Five soup therapies retained from the presentation
+The five labels match slide 6. The staff separately named Dang Shen, Huang Qi, Yu Zhu, Huai Shan, red dates and goji as common soup ingredients, without supplying five complete recipes. These are maintenance and climatic-wellness positions rather than documented clinical recovery cases.
+Table A4 Soup labels ingredients and reported purposes
+
+A5 Three comparatively lower-demand examples with illustrations
+This table preserves former Section 3.5 and presentation slide 8. It contains one named herb and two broad categories. Neither a verified bottom-three rank nor three distinct medicinal species was recorded. Broad categories cannot be given a single nature or meridian profile.
+Note. Ban Zhi Lian’s image and traditional profile are database references, not extra staff testimony. The cabinet photograph illustrates the setting in which specialist materials are encountered and does not identify a particular low-selling herb. The ginseng picture illustrates tonic materials only, not an identified strong-tonic formula.
+Table A5 Illustrated profiles of the lower-demand examples
+
+A6 Physician evidence and separate retail associations
+Physician presence was not clearly confirmed. Accordingly, eight physician prescriptions and eight physician-treated symptoms remain not established. The six associations below are staff-reported retail pairings retained from slide 9. Patient examination, exact formulations, doses and treatment durations were not recorded.
+Table A6 Retail symptom associations without confirmed clinical prescriptions
+
+A7 Survey coverage and evidential status
+Table A7 Coverage of the seven survey requirements
+
+
+References
+Accounting and Corporate Regulatory Authority. (n.d.). ACRA information on corporate entities (T) [Data set]. Data.gov.sg. Retrieved October 4, 2026, from https://data.gov.sg/datasets/d_72f37e5c5d192951ddc5513c2b134482/view (Records: Tong Keow Medicine and Provision Shop, UEN 06799800C; Tong Keow Medical Hall Pte. Ltd., UEN 201500103H.)
+Amacha. (n.d.). Amacha herbal milk tea [Menu and brand website]. Retrieved October 4, 2026, from https://www.amacha.sg/
+Angelynn T. (2026, January 5). This S’pore biz is turning TCM into milk tea—8 mths in, it now has 3 outlets & sold 150K+ cups. Vulcan Post. https://vulcanpost.com/907853/amacha-herbal-milk-tea/
+Chin, S. F. (2024, May 26). Innovation amid tradition: How Chinatown merchants move with the times. The Straits Times. https://www.straitstimes.com/singapore/innovation-amid-tradition-how-chinatown-merchants-move-with-the-times
+Chua, V., Feng, C.-C., & Ho, E. L.-E. (2025). Ageing in networks: Living alone but connected. Ageing & Society. Advance online publication. https://doi.org/10.1017/S0144686X25100329
+Eu Yan Sang. (n.d.). Shop halal products. Retrieved October 4, 2026, from https://www.euyansang.com.sg/en/halal-2/
+Fei Fah. (n.d.). Red flower ointment 50 ml [Product photograph used as an external illustration]. Retrieved October 4, 2026, from https://feifah.com/zh/products/red-flower-ointment-50ml
+Health Sciences Authority. (2025, January). Guidelines on Chinese Proprietary Medicines product listing (section 5). https://file.go.gov.sg/hsa-cpm-listing-fsc-guidelines.pdf
+Health Sciences Authority. (2026a, May 4). Health supplement claims. https://www.hsa.gov.sg/health-supplements/claims/
+Health Sciences Authority. (2026b, April 6). How Chinese Proprietary Medicines are regulated by HSA. https://www.hsa.gov.sg/announcements/how-chinese-proprietary-medicines-are-regulated-by-hsa/
+Health Sciences Authority. (2026c, March 13). Overview of dealer’s licences for Chinese Proprietary Medicines. https://www.hsa.gov.sg/chinese-proprietary-medicines/manufacturing-import-wholesale/dealers-licence/overview/
+Health Sciences Authority. (2026d, May 29). Safety precautions when buying Chinese medicinal pills and capsules. https://www.hsa.gov.sg/announcements/safety-precautions-when-buying-chinese-medicinal-pills-and-capsules/
+Healthcare.com.sg. (n.d.). Tong Keow Medical Hall (Hougang Central). Retrieved October 4, 2026, from https://www.healthcare.com.sg/item/tong-keow-medical-hall-hougang-central/
+The Hong Kong Polytechnic University. (n.d.-a). American ginseng. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/american-ginseng
+The Hong Kong Polytechnic University. (n.d.-b). Barbary wolfberry fruit. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/barbary-wolfberry-fruit
+The Hong Kong Polytechnic University. (n.d.-c). Barbated skullcup herb. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/barbated-skullcup-herb
+The Hong Kong Polytechnic University. (n.d.-d). Chinese date. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-date
+The Hong Kong Polytechnic University. (n.d.-e). Chrysanthemum flower. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/chrysanthemum-flower
+The Hong Kong Polytechnic University. (n.d.-f). Common yam rhizome. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/common-yam-rhizome
+The Hong Kong Polytechnic University. (n.d.-g). Fragrant solomonseal rhizome. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/fragrant-solomonseal-rhizome
+The Hong Kong Polytechnic University. (n.d.-h). Ginseng. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/ginseng
+The Hong Kong Polytechnic University. (n.d.-i). Glossy Ganoderma. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/glossy-ganoderma
+The Hong Kong Polytechnic University. (n.d.-j). Grosvenor momordica fruit. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/grosvenor-momordica-fruit
+The Hong Kong Polytechnic University. (n.d.-k). Japanese honeysuckle flower. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/japanese-honeysuckle-flower
+The Hong Kong Polytechnic University. (n.d.-l). Milkvetch root. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/milkvetch-root
+The Hong Kong Polytechnic University. (n.d.-m). Tangshen. Chinese Herbal Medicine Database. https://herbaltcm.sn.polyu.edu.hk/herbal/tangshen
+Housing & Development Board. (2024). Key statistics: HDB annual report 2023/2024 (pp. 11–12). https://www.hdb.gov.sg/-/media/hdb-pulse/reports/annual-reports-and-financial-statements/HDB-KS-FY23.pdf
+Lim, M. K., Sadarangani, P., Chan, H. L., & Heng, J. Y. (2005). Complementary and alternative medicine use in multiracial Singapore. Complementary Therapies in Medicine, 13(1), 16–24. https://doi.org/10.1016/j.ctim.2004.11.002
+Liu, Y., Yang, Q., & Hu, Y. (2026). Translation variations under legal constraints in the packaging information of traditional Chinese herbal medicine sold in Malaysia. International Journal of Multilingualism, 23(1), 973–1000. https://doi.org/10.1080/14790718.2025.2537184 (First published online August 11, 2025.)
+Meteorological Service Singapore. (n.d.). Climate of Singapore. https://www.weather.gov.sg/climate-climate-of-singapore
+Ministry of Health. (2025, July 6). Speech by Mr Ong Ye Kung, Minister for Health, at the forum on the use of evidence-based Traditional Chinese Medicine in Western medicine practice. https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health--at-the-forum-on-the-use-of-evidence-based-traditional-chinese-medicine-in-western-medicine-practice/
+Ministry of Health. (2026, February 10). About. https://hpp.moh.gov.sg/tcm-practitioners/about/
+Ministry of Manpower. (2026, February 3). Written answer to PQ on moderating working hours. https://www.mom.gov.sg/newsroom/parliament-questions-and-replies/2026/0203-written-answer-to-pq-on-moderating-working-hours
+Nanyang Polytechnic. (n.d.). From tradition to trend: NYP’s collaborative journey with Heng Foh Tong in revolutionising herbal drinks. https://www.nyp.edu.sg/industry/projects/revolutionise-herbal-drinks-heng-foh-tong
+National Heritage Board. (n.d.). Tou Mu Kung. Roots. https://www.roots.gov.sg/places/places-landing/Places/national-monuments/tou-mu-kung
+Singapore Department of Statistics. (2024). Resident population by planning area/subzone, age group and type of dwelling, June 2024 [Data set]. https://www.singstat.gov.sg/files/3bbefdea-b6fb-461d-97b0-ef20b04abd9f.xlsx
+Singapore Department of Statistics. (2025). Resident population by planning area/subzone, age group and type of dwelling, June 2025 [Data set]. https://www.singstat.gov.sg/files/b96b9a33-3301-4f17-8eda-9db4d9e8fc4e.xlsx
+Singapore Department of Statistics. (n.d.). Coverage of Singapore retail trade industry 2021 [SSIC 2020 codes]. https://www.singstat.gov.sg/-/media/files/find_data/industry/coverage-retail.pdf
+Unschuld, P. U. (2018). Traditional Chinese medicine: Heritage and adaptation (B. Andrews, Trans.). Columbia University Press. https://cup.columbia.edu/book/traditional-chinese-medicine/9780231175012/
+Unschuld, P. U., & Tessenow, H. (2011). Huang Di nei jing su wen: An annotated translation of Huang Di’s Inner Classic—Basic Questions (Vol. 1). University of California Press.
+World Health Organization. (2022). WHO international standard terminologies on traditional Chinese medicine. https://www.who.int/publications/i/item/9789240042322
+Yang, Y. (2022). A brief history of Chinese medicine in Singapore. In V. Lo & M. Stanley-Baker (Eds.), Routledge handbook of Chinese medicine (pp. 524–536). Routledge. https://doi.org/10.4324/9780203740262-42
+Note. The staff interview, group presentation, presentation script and photographs are the group’s fieldwork records. Personal communication is cited in the text and excluded from the published reference list. Access dates for current websites are 4 October 2026. Secondary comparisons do not supply missing field-site findings.
+
+Appendix B Fieldwork photographs
+Figure 1
+Soup promotion in the neighbourhood retail setting
+
+Note. The shop-front soup display uses a family cooking image and contains branded packs alongside other food and medicinal materials. This supports the discussion of domestic nourishment and everyday access in Sections 3.1–3.2 and 4.1; it does not demonstrate a sales ranking or the recipes in Table A4. Photograph by the group, Tong Keow Healthcare, 13 September 2026.
+
+Figure 2
+Preselected dried soup ingredients in branded packs
+
+Note. Visible dried materials and soup-pack labels illustrate convenience through ingredient selection and packaging. The photographed products still require preparation. The display corroborates the soup category, without independently confirming all five presentation labels or local manufacturing status. Photograph by the group, Tong Keow Healthcare, 13 September 2026.
+
+Figure 3
+Herb labels and retail quality claims
+
+Note. The cabinet separately labels American ginseng and displays a sulphur-free Dang Shen claim. Labels offer evidence of retail classification and quality positioning. They do not independently establish botanical authenticity, production method, safety or an audited supply chain. Photograph by the group, Tong Keow Healthcare, 13 September 2026.
+Herb
+Nature & Flavour
+Meridian
+Function
+Application
+
+人参 Ren Shen
+Ginseng (root)
+(PolyU, n.d.-h)
+Sweet, slightly bitter; neutral
+Heart, Spleen, Lung
+Strongly tonifies original Qi; supports Spleen and Lung; generates fluids; calms the spirit.
+Poor appetite, fatigue and breathlessness in Qi-deficiency patterns; thirst from fluid depletion.
+
+西洋参 Xi Yang Shen
+American ginseng (root)
+(PolyU, n.d.-a)
+Sweet, slightly bitter; cool
+Heart, Lung, Kidney
+Tonifies Qi and nourishes Yin; clears heat; generates fluids.
+Fatigue, dry mouth, thirst and cough in Qi–Yin deficiency with deficiency heat.
+
+党参 Dang Shen
+Codonopsis (root)
+(PolyU, n.d.-m)
+Sweet; neutral
+Spleen, Lung
+Tonifies middle Qi; strengthens Spleen and Lung functions.
+Poor appetite, loose stools, fatigue and shortness of breath in Spleen–Lung Qi deficiency.
+
+黄芪 Huang Qi
+Astragalus / milkvetch (root)
+(PolyU, n.d.-l)
+Sweet; warm
+Spleen, Lung
+Tonifies Qi; strengthens exterior defence; promotes fluid discharge and tissue repair.
+Fatigue, poor appetite and loose stools in Qi deficiency; spontaneous sweating from weak exterior defence.
+
+玉竹 Yu Zhu
+Fragrant Solomon’s seal (rhizome)
+(PolyU, n.d.-g)
+Sweet; slightly cold
+Lung, Stomach
+Nourishes Yin; moistens dryness; generates fluids and relieves thirst.
+Dry cough, dry throat and thirst in Lung–Stomach Yin deficiency.
+
+淮山／山药 Huai Shan / Shan Yao
+Chinese yam (rhizome)
+(PolyU, n.d.-f)
+Sweet; neutral
+Spleen, Lung, Kidney
+Supports Spleen and Stomach; generates fluids and benefits Lung; strengthens Kidney.
+Poor appetite and persistent diarrhoea in Spleen deficiency; chronic cough in Lung deficiency; frequent urination in Kidney deficiency.
+
+红枣／大枣 Hong Zao / Da Zao
+Red dates / jujube (fruit)
+(PolyU, n.d.-d)
+Sweet; warm
+Spleen, Stomach
+Tonifies middle Qi; nourishes Blood; calms the spirit.
+Poor appetite, tiredness and loose stools in Spleen-deficiency patterns.
+
+枸杞子 Gou Qi Zi
+Goji / wolfberry (fruit)
+(PolyU, n.d.-b)
+Sweet; neutral
+Liver, Kidney
+Nourishes Liver and Kidney; replenishes essence; supports vision.
+Dizziness, aching lower back and knees, and impaired vision in Liver–Kidney deficiency patterns.
+
+罗汉果 Luo Han Guo
+Monk fruit (fruit)
+(PolyU, n.d.-j)
+Sweet; cool
+Lung, Large Intestine
+Clears heat; moistens Lung; lubricates the intestines.
+Dry cough, sore throat and hoarseness in Lung-heat dryness; constipation from intestinal dryness.
+Product or category
+Nature & Flavour
+Meridian
+Function
+Application
+
+人参／西洋参
+Ginseng tonics
+Reference material: ginseng
+(PolyU, n.d.-h)
+Depends on formula; ginseng and American ginseng differ (Table A1).
+Formula not recorded.
+Staff: fatigue and Qi support; also described in immunity language.
+Prepared tonic form; product-specific age profile unknown. Fatigue alone is not a pattern.
+
+罗汉果
+Monk-fruit products
+Reference material: monk fruit
+(PolyU, n.d.-j)
+Fruit reference: sweet, cool. Whole product not identified.
+Fruit reference: Lung, Large Intestine.
+Staff: throat/lung comfort and cooling or moistening positioning.
+Fruit or prepared drinks; staff linked demand to local heat. Exact formulation unknown.
+
+花茶／凉茶
+Flower and herbal teas
+Reference flower: chrysanthemum
+(PolyU, n.d.-e)
+Mixture dependent; complete tea formulas not recorded.
+Mixture dependent; not recorded.
+Staff: everyday wellness; purpose depends on mixture.
+Simple brewing; staff associated teas with younger buyers. The flower image does not establish a recorded tea recipe.
+
+药材汤包
+Soup packs
+Fieldwork soup display
+13 September 2026
+Varies; complete recipes unknown.
+Varies; formula not recorded.
+Presentation: light nourishment and maintenance.
+Preselected dried ingredients; photographed packs still require cooking. Five labels in Table A4.
+
+灵芝保健品
+Lingzhi supplements
+Reference material: Lingzhi
+(PolyU, n.d.-i)
+Finished supplement not identified; no single profile assigned.
+Finished formula not recorded.
+Staff: “immune support” or general wellness positioning.
+Supplement form; no measured immune outcome. Reference fungus is not an identified capsule.
+
+养肝／疏肝解郁
+Liver care and mood support
+Fieldwork display context only
+Exact preparation unidentified
+Exact formula and properties not recorded.
+TCM Liver language reported; actual formula affinities unknown.
+Staff: liver-care or mood-support language related to stress and late nights.
+Proprietary form; not evidence of biomedical liver disease or depression treatment. Display does not identify the reported item.
+
+银翘类
+Yin Qiao-type remedies
+Reference material: honeysuckle
+Not the finished remedy
+(PolyU, n.d.-k)
+Exact formulation not recorded.
+Formula not recorded.
+Staff associated these remedies with colds.
+Retail association only; no patient pattern or prescription recorded. Ingredient illustration does not verify the formula.
+
+红花油／红油精
+Medicated oils
+External red-flower oil example
+(Fei Fah, n.d.)
+Topical formulation; exact outlet product not recorded.
+No product-specific affinity established.
+Staff: aches and injury-related discomfort.
+External use form; staff particularly associated oils with older customers. Illustrated brand not verified at Tong Keow.
+Example
+Raw origin and grown in Singapore
+Manufacture in Singapore
+Processing packaging or brand link
+Cactus
+仙人掌
+Named as a possible locally grown example; origin of stock unknown
+Not established
+No specific product or producer identified.
+Roselle
+洛神花
+Named as a possible locally grown example; origin of stock unknown
+Not established
+No specific product or producer identified.
+Patent medicines
+中成药
+Imported ingredients discussed generally; item origin unknown
+Staff described one mood-related product as Singapore-made; exact item unknown
+Local processing and packing described generally; not verified for each product.
+Five Flower Tea
+五花茶
+Not established
+Not established
+Locally linked in the presentation; item-specific processor, packer and brand unknown.
+Monk fruit tea
+罗汉果茶
+Not established for the tea product
+Not established
+Locally linked in the presentation; item-specific processor, packer and brand unknown.
+Soup label
+Ingredients available from the record
+Purpose and main use
+Qing Bu Liang 清补凉
+Complete recipe not recorded
+Light nourishment and climatic wellness; health maintenance in the presentation’s interpretation.
+Dang Shen and Huang Qi soup
+党参北芪补气汤
+Dang Shen and Huang Qi are named; complete recipe unknown
+Qi support and nourishment; maintenance rather than documented clinical recovery.
+Yu Zhu and Huai Shan soup
+玉竹淮山润燥汤
+Yu Zhu and Huai Shan are named; complete recipe unknown
+Moistening and nourishment; climatic wellness positioning.
+Goji and red date soup
+枸杞红枣养生汤
+Goji and red dates are named; complete recipe unknown
+Everyday nourishment and health maintenance.
+Five Finger Fig soup
+五指毛桃健脾汤
+Five Finger Fig is named; other ingredients not recorded
+Spleen and digestive support in traditional terms; maintenance positioning.
+Product or category
+Nature & Flavour
+Meridian
+Function
+Application
+
+半枝莲 Ban Zhi Lian
+Barbated skullcup herb
+Reference material
+(PolyU, n.d.-c)
+Sweet, bitter; cold (reference profile).
+Liver, Lung, Kidney (reference profile).
+Reference: clears heat and toxin, resolves stasis and promotes urination. Staff: bought less often.
+Traditional reference: sores, throat swelling and oedema. Staff discussed combinations but recorded no individual diagnosis, dose or outcome; rank unverified.
+
+Specialist herbs requiring combinations
+Field cabinet context only
+No second herb identified
+Varies; materials not individually identified.
+Varies; not recorded.
+Purpose depends on the combination and assessed pattern.
+Staff linked lower appeal to preparation, unfamiliarity and need for guidance. Category, not a second named product.
+
+大补方
+Strong tonic formulas
+Tonic material illustration only
+(PolyU, n.d.-h)
+Formula dependent; no recipe identified.
+Formula dependent; not recorded.
+Presentation: intensive replenishment; no specific formula supplied.
+Presentation linked lower appeal to preference for 清补 in local conditions. Climate is a retail interpretation, not an individual suitability assessment.
+Complaint or wellness concern
+Associated retail product
+Interpretive qualification
+Colds
+Yin Qiao type remedies
+A broad complaint does not establish the pattern for which a formulation is suitable.
+Diarrhoea
+Huoxiang Zhengqi type remedies
+Staff association; no individual cause or pattern assessed.
+Fatigue or Qi deficiency language
+Ginseng or Dang Shen
+Fatigue alone does not demonstrate Qi deficiency.
+Perceived lower immunity
+Lingzhi or supplements
+Wellness claim rather than measured immune dysfunction.
+Late nights stress and long work hours
+Liver care or mood support products
+Retail lifestyle framing; no liver disease or mental health diagnosis established.
+Aches or injuries
+Medicated oils
+Reported topical retail use; no clinical injury assessment recorded.
+Survey item
+Record retained
+Location
+Evidence limit
+A
+Eight herb entries; nine reference profiles
+A1; Sections 3.1 and 6.1
+No verified twelve-month sales ranking.
+B
+Eight product categories
+A2; Section 4
+Exact products and comparative sales unknown.
+C
+Five locally linked examples
+A3; Section 5.1
+Cultivation and manufacture unverified by item.
+D
+Five soup labels
+A4; Section 3.2
+Complete recipes and all pack identities unconfirmed.
+E
+One named herb and two categories
+A5; Section 4.3
+No verified bottom-three ranking.
+F
+Physician prescriptions not established
+A6; Section 6.1
+Physician role not confirmed; no clinical cases recorded.
+G
+Six separate retail associations
+A6; Section 6.1
+Not eight physician-treated symptoms or case records.

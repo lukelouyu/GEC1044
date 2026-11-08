@@ -1,0 +1,113 @@
+%% IE2141 CLD: congee intervention for time-constrained NUS students
+%% Generated from cld_model.py. 18 variables, 28 causal links.
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "15px", "edgeLabelBackground": "#FFFFFF", "lineColor": "#4A4A4A"}, "themeCSS": ".edgeLabel, .edgeLabel p, .edgeLabel span { font-size: 20px !important; font-weight: 700; color: #111111; }", "flowchart": {"curve": "basis", "nodeSpacing": 45, "rankSpacing": 70}}}%%
+flowchart LR
+    subgraph A["Subsystem A: TCM Physiological"]
+        SSE("Spleen-Strengthening Effect<br/>(yam, red date)"):::tcm
+        SHE("Shen-Calming Effect<br/>(lotus seed, red date)"):::tcm
+        SQ("Spleen Qi"):::tcm
+        CS("Calm Shen"):::tcm
+        PE("Physical Energy"):::tcm
+        SL("Sleep Quality"):::tcm
+        FT("Fatigue"):::tcm
+    end
+    subgraph SH["Shared drivers and coupling"]
+        AD[["Academic Demands<br/><i>exogenous</i>"]]:::exo
+        PAS("Perceived Academic Stress"):::shared
+        CC("Coping Capacity"):::shared
+        AT("Available Study Time"):::shared
+    end
+    subgraph B["Subsystem B: Psychological / Behavioural"]
+        LF[["Low-Friction Cooking<br/><i>exogenous</i>"]]:::exoPsy
+        SE("Self-Care Engagement"):::psy
+        CR("Congee Routine<br/>(adherence)"):::psy
+        BA("Behavioural Activation"):::psy
+        SC("Sense of Control"):::psy
+        MI("Mindfulness"):::psy
+        RU("Rumination"):::psy
+    end
+    %% ---- causal links (polarity on every edge; || = material delay; dotted = designed decision rule)
+    AD -- "+" --> PAS
+    PAS -- "+" --> RU
+    RU -- "– ||" --> SQ
+    SQ -- "+" --> PE
+    PE -- "–" --> FT
+    SL -- "–" --> FT
+    FT -- "–" --> CC
+    CC -- "–" --> PAS
+    RU -- "–" --> CS
+    CS -- "+ ||" --> SL
+    SL -- "–" --> RU
+    SSE -- "+ ||" --> SQ
+    SHE -- "+ ||" --> CS
+    CR -- "+" --> SSE
+    CR -- "+" --> SHE
+    PE -- "+" --> SE
+    FT -- "–" --> SE
+    SE -- "+ ||" --> CR
+    LF -- "+" --> CR
+    CR -- "+" --> BA
+    BA -- "+" --> SC
+    SC -- "–" --> PAS
+    PAS -- "–" --> SE
+    CR -- "+" --> MI
+    MI -- "–" --> RU
+    RU -. "+" .-> CR
+    CR -- "–" --> AT
+    AT -- "–" --> PAS
+    %% ---- loop identifiers (annotations, not variables)
+    R1_lbl(("R1 · stress–Spleen<br/>vicious cycle")):::loopR
+    FT ~~~ R1_lbl
+    R2_lbl(("R2 · activation–control<br/>virtuous loop")):::loopR
+    SC ~~~ R2_lbl
+    B1_lbl(("B1 · simmer-as-pause<br/>mindfulness brake")):::loopB
+    MI ~~~ B1_lbl
+    R3_lbl(("R3a/R3b · ingredient<br/>reinforcement")):::loopR
+    SSE ~~~ R3_lbl
+    R4_lbl(("R4 · rumination–sleep<br/>spiral (secondary)")):::loopR
+    SL ~~~ R4_lbl
+    B2_lbl(("B2 · time-cost brake<br/>(secondary)")):::loopB
+    AT ~~~ B2_lbl
+    subgraph LEG["Legend"]
+        direction TB
+        LG1["<b>Amber node</b> = TCM physiological variable<br/><b>Teal node</b> = psychological / behavioural variable<br/><b>Grey node</b> = shared driver or coupling variable<br/><b>Dashed box</b> = exogenous input (not in any loop)"]:::legend
+        LG2["<b>+</b> = same-direction change · <b>–</b> = opposite-direction change<br/><b>||</b> on a label = material time delay on that link<br/><b>Amber / teal edge</b> = link inside one subsystem<br/><b>Grey edge (thicker)</b> = cross-subsystem coupling<br/><b>Dotted edge</b> = designed decision rule (intervention)"]:::legend
+        LG3["<b>Red circle R</b> = reinforcing loop (even number of – links)<br/><b>Green circle B</b> = balancing loop (odd number of – links)"]:::legend
+        LG1 ~~~ LG2 ~~~ LG3
+    end
+    classDef tcm fill:#FFE6BF,stroke:#9A4A00,stroke-width:2px,color:#2E1A00;
+    classDef psy fill:#D3EEF2,stroke:#006D77,stroke-width:2px,color:#00262A;
+    classDef shared fill:#EDEDED,stroke:#4A4A4A,stroke-width:2px,color:#111111;
+    classDef exo fill:#FFFFFF,stroke:#4A4A4A,stroke-width:2px,stroke-dasharray:6 3,color:#111111;
+    classDef exoPsy fill:#FFFFFF,stroke:#006D77,stroke-width:2px,stroke-dasharray:6 3,color:#00262A;
+    classDef loopR fill:#FFFFFF,stroke:#B00020,stroke-width:2px,color:#B00020,font-weight:bold;
+    classDef loopB fill:#FFFFFF,stroke:#1B5E20,stroke-width:2px,color:#1B5E20,font-weight:bold;
+    classDef legend fill:#FAFAFA,stroke:#9E9E9E,stroke-width:1px,color:#111111,text-align:left;
+    linkStyle 0 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 1 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 2 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 3 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 4 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 5 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 6 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 7 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 8 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 9 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 10 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 11 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 12 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 13 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 14 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 15 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 16 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 17 stroke:#006D77,stroke-width:2px;
+    linkStyle 18 stroke:#006D77,stroke-width:2px;
+    linkStyle 19 stroke:#006D77,stroke-width:2px;
+    linkStyle 20 stroke:#006D77,stroke-width:2px;
+    linkStyle 21 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 22 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 23 stroke:#006D77,stroke-width:2px;
+    linkStyle 24 stroke:#006D77,stroke-width:2px;
+    linkStyle 25 stroke:#006D77,stroke-width:2px,stroke-dasharray:5 4;
+    linkStyle 26 stroke:#4A4A4A,stroke-width:2.5px;
+    linkStyle 27 stroke:#4A4A4A,stroke-width:2px;

@@ -1,0 +1,337 @@
+sers in the 2022 National Population Health Survey also used Western medicine for the same condition (Ministry of Health [MOH], 2025), situating household purchases within wider care.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 13426,
+              "endIndex": 13440,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 13426,
+                    "endIndex": 13440,
+                    "textRun": {
+                      "content": "7 Limitations\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 13440,
+              "endIndex": 13931,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 13440,
+                    "endIndex": 13930,
+                    "textRun": {
+                      "content": "One visit and interview cannot establish demand trends or customer interpretations. Complete recipes, sourcing and purchasing records were unavailable. Mind Soothe has a confirmed Singapore manufacturing link, but ingredient origins remain unknown; staff named the category rather than the brand. Physician presence was unclear, and no consultation, prescription or outcome was recorded. Practitioner regulation provides background, without verifying an outlet physician’s role (MOH, 2026).",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 13930,
+                    "endIndex": 13931,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 13931,
+              "endIndex": 14104,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 13931,
+                    "endIndex": 14103,
+                    "textRun": {
+                      "content": "Reference profiles and external examples are distinguished from field observations. Sales records, customer interviews and branch comparisons would strengthen the analysis.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 14103,
+                    "endIndex": 14104,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 14104,
+              "endIndex": 14117,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14104,
+                    "endIndex": 14117,
+                    "textRun": {
+                      "content": "8 Conclusion\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 14117,
+              "endIndex": 14482,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14117,
+                    "endIndex": 14481,
+                    "textRun": {
+                      "content": "Tong Keow keeps traditional ingredients approachable through household foods, preparation services and recognisable packaging. Soup displays connect herbs with cooking and light nourishment; portioned packs reduce household effort. Local branding and confirmed manufacture link products with Singapore’s setting, while mixed foods create access across communities.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 14481,
+                    "endIndex": 14482,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 14482,
+              "endIndex": 14752,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14482,
+                    "endIndex": 14752,
+                    "textRun": {
+                      "content": "These adaptations support everyday visibility and opportunities for use, rather than demonstrating clinical effectiveness. Retail access and clinical care remain distinct: treatment requires a qualified practitioner to assess the person’s pattern of signs and symptoms.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 14752,
+              "endIndex": 14754,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 14752,
+                    "endIndex": 14753,
+                    "pageBreak": {
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 14753,
+                    "endIndex": 14754,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                

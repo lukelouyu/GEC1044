@@ -1,0 +1,420 @@
+hinese Herbal Medicine Database (n.d.-a, n.d.-b, n.d.-d, n.d.-g, n.d.-h, n.d.-i, n.d.-k, n.d.-m, n.d.-o). Herb profiles follow this database.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00209",
+      "path": "tabs.t.0.body.content[130]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22440,
+      "endIndex": 22469,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": null,
+      "text": "Table A2 Five soup therapies",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00210",
+      "path": "tabs.t.0.body.content[131]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22469,
+      "endIndex": 22470,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": null,
+      "text": "",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00211",
+      "path": "tabs.t.0.body.content[132].table.rows[0].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22473,
+      "endIndex": 22484,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 0,
+        "columnIndex": 0
+      },
+      "text": "Soup label",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00212",
+      "path": "tabs.t.0.body.content[132].table.rows[0].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22485,
+      "endIndex": 22523,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 0,
+        "columnIndex": 1
+      },
+      "text": "Ingredients available from the record",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00213",
+      "path": "tabs.t.0.body.content[132].table.rows[0].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22524,
+      "endIndex": 22545,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 0,
+        "columnIndex": 2
+      },
+      "text": "Purpose and main use",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00214",
+      "path": "tabs.t.0.body.content[132].table.rows[1].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22547,
+      "endIndex": 22549,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.n4w8gn5avus8]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00215",
+      "path": "tabs.t.0.body.content[132].table.rows[1].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22549,
+      "endIndex": 22567,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 1,
+        "columnIndex": 0
+      },
+      "text": "Qing Bu Liang 清补凉",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00216",
+      "path": "tabs.t.0.body.content[132].table.rows[1].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22568,
+      "endIndex": 22689,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 1,
+        "columnIndex": 1
+      },
+      "text": "Chinese Yam, Solomon's Seal, Lotus Seeds, Gorgon Fruit / Fox Nuts, Job's Tears / Chinese Pearl Barley, Dried Lily Bulbs ",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00217",
+      "path": "tabs.t.0.body.content[132].table.rows[1].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22690,
+      "endIndex": 22747,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 1,
+        "columnIndex": 2
+      },
+      "text": "Light nourishment and everyday care in the presentation.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00218",
+      "path": "tabs.t.0.body.content[132].table.rows[2].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22749,
+      "endIndex": 22753,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.c8be7rp4t2ku] [INLINE_OBJECT kix.th72f61jljp8]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00219",
+      "path": "tabs.t.0.body.content[132].table.rows[2].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22753,
+      "endIndex": 22789,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 2,
+        "columnIndex": 0
+      },
+      "text": "Dang Shen and Huang Qi soup\u000b党参北芪补气汤",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00220",
+      "path": "tabs.t.0.body.content[132].table.rows[2].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22790,
+      "endIndex": 22848,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 2,
+        "columnIndex": 1
+      },
+      "text": "Dang Shen and Huang Qi are named; complete recipe unknown",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00221",
+      "path": "tabs.t.0.body.content[132].table.rows[2].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22849,
+      "endIndex": 22897,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 2,
+        "columnIndex": 2
+      },
+      "text": "Qi support and nourishment in the presentation.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00222",
+      "path": "tabs.t.0.body.content[132].table.rows[3].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22899,
+      "endIndex": 22903,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.l1zczhj2834q] [INLINE_OBJECT kix.hq0vwesezdeu]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00223",
+      "path": "tabs.t.0.body.content[132].table.rows[3].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22903,
+      "endIndex": 22937,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "Yu Zhu and Huai Shan soup\u000b玉竹淮山润燥汤",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00224",
+      "path": "tabs.t.0.body.content[132].table.rows[3].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22938,
+      "endIndex": 22994,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "Yu Zhu and Huai Shan are named; complete recipe unknown",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00225",
+      "path": "tabs.t.0.body.content[132].table.rows[3].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22995,
+      "endIndex": 23043,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "text": "Moistening and nourishment in the presentation.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00226",
+      "path": "tabs.t.0.body.content[132].table.rows[4].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23045,
+      "endIndex": 23049,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.ezmtf0tv1s7i] [INLINE_OBJECT kix.okbgr1hv3xqg]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00227",
+      "path": "tabs.t.0.body.content[132].table.rows[4].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23049,
+      "endIndex": 23080,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "Goji and red date soup\u000b枸杞红枣养生汤",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00228",
+      "path": "tabs.t.0.body.content[132].table.rows[4].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23081,
+      "endIndex": 23135,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "Goji and red dates are named; complete recipe unknown",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00229",
+      "path": "tabs.t.0.body.content[132].table.rows[4].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23136,
+      "endIndex": 23181,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 22470,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "text": "Everyday nourishment and health maintenance.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00230",
+      "path": "tabs.t.0.body.content[132].table.rows[5].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1"

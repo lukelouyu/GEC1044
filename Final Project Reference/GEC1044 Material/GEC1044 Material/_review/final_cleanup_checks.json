@@ -1,0 +1,10 @@
+{
+  "no_repeated_ones": true,
+  "no_reported_typos": true,
+  "three_core_terms_present": true,
+  "images_unchanged": true,
+  "all_23_pictures": true,
+  "appendix_explicit": true,
+  "main_headings_preserved": true,
+  "no_automatic_numbering": true
+}

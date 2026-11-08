@@ -1,0 +1,349 @@
+,
+                        "link": {
+                          "url": "https://feifah.com/products/red-flower-ointment-50ml"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15183,
+                    "endIndex": 15234,
+                    "textRun": {
+                      "content": " [Product information]. Retrieved October 4, 2026.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15234,
+              "endIndex": 15279,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15234,
+                    "endIndex": 15279,
+                    "textRun": {
+                      "content": "GEC1044 Lecture 5. (n.d.). [Lecture slides].\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15279,
+              "endIndex": 15385,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15279,
+                    "endIndex": 15324,
+                    "textRun": {
+                      "content": "Health Sciences Authority. (2025a, January). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15324,
+                    "endIndex": 15384,
+                    "textRun": {
+                      "content": "Guidelines on Chinese Proprietary Medicines product listing.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://file.go.gov.sg/hsa-cpm-listing-fsc-guidelines.pdf"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15384,
+                    "endIndex": 15385,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15385,
+              "endIndex": 15555,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15385,
+                    "endIndex": 15421,
+                    "textRun": {
+                      "content": "Health Sciences Authority. (2025b). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15421,
+                    "endIndex": 15554,
+                    "textRun": {
+                      "content": "Listing of licensed Chinese Proprietary Medicine products [Data set; updated August 7, 2026]. data.gov.sg. Retrieved October 4, 2026.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://data.gov.sg/datasets/d_2ae2e6beb458d059318c1c14ad899f98/view"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15554,
+                    "endIndex": 15555,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15555,
+              "endIndex": 15624,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15555,
+                    "endIndex": 15598,
+                    "textRun": {
+                      "content": "Health Sciences Authority. (2026a, May 4). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15598,
+                    "endIndex": 15622,
+                    "textRun": {
+                      "content": "Health supplement claims",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.hsa.gov.sg/health-supplements/claims/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15622,
+                    "endIndex": 15624,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15624,
+              "endIndex": 15725,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15624,
+                    "endIndex": 15669,
+                    "textRun": {
+                      "content": "Health Sciences Au

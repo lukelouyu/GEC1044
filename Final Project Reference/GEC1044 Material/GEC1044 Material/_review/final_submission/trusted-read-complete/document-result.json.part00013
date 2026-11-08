@@ -1,0 +1,342 @@
+thority. (2026b, April 6). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15669,
+                    "endIndex": 15723,
+                    "textRun": {
+                      "content": "How Chinese Proprietary Medicines are regulated by HSA",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.hsa.gov.sg/announcements/how-chinese-proprietary-medicines-are-regulated-by-hsa/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15723,
+                    "endIndex": 15725,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15725,
+              "endIndex": 15833,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15725,
+                    "endIndex": 15771,
+                    "textRun": {
+                      "content": "Health Sciences Authority. (2026c, March 13). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15771,
+                    "endIndex": 15832,
+                    "textRun": {
+                      "content": "Overview of importer, wholesaler and manufacturer’s licences.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.hsa.gov.sg/chinese-proprietary-medicines/manufacturing-import-wholesale/dealers-licence/overview/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15832,
+                    "endIndex": 15833,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15833,
+              "endIndex": 15958,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15833,
+                    "endIndex": 15877,
+                    "textRun": {
+                      "content": "Health Sciences Authority. (2026d, May 29). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15877,
+                    "endIndex": 15957,
+                    "textRun": {
+                      "content": "Safety precautions to consider when buying Chinese medicinal pills and capsules.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.hsa.gov.sg/announcements/safety-precautions-when-buying-chinese-medicinal-pills-and-capsules/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15957,
+                    "endIndex": 15958,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 15958,
+              "endIndex": 16013,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 15958,
+                    "endIndex": 15981,
+                    "textRun": {
+                      "content": "Heng Foh Tong. (n.d.). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 15981,
+                    "endIndex": 16011,
+                    "textRun": {
+                      "content": "HFTea herbal tea cooling drink",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://hftea.sg/products/hftea-herbal-tea-cooling-drink"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 16011,
+                    "endIndex": 16013,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 16013,
+              "endIndex": 16113,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 16013,
+                    "endIndex": 16061,
+                    "textRun": {
+                      "content": "The Hong Kong Polytechnic University. (n.d.-a). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+           

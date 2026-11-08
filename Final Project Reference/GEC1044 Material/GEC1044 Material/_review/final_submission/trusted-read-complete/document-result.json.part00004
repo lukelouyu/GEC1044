@@ -1,0 +1,337 @@
+",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 1387,
+              "endIndex": 1592,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1387,
+                    "endIndex": 1592,
+                    "textRun": {
+                      "content": "We distinguish observations, staff accounts and our interpretations. Published sources provide context, and course concepts guide analysis. Demand descriptions reflect the interviewee’s retail experience.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 1592,
+              "endIndex": 1633,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1592,
+                    "endIndex": 1633,
+                    "textRun": {
+                      "content": "2.2 Tong Keow and its mixed retail model\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 1633,
+              "endIndex": 1934,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1633,
+                    "endIndex": 1933,
+                    "textRun": {
+                      "content": "Tong Keow’s profile describes a medicine hall founded in Toa Payoh in 1968 and now run by second-generation family owners. Promotional materials feature American ginseng, monk fruit, cooling teas, pills and plasters (Tong Keow Medical Hall, 2022; “Instagram Reel About Tong Keow Medical Hall,” n.d.).",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 1933,
+                    "endIndex": 1934,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 1934,
+              "endIndex": 2166,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1934,
+                    "endIndex": 2166,
+                    "textRun": {
+                      "content": "The company advertises registered-physician consultations, acupuncture and cupping for indigestion, colds and sprains (“Instagram Reel About Tong Keow Medical Hall,” n.d.). We did not verify these services or observe consultations.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 2166,
+              "endIndex": 2331,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2166,
+                    "endIndex": 2331,
+                    "textRun": {
+                      "content": "Branded soup packs beside herbs, grains and foods connect the branch to the wider business and allow shoppers to encounter herbal products during grocery purchases.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 2331,
+              "endIndex": 2334,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2331,
+                    "endIndex": 2332,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.76qzu6jlbbws",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2332,
+                    "endIndex": 2333,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.ug9vxj32widv",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2333,
+                    "endIndex": 2334,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 2334,
+              "endIndex": 2383,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2334,
+                    "endIndex": 2383,
+                    "textRun": {
+                      "content": "2.3 Hougang and the customers described by staff\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 2383,
+              "endIndex": 2765,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2383,
+                    "endIndex": 2764,
+                    "textRun": {
+                      "content": "Staff described mainly Chinese, middle-aged and older customers, including people in their forties and fifties. Hougang had 228,140 planning-area residents in June 2024; HDB reported 57,557 flats and 165,450 residents as of 31 March 2024. These totals cover different populations (Singapore Department of Statistics [DOS], 2024; Housing & Development Board [HDB], 2024, pp. 11–12).",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 2764,
+                    "endIndex": 2765,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyl

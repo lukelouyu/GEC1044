@@ -1,0 +1,69 @@
+{
+  "source": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\GEC1044_Tong_Keow_Final_Polish.docx",
+  "backup": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\Final_Polish_before_standard_format.bak",
+  "text_changes": [
+    {
+      "before": "work-hours discussion",
+      "after": "workplace-stress discussion"
+    },
+    {
+      "before": "public-relation accounts",
+      "after": "public-relations accounts"
+    },
+    {
+      "before": "daily pressures such as late nights, long work hours, and prolonged phone use—with the demand",
+      "after": "daily pressures, such as late nights, long work hours and prolonged phone use, with demand"
+    },
+    {
+      "before": "Comparative surveys",
+      "after": "A comparative survey"
+    },
+    {
+      "before": "gives 68% of Singapore workers experiencing",
+      "after": "reports that 68% of Singapore workers experience"
+    },
+    {
+      "before": "HSA requires",
+      "after": "The Health Sciences Authority (HSA) requires"
+    },
+    {
+      "before": "From these practice, it will attract younger customer by assuring the quality of the medical product and address their concern on potential side effect.",
+      "after": "These practices will attract younger customers by reassuring them about product quality and addressing their concerns about potential side effects."
+    },
+    {
+      "before": "Lecture’s contrast",
+      "after": "Lecture 5’s contrast"
+    },
+    {
+      "before": "A5; Section 4.3",
+      "after": "A5; Section 4.4"
+    },
+    {
+      "added_reference": "Kumari, J. (2024, January 24). 68% of Singapore workers experience weekly stress at the workplace: Survey. People Matters. https://sea.peoplemattersglobal.com/news/organisational-culture/68-of-singapore-workers-experience-weekly-stress-at-the-workplace-survey-40095"
+    },
+    {
+      "before": "A comparative survey place this",
+      "after": "A comparative survey places this"
+    },
+    {
+      "before": "A comparative survey place this",
+      "after": "A comparative survey places this"
+    }
+  ],
+  "tables_preserved": 7,
+  "inline_pictures_preserved": 36,
+  "media_unchanged": true,
+  "original_paragraph_count": 168,
+  "final_paragraph_count": 162,
+  "final_layout_repairs": [
+    "A3 table-note pairing",
+    "A2 and A5–A7 begin on new pages",
+    "A6 introduction kept with table",
+    "Normal prose and table captions regular weight",
+    "Narrative references to tables kept in normal body type"
+  ],
+  "qa_pages": 25,
+  "all_pages_visually_checked": true,
+  "content_preservation_verified": true,
+  "final_sha256": "8501fd979ecb789554f44ad207915212a7e3f9b5e4df4e8d227f5bcc6e9aa348"
+}

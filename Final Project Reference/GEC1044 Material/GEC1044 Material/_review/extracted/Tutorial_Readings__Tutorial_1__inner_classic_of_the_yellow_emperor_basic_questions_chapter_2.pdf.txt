@@ -1,0 +1,552 @@
+
+===== PAGE 1 =====
+Huang Di nei jing su wen
+An Annotated Translation of  
+Huang Di’s Inner C lassic – Basic Questions
+Volume I 
+Chapters  through 
+Paul U. Unschuld and Hermann Tessenow  
+in Collaboration with Zheng Jinsheng
+UNIVERSITY OF CALIFORNIA PRESS
+Berkeley    Los Angeles
+===== PAGE 2 =====
+Acknowledgment 
+This annotated translation of the Su wen was made possible by a long-term commit -
+ment from the Volkswagen Foundation, following up an initial pilot phase funded 
+by the German Research Association (D FG). It is with utmost gratitude that we 
+acknowledge this generous support and an understanding of the complexities of our 
+project.
+ 
+University of California Press, one of the most distinguished university presses in the United 
+States, enriches lives around the world by advancing scholarship in the humanities, social 
+sciences, and natural sciences. Its activities are supported by the UC Press Foundation and by 
+philanthropic contributions from individuals and institutions. For more information, visit  
+www.ucpress.edu.
+University of California Press 
+Berkeley and Los Angeles, California
+University of California Press, Ltd.
+London, England
+©  by the Regents of the University of California
+Library of Congress Cataloging-in-Publication Data
+Unschuld, Paul U., 1943–.
+ Huang Di nei jing su wen: an annotated translation of Huang Di’s Inner Classic — Basic 
+Questions / Paul U. Unschuld and Hermann Tessenow in collaboration with Zheng Jinsheng. 
+— 1st ed. 
+ p.   cm. 
+ Includes bibliographical references.  
+ ISBN 978-0-520-26698-8 (set)  
+ 1.  Su wen.  2.  Medicine, Chinese— Early works to 1800.  I. Unschuld, Paul U. (Paul 
+Ulrich), 1943-  II. Tessenow, Hermann, 1945-  III. Zheng, Jinsheng, 1946-  IV. Su wen. 
+English. V. Title: Annotated translation of Huang Di’s Inner Classic — Basic Questions.  
+ R127.1.S93H7 2011 
+ 616’.09—dc21  2010039378
+Manufactured in the United States of America
+19 18 17 16 15 14 13 12 11 10
+10 9 8 7 6 5 4  3 2 1
+The paper used in this publication meets the minimum requirements of  
+ANSI/NISO Z39.48-1992 ( R 1997) (Permanence of Paper).
+===== PAGE 3 =====
+Chapter  
+Comprehensive Discourse on Regulating the Spirit  
+[in Accordance with] the Qi of the Four [Seasons] 
+--  
+The three months of spring,  
+they denote eﬀusion and spreading. 1  
+Heaven and earth together generate life;  
+the myriad beings ﬂourish. 2 
+Go to rest late at night 3 and rise early. 4  
+Move through the courtyard with long strides. 5  
+Dishevel the hair 6 and relax the physical appearance, 7  
+thereby cause the mind [to orient itself on] life. 
+Give life and do not kill.  
+Give and do not take.  
+Reward and do not punish. 
+1 Wang Bing: “In spring the yang rises. The qi that was hidden [in winter] spreads 
+out. It gives birth to all kinds of beings and displays their beautiful appearance. Hence, 
+this is called ‘outbreak and display.’  ” /: “㏊ stands for ␅, ‘to spread,’‘to ﬂour -
+ish.’ 副 stands for Щ, ‘to spread.’  ” In contrast, Zhang Zhicong: “ ㏊ stands for ᥛ, 
+‘to open.’ 副 stands for ╰, ‘old.’ The meaning is: ‘to break up the old and follow the 
+new.’ ” Yang Shangshan: “㏊ stands for 㸆. That is, during the three months of spring 
+all the old roots and old seeds of herbs and trees break out again.” Tanba: “ ㏊副 has 
+the meaning of ㏊▎, ‘to spread,’ and 副▢, ‘to distribute.’ Zhang Zhicong interprets  
+副 as ╰. However, given the wordings 䄿ਾ and Ͳя below, the text obviously refers 
+to qi. Hence, Wang Bing’s commentary must be correct.” Sun Yirang: “㏊副 has the 
+meaning of ‘to break open the old and substitute it by the new.’ Wang Bing’s com -
+mentary missed this meaning.” Zhang Yizhi et al.: “副 is 㸆, ‘old.’ ㏊副 is: to eliminate 
+the old and bring forth the new.”
+2 Wang Bing: “The qi of heaven is warm, the qi of the earth breaks out. The warmth 
+[of the qi of heaven] and the outbreak [of the qi of the earth] merge. Hence, the 
+myriad beings are nourished and ﬂourish.”
+3 The Tai su has ⚅, “late”, instead of ʒ.
+4 Wang Bing: “Warm qi generates life; cold qi disperses. Hence, one goes to rest at 
+night and rises early.”
+5 Zhang Zhicong equates ⃦ with 㧥, “leisurely.”
+6 Gao Jiwu/ and others interpret 䒧 as ױto open”, “to unroll.”
+7 Zhang Jiebin identiﬁes 㧥Ҭ as 㸅ᛑᢈ㧥 , “relaxed behavior.”
+===== PAGE 4 =====
+ Huang Di nei jing su wen 
+This is correspondence with the qi of spring and  
+it is the Way to nourish life. 
+Opposing it harms the liver.  
+In summer, this causes changes to cold, 8 and  
+there is little to support growth. 9 
+--  
+The three months of summer,  
+they denote opulence and blossoming. 10  
+The qi of heaven and earth interact and  
+the myriad beings bloom and bear fruit. 
+Go to rest late at night and rise early.  
+Never get enough of the sun. 11  
+Let the mind have no anger.  
+Stimulate beauty and have your elegance perfected. 12  
+8 Zhang Zhicong: “When the wood is harmed, it cannot produce ﬁre. Hence, in 
+summer, which is the time when ﬁre is in command, there are changes contrary [to 
+the normal course of seasons] which generate cold disease.”
+9 Wang Bing: “ 䰂 is to say: to carry out the orders of autumn in contrast [to the re -
+quirements of spring]. The liver corresponds to wood and ﬂourishes in spring. Hence, 
+to carry out the orders of autumn [in spring] causes harm to the qi of the liver. In 
+summer ﬁre ﬂourishes and wood perishes. Hence, the disease develops in summer. 
+Now, as for the qi of the four seasons, the qi of spring generates life and the qi of 
+summer contributes to growth. If one counteracts [the orders of ] spring and harms 
+the liver, this results in diminished qi [with a reduced ability] to receive the order of 
+growth in summer.”
+10 Wang Bing: “The generation of yang [qi] begins with spring. When it comes to 
+summer, [the yang qi] abounds and all beings grow. Hence, [the text speaks of ] 䄿ਾ. 
+䄿 is 㻾, ‘luxuriance,’ ॕ, ‘abundance.’ ਾ is 㿫, ‘blooming,’ 㮊, ‘beauty.’ ”
+11 Zhang Qi: “ឩ is ɜ, ‘tired.’ ” Cheng Shide et al./: “】ឩƑ☐  is to say: in sum -
+mer the days are long and mankind does not get tired. That is, in summer the qi of 
+growth rules, hence, the human qi should not be idle.” Zhang Yizhi et al.: “ឩ is 咤, 
+‘satisﬁed.’ 】ឩƑ☐  is: not satisﬁed with the work of one day.”  interprets ᳏☐ as 
+͕☐, “to wait for the sun.” See also .
+12 Cheng Shide et al./: “The Er ya states: [The blossoms of ] trees are called 㿫, 
+those of herbs are called 榮. When there are fruits but no herbal blossoms, this is 
+called ਾ; when there are herbal blossoms but no fruits, this is called 㻭. Zhang Jiebin: 
+“㿫㻭 is to say ਤ氣, ‘spirit qi.’ ” Cheng Shide et al.: “֥is ॕ, ‘abundance.’ ”
+===== PAGE 5 =====
+Chapter  
+Cause the qi to ﬂow away, 13  
+as if that what you loved were located outside. 14 
+This is correspondence with the qi of summer and  
+it is the Way to nourish growth.  
+Opposing it harms the heart. 15  
+In autumn this causes jie and malaria, 16 and  
+there is little to support gathering.  
+>Multiple disease [develops] at winter solstice.< 17 
+--  
+The three months of autumn,  
+13 Shen Zumian: “This statement should follow the characters șӡ】ӿ .”
+14 Wang Bing: “Mild yang qi causes the transformation of beings; a gentle mind 
+causes qi to ﬂow oﬀ. When the beings transform, then they bloom and abound. When 
+the qi ﬂows oﬀ, then the skin interstices open. The order of the season is to disperse 
+yang. Hence, that what one loves goes along with the yang and is outside.” Ma Shi: 
+“When there is no anger, the qi risks being depressed. One must allow this qi to ﬂow 
+oﬀ.”
+15 Wang Bing: “ 䰂 is to say: to carry out the orders of winter in contrast [to the 
+requirements of summer]. The heart corresponds to ﬁre and ﬂourishes in summer. 
+Hence, to carry out [in summer] the orders of winter this harms the qi of the heart. 
+In autumn the metal ﬂourishes and the ﬁre perishes. Hence, the disease develops in 
+autumn. Now, as for the qi of the four seasons, the qi of autumn gathers and the qi of 
+winter stores. If one opposes [the orders of ] summer and harms the heart, this results 
+in diminished qi [with a reduced ability] to receive the order of gathering in autumn. 
+The water of winter overcomes the ﬁre [of summer]. Hence, at the time of winter 
+solstice a serious disease develops.”
+16 The term jie ㍜appears four times in the Su wen, always in conjunction with nüe 
+㎎. Jie may have been a term for intermittent fevers breaking out every second day; 
+nüe may have been used initially for all types of intermittent fevers. In later times, nüe 
+was the only term used for what today is called malaria disease. The SWJZ deﬁnes ㍜ 
+as: “Every second day a malaria fever ( ㎎) breaks out once.” Zhang Jiebin: “When the 
+heart is harmed, the qi of summerheat avails itself [of the heart]. In autumn then, the 
+qi of metal draws [everything] in and the evil of summerheat is depressed internally. 
+Now the yin wishes to enter, but the yang wards it oﬀ. Hence, there is cold. The ﬁre 
+wishes to leave, but the yin ties it down. Hence, there is heat. Metal and ﬁre struggle 
+with each other. Hence, ﬁts of cold and heat alternate and this is malaria.”
+17 Shen Zumian: “The four characters ᖨ㷯䷉病  do not ﬁt the meaning of the text 
+preceding and following them. They may be an erroneous insertion.” Tanba had ex -
+pressed the same opinion.
+===== PAGE 6 =====
+ Huang Di nei jing su wen 
+they denote taking in and balance. 18  
+The qi of heaven becomes 19 tense.20  
+The qi of the earth becomes bright. 
+Go to rest early and rise early,  
+get up together with the chicken. 21  
+Let the mind be peaceful and tranquil, so as  
+to temper the punishment carried out in autumn. 22  
+Collect the spirit qi and  
+cause the autumn qi to be balanced. 23  
+Do not direct your mind to the outside and  
+cause the lung qi to be clear. 24 
+18 Wang Bing: “In summer the myriad beings grow and blossoms as well as fruits 
+have reached completion. Their Ͳㅍ, ‘appearance,’ does no longer change and is ﬁxed 
+by autumn.” Ma Shi: “The yin qi has started to rise already and the appearance of all 
+beings is ﬁnally determined. Hence, the image of the qi [in autumn] is called ‘appear -
+ance settled.’ ” : “Ͳ is ╡㤉, ‘to take in,’ and я is я⳦, ‘in peaceful order.’  ” Fang 
+Wenhui/ identiﬁes Ͳ as ␳ with the meaning of “movement”, and я as ⮍, “to 
+stop”, 単,”quiet.” In this case, the passage should read: “The three months of autumn, 
+this means: any movement ceases.” Zhang Yizhi et al.: “Tanba interprets Ͳ as ॕ, 
+‘abundance.’ This argument is based on the Shuo wen. The commentary in the Sheng 
+ji jing 㱒⼟經  states: ‘At ease (Ͳ) and without hurry; balanced ( я) and without bias. 
+That is to say Ͳя.’ This is correct.”
+19 Gao Jiwu/: “The Guang shi ci  ⃦䷇䙚  states: Ǌ is identical with ॊ, ‘to in-
+crease.’ It has the meaning here of ‘ever more.’  ”
+20 Wang Bing: “Winds blow with a cutting sound.”
+21 Wang Bing: “ One fears to be struck by cold and dew. Hence, one goes to sleep 
+early. One wishes to establish peace and tranquility. Hence, one rises early.”
+22 Violent storms in autumn appeared like a “punishment”. This was also the season, 
+in ancient China, to perform executions of criminals sentenced to capital punishment. 
+Wang Bing: “When the mental qi is hectic, one is not careful in his activities. If one is 
+not careful in his activities, one accentuates the severity of autumn punishments, goes 
+along with killing, and destroys life. Hence, one establishes a peaceful and tranquil 
+mind to soften the punishments carried out in autumn.”
+23 Wang Bing: “When the spirit is agitated, one’s desires may be set aﬂame. When 
+the desires are set aﬂame, this harms the harmonious qi. When the harmonious qi is 
+harmed, the qi of autumn is no longer balanced. Hence, one preserves one’s spirit qi 
+and this causes the qi of autumn to be balanced.” Zhang Yizhi et al.: “Earlier the text 
+has Ͳя. The repetition of the character я here may be a mistake for ⮎, ‘proper.’ ”
+24 Wang Bing: “This too is in accordance with the gathering nature of autumnal qi.” 
+Zhang Zhicong: “To preserve the spirit qi and not let the mind be directed to the 
+===== PAGE 7 =====
+Chapter  
+This is correspondence with the qi of autumn and  
+it is the Way to nourish gathering.  
+Opposing it harms the lung.  
+In winter this causes outﬂow of [undigested] food and  
+there is little to support storage. 25 
+--  
+The three months of winter,  
+they denote securing and storing. 26  
+The water is frozen and the earth breaks open. 
+Do not disturb the yang [qi]. 27  
+Go to rest early and rise late.  
+You must wait for the sun to shine. 28 
+Let the mind enter a state as if hidden,  
+{as if shut in} 29  
+as if you had secret intentions; 30  
+as if you already had made gains. 31  
+outside, all this is to follow the qi of gathering in autumn and causes the metal of the 
+lung to be clear and pure.”
+25 Wang Bing: “ 䰂 is to say: to carry out the orders of summer in contrast [to the 
+requirements of autumn]. The lung corresponds to metal and ﬂourishes in autumn. 
+Hence, to carry out [in autumn] the orders of summer, this harms the qi. In winter the 
+water ﬂourishes and the metal perishes. Hence, the disease develops in winter. ૘⳯ 
+refers to the outﬂow of undigested food. If one opposes [the orders of ] autumn and 
+harms the lung, this results in diminished qi [with a reduced ability] to receive the 
+order of storage in winter.”
+26 Wang Bing: “Herbs and trees wither. The insects leave. The openings of the earth 
+close. The yang qi goes into hiding.”
+27 Wang Bing: “The yang qi has moved into the depth. Water freezes and the earth 
+cracks. Hence, it is essential to close everything tightly. One does not wish to work to 
+fatigue. ┩ is to say: お, ‘annoyed,’ in the sense of ᛚ, ‘fatigue.’ ”
+28 Wang Bing: “To avoid the cold.”
+29 Qian Chaochen- /: “Various editions have ᜦ instead of ᜻. Tanba Genkan 
+has pointed out: ‘ ᜻ and ӈ rhyme,’ that is, ᜻ and ӈ both belong to the ų group of 
+rhymes. Hence, ᜦ must be a mistake.” Hu Shu: “ᜦ is a mistake introduced beginning 
+with the Song dynasty.”
+30 Hu Shu: “That is to say: as if one thought [only] of oneself.”
+31 Wang Bing: “All this is to say one does not wish to go out needlessly lest one is 
+struck by cold.” Tai su, ch. , “Shun yang”, 另剹, has Ӓ, ‘virtue,’ instead of ӈ. The 
+===== PAGE 8 =====
+ Huang Di nei jing su wen 
+Avoid cold and seek warmth and  
+do not [allow sweat] to ﬂow away through the skin.  
+This would cause the qi to be carried away quickly. 32 
+This is correspondence with the qi of winter and  
+it is the Way of nourishing storage.  
+Opposing it harms the kidneys.  
+In spring this causes limpness with receding [qi], 33 and  
+there is little to support generation. 34 
+--  
+The qi of heaven is that which is clear and pure, lustrous and brilliant.  
+[Heaven] stores [its] virtue without end. 35  
+Hence, it does not [let its virtue] move downwards. 36  
+Ishimpo 䶧ӕ◤  follows the wording in the Tai su. Hu Shu: “Р is ਿ. 㻡ਿ✴ձ and 
+㻡Р✴ӈ are parallel statements.”
+32 Wang Bing: “  ‘To avoid cold and seek warmth’ is to say: one stays deep inside 
+the house. 】⳯ु㶖  is to say: one avoids sweating. Sweating is dispersing yang qi. 
+When the yang qi is dispersed one is frequently attacked by cold qi. ƛ stands for ▣, 
+‘repeatedly.’ ” Zhang Yizhi et al.: “The Tai su has ŋ⦠ instead of ƛᴴ. ⦠, ᜻, and 
+ӈ rhyme. Hence, one may agree [with the Tai su version].” Shen Zumian: “ ᴴ does 
+not rhyme with ᜻ and ӈ. Maybe the two characters ⦠ᴴ have been reversed. ⦠, 
+᜻, and ӈ rhyme.” SWJZ: “ƛis ࣩfast.’ ” Gao Jiwu/ considers ᴴ to be a later 
+erroneous addition and follows the Yi xin fang  䶧ӕ◤  which has ș氣⦠ .” See also 
+Qian Chaochen- /.
+33 Yang Shangshan: “इឡ is ‘not able to walk.’  ”
+34 Wang Bing: “䰂 is to say: to carry out the orders of summer in contrast [to the re -
+quirements of winter]. The kidneys correspond to water and ﬂourish in winter. Hence, 
+to carry out [in winter] the orders of summer, this harms the qi of the kidneys. In 
+spring the wood ﬂourishes and the water perishes. Hence, the disease develops in 
+spring. If one opposes [the orders of ] winter and harms the kidneys, this results in 
+diminished qi [with a reduced ability] to receive the order to generate life in spring.”
+35 The Tai su has ፁ, ‘to ascend,’ instead of ⮍: “The virtue is stored and does not 
+rise.”
+36 Wang Bing: “The four seasons form a sequence and the seven luminaries move in 
+a circle. That is to say: heaven has no physical appearance. This is hidden virtue. When 
+virtue is invisible, then its application is inexhaustible. Hence, [the virtue] does not 
+descend. Lao zi stated: ‘Those who possessed utmost virtue, they did not [demonstrate 
+their] virtue.’ That is to say, heaven is extremely remote and high. Its virtue is invisible. 
+The Way of the entire life, should it not follow heaven all the more?!” Zhang Canjia 
+interprets ፂ as ፂ⳯, “to leak”, in the sense of “the qi of heaven always remains in 
+heaven; it never leaks.” In contrast, Wang Qi identiﬁes ፂ as ិ, “to go”; consequently, 
+===== PAGE 9 =====
+Chapter  
+When heaven were to shine, then sun and moon would not shine, 37 and evil 
+would harm the oriﬁces. 38 
+As for yang qi, when it is obstructed,  
+as for the qi of the earth, when its brilliance is covered, 39  
+then clouds and fog are not clear.  
+As a result, corresponding above, white dew fails to descend. 40  
+ŋፂ would mean  “it never goes”, “it is eternal.” Li Guoqing equals ፂ with Δ, “to 
+decrease”, in the sense of “it never decreases.” 
+37 Wang Bing: “Heaven hides [its] virtue, because it wishes to conceal its great bril -
+liance. Because where great brilliance is visible, minor brilliance is eliminated. Hence, 
+the virtue of great brilliance must be hidden. If heaven itself were brilliant, then the 
+brilliance of sun and moon were concealed.” In contrast, Li Guoqing: “☹ is identical 
+with 䀈. The Jing ji zuan gu  經㡉㩾䘽  states: ‘䀈 refers to 㲏.’ 㲏 means ‘confused,’ 
+‘benighted.’ Hence, this sentence should be interpreted as follows: ‘When the qi of 
+heaven is obscured, then yin fog spreads everywhere, so that during daytime one can -
+not see the sun and during nighttime one cannot see the moon. Sun and moon lose 
+their brilliant radiance and evil qi ﬁlls the void and causes harm.’  ” Similar, / 
+which adds a ŋ, ‘not,’ between ʗ and ☹: “If heaven does not shine, then sun and 
+moon cannot shine.”
+38 Yang Shangshan: “ੳ㛁 is to say: the  [needling] holes.” Wang Bing: “If one 
+leaves the Way, then the depletion evil enters into the oriﬁces.” In contrast, Cheng 
+Shide et al.: “The meaning is, evil qi would ﬁll the space between heaven and earth.”
+39 Wang Bing: “ Yang [qi] is to say: the qi of heaven, that is, wind and heat. Earth 
+qi is to say: dampness, and this includes clouds and fog. When wind and heat have 
+harmed a person, then his nine oriﬁces are shut and blocked. When fog and dampness 
+have caused a disease, then a shade on the eyes obscures vision.”
+40 Wang Bing: “ Fog is of one kind with the clouds; dew is of one kind with rain. 
+Now, when the yang is abundant then the earth does not send [any qi] upwards to 
+respond; when the yin is depleted, heaven does not send [any qi] downwards to in -
+teract. When therefore clouds and fog do not transform the subtle and essence qi, 
+heaven corresponds to this above resulting in the calamity of a failure of white dew 
+to descend.” Zhang Zhicong: “The qi of the earth rises and turns into clouds and fog. 
+The qi of heaven descends and turns into rain and clouds. When clouds and fog are 
+not pure, this is because the qi of the earth has not risen. When the qi of the earth 
+fails to rise, then the qi of heaven does not descend. Hence, the response above is such 
+that dew does not descend.” Li Guoqing agrees: “ 㢺 is identical with ⚟, ‘clear sky.’ The 
+Yü pian 㟃 states: ‘when the rain stops, [the sky] is clear and there are no clouds.’ 
+Hence, the meaning of the present passage is: if the qi of heaven is not clear, then the 
+dew cannot descend. When the rising and descending of the qi of heaven and earth 
+lose their regular order, this is to say: ‘the qi of the earth does not rise and the qi of 
+heaven does not descend.’ The mechanism of coming to life, transformation, growth 
+and upbringing of the myriad beings does not function. Life cannot be bestowed and 
+===== PAGE 10 =====
+ Huang Di nei jing su wen 
+Interaction fails to manifest itself.  
+The life of the myriad beings, hence, no [longer] receives any bestowals. 41  
+When there are no bestowals, then many eminent trees die. 42 
+--  
+Bad qi is not eﬀused. 43  
+Wind and rain are excessive.  
+White dew does not descend.  
+if even large trees die, it is even more diﬃcult for the other living beings to survive.” 
+/: “The Shi ji, ʗ͜✣ , has: ʗ㢺㰈䖇⚚♊ . The Han shu, ʗ▲ӡ , has ʗ⚟㰈
+䖇⚚♊ .” Similarly, / identiﬁes 㢺 as ⚟, ‘fair sky.’ ”
+41 Wu Kun: “Mutual interaction is most important for the two qi of yin and yang. If 
+the interacting qi cannot manifest themselves freely in the outside, then the life of the 
+myriad beings has nothing to be supplied ◨៓ with, and if it has nothing to be sup -
+plied with, then tall trees respond ﬁrst and many die.” Following the Shi jing, ʖ勁, स
+ধ, where the passage ◨Ƒấ̳  is commented as ំ̳ấƂ , Zhang Canjia prefers 
+to read ◨  as yi, “to extend.” Here: “ Life is not extended.” Li Guoqing agrees.
+42 Wang Bing: “When clouds and fog fail to transform their essential and subtle 
+[qi], rain and dew fail to bestow moisture. That is [meant by] the qi of heaven fails 
+to descend. When the qi of the earth fails to rise, then the Way of change and trans -
+formation suﬀers. This leads to the destruction of the foundations of generation and 
+upbringing. Hence, when the myriad beings have no supplies to live, when they die it 
+is the᠉❓ that respond ﬁrst. Hence, [the text] states: ‘many ᠉❓ die.’ ᠉ is to say ᠉
+❓ , ‘ valuable fruit and precious wood.’ 䑤 is to say: ‘display their appearance.’  ” 
+Liu Zhenmin et al./ : “Wang Bing is wrong. ᠉ stands for ʖ, ‘tall.’ ᠉❓ are the tall 
+trees.’ ” /: “In antiquity, the meaning of ʖ, ‘tall,’ was occasionally expressed by the 
+term ᠉.” See Zhang Yizhi et al./ for further evidence.
+43 Wang Bing: “ ∇ stands for ͭ氣, ‘harmful qi.’ ㏊ is to say ▎㏊, ‘to disperse.’ .. 
+That is to say, harmful qi is concealed and stored and is not eﬀused. [Hence,] wind 
+and rain exceed their standards and many fractures and injuries occur. Withered trees 
+form heaps and there is blossoming in spring.” In contrast, Zhang Zhicong: “ ∇氣 is 
+ӳӿų氣 , ‘the qi of anger.’  ” The “qi of anger”, that is, violent storm and also capital 
+punishment, is associated with autumn and if it fails to develop the season does not 
+show its appropriate nature. The Tai su does not have the character ŋ; it states ∇
+氣㏊, “Bad qi develops” and considers this as the second of altogether eight negative 
+consequences of the lack of “bestowals” listed in the following passages. Zhang Canjia 
+identiﬁes ŋ with ő, “great”: “Bad qi develops greatly.” / agrees on the basis of 
+evidence quoted from ancient texts. , in a lengthy discussion, concludes: “ ∇ is a 
+mistake for ᬬ, ‘earth’: ‘The qi of the earth is not eﬀused.’  ” Li Guoqing considers the 
+character ŋ to be used here merely as a particle emphasizing the following character 
+㏊: “Bad qi develops!” / agrees.
+===== PAGE 11 =====
+Chapter  
+As a result, gardens wither and there is no blossoming. 44 
+Robber winds arrive often and  
+violent rains emerge frequently.  
+Heaven, earth, and the four seasons fail to maintain their mutual [relationship] 
+and  
+lose their relationship with the Way.  
+As a result, before it has reached its middle, [life] is curtailed and extin -
+guished.45 
+Only the sages follow the [Way];  
+hence, their bodies have no strange diseases. 46  
+44 Wang Bing: “ ∇ is to say: a qi that harms. ㏊ is to say: disperse. 㾼 is to say 䈆
+㙣, ‘dense accumulation.’ That is to say: Harmful qi lies hidden and does not disperse. 
+Wind and rain are excessive and cause breaking and harm repeatedly. Dense accu -
+mulations of withered trees do not blossom in spring. How could this happen only to 
+beings [other than humans]? When man leaves the Way, the same happens to him.” 
+Yang Shangshan: “㾼 is ͟. ͟ has the meaning of ‘rot and die.’  ” Liu Zhenmin et 
+al./: “㾼⧬: Grasses and trees rot and do not blossom.’ 㾼 stands for 䲽㥌, 㙣⹥, 
+‘accumulation.’  ” / identiﬁes 㾼 with 䲽 in the sense of 䈆㥌, “oppressed”,”sad.” 
+See also /. /: “㾼, in ancient times identical with 䲽, is to describe the 
+‘lush growth of herbs and trees.’  ” In contrast,  identiﬁes 㾼 as 㻍, “exsiccated.” In 
+this case, the passage should read: “[Herbs and trees] dry out and wither.” We read 㾼 
+here as 㻍 yuan, in the sense of ‘garden’. ( See WLGHYCD.)
+45 Yang Shangshan: “❕ʛ is ů, ‘long.’ ” Wang Bing: “ ʛ stands for ů, ‘long,’ 䱜, 
+‘far.’ Hence, if one does not act in accordance with the four seasons and frequently 
+encounters the harm of the eight winds and loses the relationship with the Way, then 
+the true qi of heaven before long will end in destruction.” Wu Kun agrees: “ ❕ʛ is ❕
+ů, ‘before long.’  ” In contrast, Zhang Jiebin: “ ʛ stands for Ţᝆ, ‘middle,’‘half-way.’  ” 
+Cheng Shide et al. follows an attested use of ʛ for 㐋, ‘to complete,’ ‘to use up,’ in 
+the Chu ci ⦅䮩: “One dies before one has used up one’s allotted time.” Li Guoqing 
+identiﬁes ʛ as ⮮, “to end”: “One dies before one has ﬁnished the years allotted by 
+heaven.” See also /.
+46 Several editions have 㻗, “serious”, instead of ʧ, “strange.” Li Guoqing agrees. In 
+light of the deﬁnition of 㻗 in the Shuo wen as “tiny grass”, Ma Kanwen suggests to 
+interpret ࣩas “slight illness”. See Ma Kanwen p. . With this reading an appro -
+priate translation would be: “..their bodies will not have [even] minor diseases.”
+===== PAGE 12 =====
+ Huang Di nei jing su wen 
+They do not neglect the myriad beings. 47  
+Their generative qi does not exhaust itself. 48 
+--  
+If one acts contrary to the qi of spring, then  
+the minor yang does not promote generation.  
+The liver qi changes internally. 49 
+If one acts contrary to the qi of summer, then  
+the major yang does not stimulate growth.  
+The heart qi is empty internally. 50 
+If one acts contrary to the qi of autumn, then  
+the major yin does not collect.  
+The lung qi burns and there is fullness. 51 
+47 /: “ߙstands for Ǝ, ‘aﬀair.’ ” In this case the passage should read: “They 
+fail in none of their aﬀairs.”
+48 Wang Bing: “The Way is not far away from man; man’s heart is far away from 
+the Way. Only the heart of the Sages is one with the Way. Hence, their longevity is 
+endless. ⅓ is 另, ‘in accordance with.’ That is, they live in accordance with the orders 
+of the four seasons. One must not oppose them. If one opposes them, then the ﬁve 
+depots are harmed internally and various diseases emerge.”
+49 Wang Bing: “ ࢣis to say: ᛑᗶ, ‘move and emerge.’ When the yang qi does not 
+emerge, because it is suppressed internally in the liver, then it mixes with the liver qi. 
+[The latter] undergoes change and is harmed.”
+50 Wang Bing: “ 关 is to say: ʏ㻾, ‘external luxuriance.’ ⵉ is to say: ੳ, ‘empty.’ 
+When the yang qi is not luxuriant outside, it presses against the heart internally. [Its] 
+heat causes internal wasting. Hence, there is a hole in the heart.” /: “ⵉ may be 
+a mistake for ᛑ, ‘to move.’ In ch.  of the Tai ping sheng hui fang  ʘя㱒՚◤ , ⳦
+ӕᛚ䛴◤ , ᛑ has the meaning of ࣸWang Bing says: ⵉ means ‘the heart is empty 
+inside.’ Sun Dingyi ấఛ͠ states: ‘ⵉ should be ԧ, ‘moaning with pain.’  ” SWJZ: “ԧ 
+is ࣸpain.’ ”
+51 Wang Bing: “ ޑstands for ޑupper burner.’ The major yin passes the qi. It 
+masters transformations in the upper burner. Hence, when the lung qi fails to collect, 
+the upper burner is full.” Lin Yi et al.: “The Quan Yuanqi edition has 䰮⹳ instead 
+of ⹳. Jia yi jing and Tai su have ⹳.” Zhang Jiebin: “ Autumn is associated with 
+metal. The lung and the large intestine correspond with it. Hence, if one opposes the 
+qi of autumn, then the order of great yang is not received, with the result that the lung 
+has heat and its lobes burn. This causes distention and [a feeling of ] fullness.” Hu 
+Shu: “ޑis correct. When the Quan Yuanqi edition has 䰮, this is an error because 
+of a similarity of the two characters. ޑcorresponds to the statement ޑ in 
+Suwen  -. ⹳ parallels ⼆Ⲵ, ‘thick and deep,’ further below. If ޑstood for 
+===== PAGE 13 =====
+Chapter  
+If one acts contrary to the qi of winter, then  
+the minor yin does not store.  
+The kidney qi is turbid and in the depth. 52 
+--  
+Now,  
+the yin and yang [qi] of the four seasons,  
+they constitute root and basis of the myriad beings. 
+Hence, the sages  
+in spring and summer nourish the yang and  
+in autumn and winter nourish the yin 53, and  
+this way they follow their roots. 
+Hence,  
+they are in the depth or at the surface with the myriad beings at the gate to life 
+and growth.54 
+ޑthis would not parallel the text below. Also, the ‘upper burner’ cannot simply be 
+termed ‘burner.’ That is an error.”
+52 Wang Bing: “Ⲵ is Ⲵǝ, ‘hidden in the depth.’ The qi of minor yin passes through 
+the kidneys internally. Hence, in case the minor yin does not lie hidden, the qi of the 
+kidneys is thick and in the depth.” The Tai su and the Jia yi jing have ⼆, “turbid”, 
+instead of ㆷ, “solitary”, “alone.” Gao Jiwu/  interprets both characters as a mistake 
+for 䗴, “to run against”, “to touch.”
+53 Wang Bing: “In spring they ate cool [food], in summer they ate cold [food], 
+to provide nourishment in the [period of ] yang. In autumn they ate warm [food], 
+in winter they ate [hot] food, to provide nourishment in the [period of ] yin.” For a 
+discussion of this principle in treatment as opposed to prevention, see . Ma Shi: 
+“The myriad beings come to life in spring, grow in summer, are gathered in autumn 
+and are stored in winter. These [regularities of ] yin and yang in the course of the four 
+seasons are the root and the source of the myriad beings. Hence, in spring and summer 
+those sages who adhered to the Way of nourishing [their] genesis and growth, they 
+nourished [their] yang qi, while in autumn and winter those who adhered to the Way 
+of nourishing [their] gathering and storage, they nourished [their] yin qi. In contrast, 
+Wu Kun identiﬁed yin and yang with depots and palaces, respectively.
+54 Hua Shou: “Ⲵ is like ᗶ入, ‘to leave and to enter.’  ” Mori ⤙㛇ų : “⡤ and 兼 
+form a rhyme. 兼 is another name for heaven; ⡤ is another name for the earth.” Duan 
+Yishan/: “ٻis to say ᝃ剉, ‘to rise and to descend,’ or ॕ䑬, ‘abundance and 
+weakness.’ Zhuang zi, in নᜓ䱆 , stated: ‘ٻ  ,㤾䪧ŋ╰ ; 剬剹᫗♭䱇䑈 , 
+᠀ӈᕲў , ‘Everything under the sky moves to the depth or at the surface and has no 
+ﬁxed position for its entire life. Yin and yang move throughout the four seasons; they 
+occupy speciﬁc [places] according to the sequence [of the seasons].’  ”  separates 
+===== PAGE 14 =====
+ Huang Di nei jing su wen 
+To oppose one’s root,  
+is to attack one’s basis  
+and to spoil one’s true [qi]. 55 
+--  
+Hence,  
+yin [qi], yang [qi], and the four seasons,  
+they constitute end and begin of the myriad beings,  
+they are the basis of death and life.  
+Opposing them results in catastrophe and harms life.  
+If one follows them, severe 56 diseases will not emerge.  
+This is called “to achieve the Way.” 
+As for the Way,  
+the sages practice it;  
+the stupid wear it [for decoration only]. 57 
+If one follows yin and yang, then life results;  
+if one opposes them, then death results.  
+If one follows them, then order results;  
+if one opposes them, then disorder results.  
+between Ǌ⅓ᕲ⡤  and ߙ in the sense of: if one is at the mercy of seasonal 
+changes in the same way as are herbs and trees, then this is because one has harmed 
+one’s root, which in turn has destroyed the true [qi] of heaven.
+55 Duan Yishan/: “४ is ४氣. Also, in Zhuang zi, ρ❓, there is a statement: ‘To -
+day I walked through [the park of ] Diaoling and I forgot myself ( ᠺ䪧).’ Sima Biao 
+៴唡Ұ  commented: ‘The character 䪧 is also written with the character ४.’ Hence, 
+the present passage ‘destroys one’s true [qi]’ could also be read as ‘destroys oneself/
+one’s body.’ ”
+56 Some editions have ʧ, “strange”, instead of 㻗. See also Gao Jiwu/ . See also 
+above, note , for a reading of 㻗 as “slight; minor”. With this reading an appropriate 
+translation would be: “[ Even] minor diseases will not emerge.”
+57 Duan Yishan/: “ȏ is identical with ɑ, ‘to oppose,’ ‘to turn one’s back against.’  ” 
+Liu Zhenmin et al./  identiﬁes ȏ as 㳈, ‘to turn one’s back against.’  ” / agrees, 
+but identiﬁes ȏ as Լ, “to rebel.” For a detailed discussion, see  and Wang Hon -
+gtu et al. / where Hu Shu’s reading of ȏ as ɑ is accepted as correct. In contrast, 
+Yang Shangshan in the Tai su: “The sages .. move it through their body and treasure it 
+in their heart; the stupid .. wear it on their clothes ( ȏųƑ䑟䓯 ).”
+===== PAGE 15 =====
+Chapter  
+{To act contrary to what is appropriate, this is opposition.  
+This is called inner obstruction.} 58 
+--  
+Hence, [when it is said]  
+“the sages did not treat those already ill, but treated those not yet ill,  
+they did not put in order what was already in disorder, but put in order what 
+was not yet in disorder,”  
+then this means just the same. 
+Now,  
+when drugs are employed for therapy only after a disease has become fully 
+developed,  
+when [attempts at] restoring order are initiated only after disorder has fully 
+developed,  
+this is as if a well were dug when one is thirsty,  
+and as if weapons were cast when the ﬁght is on.  
+Would this not be too late, too? 
+ 
+58 Wang Bing: “⡧ stands for ؆to oppose.’ That is to say, the inner nature opposes 
+the Way of heaven.” See also /.

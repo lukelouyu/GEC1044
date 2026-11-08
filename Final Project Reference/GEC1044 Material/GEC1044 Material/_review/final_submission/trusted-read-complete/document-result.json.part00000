@@ -1,0 +1,373 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "Action completed."
+    }
+  ],
+  "structuredContent": {
+    "documentId": "1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "title": "GEC1044 Field Trip Report",
+    "revisionId": "AHj4eMRYAyIutohCJ5nDMbN_iffIm6io-8RQvxO5GU0mpf1aUQEUqY7XC88CvLQINRGW0oxpHUW7_xu9RD01j7qr-k--IKN77wysEgr72Q",
+    "suggestionsViewMode": "SUGGESTIONS_INLINE",
+    "url": null,
+    "body": null,
+    "tabs": [
+      {
+        "tabId": "t.0",
+        "title": "Tab 1",
+        "parentTabId": null,
+        "index": 0,
+        "nestingLevel": null,
+        "iconEmoji": null,
+        "body": {
+          "content": [
+            {
+              "endIndex": 1,
+              "sectionBreak": {
+                "sectionStyle": {
+                  "columnSeparatorStyle": "NONE",
+                  "contentDirection": "LEFT_TO_RIGHT",
+                  "sectionType": "CONTINUOUS"
+                }
+              }
+            },
+            {
+              "startIndex": 1,
+              "endIndex": 48,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 1,
+                    "endIndex": 48,
+                    "textRun": {
+                      "content": "GEC1044: Chinese Medicine: Theory and Practice\n",
+                      "textStyle": {
+                        "bold": true,
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "TITLE",
+                  "alignment": "CENTER",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 48,
+              "endIndex": 50,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 48,
+                    "endIndex": 49,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.o0vxtcbeml3e",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 49,
+                    "endIndex": 50,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT"
+                }
+              }
+            },
+            {
+              "startIndex": 50,
+              "endIndex": 76,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 50,
+                    "endIndex": 76,
+                    "textRun": {
+                      "content": "GEC1044 Field Trip Report\n",
+                      "textStyle": {
+                        "bold": true,
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.l28acb2uu2rt",
+                  "namedStyleType": "TITLE",
+                  "alignment": "CENTER",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 76,
+              "endIndex": 129,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 76,
+                    "endIndex": 129,
+                    "textRun": {
+                      "content": "Traditional Chinese Medicine at Tong Keow Healthcare\n",
+                      "textStyle": {
+                        "bold": true,
+                        "italic": false,
+                        "fontSize": {
+                          "magnitude": 12,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.3yxcrcanb4o6",
+                  "namedStyleType": "SUBTITLE",
+                  "alignment": "CENTER",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 129,
+              "endIndex": 158,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 129,
+                    "endIndex": 158,
+                    "textRun": {
+                      "content": "Tutorial group: TD3, Group 2\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 2,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 158,
+              "endIndex": 175,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 158,
+                    "endIndex": 175,
+                    "textRun": {
+                      "content": "TA: Lin Shi Ting\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 2,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 175,
+              "endIndex": 260,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 175,
+                    "endIndex": 260,
+                    "textRun": {
+                      "content": "Field site: Tong Keow Healthcare, Blk 809 Hougang Central, #01-170, Singapore 530809\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 2,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 260,
+              "endIndex": 299,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 260,
+                    "endIndex": 299,
+                    "textRun": {
+                      "content": "Date of field visit: 13 September 2026\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 2,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 299,
+              "endIndex": 345,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 299,
+                    "endIndex": 344,
+                    "textRun": {
+                      "content": "Word count (main report): approximately 1,966",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 344,
+                    "endIndex": 345,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 2,
+                    "unit": "PT"
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 345,
+              "endIndex": 428,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 345,
+                    "endIndex": 428,
+                    "textRun": {
+                      "content": "Excludes cover page, bibliography and appendix tables; includes in-text citations.\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+           

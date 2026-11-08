@@ -1,0 +1,25 @@
+# Unrelated software test artifacts
+/bob-pe-tests/
+
+# Duplicate multi-gigabyte bundle (expanded research materials are retained)
+/Final Project Reference/GEC1044 Material.zip
+
+# Downloaded transcription dependencies and model weights
+**/python_packages/
+**/model_large_v3_turbo/
+**/model_standard/
+**/backup.wav
+**/obsidian.wav
+
+# Machine-local caches and temporary files
+**/.git/
+**/__pycache__/
+**/.cache/
+**/.venv/
+**/node_modules/
+*.pyc
+~$*
+.DS_Store
+Thumbs.db
+.env
+.env.*

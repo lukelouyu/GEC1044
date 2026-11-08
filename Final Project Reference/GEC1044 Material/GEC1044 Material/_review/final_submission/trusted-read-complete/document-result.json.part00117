@@ -1,0 +1,351 @@
+  ],
+                "tableStyle": {
+                  "tableColumnProperties": [
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 136.8,
+                        "unit": "PT"
+                      }
+                    },
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 129.6,
+                        "unit": "PT"
+                      }
+                    },
+                    {
+                      "widthType": "FIXED_WIDTH",
+                      "width": {
+                        "magnitude": 223.2,
+                        "unit": "PT"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "startIndex": 32680,
+              "endIndex": 32845,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32680,
+                    "endIndex": 32845,
+                    "textRun": {
+                      "content": "Sources (text): staff interview; Science Arts (n.d.-a, n.d.-b); The Hong Kong Polytechnic University (n.d.-i, n.d.-j, n.d.-o); Tong Jum Chew (n.d.); Fei Fah (n.d.).\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 4,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 32845,
+              "endIndex": 32846,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 32845,
+                    "endIndex": 32846,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            }
+          ]
+        },
+        "headers": {
+          "kix.hf0": {
+            "headerId": "kix.hf0",
+            "content": [
+              {
+                "endIndex": 1,
+                "paragraph": {
+                  "elements": [
+                    {
+                      "endIndex": 1,
+                      "textRun": {
+                        "content": "\n",
+                        "textStyle": {
+                          "italic": false,
+                          "underline": false,
+                          "strikethrough": false,
+                          "smallCaps": false,
+                          "backgroundColor": {},
+                          "foregroundColor": {
+                            "color": {
+                              "rgbColor": {}
+                            }
+                          },
+                          "fontSize": {
+                            "magnitude": 11,
+                            "unit": "PT"
+                          },
+                          "baselineOffset": "NONE"
+                        }
+                      }
+                    }
+                  ],
+                  "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "alignment": "START",
+                    "lineSpacing": 115,
+                    "direction": "LEFT_TO_RIGHT",
+                    "spacingMode": "NEVER_COLLAPSE",
+                    "spaceAbove": {
+                      "unit": "PT"
+                    },
+                    "spaceBelow": {
+                      "magnitude": 7,
+                      "unit": "PT"
+                    },
+                    "borderBetween": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "borderTop": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "borderBottom": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "borderLeft": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "borderRight": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "indentFirstLine": {
+                      "unit": "PT"
+                    },
+                    "indentStart": {
+                      "unit": "PT"
+                    },
+                    "indentEnd": {
+                      "unit": "PT"
+                    },
+                    "tabStops": [
+                      {
+                        "offset": {
+                          "magnitude": 234,
+                          "unit": "PT"
+                        },
+                        "alignment": "CENTER"
+                      },
+                      {
+                        "offset": {
+                          "magnitude": 468,
+                          "unit": "PT"
+                        },
+                        "alignment": "END"
+                      }
+                    ],
+                    "keepLinesTogether": false,
+                    "keepWithNext": false,
+                    "avoidWidowAndOrphan": true,
+                    "shading": {
+                      "backgroundColor": {}
+                    },
+                    "pageBreakBefore": false
+                  }
+                }
+              }
+            ]
+          }
+        },
+        "footers": {
+          "kix.hf1": {
+            "footerId": "kix.hf1",
+            "content": [
+              {
+                "endIndex": 34,
+                "paragraph": {
+                  "elements": [
+                    {
+                      "endIndex": 25,
+                      "textRun": {
+                        "content": "GEC1044 Field Trip Report",
+                        "textStyle": {
+                          "fontSize": {
+                            "magnitude": 11,
+                            "unit": "PT"
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "startIndex": 25,
+                      "endIndex": 32,
+                      "textRun": {
+                        "content": "   |   ",
+                        "textStyle": {
+                          "italic": false,
+                          "underline": false,
+                          "strikethrough": false,
+                          "smallCaps": false,
+                          "backgroundColor": {},
+                          "foregroundColor": {
+                            "color": {
+                              "rgbColor": {}
+                            }
+                          },
+                          "fontSize": {
+                            "magnitude": 11,
+                            "unit": "PT"
+                          },
+                          "baselineOffset": "NONE"
+                        }
+                      }
+                    },
+                    {
+                      "startIndex": 32,
+                      "endIndex": 33,
+                      "autoText": {
+                        "type": "PAGE_NUMBER",
+                        "textStyle": {
+                          "italic": false,
+                          "underline": false,
+                          "strikethrough": false,
+                          "smallCaps": false,
+                          "backgroundColor": {},
+                          "foregroundColor": {
+                            "color": {
+                              "rgbColor": {}
+                            }
+                          },
+                          "fontSize": {
+                            "magnitude": 11,
+                            "unit": "PT"
+                          },
+                          "baselineOffset": "NONE"
+                        }
+                      }
+                    },
+                    {
+                      "startIndex": 33,
+                      "endIndex": 34,
+                      "textRun": {
+                        "content": "\n",
+                        "textStyle": {
+                          "italic": false,
+                          "underline": false,
+                          "strikethrough": false,
+                          "smallCaps": false,
+                          "backgroundColor": {},
+                          "foregroundColor": {
+                            "color": {
+                              "rgbColor": {}
+                            }
+                          },
+                          "fontSize": {
+                            "magnitude": 11,
+                            "unit": "PT"
+                          },
+                          "baselineOffset": "NONE"
+                        }
+                      }
+                    }
+                  ],
+                  "paragraphStyle": {
+                    "namedStyleType": "NORMAL_TEXT",
+                    "alignment": "START",
+                    "lineSpacing": 115,
+                    "direction": "LEFT_TO_RIGHT",
+                    "spacingMode": "NEVER_COLLAPSE",
+                    "spaceAbove": {
+                      "unit": "PT"
+                    },
+                    "spaceBelow": {
+                      "magnitude": 7,
+                      "unit": "PT"
+                    },
+                    "borderBetween": {
+                      "color": {},
+                      "width": {
+                        "unit": "PT"
+                      },
+                      "padding": {
+                        "unit": "PT"
+                      },
+                      "dashStyle": "SOLID"
+                    },
+                    "borderTop": {
+                      "color": {},
+                    

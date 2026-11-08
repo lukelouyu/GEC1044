@@ -1,0 +1,656 @@
+{
+ "n_students": 1000,
+ "calibration": {
+  "b0": 0.28,
+  "sd_resil": 0.2,
+  "s_AD_PAS": 0.35,
+  "k_int": 0.25,
+  "L_bad": 9.5
+ },
+ "scenarios": {
+  "S1 No congee + bad habits": {
+   "Physical_Wellbeing": {
+    "week1": 57.302347111709295,
+    "semester_mean": 44.579426422327714,
+    "finals": 35.378932018134805,
+    "week18": 39.571551444379836
+   },
+   "Mental_Wellbeing": {
+    "week1": 55.16336045794887,
+    "semester_mean": 47.83799217669946,
+    "finals": 42.181327335041864,
+    "week18": 45.05181698235866
+   },
+   "Perceived_Stress": {
+    "week1": 0.288403873306901,
+    "semester_mean": 0.41592806715013514,
+    "finals": 0.5198611769240845,
+    "week18": 0.410510202713796
+   },
+   "Rumination": {
+    "week1": 0.30156169630401697,
+    "semester_mean": 0.44197427200761535,
+    "finals": 0.5433710284548151,
+    "week18": 0.5160323200324739
+   },
+   "Liver_Qi_Stagnation": {
+    "week1": 0.31041854394157575,
+    "semester_mean": 0.4067450428259358,
+    "finals": 0.47459523685771743,
+    "week18": 0.4825730190216442
+   },
+   "Spleen_Function": {
+    "week1": 0.5111498372415628,
+    "semester_mean": 0.47106143661969613,
+    "finals": 0.4361201707163258,
+    "week18": 0.43518914540062736
+   },
+   "Qi_Blood_Generation": {
+    "week1": 0.4853152812058802,
+    "semester_mean": 0.4362857389012899,
+    "finals": 0.39535210442784974,
+    "week18": 0.3934702788922324
+   },
+   "Heart_Blood_Malnourishment": {
+    "week1": 0.39431995188715596,
+    "semester_mean": 0.4169046499433988,
+    "finals": 0.4370441199648453,
+    "week18": 0.4379057812472335
+   },
+   "Calm_Shen": {
+    "week1": 0.5720709632318416,
+    "semester_mean": 0.5145913535266596,
+    "finals": 0.4649267041665237,
+    "week18": 0.4651075466204255
+   },
+   "Sleep_Quality": {
+    "week1": 0.43071841766273733,
+    "semester_mean": 0.305248934510459,
+    "finals": 0.20531835705196327,
+    "week18": 0.2453235346902073
+   },
+   "Fatigue": {
+    "week1": 0.2557599182229347,
+    "semester_mean": 0.45290422520000806,
+    "finals": 0.584683416432042,
+    "week18": 0.49948106393092007
+   },
+   "Body_Awareness": {
+    "week1": 0.0750048013859123,
+    "semester_mean": 0.1293516545766696,
+    "finals": 0.16521164560130375,
+    "week18": 0.1425977168974018
+   },
+   "Mindfulness": {
+    "week1": 0.19999999999999998,
+    "semester_mean": 0.20000000000000004,
+    "finals": 0.19999999999999998,
+    "week18": 0.19999999999999998
+   },
+   "Unhealthy_Habits": {
+    "week1": 0.8479812160428177,
+    "semester_mean": 0.8819760304366229,
+    "finals": 0.9018384332391242,
+    "week18": 0.8998497207558318
+   },
+   "Self_Care_Engagement": {
+    "week1": 0.3568459406216298,
+    "semester_mean": 0.2612622481421679,
+    "finals": 0.19056438307197132,
+    "week18": 0.18385015713035058
+   },
+   "TCM_Practice": {
+    "week1": 0.21395034113654843,
+    "semester_mean": 0.15780610281435148,
+    "finals": 0.11560317945636843,
+    "week18": 0.11103404326358107
+   },
+   "Servings_Eaten": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Cooking_Workload": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Recovery_Break": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Circadian_Disruption": {
+    "week1": 0.2427483982804593,
+    "semester_mean": 0.4916300133687168,
+    "finals": 0.768664984905106,
+    "week18": 0.12137419914022965
+   },
+   "Adherence": {
+    "week1": 0.4585357838195432,
+    "semester_mean": 0.42922108630248346,
+    "finals": 0.41056678458175355,
+    "week18": 0.4089456883761574
+   }
+  },
+  "S2 No congee + healthy lifestyle": {
+   "Physical_Wellbeing": {
+    "week1": 77.64276444753631,
+    "semester_mean": 66.54362657874705,
+    "finals": 55.567955018742175,
+    "week18": 60.25240386679289,
+    "finals_gain_vs_S1_points": 20.248095877317276
+   },
+   "Mental_Wellbeing": {
+    "week1": 64.15724293471095,
+    "semester_mean": 56.299189940369864,
+    "finals": 48.89499436013129,
+    "week18": 51.825749711175945,
+    "finals_gain_vs_S1_points": 7.123042632537917
+   },
+   "Perceived_Stress": {
+    "week1": 0.28963192846791613,
+    "semester_mean": 0.42241526195780954,
+    "finals": 0.534239660718568,
+    "week18": 0.42195808567684434
+   },
+   "Rumination": {
+    "week1": 0.15414164971114971,
+    "semester_mean": 0.29522229520795473,
+    "finals": 0.4156072098362744,
+    "week18": 0.39036498192815217
+   },
+   "Liver_Qi_Stagnation": {
+    "week1": 0.2161207705917018,
+    "semester_mean": 0.3101870140282666,
+    "finals": 0.3872249463654123,
+    "week18": 0.39599392528810373
+   },
+   "Spleen_Function": {
+    "week1": 0.7116100706335493,
+    "semester_mean": 0.6769520271775783,
+    "finals": 0.6134258984673195,
+    "week18": 0.6073788905601769
+   },
+   "Qi_Blood_Generation": {
+    "week1": 0.7147566812838344,
+    "semester_mean": 0.6715170023997385,
+    "finals": 0.6050312735329869,
+    "week18": 0.5979866285339535
+   },
+   "Heart_Blood_Malnourishment": {
+    "week1": 0.29038566054645787,
+    "semester_mean": 0.31059212294957594,
+    "finals": 0.3436952401609738,
+    "week18": 0.34716649031674107
+   },
+   "Calm_Shen": {
+    "week1": 0.7608387943148849,
+    "semester_mean": 0.6892563664569968,
+    "finals": 0.5967352533147547,
+    "week18": 0.5911524858166052
+   },
+   "Sleep_Quality": {
+    "week1": 0.8310378491855519,
+    "semester_mean": 0.7063179580175805,
+    "finals": 0.5686849781646321,
+    "week18": 0.6011760360653444
+   },
+   "Fatigue": {
+    "week1": 0.20018288918912597,
+    "semester_mean": 0.36507919839906244,
+    "finals": 0.4891067507555273,
+    "week18": 0.38734339695089004
+   },
+   "Body_Awareness": {
+    "week1": 0.07697244002386128,
+    "semester_mean": 0.1386640768824527,
+    "finals": 0.18464665366319288,
+    "week18": 0.14637468325812397
+   },
+   "Mindfulness": {
+    "week1": 0.19999999999999998,
+    "semester_mean": 0.20000000000000004,
+    "finals": 0.19999999999999998,
+    "week18": 0.19999999999999998
+   },
+   "Unhealthy_Habits": {
+    "week1": 0.05446298320884922,
+    "semester_mean": 0.0916896466847659,
+    "finals": 0.1233189351801596,
+    "week18": 0.12663608321779757
+   },
+   "Self_Care_Engagement": {
+    "week1": 0.746437308220119,
+    "semester_mean": 0.6633159286533818,
+    "finals": 0.5805154376697719,
+    "week18": 0.5703259589128227
+   },
+   "TCM_Practice": {
+    "week1": 0.44903399104558184,
+    "semester_mean": 0.39884421628825906,
+    "finals": 0.3495349675285343,
+    "week18": 0.34435128565970624
+   },
+   "Servings_Eaten": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Cooking_Workload": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Recovery_Break": {
+    "week1": 0.0,
+    "semester_mean": 0.0,
+    "finals": 0.0,
+    "week18": 0.0
+   },
+   "Circadian_Disruption": {
+    "week1": 0.2427483982804593,
+    "semester_mean": 0.4916300133687168,
+    "finals": 0.768664984905106,
+    "week18": 0.12137419914022965
+   },
+   "Adherence": {
+    "week1": 0.5696733592829268,
+    "semester_mean": 0.5456233986885598,
+    "finals": 0.5213770519002092,
+    "week18": 0.5184298677539194
+   }
+  },
+  "S3 Congee once a week": {
+   "Physical_Wellbeing": {
+    "week1": 77.90600437256242,
+    "semester_mean": 69.27314710154239,
+    "finals": 59.62044036065399,
+    "week18": 64.53166425553924,
+    "finals_gain_vs_S1_points": 24.197319389654076,
+    "finals_gain_vs_S2_points": 3.9492235123368005,
+    "finals_SMD_vs_S2": 0.5881899267038784,
+    "P(better than S2) finals": 1.0
+   },
+   "Mental_Wellbeing": {
+    "week1": 64.51433065987021,
+    "semester_mean": 59.427181191349476,
+    "finals": 52.8355043209137,
+    "week18": 55.99669417477432,
+    "finals_gain_vs_S1_points": 10.788022116405088,
+    "finals_gain_vs_S2_points": 3.664979483867171,
+    "finals_SMD_vs_S2": 0.3468238472259773,
+    "P(better than S2) finals": 1.0
+   },
+   "Perceived_Stress": {
+    "week1": 0.29135300082242455,
+    "semester_mean": 0.4140748986714802,
+    "finals": 0.5238985522976902,
+    "week18": 0.40381539658521004
+   },
+   "Rumination": {
+    "week1": 0.1524624222174033,
+    "semester_mean": 0.2612379727418822,
+    "finals": 0.3707503761521589,
+    "week18": 0.347787416515033
+   },
+   "Liver_Qi_Stagnation": {
+    "week1": 0.21625182923475783,
+    "semester_mean": 0.29558973172616854,
+    "finals": 0.36727418150955504,
+    "week18": 0.379921236406798
+   },
+   "Spleen_Function": {
+    "week1": 0.7142303597431565,
+    "semester_mean": 0.7146939126805647,
+    "finals": 0.6653788392584512,
+    "week18": 0.661068050123682
+   },
+   "Qi_Blood_Generation": {
+    "week1": 0.717538968159871,
+    "semester_mean": 0.7057882243455464,
+    "finals": 0.6533319977261645,
+    "week18": 0.6471101998743796
+   },
+   "Heart_Blood_Malnourishment": {
+    "week1": 0.289305242488459,
+    "semester_mean": 0.2927376336759166,
+    "finals": 0.3151458463831984,
+    "week18": 0.3186159141491275
+   },
+   "Calm_Shen": {
+    "week1": 0.7637049334860406,
+    "semester_mean": 0.7237807805715241,
+    "finals": 0.6460735288190836,
+    "week18": 0.6395244488615285
+   },
+   "Sleep_Quality": {
+    "week1": 0.8320451432413789,
+    "semester_mean": 0.7383207994107759,
+    "finals": 0.6148223222709333,
+    "week18": 0.6489509534998912
+   },
+   "Fatigue": {
+    "week1": 0.19769288291002146,
+    "semester_mean": 0.34485540232602374,
+    "finals": 0.4601942550568434,
+    "week18": 0.3501117557650444
+   },
+   "Body_Awareness": {
+    "week1": 0.08062992268548133,
+    "semester_mean": 0.15704542887251238,
+    "finals": 0.21029506089898897,
+    "week18": 0.16048608475776382
+   },
+   "Mindfulness": {
+    "week1": 0.21137996273871706,
+    "semester_mean": 0.23757384131266812,
+    "finals": 0.24127855351469968,
+    "week18": 0.24114508179843103
+   },
+   "Unhealthy_Habits": {
+    "week1": 0.053849653562065655,
+    "semester_mean": 0.08249565415993548,
+    "finals": 0.10916197809755979,
+    "week18": 0.11186853391564555
+   },
+   "Self_Care_Engagement": {
+    "week1": 0.7470345795672582,
+    "semester_mean": 0.6892084553243021,
+    "finals": 0.615676256125242,
+    "week18": 0.6065509795155064
+   },
+   "TCM_Practice": {
+    "week1": 0.4496392588124712,
+    "semester_mean": 0.41384310554001347,
+    "finals": 0.37192675510533296,
+    "week18": 0.3670947602442036
+   },
+   "Servings_Eaten": {
+    "week1": 1.1581540444884606,
+    "semester_mean": 1.450382262785892,
+    "finals": 1.4984519475628568,
+    "week18": 1.5118949436003382
+   },
+   "Cooking_Workload": {
+    "week1": 0.7217645185613197,
+    "semester_mean": 0.9040648922848615,
+    "finals": 0.9289410506953037,
+    "week18": 0.9381107015871928
+   },
+   "Recovery_Break": {
+    "week1": 0.22720062861201917,
+    "semester_mean": 0.2680809742190653,
+    "finals": 0.2753019043259698,
+    "week18": 0.27734209991287107
+   },
+   "Circadian_Disruption": {
+    "week1": 0.2427483982804593,
+    "semester_mean": 0.4916300133687168,
+    "finals": 0.768664984905106,
+    "week18": 0.12137419914022965
+   },
+   "Adherence": {
+    "week1": 0.5790770222442303,
+    "semester_mean": 0.725191131392946,
+    "finals": 0.7492259737814284,
+    "week18": 0.7559474718001691
+   }
+  },
+  "S4 Congee every day": {
+   "Physical_Wellbeing": {
+    "week1": 78.13021085026094,
+    "semester_mean": 71.27400235968128,
+    "finals": 62.289957444484486,
+    "week18": 67.30384678887054,
+    "finals_gain_vs_S1_points": 26.66897815032886,
+    "finals_gain_vs_S2_points": 6.4208822730115855,
+    "finals_SMD_vs_S2": 0.9563141366243415,
+    "P(better than S2) finals": 1.0
+   },
+   "Mental_Wellbeing": {
+    "week1": 64.79408210069414,
+    "semester_mean": 61.275402178805685,
+    "finals": 54.58586663612578,
+    "week18": 57.955141877820736,
+    "finals_gain_vs_S1_points": 12.53414351619221,
+    "finals_gain_vs_S2_points": 5.411100883654292,
+    "finals_SMD_vs_S2": 0.5120625734626578,
+    "P(better than S2) finals": 1.0
+   },
+   "Perceived_Stress": {
+    "week1": 0.29567726092050595,
+    "semester_mean": 0.42158367771695854,
+    "finals": 0.5401351720265009,
+    "week18": 0.4081832949709574
+   },
+   "Rumination": {
+    "week1": 0.1522638322879904,
+    "semester_mean": 0.24627692436949944,
+    "finals": 0.35682719326005174,
+    "week18": 0.3301928867680882
+   },
+   "Liver_Qi_Stagnation": {
+    "week1": 0.2165821088704059,
+    "semester_mean": 0.2903074208385212,
+    "finals": 0.36108612990154276,
+    "week18": 0.3743783245476301
+   },
+   "Spleen_Function": {
+    "week1": 0.7181664896279445,
+    "semester_mean": 0.7407391205242976,
+    "finals": 0.6984375574617736,
+    "week18": 0.69363490367037
+   },
+   "Qi_Blood_Generation": {
+    "week1": 0.7204021341472184,
+    "semester_mean": 0.728551743219663,
+    "finals": 0.6827454165778927,
+    "week18": 0.6778775269088384
+   },
+   "Heart_Blood_Malnourishment": {
+    "week1": 0.28787298223031976,
+    "semester_mean": 0.283469308987505,
+    "finals": 0.30399268200437457,
+    "week18": 0.3056468122760302
+   },
+   "Calm_Shen": {
+    "week1": 0.765824867746511,
+    "semester_mean": 0.7447437632639727,
+    "finals": 0.6753667478510392,
+    "week18": 0.6721152862572727
+   },
+   "Sleep_Quality": {
+    "week1": 0.83290724517825,
+    "semester_mean": 0.7612672487792137,
+    "finals": 0.6447780376503294,
+    "week18": 0.6798296914825687
+   },
+   "Fatigue": {
+    "week1": 0.19536876042906337,
+    "semester_mean": 0.3308570246684833,
+    "finals": 0.4405606982490293,
+    "week18": 0.3270526055575728
+   },
+   "Body_Awareness": {
+    "week1": 0.0846767128988701,
+    "semester_mean": 0.1735906056290749,
+    "finals": 0.23145819166869291,
+    "week18": 0.1730166644199993
+   },
+   "Mindfulness": {
+    "week1": 0.22407664509473035,
+    "semester_mean": 0.27409853602503587,
+    "finals": 0.27888403844134313,
+    "week18": 0.27848200379688337
+   },
+   "Unhealthy_Habits": {
+    "week1": 0.05238277885299913,
+    "semester_mean": 0.0731498063499474,
+    "finals": 0.09523238664711925,
+    "week18": 0.09776703444428786
+   },
+   "Self_Care_Engagement": {
+    "week1": 0.7481101914065547,
+    "semester_mean": 0.7062818072019794,
+    "finals": 0.6381976569276042,
+    "week18": 0.6289269963182433
+   },
+   "TCM_Practice": {
+    "week1": 0.45023288636582265,
+    "semester_mean": 0.42428147701073776,
+    "finals": 0.38531858616980985,
+    "week18": 0.38035202199791873
+   },
+   "Servings_Eaten": {
+    "week1": 3.695455923200437,
+    "semester_mean": 4.375463043982726,
+    "finals": 4.310889323242488,
+    "week18": 4.499863782236774
+   },
+   "Cooking_Workload": {
+    "week1": 2.286429859458304,
+    "semester_mean": 2.7470544481916064,
+    "finals": 2.691234143294876,
+    "week18": 2.8126754065757735
+   },
+   "Recovery_Break": {
+    "week1": 0.4820306285820365,
+    "semester_mean": 0.5244404694004403,
+    "finals": 0.5241264548232161,
+    "week18": 0.5347173344512872
+   },
+   "Circadian_Disruption": {
+    "week1": 0.2427483982804593,
+    "semester_mean": 0.4916300133687168,
+    "finals": 0.768664984905106,
+    "week18": 0.12137419914022965
+   },
+   "Adherence": {
+    "week1": 0.5279222747429195,
+    "semester_mean": 0.6250661491403893,
+    "finals": 0.615841331891784,
+    "week18": 0.6428376831766822
+   }
+  }
+ },
+ "P(S4 > S3) finals mental": 0.993,
+ "P(S4 > S3) finals physical": 1.0,
+ "cooking hours per week (median, semester)": {
+  "S3 Congee once a week": 0.9040648922848615,
+  "S4 Congee every day": 2.7470544481916064
+ },
+ "servings eaten per week (median, semester)": {
+  "S3 Congee once a week": 1.450382262785892,
+  "S4 Congee every day": 4.375463043982726
+ },
+ "constitution_finals": {
+  "S1 No congee + bad habits": {
+   "Balanced": {
+    "Physical_Wellbeing": 35.378932018134805,
+    "Mental_Wellbeing": 42.181327335041864,
+    "Sleep_Quality": 0.20531835705196327,
+    "Fatigue": 0.584683416432042
+   },
+   "Yin deficiency": {
+    "Physical_Wellbeing": 30.48237477248299,
+    "Mental_Wellbeing": 40.49084692957944,
+    "Sleep_Quality": 0.04532894980526306,
+    "Fatigue": 0.6106969566837077
+   },
+   "Yang deficiency": {
+    "Physical_Wellbeing": 31.16677543421481,
+    "Mental_Wellbeing": 40.98160497542476,
+    "Sleep_Quality": 0.19857660623988196,
+    "Fatigue": 0.6797431778104911
+   }
+  },
+  "S2 No congee + healthy lifestyle": {
+   "Balanced": {
+    "Physical_Wellbeing": 55.567955018742175,
+    "Mental_Wellbeing": 48.89499436013129,
+    "Sleep_Quality": 0.5686849781646321,
+    "Fatigue": 0.4891067507555273
+   },
+   "Yin deficiency": {
+    "Physical_Wellbeing": 50.37074045538918,
+    "Mental_Wellbeing": 47.04735719058348,
+    "Sleep_Quality": 0.41708833020912617,
+    "Fatigue": 0.5114987672445317
+   },
+   "Yang deficiency": {
+    "Physical_Wellbeing": 50.391755632338054,
+    "Mental_Wellbeing": 46.984461949001584,
+    "Sleep_Quality": 0.5489406081656494,
+    "Fatigue": 0.592996828959205
+   }
+  },
+  "S3 Congee once a week": {
+   "Balanced": {
+    "Physical_Wellbeing": 59.62044036065399,
+    "Mental_Wellbeing": 52.8355043209137,
+    "Sleep_Quality": 0.6148223222709333,
+    "Fatigue": 0.4601942550568434
+   },
+   "Yin deficiency": {
+    "Physical_Wellbeing": 54.74062829619571,
+    "Mental_Wellbeing": 51.02925002449042,
+    "Sleep_Quality": 0.4648540302353159,
+    "Fatigue": 0.47848786484469097
+   },
+   "Yang deficiency": {
+    "Physical_Wellbeing": 54.409316813046324,
+    "Mental_Wellbeing": 50.84543694694864,
+    "Sleep_Quality": 0.5951376321170317,
+    "Fatigue": 0.5630347798084281
+   }
+  },
+  "S4 Congee every day": {
+   "Balanced": {
+    "Physical_Wellbeing": 62.289957444484486,
+    "Mental_Wellbeing": 54.58586663612578,
+    "Sleep_Quality": 0.6447780376503294,
+    "Fatigue": 0.4405606982490293
+   },
+   "Yin deficiency": {
+    "Physical_Wellbeing": 57.56575830578829,
+    "Mental_Wellbeing": 52.99541087008811,
+    "Sleep_Quality": 0.4989380184183127,
+    "Fatigue": 0.4572177886510671
+   },
+   "Yang deficiency": {
+    "Physical_Wellbeing": 57.25953645976835,
+    "Mental_Wellbeing": 52.6922990137065,
+    "Sleep_Quality": 0.6257723711869977,
+    "Fatigue": 0.5416001885450503
+   }
+  }
+ },
+ "NUS_checks_typical_student": {
+  "elevated_stress_wk11_14": {
+   "target": 0.53,
+   "model": 0.5225
+  },
+  "mean_stress_wk11_14": {
+   "target": 0.454,
+   "model": 0.5121012552180424
+  },
+  "WHO5_mean": {
+   "target": 54.9,
+   "model": 54.07085560348708
+  },
+  "poor_wellbeing_share": {
+   "target": 0.377,
+   "model": 0.36811764705882355
+  },
+  "lifestyle_gap_S2_minus_S1": {
+   "target": 8.66,
+   "model": 8.481646107499564
+  }
+ }
+}

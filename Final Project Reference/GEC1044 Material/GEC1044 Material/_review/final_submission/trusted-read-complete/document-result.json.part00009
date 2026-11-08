@@ -1,0 +1,320 @@
+   ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 11445,
+              "endIndex": 11450,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11445,
+                    "endIndex": 11446,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.c359rnuto9ey",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 11446,
+                    "endIndex": 11448,
+                    "textRun": {
+                      "content": "  ",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 11448,
+                    "endIndex": 11449,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.8uejwrks5qo0",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 11449,
+                    "endIndex": 11450,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 4,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true,
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 11450,
+              "endIndex": 11491,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11450,
+                    "endIndex": 11491,
+                    "textRun": {
+                      "content": "5.3 Different shoppers in a shared space\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.vyrkt5rzphf",
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 11491,
+              "endIndex": 11926,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11491,
+                    "endIndex": 11926,
+                    "textRun": {
+                      "content": "The staff member described most customers as Chinese, adding that some Malay customers bought dessert ingredients and some Indian customers bought nuts. These everyday foods may give different communities familiar reasons to enter a medicine hall without requiring shared knowledge of TCM. The mix of foods and medicinal products suggests that the shop can serve overlapping household purposes, rather than a single cultural practice.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 11926,
+              "endIndex": 12393,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 11926,
+                    "endIndex": 12392,
+                    "textRun": {
+                      "content": "Course material on senna shows that the same plant can have different meanings in Chinese and Malay medicine (GEC1044 Lecture 5, n.d.). This provides a way to interpret the shared space: access to similar materials need not imply identical understandings of health or use. However, purchases alone cannot establish cultural exchange or shoppers’ beliefs. Customer interviews would be needed to understand whether people regard the products as food, medicine or both.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 12392,
+                    "endIndex": 12393,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 12393,
+              "endIndex": 12439,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 12393,
+                    "endIndex": 12439,
+                    "textRun": {
+                      "content": "6 Retail adaptation and individual assessment\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 12439,
+              "endIndex": 12885,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 12439,
+                    "endIndex": 12884,
+                    "textRun": {
+                      "content": "Food gives herbs a household purpose, prepared packs reduce effort, and packaging communicates reported uses. Local branding and confirmed manufacture connect products with Singapore’s retail setting. Unschuld (2018) describes medicine adapting to social and political environments; Yang (2022) traces Singapore’s modernisation through state, professional and religious influences. Together, these accounts frame the shop’s everyday adaptations.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 12884,
+                    "endIndex": 12885,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 12885,
+              "endIndex": 13426,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 12885,
+                    "endIndex": 13426,
+                    "textRun": {
+                      "content": "Retail access remains distinct from treatment. PolyU’s reference profile lists ginseng as neutral (Table A1) and American ginseng as cool and Yin-nourishing; staff associations between fatigue and tonics (Table A6) cannot establish suitability. Pattern differentiation (辨证论治) requires fuller assessment of signs and symptoms (WHO, 2022). Nearly 40% of TCM u

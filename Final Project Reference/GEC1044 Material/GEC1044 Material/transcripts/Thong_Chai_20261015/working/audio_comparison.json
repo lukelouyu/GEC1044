@@ -1,0 +1,208 @@
+{
+  "obsidian": {
+    "source": "C:\\Users\\lukel\\OneDrive\\Documents\\Luke Obsidian\\Luke's Vault\\99 Attachments\\Recording 20261015164725.m4a",
+    "duration": 4442.26,
+    "metadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "opus",
+          "codec_long_name": "Opus (Opus Interactive Audio Codec)",
+          "codec_type": "audio",
+          "codec_tag_string": "Opus",
+          "codec_tag": "0x7375704f",
+          "mime_codec_string": "opus",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 1,
+          "channel_layout": "mono",
+          "bits_per_sample": 0,
+          "initial_padding": 3840,
+          "id": "0x1",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 0,
+          "start_time": "0.000000",
+          "duration_ts": 213230564,
+          "duration": "4442.303417",
+          "bit_rate": "127973",
+          "extradata_size": 19,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2026-10-15T08:47:25.000000Z",
+            "language": "und",
+            "handler_name": "SoundHandler"
+          }
+        }
+      ],
+      "format": {
+        "filename": "C:\\Users\\lukel\\OneDrive\\Documents\\Luke Obsidian\\Luke's Vault\\99 Attachments\\Recording 20261015164725.m4a",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.000000",
+        "duration": "4442.303417",
+        "size": "71603854",
+        "bit_rate": "128949",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "isom",
+          "minor_version": "512",
+          "compatible_brands": "isomiso6iso2vp09mp41",
+          "creation_time": "2026-10-15T08:47:25.000000Z"
+        }
+      }
+    },
+    "pcm_rms_db": -23.674161911010742,
+    "peak": 1.0,
+    "samples_near_full_scale_fraction": 1.6601909838685713e-06,
+    "rms_10ms_quantiles": [
+      0.0026053297333419323,
+      0.008429114939644933,
+      0.023175116628408432,
+      0.055414498783648014,
+      0.14146022871136665
+    ]
+  },
+  "backup": {
+    "source": "C:\\Users\\lukel\\Downloads\\Singapore Thong Chai Medical Institution.m4a",
+    "duration": 4400.64,
+    "metadata": {
+      "streams": [
+        {
+          "index": 0,
+          "codec_name": "aac",
+          "codec_long_name": "AAC (Advanced Audio Coding)",
+          "profile": "LC",
+          "codec_type": "audio",
+          "codec_tag_string": "mp4a",
+          "codec_tag": "0x6134706d",
+          "mime_codec_string": "mp4a.40.2",
+          "sample_fmt": "fltp",
+          "sample_rate": "48000",
+          "channels": 2,
+          "channel_layout": "stereo",
+          "bits_per_sample": 0,
+          "initial_padding": 2112,
+          "id": "0x1",
+          "r_frame_rate": "0/0",
+          "avg_frame_rate": "0/0",
+          "time_base": "1/48000",
+          "start_pts": 2112,
+          "start_time": "0.044000",
+          "duration_ts": 211233792,
+          "duration": "4400.704000",
+          "bit_rate": "125899",
+          "nb_frames": "206283",
+          "extradata_size": 2,
+          "disposition": {
+            "default": 1,
+            "dub": 0,
+            "original": 0,
+            "comment": 0,
+            "lyrics": 0,
+            "karaoke": 0,
+            "forced": 0,
+            "hearing_impaired": 0,
+            "visual_impaired": 0,
+            "clean_effects": 0,
+            "attached_pic": 0,
+            "timed_thumbnails": 0,
+            "non_diegetic": 0,
+            "captions": 0,
+            "descriptions": 0,
+            "metadata": 0,
+            "dependent": 0,
+            "still_image": 0,
+            "multilayer": 0
+          },
+          "tags": {
+            "creation_time": "2026-10-15T16:32:42.000000Z",
+            "language": "und",
+            "handler_name": "Core Media Audio"
+          }
+        }
+      ],
+      "format": {
+        "filename": "C:\\Users\\lukel\\Downloads\\Singapore Thong Chai Medical Institution.m4a",
+        "nb_streams": 1,
+        "nb_programs": 0,
+        "nb_stream_groups": 0,
+        "format_name": "mov,mp4,m4a,3gp,3g2,mj2",
+        "format_long_name": "QuickTime / MOV",
+        "start_time": "0.044000",
+        "duration": "4400.704000",
+        "size": "71226580",
+        "bit_rate": "129482",
+        "probe_score": 100,
+        "tags": {
+          "major_brand": "M4A ",
+          "minor_version": "0",
+          "compatible_brands": "M4A isommp42",
+          "creation_time": "2026-10-15T16:32:42.000000Z",
+          "iTunSMPB": " 00000000 00000840 000003C0 000000000C972000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000"
+        }
+      }
+    },
+    "pcm_rms_db": -30.783672332763672,
+    "peak": 0.994293212890625,
+    "samples_near_full_scale_fraction": 0.0,
+    "rms_10ms_quantiles": [
+      0.004228193848393858,
+      0.009308181703090668,
+      0.016602540388703346,
+      0.028527700807899237,
+      0.05595326609909534
+    ]
+  },
+  "alignment_samples": [
+    {
+      "backup_start": 0,
+      "obsidian_minus_backup_seconds": 44.44,
+      "envelope_correlation": 0.8628872313935937
+    },
+    {
+      "backup_start": 600,
+      "obsidian_minus_backup_seconds": 44.440000000000055,
+      "envelope_correlation": 0.7313911465525985
+    },
+    {
+      "backup_start": 1800,
+      "obsidian_minus_backup_seconds": 44.440000000000055,
+      "envelope_correlation": 0.6399035575785811
+    },
+    {
+      "backup_start": 3000,
+      "obsidian_minus_backup_seconds": 44.440000000000055,
+      "envelope_correlation": 0.7988037537126735
+    },
+    {
+      "backup_start": 4200,
+      "obsidian_minus_backup_seconds": 44.4399999999996,
+      "envelope_correlation": 0.7954029692589887
+    }
+  ]
+}

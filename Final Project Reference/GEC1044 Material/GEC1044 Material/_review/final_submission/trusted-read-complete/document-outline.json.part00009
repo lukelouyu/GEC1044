@@ -1,0 +1,427 @@
+,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 0
+      },
+      "text": "红枣／大枣 Hong Zao / Da Zao",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00188",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21604,
+      "endIndex": 21629,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 0
+      },
+      "text": "[Red dates/jujube (fruit)](https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-date)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00189",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21630,
+      "endIndex": 21642,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 1
+      },
+      "text": "Sweet; warm",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00190",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21643,
+      "endIndex": 21659,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 2
+      },
+      "text": "Spleen, Stomach",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00191",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21660,
+      "endIndex": 21715,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 3
+      },
+      "text": "Tonifies middle Qi; nourishes Blood; calms the spirit.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00192",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21716,
+      "endIndex": 21789,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 4
+      },
+      "text": "Poor appetite, tiredness and loose stools in Spleen-deficiency patterns.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00193",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21791,
+      "endIndex": 21793,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.e4edbc7lb6bt]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00194",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21793,
+      "endIndex": 21807,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 0
+      },
+      "text": "枸杞子 Gou Qi Zi",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00195",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21807,
+      "endIndex": 21830,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 0
+      },
+      "text": "Goji/wolfberry[(fruit)](https://herbaltcm.sn.polyu.edu.hk/herbal/barbary-wolfberry-fruit)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00196",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[0].content[3]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21830,
+      "endIndex": 21831,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 0
+      },
+      "text": "",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00197",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21832,
+      "endIndex": 21847,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 1
+      },
+      "text": "Sweet; neutral",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00198",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21848,
+      "endIndex": 21862,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 2
+      },
+      "text": "Liver, Kidney",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00199",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21863,
+      "endIndex": 21929,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 3
+      },
+      "text": "Nourishes Liver and Kidney; replenishes essence; supports vision.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00200",
+      "path": "tabs.t.0.body.content[128].table.rows[8].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21930,
+      "endIndex": 22027,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 8,
+        "columnIndex": 4
+      },
+      "text": "Dizziness, aching lower back and knees, and impaired vision in Liver–Kidney deficiency patterns.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00201",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22029,
+      "endIndex": 22031,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.udc3kpuq6j34]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00202",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22031,
+      "endIndex": 22047,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 0
+      },
+      "text": "罗汉果 Luo Han Guo",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00203",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22047,
+      "endIndex": 22066,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 0
+      },
+      "text": "[Monk fruit (fruit)](https://herbaltcm.sn.polyu.edu.hk/herbal/grosvenor-momordica-fruit)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00204",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22067,
+      "endIndex": 22079,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 1
+      },
+      "text": "Sweet; cool",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00205",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22080,
+      "endIndex": 22102,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 2
+      },
+      "text": "Lung, Large Intestine",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00206",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22103,
+      "endIndex": 22158,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 3
+      },
+      "text": "Clears heat; moistens Lung; lubricates the intestines.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00207",
+      "path": "tabs.t.0.body.content[128].table.rows[9].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22159,
+      "endIndex": 22257,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 9,
+        "columnIndex": 4
+      },
+      "text": "Dry cough, sore throat and hoarseness in Lung-heat dryness; constipation from intestinal dryness.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00208",
+      "path": "tabs.t.0.body.content[129]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 22258,
+      "endIndex": 22440,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": null,
+      "text": "Sources (text): staff interview; PolyU C

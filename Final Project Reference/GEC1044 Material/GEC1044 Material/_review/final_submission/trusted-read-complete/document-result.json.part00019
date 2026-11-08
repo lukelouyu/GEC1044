@@ -1,0 +1,352 @@
+}
+            },
+            {
+              "startIndex": 18248,
+              "endIndex": 18296,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18248,
+                    "endIndex": 18289,
+                    "textRun": {
+                      "content": "Ministry of Health. (2026, February 10). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18289,
+                    "endIndex": 18294,
+                    "textRun": {
+                      "content": "About",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://hpp.moh.gov.sg/tcm-practitioners/about/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18294,
+                    "endIndex": 18296,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18296,
+              "endIndex": 18360,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18296,
+                    "endIndex": 18329,
+                    "textRun": {
+                      "content": "National Heritage Board. (n.d.). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18329,
+                    "endIndex": 18351,
+                    "textRun": {
+                      "content": "Hougang heritage trail",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.roots.gov.sg/places/places-landing/trails/Hougang-Heritage-Trail"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18351,
+                    "endIndex": 18360,
+                    "textRun": {
+                      "content": ". Roots.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18360,
+              "endIndex": 18434,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18360,
+                    "endIndex": 18391,
+                    "textRun": {
+                      "content": "National Parks Board. (2022a). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18391,
+                    "endIndex": 18413,
+                    "textRun": {
+                      "content": "Opuntia cochenillifera",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.nparks.gov.sg/florafaunaweb/flora/2/2/2281"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18413,
+                    "endIndex": 18434,
+                    "textRun": {
+                      "content": ". Flora & Fauna Web.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18434,
+              "endIndex": 18506,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18434,
+                    "endIndex": 18465,
+                    "textRun": {
+                      "content": "National Parks Board. (2022b). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18465,
+                    "endIndex": 18485,
+                    "textRun": {
+                      "content": "Siraitia grosvenorii",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.nparks.gov.sg/florafaunaweb/flora/7/0/7027"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18485,
+                    "endIndex": 18506,
+                    "textRun": {
+                      "content": ". Flora & Fauna Web.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18506,
+              "endIndex": 18576,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18506,
+                    "endIndex": 18536,
+                    "textRun": {
+                      "content": "National Parks Board. (2023). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+        

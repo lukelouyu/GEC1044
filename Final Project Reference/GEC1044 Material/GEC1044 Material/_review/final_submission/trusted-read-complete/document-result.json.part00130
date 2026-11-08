@@ -1,0 +1,49 @@
+                  "color": {
+                      "rgbColor": {}
+                    }
+                  },
+                  "width": {
+                    "unit": "PT"
+                  },
+                  "dashStyle": "SOLID",
+                  "propertyState": "NOT_RENDERED"
+                },
+                "size": {
+                  "height": {
+                    "magnitude": 51.84000000000001,
+                    "unit": "PT"
+                  },
+                  "width": {
+                    "magnitude": 77.76,
+                    "unit": "PT"
+                  }
+                },
+                "marginTop": {
+                  "magnitude": 9,
+                  "unit": "PT"
+                },
+                "marginBottom": {
+                  "magnitude": 9,
+                  "unit": "PT"
+                },
+                "marginRight": {
+                  "magnitude": 9,
+                  "unit": "PT"
+                },
+                "marginLeft": {
+                  "magnitude": 9,
+                  "unit": "PT"
+                }
+              }
+            }
+          }
+        },
+        "positionedObjects": null,
+        "documentId": "1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+        "document_url": "https://docs.google.com/document/d/1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo"
+      }
+    ],
+    "document_url": "https://docs.google.com/document/d/1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo"
+  },
+  "isError": false
+}

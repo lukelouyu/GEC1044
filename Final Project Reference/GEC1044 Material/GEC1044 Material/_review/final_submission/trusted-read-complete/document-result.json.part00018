@@ -1,0 +1,336 @@
+               "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 17693,
+              "endIndex": 17816,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 17693,
+                    "endIndex": 17724,
+                    "textRun": {
+                      "content": "Kumari, J. (2024, January 24). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17724,
+                    "endIndex": 17799,
+                    "textRun": {
+                      "content": "68% of Singapore workers experience weekly stress at the workplace: Survey.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://sea.peoplemattersglobal.com/news/organisational-culture/68-of-singapore-workers-experience-weekly-stress-at-the-workplace-survey-40095"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17799,
+                    "endIndex": 17816,
+                    "textRun": {
+                      "content": " People Matters.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 17816,
+              "endIndex": 18000,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 17816,
+                    "endIndex": 17949,
+                    "textRun": {
+                      "content": "Lim, M. K., Sadarangani, P., Chan, H. L., & Heng, J. Y. (2005). Complementary and alternative medicine use in multiracial Singapore. ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17949,
+                    "endIndex": 17988,
+                    "textRun": {
+                      "content": "Complementary Therapies in Medicine, 13",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://doi.org/10.1016/j.ctim.2004.11.002"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 17988,
+                    "endIndex": 18000,
+                    "textRun": {
+                      "content": "(1), 16–24.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18000,
+              "endIndex": 18064,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18000,
+                    "endIndex": 18042,
+                    "textRun": {
+                      "content": "Meteorological Service Singapore. (n.d.). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18042,
+                    "endIndex": 18063,
+                    "textRun": {
+                      "content": "Climate of Singapore.",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.weather.gov.sg/climate-climate-of-singapore"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18063,
+                    "endIndex": 18064,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "italic": true,
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              }
+            },
+            {
+              "startIndex": 18064,
+              "endIndex": 18248,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 18064,
+                    "endIndex": 18100,
+                    "textRun": {
+                      "content": "Ministry of Health. (2025, July 6). ",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18100,
+                    "endIndex": 18246,
+                    "textRun": {
+                      "content": "Speech by Mr Ong Ye Kung, Minister for Health, at the forum on the use of evidence-based Traditional Chinese Medicine in Western medicine practice",
+                      "textStyle": {
+                        "italic": true,
+                        "underline": true,
+                        "foregroundColor": {
+                          "color": {
+                            "rgbColor": {
+                              "red": 0.06666667,
+                              "green": 0.33333334,
+                              "blue": 0.8
+                            }
+                          }
+                        },
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        },
+                        "link": {
+                          "url": "https://www.moh.gov.sg/newsroom/speech-by-mr-ong-ye-kung--minister-for-health--at-the-forum-on-the-use-of-evidence-based-traditional-chinese-medicine-in-western-medicine-practice/"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 18246,
+                    "endIndex": 18248,
+                    "textRun": {
+                      "content": ".\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "indentFirstLine": {
+                    "unit": "PT"
+                  },
+                  "indentStart": {
+                    "magnitude": 36,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": false
+                }
+              

@@ -1,0 +1,122 @@
+
+===== SHEET Field Work Groups =====
+Group S/N	Tutorial Section	Town	Group Leader	
+TD1-01	TD1	裕廊东（Jurong East）	Eleena Yeong Kit Yi	
+TD1-02	TD1	后港（Hougang）	Katrina Yeo	
+TD1-03	TD1	小印度（Little India）	Lee Tian Hui	
+TD1-04	TD1	四美（Simei）	Khoo Shi Xian	
+TD1-05	TD1	兀兰（Woodlands）	Shervon Teo Jie Ling	
+TD2-01	TD2	武吉士（Bugis）	Ng Zu Hui	
+TD2-02	TD2	宏茂桥（Ang Mo Kio）	Yu Yu Xin, Vanessa	
+TD2-03	TD2	四美（Simei）	Jonas Lim Jun Hao	
+TD2-04	TD2	三巴旺（Sembawang）	Ng Shi Hui Faith	
+TD2-05	TD2	裕廊东（Jurong East）	Tom Lin	
+TD3-01	TD3	裕廊东（Jurong East）	NG ZING HNG	
+TD3-02	TD3	后港（Hougang）	LOU YU	
+TD3-03	TD3	三巴旺（Sembawang）	TEO YUN YAO YOSON	
+TD3-04	TD3	加东/如切（Katong/Joo Chiat）	LEE YEN LYN	
+TD3-05	TD3	小印度（Little India）	CHOONG SHU TYNG PHOEBE	
+TD4-01	TD4	武吉巴督（Bukit Batok）	TAN SU YUN	
+TD4-02	TD4	牛车水（Chinatown）	CHUA WENFENG, JOVAN	
+TD4-03	TD4	淡滨尼（Tampines）	JUSTIN EE	
+TD4-04	TD4	碧山（Bishan）	JARREN OH MING RUI	
+TD4-05	TD4	义顺（Yishun）	IVAN CHUA ZHANG XUEN	
+TD5-01	TD5	四美（Simei）	ERNEST YONG RUI SHENG	
+TD5-02	TD5	金文泰（Clementi）	SOH JUN WEI	
+TD5-03	TD5	兀兰（Woodlands）	CHIA SINGTHAI	
+TD5-04	TD5	宏茂桥（Ang Mo Kio）	SAW YOON NWE	
+TD5-05	TD5	小印度（Little India）	TAN YING XUAN	
+TD6-01	TD6	碧山（Bishan）	Ow Zheng Wei	
+TD6-02	TD6	裕廊西（Jurong West）	Abdur Rauf Bin Muhammad   	
+TD6-03	TD6	武吉士（Bugis）	Yang Hanming 	
+TD6-04	TD6	淡滨尼（Tampines）	Muhammad Syahid Bin Faries  	
+TD6-05	TD6	义顺（Yishun）	Chong Wei Jun  	
+TD7-01	TD7	牛车水（Chinatown）	Tan Yi Yang 	
+TD7-02	TD7	义顺（Yishun）	Moon Joonchul  	
+TD7-03	TD7	裕廊西（Jurong West）	Charlotte Tan Le Xing  	
+TD7-04	TD7	淡滨尼（Tampines）	Ng Qian Wei Winnie  	
+TD7-05	TD7	大巴窑（Toa Payoh）	Nicholas Ling Zong Yi 	
+TD8-01	TD8	裕廊东（Jurong East）	Ethan Ezra Tan	
+TD8-02	TD8	三巴旺（Sembawang）	Trumov Darmen	
+TD8-03	TD8	武吉士（Bugis）	Lin Tao	
+TD8-04	TD8	四美（Simei）	Zhu Gong Elisa	
+TD8-05	TD8	宏茂桥（Ang Mo Kio）	Xu Li Ya	
+TD9-01	TD9	牛车水（Chinatown）	Li Xunanming	
+TD9-02	TD9	三巴旺（Sembawang）	Luan Yusen	
+TD9-03	TD9	淡滨尼（Tampines）	Jovan Yee	
+TD9-04	TD9	裕廊东（Jurong East）	Noel Ng Shang Hang	
+TD9-05	TD9	宏茂桥（Ang Mo Kio）	Goh Sze Ting	
+TD10-01	TD10	榜鹅（Punggol）	Dwayne Ho Sheng Yuan	
+TD10-02	TD10	蔡厝港（Choa Chu Kang）	Annie Dai	
+TD10-03	TD10	汤申（Thomson）	Na Jie Qi Nicole	
+TD10-04	TD10	勿洛（Bedok）	Erin Lim Chen Yi	
+TD10-05	TD10	中峇鲁（Tiong Bahru）	Zachary Alexander Lim Yi Shen	
+TD11-01	TD11	榜鹅（Punggol）	Ang Cheng Yang, Calvin	
+TD11-02	TD11	蔡厝港（Choa Chu Kang）	Beal Ng	
+TD11-03	TD11	中峇鲁（Tiong Bahru）	Summer Bergenfield	
+TD11-04	TD11	勿洛（Bedok）	Ng Yang Jie	
+TD11-05	TD11	汤申（Thomson）	Trista Tan Xuan Yun	
+TD12-01	TD12	勿洛（Bedok）	Wang Ziheng	
+TD12-02	TD12	榜鹅（Punggol）	Jovan Ng Chengen	
+TD12-03	TD12	小印度（Little India）	Wesley Ong Li Cheng	
+TD12-04	TD12	裕廊西（Jurong West）	Jensen Kuok Thai Hock	
+TD12-05	TD12	汤申（Thomson）	Dominic Koh Song Jun	
+TE1-01	TE1	淡滨尼（Tampines）	WONG JIA EN ISABEL	
+TE1-02	TE1	武吉士（Bugis）	ANG REYANNE	
+TE1-03	TE1	兀兰（Woodlands）	XIAO CONGCHEN	
+TE1-04	TE1	宏茂桥（Ang Mo Kio）	JANIS LIM YUE LIN	
+TE1-05	TE1	金文泰（Clementi）	WONG YI HAO	
+TE2-01	TE2	金文泰（Clementi）	ASHER TAN WEY CHEN	
+TE2-02	TE2	加东/如切（Katong/Joo Chiat）	LOH JAY HON, GIGGS	
+TE2-03	TE2	大巴窑（Toa Payoh）	XIE YINGWEN	
+TE2-04	TE2	兀兰（Woodlands）	TOK YI YING, QUEENA	
+TE2-05	TE2	盛港（Sengkang）	LOI PEI SHIUAN	
+TE3-01	TE3	裕廊西（Jurong West）	Zhang Tixuan	
+TE3-02	TE3	牛车水（Chinatown）	Freesia Tong	
+TE3-03	TE3	大巴窑（Toa Payoh）	Elaine Woo	
+TE3-04	TE3	义顺（Yishun）	William Gu En Yao	
+TE3-05	TE3	后港（Hougang）	Chan Wen Hui Cheryl	
+TE4-01	TE4	盛港（Sengkang）	LIEW SHUANG YUAN	
+TE4-02	TE4	碧山（Bishan）	CHEN JIAYI	
+TE4-03	TE4	武吉巴督（Bukit Batok）	YANG ZEHAO	
+TE4-04	TE4	武吉士（Bugis）	AREL TAN RAY HAO	
+TE5-01	TE5	中峇鲁（Tiong Bahru）	STACIA LAURA SUSANTO YAP	
+TE5-02	TE5	汤申（Thomson）	PHUA QING RONG	
+TE5-03	TE5	蔡厝港（Choa Chu Kang）	LU ZHIMO	
+TE5-04	TE5	加东/如切（Katong/Joo Chiat）	SRIVASTAVA HARSHIT	
+TE5-05	TE5	榜鹅（Punggol）	CHAN CHOON HENG DARYL	
+TE6-01	TE6	牛车水（Chinatown）	Alyson Font	
+TE6-02	TE6	汤申（Thomson）	Yeo Xuan Wen	
+TE6-03	TE6	四美（Simei）	Tong Kian Kiat	
+TE6-04	TE6	裕廊西（Jurong West）	Tan Xi Shi Angel	
+TE6-05	TE6	兀兰（Woodlands）	Song Cheng Yan	
+TE6-06	TE6	盛港（Sengkang）	Bey Jia Yi	
+TE7-01	TE7	金文泰（Clementi）	AMANDA TAN NGYA LENG	
+TE7-02	TE7	蔡厝港（Choa Chu Kang）	LEE ZIE SHENG 	
+TE7-03	TE7	勿洛（Bedok）	JULIANNE ASHLEY GABRIEL	
+TE7-04	TE7	大巴窑（Toa Payoh）	SHANDRICO JULIAN LIM	
+TE7-05	TE7	盛港（Sengkang）	KIM WEI JIAN	
+TE8-01	TE8	后港（Hougang）	MAXX LEE YU WEI	
+TE8-02	TE8	武吉巴督（Bukit Batok）	MEGAN WONG	
+TE8-03	TE8	义顺（Yishun）	RYAN TEO ZHAN RONG	
+TE8-04	TE8	中峇鲁（Tiong Bahru）	TAN YOU YI JEANA	
+TE8-05	TE8	加东/如切（Katong/Joo Chiat）	NA YONG EN	
+TE9-01	TE9	武吉巴督（Bukit Batok）	LI ZIMING	
+TE9-02	TE9	盛港（Sengkang）	EVA TAN	
+TE9-03	TE9	碧山（Bishan）	LI ZHUORUI, MAX 	
+TE9-04	TE9	小印度（Little India）	LI JIASHENG, LINUS 	
+TE10-01	TE10	碧山（Bishan）	HO WEI XIAN	
+TE10-02	TE10	裕廊东（Jurong East）	JASMINE WEE XIN YI	
+TE10-03	TE10	淡滨尼（Tampines）	BRYAN NGU SHU YU	
+TE10-04	TE10	牛车水（Chinatown）	LAURENT JOHN DAVID	
+TE10-05	TE10	三巴旺（Sembawang）	WYNTER SEBASTIAN BRYAN	
+TE11-01	TE11	榜鹅（Punggol）	Sun Siting  	
+TE11-02	TE11	大巴窑（Toa Payoh）	Diki Lim 	
+TE11-03	TE11	金文泰（Clementi）	Rhineson Kok Ren Xiang  	
+TE11-04	TE11	蔡厝港（Choa Chu Kang）	Brenda Lau Zhuo Min 	
+TE11-05	TE11	勿洛（Bedok）	Yap Guan Xian Ronald 	
+TE12-01	TE12	武吉巴督（Bukit Batok）	Kuan Yew Khang	
+TE12-02	TE12	加东/如切（Katong/Joo Chiat）	Leong Hoi Sheng, Daryl	
+TE12-03	TE12	后港（Hougang）	Poh Shao Feng, Ethan	
+TE12-04	TE12	中峇鲁（Tiong Bahru）	Lim Bo Liang	
+TE12-05	TE12	义顺（Yishun）	Shua Yu Xuan, Iryna	

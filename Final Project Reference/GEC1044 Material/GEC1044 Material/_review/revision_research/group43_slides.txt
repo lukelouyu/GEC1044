@@ -1,0 +1,602 @@
+SLIDE 1
+ELDERCARE · CG2028 GROUP 43
+Elderly Companion
+An IoT wearable safety companion: assembly filtering, multi-sensor fall logic, local alerts and remote telemetry, so a family member or helper can follow an elderly person's situation.
+TRUE POSITIVES
+LOW FALSE ALARMS
+NEAR-FALL REJECTION
+1 · Detect
+Repeated simulated falls across small variations.
+2 · Discriminate
+Reject shaking, tilting, sitting and controlled lowering.
+3 · Alert
+Local LED and OLED response, plus a remote caregiver dashboard.
+
+SLIDE 2
+PRODUCT INTRODUCTION
+A safety companion for an elderly person at home
+Purpose: notice a fall at once, avoid false alarms, and keep the family or helper informed.
+HOW EACH FUNCTION SERVES THAT PURPOSE
+Function
+What it gives the user
+Assembly EWMA filter
+Steady readings, so thresholds are not tripped by sensor noise
+Ordered fall detector
+Tells a fall from shaking, sitting or controlled lowering
+LED + OLED alert
+Immediate signal on the wearable, with no network needed
+Wi-Fi live dashboard
+Family or helper sees the state remotely, about once a second
+Temperature + humidity
+Shows whether the living conditions are comfortable
+OUR UNIQUE VALUE
+The wearable decides. The network only reports.
+The alert still fires when Wi-Fi is down
+A fall must follow a sequence, not one spike
+One board and a laptop: no cloud service
+Data flow:
+ LSM6DSL accel + gyro (I²C2) → assembly EWMA on 6 axes → m/s² and °/s → |A| and |G| → fall detector → LED (local timing) · OLED (I²C1 + DMA) · Wi-Fi (SPI3 → TCP → SSE dashboard). HTS221 temperature and humidity joins the telemetry.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 2
+
+SLIDE 3
+PART 1 · ASSEMBLY CODE
+mov_avg.s: avoiding intermediate overflow
+1 · START WITH THE PERCENTAGE FORMULA
+output = [α·x + (100−α)·y] / 100
+x = new, y = old. The products can overflow int32 for large inputs.
+2 · DERIVE THE OVERFLOW-SAFE FORM
+x = 100x₁ + x₂ 
+(x₁ = x/100, x₂ = x%100)
+y = 100y₁ + y₂ 
+(y₁ = y/100, y₂ = y%100)
+output = [α·x + (100−α)·y] / 100
+= [α(100x₁+x₂) + (100−α)(100y₁+y₂)] / 100
+= α·x₁ + (100−α)·y₁ + [α·x₂ + (100−α)·y₂] / 100
+= Q + R/100
+Q = α·x₁ + (100−α)·y₁
+R = α·x₂ + (100−α)·y₂
+3 · SAFETY TAKEAWAY
+Dividing each input by 100 removes about 7 bits before multiplication. Q stays in signed 32-bit range and |R| ≤ 9900, so every intermediate value fits in int32.
+ewma_filter · steps 2 and 3
+@ r12 = 100
+@ x = 100x₁ + x₂
+SDIV r4, r0, r12
+MUL r5, r4, r12
+SUB r5, r0, r5
+@ r4 = x₁, r5 = x₂
+@ y = 100y₁ + y₂
+SDIV r6, r1, r12
+MUL r7, r6, r12
+SUB r7, r1, r7
+@ r6 = y₁, r7 = y₂
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 3
+
+SLIDE 4
+PART 1 · ASSEMBLY CODE
+mov_avg.s: mapping Q and R to ARM
+Stage
+Registers
+Inputs
+R0 = new, R1 = old, R2 = α
+Split new
+R4 = quotient, R5 = remainder
+Split old
+R6 = quotient, R7 = remainder
+Weights
+R2 = α, R3 = 100 − α
+Components
+R0 = Q, R1 = R
+Combine
+R0 = Q + trunc(R / 100)
+One subtlety remains: dividing the two components separately does not always reproduce C's signed division.
+ewma_filter · steps 4 to 6
+@ r3 = 100 − α
+MOVS r3, #100
+SUB r3, r3, r2
+@ Q = α·Qn + (100−α)·Qo
+MUL r0, r4, r2
+MUL r1, r6, r3
+ADD r0, r0, r1
+@ R = α·Rn + (100−α)·Ro
+MUL r1, r5, r2
+MUL r4, r7, r3
+ADD r1, r1, r4
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 4
+
+SLIDE 5
+PART 1 · ASSEMBLY CODE
+mov_avg.s: matching C signed truncation
+THE PROBLEM, WITH NUMBERS
+Q = −5, R = 20
+C: trunc((−500 + 20) / 100) = −4
+Separated: −5 + trunc(20 / 100) = −5
+Off by 1: the result must be nudged toward zero.
+BRANCH RULES
+Zero remainder, or matching signs: no correction
+Positive remainder, negative result: add 1
+Negative remainder, positive result: subtract 1
+ewma_filter · step 8
+@ r1 = leftover remainder
+CMP r1, #0
+BEQ final_return
+BGT remainder_positive
+@ negative remainder
+CMP r0, #0
+BLE final_return
+SUB r0, r0, #1
+B final_return
+remainder_positive:
+CMP r0, #0
+BGE final_return
+ADD r0, r0, #1
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 5
+
+SLIDE 6
+FEATURE EXTRACTION
+From filtered axes to physical motion
+Magnitudes reduce dependence on which sensor axis happens to align with the movement.
+Accelerometer
+BSP gives mg
+mg × 9.80665 / 1000
+→ m/s²
+Gyroscope
+BSP gives mdps
+mdps / 1000
+→ °/s
+|A| = √(Ax² + Ay² + Az²)
+|G| = √(Gx² + Gy² + Gz²)
+At rest |A| is near 9.81 m/s²: gravity is not subtracted.
+Low |A|
+Loss of support, free-fall-like phase
+High |A|
+Impact, rapid deceleration
+High |G|
+Rotation evidence
+2 ms poll target, 52 Hz sensor ODR:
+ polling faster than the sensor updates can reread the same sample.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 6
+
+SLIDE 7
+THRESHOLD TESTING
+Measure, choose thresholds, then retest
+The firmware exposes completed 5-second extrema to support tuning and demonstration.
+Evidence table — replace blanks with your measured trial values before presenting
+Movement
+Min |A|
+Max |A|
+Max |G|
+Detector
+Normal / walking
+7.5-8.5
+12.7-13.7
+40-80
+NORMAL
+Controlled lowering
+6.7-7.7
+13.8-14.3
+50-100
+NOT FALL
+Vertical jiggle
+1.8-3.3
+19.7-21.2
+130-180
+NOT FALL
+Simulated fall
+0.3-0.6
+13.5-15.5
+100-400
+CONFIRMED
+Trial counts:
+ falls detected 9 / 10 · false alarms 1 / 10 · near-falls rejected 9 / 10
+Test → Measure → Compare → Retest. Min |A| shows loss of support, max |A| impact, max |G| rotation.
+Current thresholds
+Low support: |A| < 1.0 m/s²
+Impact: |A| > 13.0 m/s²
+Rotation: |G| > 100 °/s
+Extrema help choose thresholds, but they do not prove event order. The state machine does.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 7
+
+SLIDE 8
+DETECTION LOGIC
+A fall is a sequence, not a single peak
+Loss of support → rotation → impact. One feature alone never confirms.
+NORMAL
+|A| < 1
+SUSPECTED
+|G| > 100
+ROTATION SEEN
+|A| > 13
+IMPACT
+FALL DETECTED
+Qualifies → CONFIRMED
+State held for 4 s
+LED fast blink, OLED SOS
+Then returns to NORMAL
+Otherwise → NORMAL
+No alert is raised. This is what rejects near-falls such as a vertical jiggle.
+.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 8
+
+SLIDE 9
+LOCAL ENHANCEMENT
+OLED + LED: feedback without the network
+The display is an integrated embedded subsystem, not a cosmetic printout.
+Draw framebuffer
+128 × 64, SSD1306
+TX snapshot
+1024-byte stable copy
+32-byte chunks
+Sent one after another
+I²C1 + DMA
+Address 0x3C
+LED2
+Normal or suspected:
+ toggle every 1000 ms.
+Confirmed:
+ toggle every 100 ms.
+OLED face
+Normal or suspected:
+ happy face.
+Confirmed:
+ SOS.
+Why DMA + snapshot
+DMA moves bytes without CPU polling. The copy stops a new drawing corrupting a frame in flight. Updates are requested only when the fall state changes.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 9
+
+SLIDE 10
+REMOTE ENHANCEMENT
+IoT pipeline and protocol choices
+The dashboard displays firmware decisions; it does not run the fall detector.
+EDGE
+STM32
+Sense · filter
+Fall detector
+JSON snapshot
+SPI3
+NETWORK
+ISM43362
+Wi-Fi module
+Phone hotspot
+TCP/IP client
+TCP
+:2028
+GATEWAY
+Node.js
+server.js on PC
+Frame · parse
+Cache · broadcast
+HTTP/SSE
+:3001
+BROWSER
+React
+EventSource
+Validate · fresh
+Recharts graphs
+Layer
+Its job
+Wearable → laptop
+Laptop → browser
+Application
+What the message means
+JSON record + \r\n
+HTTP + SSE
+Transport
+Arrives, and in order
+TCP, port 2028
+TCP, port 3001
+Network
+Reach the right machine
+IP, address by DHCP
+IP, localhost
+Link
+Reach the next device
+Wi-Fi, WPA2 hotspot
+Loopback in the laptop
+~1 record per second
+, local laptop gateway, not cloud
+Raw TCP, never an HTTP POST:
+ one open socket, JSON only, no headers each second
+No MQTT:
+ no broker or client library needed
+SSE:
+ one-way push, native EventSource
+TCP/IP runs in the ISM43362
+, commanded over SPI3: no LWIP on the MCU
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 10
+
+SLIDE 11
+EDGE → NETWORK
+How one telemetry update leaves the STM32
+MAIN LOOP
+Snapshot
+main.c copies the newest processed values
+INTERRUPT
+SysTick flag
+Every 1000 ms it raises a request flag
+MAIN LOOP
+Process()
+Sees the flag, takes the latest snapshot
+MAIN LOOP
+JSON + \r\n
+One record, ended by a newline
+MAIN LOOP
+SendData()
+Over SPI3 to the Wi-Fi module, TCP :2028
+The interrupt schedules work. Transmission happens in the main loop.
+HAL_SYSTICK_Callback() only sets telemetry_requested. ProjectWifi_Process() makes the blocking WIFI_SendData() call, so no TCP work runs inside an ISR.
+A SEPARATE INTERRUPT: WI-FI DRDY
+DRDY pin → EXTI → SPI_WIFI_ISR()
+Tells the SPI driver the module has response data ready. It does not schedule the 1 Hz publish.
+One record carries:
+ sample number, fall state, filtered accel and gyro XYZ, |A| and |G|, 5-second min and max (once a window completes), and the environment block: valid, timestampMs, temperatureC, humidityPct.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 11
+
+SLIDE 12
+NETWORK
+Wi-Fi connection state machine
+Startup path
+Wait 1 s, initialise the module, join the hotspot, open TCP.
+Fails at startup
+DISABLED until reset. Sensing and local alerts carry on.
+Fails later
+Retry TCP after 2 s. Second failure in a row: rejoin the hotspot every 30 s.
+After recovery
+Sends the latest snapshot. Nothing is buffered or replayed.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 12
+
+SLIDE 13
+GATEWAY · SERVER.JS
+TCP-to-SSE gateway
+Node.js turns an embedded TCP byte stream into browser-friendly live events.
+1
+TCP bytes
+UTF-8 chunks of any size
+2
+Line framing
+StringDecoder + buffer, split on \n
+3
+JSON.parse
+Malformed records are rejected
+4
+Cache latest
+latestTelemetry + receivedAt
+5
+SSE broadcast
+To every connected browser
+IN · raw TCP :2028 · from the STM32
+OUT · HTTP/SSE :3001 · to the browser
+WHY FRAMING: TCP IS A BYTE STREAM, NOT MESSAGES
+chunk 1
+ {"sample":41,…}\r\n{"sam
+chunk 2
+ ple":42,…}\r\n
+Buffer until each \n, then parse: two complete records.
+Memory only
+Keeps just the latest snapshot. No database. A browser that connects later gets the cached snapshot at once.
+Port 3001:
+ /api/health · /api/telemetry/latest · /api/telemetry/stream (SSE, 15 s keepalive)
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 13
+
+SLIDE 14
+BROWSER · REACT
+What the dashboard shows
+1
+2
+3
+1 · Connection status
+Waiting, Connected, or Disconnected after 3.5 s without a new record.
+2 · Live cards
+Fall state, |A|, |G| and sample number from the latest record.
+3 · Live graphs
+|A| and |G| over time, with the firmware thresholds dashed: 1 and 13 m/s², 100 °/s.
+More panels
+Last 5 s statistics, last 20 state changes, environment gauges and 60-point history.
+Credit:
+ built on "Admin Dashboard with TanStack Start & Shadcn UI" by Kiranism (MIT licence), 
+github.com/Kiranism/tanstack-start-dashboard
+. 
+Our work:
+ ElderCare routes, telemetry hooks, validation, histories and gauges.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 14
+
+SLIDE 15
+BROWSER · REACT
+How one record updates the screen
+FETCHING THE DATA · useTelemetryStream
+Open stream
+One EventSource request, kept open
+SSE event
+Server pushes each new record
+Validate
+JSON.parse, then check every field
+React state
+Cards re-render with new values
+Stale timer
+Restart the 3.5 s countdown
+DRAWING THE GRAPH · useTelemetryHistory + Recharts
+Same record
+Also passed to the history hook
+De-duplicate
+Skip a repeated sample number
+Add a point
+Elapsed seconds, |A|, |G|
+Keep last 120
+About 2 minutes at 1 Hz
+Recharts redraw
+Line + dashed threshold lines
+DRAWING THE GAUGES · EnvironmentGauge + Recharts
+Latest reading
+Temperature or humidity, if valid
+Clamp to range
+0–50 °C or 0–100 %
+Radial bar
+Recharts half-circle, 180° to 0°
+Centre number
+Value to 1 decimal place
+No valid reading
+Empty arc and a dash
+Pushed, not polled.
+ Each 1 Hz event adds one graph point and redraws the gauges. On first connect, /api/health says whether the cached record is fresh. A lower sample number means the board restarted, so history is cleared.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 15
+
+SLIDE 16
+ENVIRONMENTAL TELEMETRY · HTS221
+Environment: one more telemetry source
+HTS221
+Temperature + humidity
+Read every 1 s
+Non-blocking task
+Cache latest
+Value, timestamp, valid
+Append to JSON
+environment object
+Environment page
+Gauges + history
+Same pipeline, no new transport
+The reading rides in the same 1 Hz record over TCP :2028 and SSE :3001.
+The valid flag
+Firmware always sends an environment object. The browser ignores its measurements when valid is false.
+Failure stays contained
+An HTS221 fault removes environment values only. Motion, fall detection and networking continue.
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 16
+
+SLIDE 17
+LIVE DEMO
+Live demo
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 17
+
+SLIDE 18
+CODE QUALITY
+One module, one job, one documented interface
+After consolidating everyone's work, we refactored the firmware for readability.
+Module
+Inc/ header + Src/ source
+Responsibility
+Fall detector
+fall_detector.h / .c
+State machine, thresholds
+Display
+oled.h / .c
+Framebuffer, I²C DMA transfer
+Network
+project_wifi.h / .c
+Connection, telemetry JSON
+Environment
+project_hts221.h / .c
+1 Hz read, cached value
+Application
+main.c
+Wiring only: calls each module
+Folders:
+ Core/Inc holds interfaces, Core/Src implementations, Drivers the vendor BSP.
+Object-style C:
+ each module owns its state in a struct, used only through Init, Update and Get functions.
+Doc comments:
+ Javadoc-style @file, @brief, @param and @return on the public interface.
+fall_detector.h · abridged
+/**
+* @brief Advance the state machine
+* by one sensor sample.
+* @param detector Initialized instance.
+* @param now Current tick in ms.
+*/
+void FallDetector_Update(
+FallDetector *detector,
+uint32_t now,
+float accel_magnitude,
+float gyro_magnitude);
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 18
+
+SLIDE 19
+PROJECT SUMMARY · UML COMPONENT VIEW
+The whole project in one diagram
+«hardware» B-L4S5I-IOT01A board
+LSM6DSL
+accel + gyro
+HTS221
+temp + humidity
+OLED
+128 × 64 display
+LED2
+blink alert
+ISM43362
+Wi-Fi module
+↕ I²C2 · I²C1 + DMA · GPIO · SPI3
+«firmware» STM32 · Core/Inc + Core/Src
+main.c
+«application»
+main loop
+uses all →
+ewma_filter
+«assembly»
+mov_avg.s
+6 axes
+FallDetector
++Init()
++Update()
++GetState()
+OLED
++Init()
++ShowFallState()
++Process()
+ProjectHts221
++Init()
++Process()
++GetLatest()
+ProjectWifi
++Init()
++Process()
+state machine
+↓ Wi-Fi · raw TCP :2028 · one JSON record per second
+«laptop» gateway + browser
+server.js
+ «gateway»
+frame, parse, cache, broadcast
+SSE :3001
+React dashboard
+ «browser»
+validate, history, Recharts
+views
+Caregiver
+ «actor»
+family or helper
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 19
+
+SLIDE 20
+CONCLUSION
+What the prototype shows, and its limits
+What we built
+Assembly EWMA on all 6 motion axes
+Physical-unit features |A| and |G|
+Ordered fall state machine
+Non-blocking LED timing and DMA OLED alert
+Wi-Fi → TCP → SSE caregiver dashboard
+Modular detector, display, environment, network
+Current limitations
+Targets our operational fall definition only
+2 ms poll can miss high impact
+1 Hz dashboard snapshots can miss brief peaks and states
+First 
+wifi
+ connection is blocking with a long timeout
+Raw TCP: no TLS, no authentication, no database
+CG2028 · ElderCare Wearable Safety Companion
+Group 43 · 20

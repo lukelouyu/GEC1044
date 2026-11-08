@@ -1,0 +1,163 @@
+{
+ "summary": {
+  "S0 No congee (quick relief only)": {
+   "phys": {
+    "wk1": 62.34120809725558,
+    "midterms": 60.225557242775935,
+    "submissions": 57.011303114485926,
+    "finals": 55.260132999582595,
+    "wk18": 54.68905828681059,
+    "trough": 54.68905828681059
+   },
+   "ment": {
+    "wk1": 60.20845129290076,
+    "midterms": 53.43747529131461,
+    "submissions": 50.42854244426205,
+    "finals": 49.06628917948689,
+    "wk18": 55.21115540286786,
+    "trough": 47.944895626394725
+   },
+   "cooking_batches_per_week_finals": 0.0,
+   "cooking_batches_per_week_wk1_6": 0.0,
+   "quick_relief_finals": 0.48899104663608095
+  },
+  "S1 Congee routine": {
+   "phys": {
+    "wk1": 62.48826376538778,
+    "midterms": 63.57049286676187,
+    "submissions": 61.421962056164716,
+    "finals": 60.228263997746765,
+    "wk18": 59.65024793078828,
+    "trough": 59.588237665444574
+   },
+   "ment": {
+    "wk1": 59.8550994455525,
+    "midterms": 56.862143247070726,
+    "submissions": 54.40692816029026,
+    "finals": 53.27833222612083,
+    "wk18": 59.09965061262815,
+    "trough": 52.210286754918215
+   },
+   "cooking_batches_per_week_finals": 0.9815710637474901,
+   "cooking_batches_per_week_wk1_6": 0.8238583033265371,
+   "quick_relief_finals": 0.45726080400009106,
+   "SMD_vs_S0_finals_phys": 0.4229596552296821,
+   "SMD_vs_S0_finals_ment": 0.3043153532559639
+  },
+  "S2 Congee + decision rules": {
+   "phys": {
+    "wk1": 62.836032041337546,
+    "midterms": 66.29583316973843,
+    "submissions": 64.29861993308418,
+    "finals": 63.378370689021885,
+    "wk18": 62.91072207236584,
+    "trough": 61.73314915645224
+   },
+   "ment": {
+    "wk1": 59.45317174319224,
+    "midterms": 58.75139822087412,
+    "submissions": 56.30893994904952,
+    "finals": 55.04891177187539,
+    "wk18": 61.17594051285353,
+    "trough": 54.14837990405616
+   },
+   "cooking_batches_per_week_finals": 1.5633081350701314,
+   "cooking_batches_per_week_wk1_6": 1.4789814185924275,
+   "quick_relief_finals": 0.35000000000000003,
+   "SMD_vs_S0_finals_phys": 0.8137037763876341,
+   "SMD_vs_S0_finals_ment": 0.5058769037033607
+  },
+  "S3 Congee, double ingredient dose": {
+   "phys": {
+    "wk1": 62.52724723440906,
+    "midterms": 64.58268612908971,
+    "submissions": 62.41469716770352,
+    "finals": 61.31103071773215,
+    "wk18": 60.88873573382425,
+    "trough": 60.20583567058051
+   },
+   "ment": {
+    "wk1": 59.8809264255036,
+    "midterms": 57.22032990667915,
+    "submissions": 54.9646890442193,
+    "finals": 53.79791499806398,
+    "wk18": 59.70433476529302,
+    "trough": 52.7429258533447
+   },
+   "cooking_batches_per_week_finals": 1.0018986532220322,
+   "cooking_batches_per_week_wk1_6": 0.8267206697010502,
+   "quick_relief_finals": 0.4490930458321718,
+   "SMD_vs_S0_finals_phys": 0.537606505735109,
+   "SMD_vs_S0_finals_ment": 0.34824239364840387
+  },
+  "checks": {
+   "NUS_OSA_elevated_stress_wk11_14": {
+    "target": 0.53,
+    "model": 0.5235
+   },
+   "NUS_OSA_mean_PSS4_wk11_14": {
+    "target": 0.454375,
+    "model": 0.5162120967532199
+   },
+   "HealthNUS_WHO5_mean": {
+    "target": 54.91928,
+    "model": 53.44036780743715
+   },
+   "HealthNUS_poor_wellbeing": {
+    "target": 0.377,
+    "model": 0.3766470588235294
+   },
+   "NUS_OSA_PHQ4_risk_vs_mental_lt50_wk11_14": {
+    "target": 0.32,
+    "model": 0.4885
+   }
+  },
+  "S2_minus_S0_finals_mental_points": 6.739657463088982
+ },
+ "compare": {
+  "P(S1>S0) finals phys": 1.0,
+  "P(S1>S0) finals ment": 1.0,
+  "P(S2>S1) finals phys": 1.0,
+  "P(S2>S1) finals ment": 1.0,
+  "P(S3>S2) finals phys": 0.246,
+  "P(S3>S2) finals ment": 0.149,
+  "vulnerable finals ment median S0": 50.61731426300378,
+  "vulnerable finals phys median S0": 56.84959943611805,
+  "vulnerable finals CR batches S0": 0.0,
+  "vulnerable finals ment median S1": 54.5439327263128,
+  "vulnerable finals phys median S1": 61.269605786799175,
+  "vulnerable finals CR batches S1": 0.9812663620087616,
+  "vulnerable finals ment median S2": 56.47313954431914,
+  "vulnerable finals phys median S2": 65.05148893987533,
+  "vulnerable finals CR batches S2": 1.5517693406954502,
+  "vulnerable finals ment median S3": 55.35475326602068,
+  "vulnerable finals phys median S3": 62.91157257046574,
+  "vulnerable finals CR batches S3": 1.0038575362253481,
+  "top drivers of S1 gain (spearman)": [
+   [
+    "resil",
+    0.6444171084171084
+   ],
+   [
+    "potency",
+    0.3883695763695764
+   ],
+   [
+    "LF",
+    0.36285176685176684
+   ],
+   [
+    "tau_H",
+    -0.18895194895194897
+   ],
+   [
+    "s_TC_PAS",
+    -0.16564970164970166
+   ],
+   [
+    "s_PAS_RU",
+    -0.14421891621891622
+   ]
+  ]
+ }
+}

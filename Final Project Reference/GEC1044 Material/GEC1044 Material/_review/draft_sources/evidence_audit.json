@@ -1,0 +1,69 @@
+{
+  "columns": [
+    "Required question",
+    "Evidence from fieldwork",
+    "Exact items identified",
+    "Evidence type",
+    "Confidence and limitation"
+  ],
+  "rows": [
+    [
+      "A",
+      "Presentation and staff account",
+      "Ginseng or American ginseng; Dang Shen; Huang Qi; Yu Zhu; Huai Shan; red dates; goji; monk fruit",
+      "Staff report with selected shelf corroboration",
+      "Eight presentation entries; first groups two herbs; no numerical 12 month ranking"
+    ],
+    [
+      "B",
+      "Presentation and interview",
+      "Ginseng tonics; monk fruit products; flower teas; soup packs; Lingzhi; liver care or mood support; Yin Qiao; medicated oils",
+      "Staff report and observation",
+      "Eight categories rather than identified SKUs; no audited popularity ranking"
+    ],
+    [
+      "C",
+      "Presentation and interview",
+      "Cactus; roselle; patent medicines; Five Flower Tea; monk fruit tea",
+      "Staff report",
+      "No item level origin or five verified local products; imported processing general claim"
+    ],
+    [
+      "D",
+      "Presentation slide 6 and interview",
+      "Qing Bu Liang; Dang Shen Huang Qi; Yu Zhu Huai Shan; goji red date; Five Finger Fig",
+      "Presentation synthesis and soup shelf observation",
+      "Five labels preserved; interview lists ingredients not complete recipes; photographs do not confirm all labels"
+    ],
+    [
+      "E",
+      "Interview and presentation",
+      "Ban Zhi Lian; combination dependent herbs; strong tonics",
+      "Staff report",
+      "One named herb and two categories; no bottom three ranking"
+    ],
+    [
+      "F",
+      "No physician verified",
+      "None",
+      "Missing evidence",
+      "Not established; cannot reconstruct from retail lists"
+    ],
+    [
+      "G",
+      "No physician verified",
+      "None; six separate retail pairings",
+      "Staff report",
+      "Retail associations not physician case or prescription records"
+    ]
+  ],
+  "feedback": {
+    "Clear analytical themes": "Sections 4 and 5 organise preventive food care, convenience, climate, lifestyle and multicultural localisation",
+    "Connect lifestyle and packaged forms": "Sections 4.1 and 4.4 explain redistributed preparation and interpretive work",
+    "Generational differences": "Section 4.1 attributes age patterns to one staff member and avoids abandonment claims",
+    "Localisation and cultural change": "Sections 4.5 and 5 distinguish cultivation from production and retail translation",
+    "Staff versus observation versus interpretation": "Method, table notes, figure captions and analytical qualifiers",
+    "Chain and neighbourhood context": "Section 2 considers retail model and Hougang outlet selection without invented demographics",
+    "More depth than slides": "Section 4.2 makes pattern differentiation a conceptual test of retail adaptation"
+  }
+}

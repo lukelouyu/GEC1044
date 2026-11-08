@@ -1,0 +1,56 @@
+{
+  "american-ginseng": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/american-ginseng",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9953/417p278/img_american-ginseng_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\american-ginseng.jpg",
+    "letter": "a"
+  },
+  "barbary-wolfberry-fruit": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/barbary-wolfberry-fruit",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/10001/417p278/img_barbary-wolfberry-fruit_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\barbary-wolfberry-fruit.jpg",
+    "letter": "b"
+  },
+  "chinese-date": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/chinese-date",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9963/417p278/img_chinese-date_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\chinese-date.jpg",
+    "letter": "c"
+  },
+  "common-yam-rhizome": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/common-yam-rhizome",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9959/417p278/img_common-yam-rhizome_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\common-yam-rhizome.jpg",
+    "letter": "d"
+  },
+  "fragrant-solomonseal-rhizome": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/fragrant-solomonseal-rhizome",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9999/417p278/img_fragrant-solomonseal-rhizome_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\fragrant-solomonseal-rhizome.jpg",
+    "letter": "e"
+  },
+  "ginseng": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/ginseng",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9951/417p278/img_ginseng_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\ginseng.jpg",
+    "letter": "f"
+  },
+  "grosvenor-momordica-fruit": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/grosvenor-momordica-fruit",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9926/417p278/img_grosvenor-momordica-fruit_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\grosvenor-momordica-fruit.jpg",
+    "letter": "g"
+  },
+  "milkvetch-root": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/milkvetch-root",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9956/417p278/img_milkvetch-root_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\milkvetch-root.jpg",
+    "letter": "h"
+  },
+  "tangshen": {
+    "page": "https://herbaltcm.sn.polyu.edu.hk/herbal/tangshen",
+    "image": "https://herbaltcm.sn.polyu.edu.hk/f/herbal/9954/417p278/img_tangshen_1.jpg",
+    "local": "C:\\Users\\lukel\\Downloads\\GEC1044 Material\\_review\\herb_table_assets\\tangshen.jpg",
+    "letter": "i"
+  }
+}

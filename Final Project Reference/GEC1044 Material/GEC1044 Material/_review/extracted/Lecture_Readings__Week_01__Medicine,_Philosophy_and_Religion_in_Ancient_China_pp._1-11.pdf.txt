@@ -1,0 +1,169 @@
+
+===== PAGE 1 =====
+Introduction 
+l 
+COMPARING GREEK AND CHINESE 
+PHILOSOPHY AND SCIENCE 
+Most people are aware by now that we can find science, technology, and medicine 
+in every culture, but the outcome of decades of research on non-European tradi­
+tions has not been, as we might have hoped, a narrative of world science. 1 What
+we find instead is a set of stories that remain largely unrelated until they end, one 
+by one, with bodies of knowledge and practice pulverized by the impact of the 
+West. Some bits survive, more or less, such as traditional Chinese medicine. So far 
+as the rest of the world is concerned, they are exotic curiosities rather than parts 
+of an understanding that hang together. 
+The history of science ought to be more than a collection of cultural ghettos. 
+That is why people curious about the evolution of science as a general human 
+phenomenon have always invested such high hopes in comparative studies. 
+For three hundred years historians have been forming judgments about the rel­
+ations of European and other scientific traditions, and the main similarities and 
+differences between them. But if we ask what we have learned from these three 
+centuries of comparative studies, the answer is embarrassingly little. 
+Certainly no educated person today would claim that the Chinese or the Jap­
+anese had no aptitude for science, or that Islamic science depended entirely on 
+borrowings from Greece. Every undergraduate who has taken an introductory 
+course in the history of science knows that the centers of innovation in late-four­
+teenth-century mathematical astronomy were not Paris and Oxford but Seoul and 
+Baghdad. That is not the result of comparative study, but of research by specialists 
+on one civilization at a time. 
+Explicitly comparative study has called attention to a number of parallels 
+between civilizations, and to regular contacts between their technical traditions. 
+But has it uncovered new possibilities of human thought and practice? Has it led 
+1. I use "Greece" as shorthand for a wide domain whose elites wrote Greek. It
+included much of the Mediterranean littoral of the Middle East. In the Hellenistic period 
+it extended to Northern India, Egypt, and other parts of north Africa. I am grateful to 
+Judith Zeitlin, Benjamin Schwartz, and others for an exuberant discussion when I offered 
+this paper at the Harvard Pre-Modern China Seminar. 
+===== PAGE 2 =====
+
+===== PAGE 3 =====
+4 MEDICINE, PHILOSOPHY, AND RELIGION 
+This was also the period in which the sciences separated out of natural philosophy 
+and established their own institutions and distinct literatures. 
+Medicine did so earlier in Greece. In the fifth century B.c., when philosophy 
+was just developing its repertory, medicine was already a flourishing intellectual as 
+well as practical enterprise. Still, in the Hellenistic period, from about 300 B.C. on, 
+in medicine as well as in physics, people focussed more and more attention on the 
+past, on what had been inherited from the ancients. 
+Those five hundred years give us a large and more or less commensurable liter­
+ature in which to explore basic scientific issues that had not been pressing earlier. 
+In natural science and mathematics we can confront Eudoxus, Euclid, Hipparchus 
+and Ptolemy with the Mathematical Methods in Nine Chapters (Chiu chang suan 
+shu 1L � • fllrJ), the Arithmetical Canon of the Chou Gnomon (Chou pi suan 
+ching )WJ ff. Ji), and the astronomical treatises of the first two Standard Histo­
+ries. In medicine we can set Galen and his predecessors side by side with Chinese 
+classics from the Mawangdui manuscripts through the Canon of Eighty-one Prob­
+lems (Huang-ti pa-shih-i nan ching WW}\ +-fU<].). 
+The period we are studying is especially significant in a sense that we did not 
+realize when we began. It was an era of fundamental political change at both ends 
+of Eurasia. The Hellenistic period marked the end of the independent Greek city 
+state as a significant unit. The social order that had evolved thinkers such as Plato 
+and Aristotle ceased to exist. The larger world that Alexander's empire created, 
+the world in which Rome rose and fatally overextended itself by the year 200, was 
+bound to redefine the scope of learning and science. 
+In China too, changes in society and politics paralleled a change in thought 
+and work. The same half-millennium began with rapidly shifting constellations of 
+power as the local potentates of the Chou dynasty wiped each other out. Over 
+those five centuries, the first universal and centrally organized imperial state first 
+stabilized itself, then disintegrated, and finally collapsed. 
+Before 300, ambitious intellectuals competed in a widespread system of prin­
+cely patronage. As the Han state succeeded, they became civil servants in a single 
+bureaucracy and eventually adherents of a single state orthodoxy. But that order 
+faded. By A.D. 200 a position in the civil service could be as dangerous as it could 
+be profitable, and the official philosophy was no longer being taken seriously. 
+That leaves us with the stimulating challenge to determine how these political 
+changes are related to the emergence of natural philosophy and science. The 
+period is the same, and to a large extent the actors are the same. 
+4. My colleague and I are not comparing things or concepts, but processes,
+evolving activity. Like most historians of science today, we have no use for the 
+COMPARING GREEK AND CHINESE PHILOSOPHY 5 
+idea that science is one thing and its context another. We are looking at ideas, 
+their use, and the social process that created and elaborated them, as a single 
+phenomenon. How physicians or astronomers earned a living, how thinkers 
+grouped themselves, in what ways they publicly disagreed, and what political sig­
+nificance they claimed for cosmology are just as revealing as concepts, forms of 
+proof, and patterns of thought. 
+From this point of view it does not make sense to ask whether social change 
+was the cause of scientific change, or whether philosophy changed politics. We see 
+these as part of a single manifold of history. Our work is understanding what 
+makes them one process. A prime example is the close linkages from the third 
+century on between natural process, political process, and the vital processes of 
+the human body. 
+There has been a great deal of writing on the development of cosmology in 
+China, in connection with natural philosophy and the individual sciences. The 
+yin-yang, Five Phases, and ch'i concepts were eventually combined to provide the 
+framework for a new theory of resonance between Heaven and Earth on the one 
+hand and the political realm on the other, with the body a second microcosm. A 
+number of scholars including myself would put the final synthesis in the first cen­
+tury B.c., near the end of the Western Han. The document that consummated the 
+mature synthesis of yin-yang, Five Phases, and ch'i now appears to be the Inner 
+Canon of the Yellow Lord (Huang-ti nei ching w w pg *I) . 
+Thinkers from the third century on did not associate concepts of the state 
+with cosmology and science because the empirical data forced them to do so. 
+Rather, as I show in Chap. IV, the yin-yang and Five Phases concepts were moral 
+and political from the start. In the long sweep of Chinese thought they remained 
+at the same time moral, political, and physical. 
+Ideas of ch'i, yin-yang, and so on permeated all three domains because they 
+were too politically important to pass by. What made them important is that the 
+same people were using them to claim that the operations of the unified and cen­
+tralized Ch'in-Han state were based on Nature's processes. They were arguing 
+that resisting a state built on the unity of Nature was bound to fail as surely as 
+resisting the four seasons was bound to fail. They were also trying to persuade an 
+emperor not bound by constitution or law to limit his own freedom. They argued 
+that he and his officials could keep cosmos and state aligned only by modeling 
+government on the regularities and disciplines that governed heaven and earth. 4 
+Let us look at the book that first systematically developed such parallels, Lii 
+4. Queen 1991, Sivin 1995. Part of the argument here summarizes the latter.
+===== PAGE 4 =====
+
+===== PAGE 5 =====
+
+===== PAGE 6 =====
+References 
+Early Chinese Sources 
+Chiu chang suan shu fL � � i71tr (Mathematical Methods in Nine Chapters). Anon­
+ymous, early first century B.c. In Ch'ien Pao-ts'ung 1963. 
+Chou pi suan ching m.1 ff� t& (Arithmetical Canon of the Chou Gnomon). Anon­
+ymous, 50 B.c./ A.D. 100. In idem. 
+Ch'un-ch'iu fan lu Wfk �lii (Abundant Dew on the Spring and Autumn Annals). 
+Tung Chung-shu if fqi fil", parts written 156/130 B.c. In Ch'un-ch'iu fan lu i 
+cheng .wf;k � lii� �-
+Huang-ti nei ching ji-mpg t& (Inner Canon of the Yellow Lord). Anonymous, 
+probably first century B.C. The Su wen * r"'i (Basic questions), ed. by Wang 
+Ping.±. o]<, 762, is cited from Jen Ying-ch'iu 1986 by p'ien 15, chang �' line, 
+and page number. The only usable ed. of Tai su �*(Grand basis), ed. by 
+Yang Shang-shan fl J:. � ' 656/683?, is Kosoto 1981.
+Huang-ti pa-shih-i nan ching ji-m /\+-ft t& (Canon of Eighty-one Problems in 
+the Inner Canon of the Yellow Lord). Anonymous, probably second century 
+A.D. In Nan ching pen i Jtr&:2fs:�, reprint, Taipei, 1976.
+Lu shih ch'un-ch'iu g ,13;; W f;k (Springs and Autumns of Master Lii). Compiled 
+under patronage of Lii Pu-wei g ��' ca. 239 B.C. In Ch'en Ch'i-yu 1984.
+Sheng chi ching ���(Canon of Sagely Benefaction). Compiled by imperial 
+order, issued 1118. In Chen pen i shu chi ch 'eng "ft :2js: fl fl: �PX., vol. IX. 
+Shih chi 51:'. i� (Records of the Grand Astrologer). Ssu-ma T'an m ,% � and Ssu-ma 
+Ch'ien m ,% �' completed 100/90 B.C. Chung Hwa Book Co., 1974, ed.
+Modern Sources 
+Ch'en Ch'i-yu �* � �-1984. Lu shih ch'un-ch'iu chiao-shih g ,13;; .wf;k ,bzff (Criti­
+cal Edition of Springs and Autumns of Master Lii). 4 vols. Shanghai: Hsueh-lin 
+Ch_'u-pan-she. 
+Ch'ien Pao-ts'ung i& Jf � ' editor. 1963. Suan ching shih shu � t& + fl: (Ten
+Mathemati cal Canons). Peking: Chung Hwa Book Co. Critical ed. of Sung 
+texts. 
+10. For detailed discussions see Nakayama 1984 and Sivin 1995.
+-; 
+COMPARING GREEK AND CHINESE PHILOSOPHY 11 
+Kosoto,Hiroshi 1j\ Wt Pi-¥:, editor-in-chief. 1981. Toyo igaku zempon sosho * i-¥: If
+� � :2js: � fl: (Collected Rare Books on Oriental Medicine). Osaka: Toyo 
+igaku kenkyukai. 
+Nakayama, Shigeru. 1984. Academic and Scientific Traditions in China, Japan, and 
+the West, trans. Jerry Dusenberry. University of Tokyo Press. English version 
+of Rekishi toshite no gakumon � 51:'. t L --C <7) � F"'i (Academia as history; 
+Tokyo: Chuo Koran, 1974). 
+Queen, Sarah. 1991. From Chronicle to Canon: The Hermeneutics of the Spring 
+and Autumn Annals according to Tung Chung-shu. Ph.D. diss., History and 
+East Asian Languages, Harvard University. Revised version in press. 
+Sivin, Nathan. 1995. State, Cosmos, and Body in the Last Three Centuries B.C. 
+Harvard Journal of Asiatic Studies, 55. 1: 5-37. 
+Sivin, Nathan. 1995. Text and Experience in Classical Chinese Medicine. In 
+Knowledge and the Scholarly Medical Traditions, ed. Don G. Bates, pp. 177-204. 
+Cambridge University Press. 

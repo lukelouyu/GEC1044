@@ -1,0 +1,59 @@
+{
+  "bridgeVersion": "3.6",
+  "kind": "google-docs-trusted-read",
+  "status": "complete",
+  "outputDir": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete",
+  "target": {
+    "documentId": "1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "title": "GEC1044 Field Trip Report",
+    "revisionId": "AHj4eMRYAyIutohCJ5nDMbN_iffIm6io-8RQvxO5GU0mpf1aUQEUqY7XC88CvLQINRGW0oxpHUW7_xu9RD01j7qr-k--IKN77wysEgr72Q",
+    "documentUrl": "https://docs.google.com/document/d/1NTlk366Iv83yGosXBLmv-FQyJhHIU_3uvD7etHLcuBo",
+    "selectedTabId": "t.0"
+  },
+  "dropdownMetadata": {
+    "status": "unavailable",
+    "resolvedTool": null,
+    "authoritative": false,
+    "count": 0
+  },
+  "controlAwareness": {
+    "hasProtectedControls": false,
+    "authoritativeDropdownCount": 0,
+    "opaqueControlCount": 0,
+    "affectedParagraphCount": 0,
+    "nativeElementCounts": {
+      "inlineObjectElement": 48
+    },
+    "preservationRequired": false,
+    "recommendedBehavior": "No protected controls were detected in the scanned scope."
+  },
+  "warnings": [],
+  "files": {
+    "document_result": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete/document-result.json",
+      "bytes": 1561476,
+      "sha256": "f7f17ea7f20a6e919db3bd64a6dabf629ada2f2145aaaff2148ed66834839aa6"
+    },
+    "control_inventory": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete/control-inventory.json",
+      "bytes": 37546,
+      "sha256": "114b87ea2ba0708b190e209d718aa5715061f9ec4d7b53e7bfcc05b8c07e1feb"
+    },
+    "document_outline": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete/document-outline.json",
+      "bytes": 215108,
+      "sha256": "2ae9aa177bf4254094314c11d5bfaad48d07b20f81869437f5b181659684eac7"
+    },
+    "document_text": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete/document-text.md",
+      "bytes": 60293,
+      "sha256": "a75296964ef675b789c8d0df7862c17bde15bef948f0daebccacc40d5bfe8270"
+    },
+    "receipt": {
+      "path": "/C:/Users/lukel/Downloads/GEC1044 Material/_review/final_submission/trusted-read-complete/receipt.json",
+      "bytes": 998,
+      "sha256": "7d5857b1e4248613f937174a69f4494bdb7df881fbae1eb9666c656e8e0cc64b"
+    }
+  },
+  "error": null
+}

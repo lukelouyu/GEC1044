@@ -1,0 +1,317 @@
+eType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 2765,
+              "endIndex": 3233,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 2765,
+                    "endIndex": 3233,
+                    "textRun": {
+                      "content": "Hougang Central had about 4,620 residents in June 2025, with roughly 1,070 aged 65 or above (23%) (DOS, 2025). Chua et al.’s (2025) 647 Hougang respondents averaged 69 years of age and 22 years’ residence. The area also has Teochew heritage around Tou Mu Kung, fishing, farming and rubber-growing (National Heritage Board [NHB], n.d.). This established residential setting helps explain the reported clientele, but may not represent outlets in younger neighbourhoods.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 3233,
+              "endIndex": 3236,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3233,
+                    "endIndex": 3234,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.8vvmv1f80ppz",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3234,
+                    "endIndex": 3235,
+                    "inlineObjectElement": {
+                      "inlineObjectId": "kix.pons4fnu5h03",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3235,
+                    "endIndex": 3236,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "CENTER",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 3236,
+              "endIndex": 3269,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3236,
+                    "endIndex": 3269,
+                    "textRun": {
+                      "content": "3 Everyday care and food therapy\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 3269,
+              "endIndex": 3298,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3269,
+                    "endIndex": 3298,
+                    "textRun": {
+                      "content": "3.1 Herbs in household meals\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 3298,
+              "endIndex": 3594,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3298,
+                    "endIndex": 3593,
+                    "textRun": {
+                      "content": "Staff named Dang Shen (党参), Huang Qi (黄芪), Yu Zhu (玉竹), Huai Shan (淮山), red dates (红枣) and goji (枸杞) as common soup ingredients. Ginseng (人参), American ginseng (西洋参) and monk fruit (罗汉果) were also selected by neighbourhood customers. Table A1 lists these nine staff-described best-selling herbs.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 3593,
+                    "endIndex": 3594,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 3594,
+              "endIndex": 4167,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 3594,
+                    "endIndex": 4166,
+                    "textRun": {
+                      "content": "Soup gives herbs a familiar household purpose. Lecture 5 describes Chinese medicine as a cultural framework shaping everyday food and health habits (GEC1044 Lecture 5, n.d.). Nourishing life (养生) and medicine and food sharing a source (药食同源) help explain how the display connects meals with health maintenance. Lim et al. (2005) identify health maintenance as an important reason for dietary herb use. Our fieldwork illustrates this through cooking: households encounter traditional ingredients as part of preparing familiar meals, rather than only when seeking treatment.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 4166,
+                    "endIndex": 4167,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 4167,
+              "endIndex": 4204,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 4167,
+                    "endIndex": 4204,
+                    "textRun": {
+                      "content": "3.2 Soup packs and light nourishment\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.4k3at5pdsayp",
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 4204,
+              "endIndex": 4733,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 4204,
+                    "endIndex": 4732,
+                    "textRun": {
+                      "content": "Table A2 records five soup labels: Qing Bu Liang (清补凉), Dang Shen–Huang Qi (党参北芪补气汤), Yu Zhu–Huai Shan (玉竹淮山润燥汤), goji–red date (枸杞红枣养生汤) and Five Finger Fig (五指毛桃健脾汤). Staff linked them with aiding digestion (助消化), moistening (润燥) and light nourishment (qing bu / 清补). Light nourishment offers an everyday dietary approach alongside stronger tonification (da bu / 大补). Pre-packaged ingredients trans

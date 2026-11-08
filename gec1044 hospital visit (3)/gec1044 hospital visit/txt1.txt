@@ -1,0 +1,236 @@
+# 整合脉诊、舌诊素材，更新进你的GEC1044报告Analysis章节
+> 这批幻灯片是**望闻问切里的脉诊(Pulse Taking)与舌诊(Tongue Diagnosis)**，是同济中医院**辨证论治的核心实操手段**，完美契合你的主题：**中医如何评估现代人压力、情绪问题**。
+> 核心亮点（幻灯片原文）：**Stress/anger: more wiry pulse（压力/愤怒，出现弦脉）**，直接把情绪压力和脉诊体征联系起来，是你报告最强一手证据！
+
+## 先梳理幻灯片关键信息（和情绪/心理健康相关重点）
+### 1. 脉诊 Pulse Taking
+1. 寸口三部分：**寸、关、尺 (cun, guan, chi)**；左手关对应**肝（肝胆）**，肝主情志，压力情绪问题主要观察左手关脉。
+2. 脉的三层取法：浮、中、沉（Superficial / Middle / Deep），医师轻重按压获取脉象。
+3. 与情绪、压力相关脉象：
+    - **弦脉 wiry pulse**：Stress / anger → more wiry。长期压力、焦虑、易怒、肝气郁结，最典型脉象。【**你的报告核心证据**】
+    - 数脉 Shuo pulse(Rapid，>90次/分)：热证Heat Syndrome，熬夜焦虑、阴虚内热，心烦失眠。
+    - 细脉 Xi Mai(Thin)：气血不足、阴虚；长期压力耗伤阴血，情绪低落、疲惫。
+    - 实脉 Shi Mai(Excess)：实证，情绪激动、肝火旺盛。
+4. 很多因素干扰脉象：运动、饮食、体型、年龄、**情绪（压力、愤怒）**。脉象不是静态指标，人的心理状态会即时改变脉相。
+
+### 2. 舌诊 Tongue Diagnosis（望诊）
+幻灯片里的舌象，全部对应新加坡年轻人压力相关体质：
+- **Qi Stagnation 气滞**：舌尖红，对应焦虑、思虑过度、肝气郁结（压力）
+- **Damp Heat 湿热**：红舌，黄腻苔，新加坡最常见；压力+湿热共存，烦躁、口苦、失眠
+- **Yin Deficiency 阴虚**：舌红有裂纹；熬夜、长期压力耗伤阴液，心烦、潮热、情绪不稳
+- **Qi Deficiency 气虚**：舌胖大有齿痕；长期精神内耗、疲惫，思虑过多
+- **Blood Stasis 血瘀**：紫舌瘀斑，长期压抑情绪
+
+>逻辑：中医师**结合舌诊+脉诊，再问诊**，综合判断体质，这就是**辨证论治**。压力情绪不会单独看“心理症状”，而是转化为舌、脉这些身体体征来解读。
+
+---
+
+# ✍️ 把新素材嵌入你的Analysis 3.1小节（优先改动3.1）
+>3.1 Interpreting modern‑day stress: TCM constitutional understanding in clinical setting
+>【原来内容】+【新增脉诊舌诊实地素材】
+
+>示范段落（英文，可直接放进报告）
+>From the field‑trip demonstration on pulse taking and tongue diagnosis, TCM practitioners at Thong Chai rely on these two diagnostic tools to translate abstract emotional stress into tangible bodily signs. According to the briefing, **stress and anger will produce a wiry pulse at the Guan position of the left wrist**, which corresponds to the Liver organ system in TCM. This aligns with the core theory that “the Liver governs emotions”.
+>
+>Combined with tongue inspection, practitioners identify patterns commonly seen among Singapore young adults: Qi stagnation, Yin deficiency and damp‑heat. For instance, a red tongue tip points to liver Qi stagnation caused by overthinking and academic pressure; cracked red tongue indicates Yin deficiency from chronic late nights and stress; swollen tongue with teeth marks suggests Qi deficiency after long‑term mental exhaustion.
+>
+>This diagnostic logic is fundamentally different from commercial herbal retail such as Tong Keow. Community medicine shops sell pre‑packaged “liver‑soothing” soup packs based only on product labels. In contrast, the clinical practice in Thong Chai requires practitioners to **combine pulse, tongue and patient inquiry to differentiate patterns individually** (pattern differentiation). Even if two patients report the same symptom of stress or insomnia, their tongue and pulse signs may differ, leading to completely different herbal prescriptions.
+
+### 3.1小节更新要点总结
+1. 增加现场演示证据：同济医师用**脉诊+舌诊**作为辨证的工具，将抽象的压力、焦虑转化为脉象舌象。
+2. 重点引用幻灯片原话：**Stress/anger: more wiry pulse**，左手关脉对应肝，肝主情志。
+3. 列出现场展示的舌象：气滞、阴虚、湿热，全部和本地青年压力相关。
+4. 强化对比：零售药行直接卖疏肝汤包；中医院必须舌脉合参，一人一方（辨证论治）。
+
+## 3.2 Local adaptation（可少量补充）
+可以加一句话：
+>When prescribing herbs for patients with stress‑related pattern such as damp‑heat and Yin deficiency, practitioners follow the local “Qing Bu” principle, selecting mild, cool‑nature herbs instead of hot tonics to match Singapore’s humid hot climate. The choice of herbal formula is built upon the tongue and pulse findings collected during diagnosis.
+翻译：当为湿热、阴虚这类压力相关证型开药时，医师遵循本地清补原则，选用凉平药材，避免燥热补品，药方选择建立在舌脉诊断结果之上。
+
+## 3.3 The boundary of TCM emotional wellness support（可选补充）
+>Important caveat mentioned in the briefing: pulse and tongue signs only reflect the body’s functional imbalance linked to sub‑health emotional discomfort. These diagnostic tools are not used to diagnose clinical mental disorders. In serious cases, practitioners will refer patients for western psychological support.
+翻译：讲解提到重要提醒：舌脉体征仅反映亚健康情绪不适带来的身体功能失衡；这套诊断方式**并不用于确诊临床精神疾病**。遇到重症情况，医师会转介患者寻求西医心理支持。
+
+# 💡写作注意事项（GEC1044要求）
+1. 描述脉舌诊断是**中医的认知框架**，**不要声称脉诊舌诊可以客观测量焦虑/抑郁**。表述是：在TCM体系里，医师用舌脉来观察压力带来的身体失衡。
+2. 继续保持你的报告定位：**社会实践文化观察，不评估诊断技术是否有效**。
+✅推荐句式：Within TCM’s diagnostic framework / From the TCM perspective
+❌不要写：Pulse taking can detect stress
+
+# 可选：新增1句进Limitation
+>Furthermore, this field observation only shows the demonstration of tongue and pulse diagnosis; we do not have access to real patients’ pulse and tongue records for further analysis.
+>此外，本次实地观察仅为舌诊脉诊教学演示，我们无法获取真实患者的舌脉记录用于进一步分析。
+
+如果你想，我可以把**完整更新后的Analysis全部三段合并成一整段完整英文文本**，直接粘贴进你的报告。
+
+# 第二部分内容整理（PPT第2张：穴位 Acupoints）
+> 共5个常用穴位，包含定位Location、功效Function
+
+### 1. DU20 Baihui 百会
+- **Location（定位）**：头顶，前发际正中直上5寸；两耳尖连线的中点。
+- **Function（功效）**：头痛、眩晕、失眠、耳鸣、痴呆、中风
+
+### 2. LI11 Quchi 曲池
+- **Location（定位）**：屈肘，肘横纹外侧端，肘横纹与肱骨外上髁中点。
+- **Function（功效）**：手臂肘部止痛、清热、牙痛、咽喉肿痛
+
+### 3. LI4 Hegu 合谷
+- **Location（定位）**：手背，第1、2掌骨间，第2掌骨桡侧中点。
+- **Function（功效）**：清热、头痛、牙痛、眼部感染、消化问题
+
+### 4. ST36 Zusanli 足三里
+- **Location（定位）**：小腿前外侧，ST35下3寸，胫骨前嵴外一横指（中指）。
+- **Function（功效）**：脾胃消化问题（胃胀、腹泻、便秘）；提升免疫力
+
+### 5. LIV3 Taichong 太冲
+- **Location（定位）**：足背，第1跖骨间隙后方凹陷处。
+- **Function（功效）**：肝气郁结：压力大、易怒、月经不调
+
+---
+要不要我把**全部9页PPT**整理成一份完整中英对照笔记，方便背诵？
+
+# 第一部分：Pulse Taking（脉诊）
+## How to take pulse（诊脉方法）
+- Cunkou is divided into three portions, namely, cun, guan and chi.
+- There is a prominent bone (the styloid process of the radius), which marks the guan.
+- Each of these portions corresponds to one of the zang-fu organs and reveals the pathological changes of the corresponding organs.
+
+| | Left hand | Right hand |
+| ---- | ---- | ---- |
+| Cun 寸 | Heart 心 | Lung 肺 |
+| Guan 关 | Liver 肝胆 (gallbladder) | Spleen 脾胃 (stomach) |
+| Chi 尺 | Kidney 肾 | Kidney 肾/命门 (life gate) |
+> 3 Positions：Place 3 fingers over radial artery, with middle (guan) position over the styloid process of the wrist.
+
+## Depth of Pulse（脉位深浅）
+> 3 Levels: Press fingers over radial artery first lightly, increasing pressure gradually to moderate force, then lastly to deep.
+1. **浮脉（Fu Mai, Superficial）**
+    - It responds to the finger when pressed gently but feels weak when a heavy pressure is applied. 如水漂木 “as if a log is floating on water”
+    - Indications: External syndrome (flu, cold, fever)
+2. **沉脉（Chen Mai, Deep）**
+    - It only responds to the finger when pressed heavily. 如石沉水 “Like a rock deep in water”
+    - Indication: Interior syndrome
+      - Deep and forceful: interior excess syndrome
+      - deep and weak: interior deficiency syndrome
+
+## Pulse Types（脉象）
+1. **数脉(Shuo pulse, Rapid)**
+    - More than 5 beats per breath, above 90 beats/min
+    - Indications: Heat Syndromes.
+2. **缓脉（Huan pulse, Moderate）**
+    - relaxed and forceful. About 60-70 beats/min.
+    - Indications: Healthy pulse or syndromes of damp, insufficient Qi and blood to move in the vessels.
+3. **实脉（Shi Mai , Excess）**
+    - Strong beating at all three portions
+    - Indications: Excess syndrome, or in healthy people
+4. **细脉（Xi Mai, Thready/Thin）**
+    - As fine as a thread, but obviously palpable
+    - Indications: Qi and Blood deficiency syndromes, Yin deficient
+
+## Pulse can be influenced by（影响脉象的因素）
+- Gender: Men (usually stronger and bigger) vs women (usually weaker and thinner)
+- Exercise before pulse taking: faster pulse
+- Stress/anger: more wiry
+- Post heavy meal: more slippery
+- Athletes often have a slow pulse, young children have quick pulses.
+- Heavier individuals have deeper pulses, while thinner individuals have “stronger”/more superficial pulses.
+
+---
+# 第二部分：Tongue Diagnosis（舌诊）
+## Which Tongue Do You Have?
+- **Normal**
+- **Blood Deficiency**: Pale Tongue, Little or No Coating
+- **Heat**: Red Tongue, Thin Yellow Coating
+- **Damp Retention**: Swollen Tongue, White Greasy Coating
+- **Qi Stagnation**: Red Tip
+- **Blood Stasis**: Purple Tongue, Black Spots
+- **Damp Heat**: Red Tongue, Greasy Yellow Coating
+- **Yin Deficient**: Red Tongue, Cracks, Little or No Coating
+- **Qi Deficiency**: Pale Tongue with Red Spots, Thin White Coating
+- **Yang Deficiency**: Pale Swollen Tongue, Thin White Coating, Teeth Marks
+
+## Common Tongue Types
+1. **NORMAL**：Normal tongue
+2. **QI DEFICIENCY**
+    - Features: pale tongue with a few red spots, thin white coating, teeth marks
+    - Symptoms: Fatigue, Poor appetite, Spontaneous sweating, Shortness of breath, Over-thinking and worrying…
+3. **HEAT**
+    - Features: red tongue, thin yellow coating
+    - Symptoms: Feel hot, Sweat easily, Thirsty, Constipated, Irritable and bad tempered, Skin problems…
+4. **DAMP RETENTION**
+    - Features: swollen tongue, white greasy coating
+    - Symptoms: Bloated, Fullness in chest and abdomen, Feel heavy and lethargic…
+5. **BLOOD STASIS**
+    - Features: purple tongue, black spots
+    - Symptoms: Cold limbs, Varicose veins, Painful legs, Headaches, Chest pain, Liver spots, Lack of skin lustre…
+
+你看这样合并整理可以吗？需要我单独导出成纯英文版本，或者中英对照精简版吗？
+
+我目前只有你上传到这里的**9张幻灯片**，最后一张是脉诊（弦脉、滑脉、浮脉、沉脉）。
+> 你问的**之后的部分**，我这边没有图片。
+
+### 先帮你整理已有的全部PPT内容（方便复习）
+1. **Cupping 拔罐**
+    拔罐是中医疗法，使用玻璃/塑料罐。
+    作用：减轻疼痛炎症、缓解肌肉紧张、改善血流、增加活动度。
+    三种：
+    - Stationary cupping 留罐：留罐10–15分钟
+    - Flash cupping 闪火拔罐法：快速反复拔取
+    - Moving/gliding cupping 走罐：沿经络移动5–10分钟
+
+2. **Acupuncture points 穴位**
+    - DU20 Baihui 百会：头顶；头痛眩晕失眠耳鸣痴呆中风
+    - LI11 Quchi 曲池：肘横纹外侧；手臂止痛、清热、牙痛咽痛
+    - LI4 Hegu 合谷：手背1、2掌骨间；清热头痛牙痛眼疾消化问题
+    - ST36 Zusanli 足三里：小腿外侧；肠胃病，提升免疫力
+    - LIV3 Taichong 太冲：足背；肝气郁结，压力烦躁，月经不调
+
+3. **Things to look out for during Acupuncture 针刺注意事项**
+    - 正常针感：酸麻胀重（Aching, numbness, sore, heaviness）
+    - 起针：轻微痛、少量出血/淤青，微血管破损，几天消退
+    - 恶心头晕晕厥：多因怕针、休息不足、饥饿
+    - 皮疹过敏：少见
+    - 感染：极少，一次性无菌针
+
+4. **Chantui 蝉蜕 Cicadae Periostracum**
+    甘，寒；归肺、肝经
+    功效：疏散风热，透疹止痒，明目退翳，止痉
+    适用：风热感冒、风疹瘙痒、目赤、小儿夜啼、破伤风
+
+5. **Meiguihua 玫瑰花 Rosa rugosa**
+    甘、微苦，温；归肝、脾经
+    功效：行气解郁，和血，止痛
+    适用：腹痛，月经不调，跌打伤痛
+
+6. **Duzhong 杜仲 Eucommia ulmoides**
+    甘，温；归肝、肾经
+    功效：补肝肾，强筋骨，安胎
+    适用：腰膝酸痛，尿频，胎动不安、流产
+
+7. **Huangqi 黄芪 Astragalus membranaceus**
+    甘，微温；归脾、肺经
+    功效：补气升阳，固表止汗
+    适用：疲倦乏力、食欲差、气短、多汗、便溏
+
+8. **Danggui 当归 Angelica sinensis**
+    甘、辛，温；归肝、心、脾经
+    功效：补血活血，调经止痛，润肠通便
+    适用：眩晕心悸、月经不调、跌打损伤、便秘
+
+9. **The Properties of herbs 中药药性**
+    - 四气 Four Natures：寒Cold、凉Cool、热Hot、温Warm
+    - 五味 Five Flavours：酸Sour、苦Bitter、咸Salty、辛Pungent、甘Sweet
+    - Meridian Affinity 归经；Function 作用
+
+10. **Pulse diagnosis 脉诊（最后一页你发的）**
+    - 弦脉 Xian Pulse(Wiry)：长，如按琴弦；压力、易怒、肝胆病、疼痛、气机异常
+    - 滑脉 Hua pulse(Slippery)：如盘走珠；痰湿食积、实热、孕妇、健康青壮年
+    - 浮脉 Fu Mai(Superficial)：轻取即得，重按减弱；外感（风寒感冒发烧）
+    - 沉脉 Chen Mai(Deep)：重按至骨才摸到；体质虚弱、脏腑慢性病
+
+---
+
+你可以：
+✅ 继续拍下**后面的PPT照片**发给我，我帮你转录、翻译整理
+或者
+✅ 告诉我：你是想要**知识点总结 / 问答练习题 / 背诵小抄**？

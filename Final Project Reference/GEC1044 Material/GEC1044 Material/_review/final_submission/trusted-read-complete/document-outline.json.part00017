@@ -1,0 +1,346 @@
+MAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "Fatigue or Qi deficiency language",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00351",
+      "path": "tabs.t.0.body.content[145].table.rows[3].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31025,
+      "endIndex": 31027,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "[INLINE_OBJECT kix.wtt1e2tyu2k]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00352",
+      "path": "tabs.t.0.body.content[145].table.rows[3].cells[1].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31027,
+      "endIndex": 31048,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "Ginseng or Dang Shen",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00353",
+      "path": "tabs.t.0.body.content[145].table.rows[3].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31049,
+      "endIndex": 31403,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "text": "Ginseng and Dang Shen are separate Qi-tonifying materials rather than one fixed formula. PolyU describes [ginseng](https://herbaltcm.sn.polyu.edu.hk/herbal/ginseng) as supporting original Qi and Spleen–Lung functions, and [Dang Shen](https://herbaltcm.sn.polyu.edu.hk/herbal/tangshen) as supporting Spleen and Lung Qi. Reference symptoms include poor appetite, shortness of breath and, for Dang Shen, loose stools; these provide context beyond fatigue alone.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00354",
+      "path": "tabs.t.0.body.content[145].table.rows[4].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31405,
+      "endIndex": 31430,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "Perceived lower immunity",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00355",
+      "path": "tabs.t.0.body.content[145].table.rows[4].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31431,
+      "endIndex": 31433,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "[INLINE_OBJECT kix.ny8u73434gzc]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00356",
+      "path": "tabs.t.0.body.content[145].table.rows[4].cells[1].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31433,
+      "endIndex": 31456,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "Lingzhi or supplements",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00357",
+      "path": "tabs.t.0.body.content[145].table.rows[4].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31457,
+      "endIndex": 31800,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "text": "Reference Lingzhi is the dried fruiting body of Ganoderma lucidum or G. sinense. [PolyU](https://herbaltcm.sn.polyu.edu.hk/herbal/glossy-ganoderma) describes traditional Qi-tonifying and calming uses, with reference symptoms including insomnia, palpitations and shortness of breath. “Lower immunity” is a broad retail description and does not specify a single formula, TCM pattern or clinical diagnosis.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00358",
+      "path": "tabs.t.0.body.content[145].table.rows[5].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31802,
+      "endIndex": 31842,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "Late nights, stress and long work hours",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00359",
+      "path": "tabs.t.0.body.content[145].table.rows[5].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31843,
+      "endIndex": 31845,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 5,
+        "columnIndex": 1
+      },
+      "text": "[INLINE_OBJECT kix.4d7d05ly06h]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00360",
+      "path": "tabs.t.0.body.content[145].table.rows[5].cells[1].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31845,
+      "endIndex": 31881,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 5,
+        "columnIndex": 1
+      },
+      "text": "Liver care or mood support products",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00361",
+      "path": "tabs.t.0.body.content[145].table.rows[5].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 31882,
+      "endIndex": 32265,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 5,
+        "columnIndex": 2
+      },
+      "text": "Mind Soothe is a 16-ingredient example; key ingredients listed by [Tong Jum Chew](https://tongjumchew.com/product/natures-green-mind-soothe-capsules-60s/) include bupleurum, acorus, lily bulb, sour jujube seed, curcuma, polygala, licorice and jujube. The manufacturer describes Liver-constraint and restlessness-related uses. Its reference symptom context includes sleep and mood concerns; late nights or long work hours alone do not establish that pattern.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00362",
+      "path": "tabs.t.0.body.content[145].table.rows[6].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32267,
+      "endIndex": 32285,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 6,
+        "columnIndex": 0
+      },
+      "text": "Aches or injuries",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00363",
+      "path": "tabs.t.0.body.content[145].table.rows[6].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32286,
+      "endIndex": 32288,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 6,
+        "columnIndex": 1
+      },
+      "text": "[INLINE_OBJECT kix.bv9pp2j4h4zb]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00364",
+      "path": "tabs.t.0.body.content[145].table.rows[6].cells[1].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32288,
+      "endIndex": 32303,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 6,
+        "columnIndex": 1
+      },
+      "text": "Medicated oils",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00365",
+      "path": "tabs.t.0.body.content[145].table.rows[6].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32304,
+      "endIndex": 32679,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 30014,
+        "rowIndex": 6,
+        "columnIndex": 2
+      },
+      "text": "Reference [Fei Fah Red Flower Ointment](https://feifah.com/products/red-flower-ointment-50ml) is an external liniment containing methyl salicylate, turpentine, white oil and menthol among its listed ingredients. Fei Fah describes use for sprains, bruises and muscular aches. This identifies the illustrated product’s composition and intended use; the general category “medicated oils” includes products with different ingredients.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00366",
+      "path": "tabs.t.0.body.content[146]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32680,
+      "endIndex": 32845,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": null,
+      "text": "Sources (text): staff interview; Science Arts (n.d.-a, n.d.-b); The Hong Kong Polytechnic University (n.d.-i, n.d.-j, n.d.-o); Tong Jum Chew (n.d.); Fei Fah (n.d.).",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00367",
+      "path": "tabs.t.0.body.content[147]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 32845,
+      "endIndex": 32846,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": null,
+      "text": "",
+      "protectedControls": []
+    }
+  ]
+}

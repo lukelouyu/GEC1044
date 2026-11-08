@@ -1,0 +1,407 @@
+g and Large Intestine.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00252",
+      "path": "tabs.t.0.body.content[135].table.rows[2].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23891,
+      "endIndex": 23944,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 2,
+        "columnIndex": 3
+      },
+      "text": "Staff associated it with throat comfort and cooling.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00253",
+      "path": "tabs.t.0.body.content[135].table.rows[2].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 23945,
+      "endIndex": 24008,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 2,
+        "columnIndex": 4
+      },
+      "text": "Fruit and drink forms were described, with recipes unrecorded.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00254",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24010,
+      "endIndex": 24012,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.g9ubyrj87j9p]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00255",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24012,
+      "endIndex": 24041,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 0
+      },
+      "text": "花茶／凉茶\u000bFlower and herbal teas",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00256",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24042,
+      "endIndex": 24090,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 1
+      },
+      "text": "Reference [Ju Hua](https://herbaltcm.sn.polyu.edu.hk/herbal/chrysanthemum-flower): sweet, bitter; slightly cold.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00257",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24091,
+      "endIndex": 24122,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 2
+      },
+      "text": "Reference [Ju Hua](https://herbaltcm.sn.polyu.edu.hk/herbal/chrysanthemum-flower): Lung, Liver.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00258",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24123,
+      "endIndex": 24163,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 3
+      },
+      "text": "Staff described everyday wellness uses.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00259",
+      "path": "tabs.t.0.body.content[135].table.rows[3].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24164,
+      "endIndex": 24211,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 3,
+        "columnIndex": 4
+      },
+      "text": "Staff linked simple brewing to younger buyers.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00260",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24213,
+      "endIndex": 24215,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.38ij4360nh2x]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00261",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24215,
+      "endIndex": 24231,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "药材汤包\u000bSoup packs",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00262",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24232,
+      "endIndex": 24297,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "Examples: [Huai Shan](https://herbaltcm.sn.polyu.edu.hk/herbal/common-yam-rhizome) sweet, neutral; [Yu Zhu](https://herbaltcm.sn.polyu.edu.hk/herbal/fragrant-solomonseal-rhizome) sweet, slightly cold.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00263",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24298,
+      "endIndex": 24354,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "text": "[Huai Shan](https://herbaltcm.sn.polyu.edu.hk/herbal/common-yam-rhizome): Spleen, Lung, Kidney. [Yu Zhu](https://herbaltcm.sn.polyu.edu.hk/herbal/fragrant-solomonseal-rhizome): Lung, Stomach.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00264",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24355,
+      "endIndex": 24388,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 3
+      },
+      "text": "Presentation: light nourishment.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00265",
+      "path": "tabs.t.0.body.content[135].table.rows[4].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24389,
+      "endIndex": 24436,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 4,
+        "columnIndex": 4
+      },
+      "text": "Preselected dried packs still require cooking.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00266",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24438,
+      "endIndex": 24440,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.17amck9gtpi8]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00267",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24440,
+      "endIndex": 24466,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "灵芝保健品\u000bLingzhi supplements",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00268",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24467,
+      "endIndex": 24502,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 1
+      },
+      "text": "Reference [Lingzhi](https://sys01.lib.hkbu.edu.hk/cmed/mpid/detail.php?herb_id=D00023): sweet; neutral.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00269",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24503,
+      "endIndex": 24550,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 2
+      },
+      "text": "Reference [Lingzhi](https://herbaltcm.sn.polyu.edu.hk/herbal/glossy-ganoderma): Liver, Heart, Lung, Kidney.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00270",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24551,
+      "endIndex": 24603,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 3
+      },
+      "text": "Staff associated supplements with immunity support.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00271",
+      "path": "tabs.t.0.body.content[135].table.rows[5].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 24604,
+      "endIndex": 24667,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 23410,
+        "rowIndex": 5,
+        "columnIndex": 4
+      },
+      "text": "Staff described use for general wellness and immunity support.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00272",
+      "path": "tabs.t.0.body.content[135].table.rows[6].cells[0].content[0]",
+      "tabId": "t.

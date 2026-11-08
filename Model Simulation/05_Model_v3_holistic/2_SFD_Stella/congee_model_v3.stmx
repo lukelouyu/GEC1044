@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xmile version="1.0" xmlns="http://docs.oasis-open.org/xmile/ns/XMILE/v1.0" xmlns:isee="http://iseesystems.com/XMILE">
+	<header>
+		<smile version="1.0" namespace="std, isee"/>
+		<name>congee_model_v3</name>
+		<uuid>6e4d769a-4cf3-4901-9765-8ca696fc5f2f</uuid>
+		<vendor>isee systems, inc.</vendor>
+		<product version="3.0" lang="en">Stella Architect</product>
+	</header>
+	<sim_specs method="Euler" time_units="Weeks">
+		<start>-8</start>
+		<stop>18</stop>
+		<dt reciprocal="true">7</dt>
+	</sim_specs>
+	<model>
+		<variables>
+			<stock name="Perceived Stress">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.35</eqn>
+				<inflow>Change_in_Stress</inflow>
+			</stock>
+			<stock name="Rumination">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.3</eqn>
+				<inflow>Change_in_Rumination</inflow>
+			</stock>
+			<stock name="Mindfulness">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.2</eqn>
+				<inflow>Change_in_Mindfulness</inflow>
+			</stock>
+			<stock name="Liver Qi Stagnation">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.35</eqn>
+				<inflow>Qi_Stagnation_Buildup</inflow>
+				<outflow>Liver_Qi_Soothing</outflow>
+			</stock>
+			<stock name="Spleen Function">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.6</eqn>
+				<inflow>Spleen_Nourishment</inflow>
+				<outflow>Spleen_Depletion</outflow>
+			</stock>
+			<stock name="Calm Shen">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.6</eqn>
+				<inflow>Shen_Settling</inflow>
+				<outflow>Shen_Disturbance</outflow>
+			</stock>
+			<stock name="Sleep Quality">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.6</eqn>
+				<inflow>Change_in_Sleep</inflow>
+			</stock>
+			<stock name="Fatigue">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.35</eqn>
+				<inflow>Fatigue_Accumulation</inflow>
+				<outflow>Fatigue_Recovery</outflow>
+			</stock>
+			<stock name="Unhealthy Habits">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.25</eqn>
+				<inflow>Habit_Uptake</inflow>
+				<outflow>Habit_Quitting</outflow>
+			</stock>
+			<stock name="Congee Habit">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0</eqn>
+				<inflow>Congee_Habit_Change</inflow>
+			</stock>
+			<stock name="Self Care Engagement">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.5</eqn>
+				<inflow>Change_in_Self_Care</inflow>
+			</stock>
+			<stock name="Sense of Control">
+				<doc>Index 0-1. Starts the pre-semester holiday (week -8) at this value.</doc>
+				<eqn>0.4</eqn>
+				<inflow>Change_in_Control</inflow>
+			</stock>
+			<flow name="Change in Stress">
+				<eqn>(MIN(MAX(0.28 - 0 + 0.35 * Study_Load + 0.35 * (Felt_Fatigue - 0.4) + 0.3 * (0.45 - Sense_of_Control) + 0.6 * Time_Squeeze, 0), 1) - Perceived_Stress) / 0.4</eqn>
+			</flow>
+			<flow name="Change in Rumination">
+				<eqn>(MIN(MAX(0.05 + 0.7 * Perceived_Stress + 0.3 * (0.6 - Sleep_Quality) - 0.3 * (Mindfulness - 0.2) + 0.3 * (Heart_Blood_Malnourishment - 0.35), 0), 1) - Rumination) / 0.3</eqn>
+			</flow>
+			<flow name="Change in Mindfulness">
+				<eqn>(0.2 + 0.6 * 0.25 * Mindful_Cooking - Mindfulness) / 1</eqn>
+			</flow>
+			<flow name="Qi Stagnation Buildup">
+				<eqn>(1 - Liver_Qi_Stagnation) * (0.6 * Perceived_Stress + 0.6 * Rumination) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Liver Qi Soothing">
+				<eqn>Liver_Qi_Stagnation * (0.6 + 0.8 * TCM_Practice) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Spleen Nourishment">
+				<eqn>(1 - Spleen_Function) * (0.22 + 0.3 * Spleen_Strengthening_Effect) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Spleen Depletion">
+				<eqn>Spleen_Function * (0.02 + 0.1 * Rumination + 0.1 * Liver_Qi_Stagnation + 0.15 * Unhealthy_Habits + 0.05 * Circadian_Disruption) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Shen Settling">
+				<eqn>(1 - Calm_Shen) * (0.36 + 0.35 * Shen_Calming_Effect) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Shen Disturbance">
+				<eqn>Calm_Shen * (0.015 + 0.4 * Rumination + 0.15 * Unhealthy_Habits + 0.1 * Circadian_Disruption) * 1</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Change in Sleep">
+				<eqn>(MIN(MAX(0.15 + 0.75 * Calm_Shen - 0.3 * (Unhealthy_Habits - 0.2) - 0.25 * (Yin_Deficiency_Factor * Circadian_Disruption - 0.45) - 0.3 * (Yin_Deficiency_Factor * Heart_Blood_Malnourishment - 0.35), 0), 1) - Sleep_Quality) / 0.7</eqn>
+			</flow>
+			<flow name="Fatigue Accumulation">
+				<eqn>(1 - Fatigue) * (1.43 * Yang_Deficiency_Factor * Study_Load + 0.004 * Cooking_Workload)</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Fatigue Recovery">
+				<eqn>Fatigue * (0.23 + 0.5 * Sleep_Quality + 0.5 * Qi_Blood_Generation + 0.25 * Recovery_Break + 0.5 * Body_Awareness)</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Habit Uptake">
+				<eqn>(1 - Unhealthy_Habits) * Lifestyle_Propensity * (0.5 * Felt_Fatigue + 0.3 * Perceived_Stress + 0.4 * Unhealthy_Habits) / 1.5</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Habit Quitting">
+				<eqn>Unhealthy_Habits * (0.6 + 0.8 * Self_Care_Engagement + 0.3 * Servings_Eaten / 7) / 1.5</eqn>
+				<non_negative/>
+			</flow>
+			<flow name="Congee Habit Change">
+				<eqn>(Adherence * MIN(Planned_Servings, 1) - Congee_Habit) / 3</eqn>
+			</flow>
+			<flow name="Change in Self Care">
+				<eqn>(MIN(MAX(0.55 + 0.4 * (Physical_Wellbeing / 100 - 0.6) + 0.45 * (Mental_Wellbeing / 100 - 0.55) - 0.35 * (Unhealthy_Habits - 0.3), 0), 1) - Self_Care_Engagement) / 0.7</eqn>
+			</flow>
+			<flow name="Change in Control">
+				<eqn>(0.2 + 0.75 * Behavioural_Activation - Sense_of_Control) / 2</eqn>
+			</flow>
+			<aux name="Scenario">
+				<doc>1 = no congee + bad habits; 2 = no congee + healthy lifestyle; 3 = congee once a week; 4 = congee every day; 0 = typical NUS student (calibration reference)</doc>
+				<eqn>4</eqn>
+			</aux>
+			<aux name="Constitution">
+				<doc>Individual constitution (ti zhi): 0 = balanced, 1 = Yin deficiency, 2 = Yang deficiency</doc>
+				<eqn>0</eqn>
+			</aux>
+			<aux name="Yin Deficiency Factor">
+				<doc>Yin deficiency: the same late nights and Heart-blood deficiency disturb sleep 1.5x more</doc>
+				<eqn>Constitution</eqn>
+				<gf type="discrete">
+					<xscale min="0" max="2"/>
+					<yscale min="0" max="2"/>
+					<ypts>1.0000,1.5000,1.0000</ypts>
+				</gf>
+			</aux>
+			<aux name="Yang Deficiency Factor">
+				<doc>Yang deficiency: the same study load builds fatigue 1.5x faster</doc>
+				<eqn>Constitution</eqn>
+				<gf type="discrete">
+					<xscale min="0" max="2"/>
+					<yscale min="0" max="2"/>
+					<ypts>1.0000,1.0000,1.5000</ypts>
+				</gf>
+			</aux>
+			<aux name="Academic Demands">
+				<doc>Study hours / waking hours by semester week (NUS Registrar: 20 units = 50 h/week)</doc>
+				<eqn>TIME</eqn>
+				<gf type="discrete">
+					<xscale min="-8.001" max="16.999"/>
+					<yscale min="0" max="1"/>
+					<ypts>0.1500,0.1500,0.1500,0.1500,0.1500,0.1500,0.1500,0.1500,0.2114,0.2325,0.2607,0.2818,0.2818,0.2818,0.1409,0.5637,0.5637,0.3523,0.5637,0.5989,0.6200,0.5989,0.3875,0.6694,0.6694,0.1057</ypts>
+				</gf>
+			</aux>
+			<aux name="Course Load">
+				<doc>Units taken / 20 units</doc>
+				<eqn>1</eqn>
+			</aux>
+			<aux name="Study Load">
+				<eqn>Academic_Demands * Course_Load</eqn>
+			</aux>
+			<aux name="Free Hours">
+				<doc>Waking hours left after study (hours/week)</doc>
+				<eqn>120.12 * MAX(1 - Study_Load, 0.2)</eqn>
+			</aux>
+			<aux name="Circadian Disruption">
+				<doc>Tian Ren He Yi: share of late or all-night study nights; rises with study load</doc>
+				<eqn>MIN(MAX(1.1 * Study_Load, 0), 1)</eqn>
+			</aux>
+			<aux name="Congee Plan">
+				<doc>Servings per week planned in each scenario: 3 -&gt; 2 (one batch a week); 4 -&gt; 7 (one bowl a day)</doc>
+				<eqn>Scenario</eqn>
+				<gf type="discrete">
+					<xscale min="0" max="4"/>
+					<yscale min="0" max="7"/>
+					<ypts>0.0000,0.0000,0.0000,2.0000,7.0000</ypts>
+				</gf>
+			</aux>
+			<aux name="Planned Servings">
+				<doc>No congee during the pre-semester holiday; the plan starts in week 1</doc>
+				<eqn>IF TIME &gt; -0.001 THEN Congee_Plan ELSE 0</eqn>
+			</aux>
+			<aux name="Lifestyle Propensity">
+				<doc>Tendency to cope with caffeine, cigarettes, alcohol and junk food</doc>
+				<eqn>Scenario</eqn>
+				<gf type="discrete">
+					<xscale min="0" max="4"/>
+					<yscale min="0" max="10"/>
+					<ypts>1.0000,9.5000,0.3500,0.3500,0.3500</ypts>
+				</gf>
+			</aux>
+			<aux name="Adherence">
+				<doc>Share of planned servings actually cooked and eaten; daily plans are dropped more under stress</doc>
+				<eqn>MIN(MAX(0.5 + 0.3 * (Self_Care_Engagement - 0.5) + 0.35 * Congee_Habit - 0.25 * (Planned_Servings / 7) * Perceived_Stress, 0), 1)</eqn>
+			</aux>
+			<aux name="Servings Eaten">
+				<eqn>Planned_Servings * Adherence</eqn>
+			</aux>
+			<aux name="Batches Cooked">
+				<eqn>Servings_Eaten / 2</eqn>
+			</aux>
+			<aux name="Cooking Workload">
+				<doc>Hours per week spent preparing congee</doc>
+				<eqn>Batches_Cooked * 1.25</eqn>
+			</aux>
+			<aux name="Recovery Break">
+				<doc>Detachment from study while cooking (saturating)</doc>
+				<eqn>Cooking_Workload / (Cooking_Workload + 2.5)</eqn>
+			</aux>
+			<aux name="Mindful Cooking">
+				<doc>Present-moment attention practised while washing, cutting and simmering</doc>
+				<eqn>Cooking_Workload / (Cooking_Workload + 2.5)</eqn>
+			</aux>
+			<aux name="Time Squeeze">
+				<doc>Share of free time used by cooking</doc>
+				<eqn>Cooking_Workload / Free_Hours</eqn>
+			</aux>
+			<aux name="Spleen Strengthening Effect">
+				<doc>Chinese yam + red date (jian pi yi qi), saturating dose-response</doc>
+				<eqn>0.5 * Servings_Eaten / (Servings_Eaten + 3.5)</eqn>
+			</aux>
+			<aux name="Shen Calming Effect">
+				<doc>Lotus seed + red date (yang xin an shen), saturating dose-response</doc>
+				<eqn>0.5 * Servings_Eaten / (Servings_Eaten + 3.5)</eqn>
+			</aux>
+			<aux name="TCM Practice">
+				<doc>TCM non-pharmacological interventions: acupoint massage, Baduanjin / gentle exercise</doc>
+				<eqn>MIN(MAX(0.3 + 0.6 * (Self_Care_Engagement - 0.5), 0), 1)</eqn>
+			</aux>
+			<aux name="Qi Blood Generation">
+				<doc>Qi and blood made by the Spleen (qi xue sheng hua zhi yuan); movement adds</doc>
+				<eqn>MIN(MAX(0.1 + 0.8 * Spleen_Function + 0.3 * (TCM_Practice - 0.3), 0), 1)</eqn>
+			</aux>
+			<aux name="Heart Blood Malnourishment">
+				<doc>Heart blood / shen malnourishment: rises when Spleen and qi-blood are weak</doc>
+				<eqn>MIN(MAX(0.645 - 0.25 * Spleen_Function - 0.25 * Qi_Blood_Generation, 0), 1)</eqn>
+			</aux>
+			<aux name="Behavioural Activation">
+				<eqn>0.25 + 0.6 * 0.25 * Batches_Cooked / (Batches_Cooked + 1)</eqn>
+			</aux>
+			<aux name="Felt Fatigue">
+				<doc>Fatigue as felt; caffeine and nicotine mask part of it</doc>
+				<eqn>Fatigue * (1 - 0.3 * Unhealthy_Habits)</eqn>
+			</aux>
+			<aux name="Body Awareness">
+				<doc>Zhi Wei Bing: noticing early tiredness (needs mindfulness and a felt signal) -&gt; early rest</doc>
+				<eqn>MIN(MAX(2 * Mindfulness * Felt_Fatigue, 0), 1)</eqn>
+			</aux>
+			<aux name="Physical Wellbeing">
+				<doc>0-100; uses true (unmasked) fatigue</doc>
+				<eqn>100 * (0.35 * Qi_Blood_Generation + 0.25 * Sleep_Quality + 0.40 * (1 - Fatigue))</eqn>
+			</aux>
+			<aux name="Mental Wellbeing">
+				<doc>0-100, WHO-5-like scale</doc>
+				<eqn>100 * (0.22 * (1 - Perceived_Stress) + 0.22 * (1 - Rumination) + 0.14 * Sense_of_Control + 0.18 * Calm_Shen + 0.12 * Spleen_Function + 0.12 * Mindfulness)</eqn>
+			</aux>
+		</variables>
+		<views>
+			<view isee:show_pages="false" page_width="1840" page_height="1310">
+				<stock x="340" y="285" width="76" height="44" name="Congee Habit"/>
+				<stock x="860" y="150" width="76" height="44" name="Liver Qi Stagnation"/>
+				<stock x="860" y="300" width="76" height="44" name="Spleen Function"/>
+				<stock x="860" y="560" width="76" height="44" name="Calm Shen"/>
+				<stock x="860" y="700" width="76" height="44" name="Sleep Quality"/>
+				<stock x="1540" y="150" width="76" height="44" name="Fatigue"/>
+				<stock x="1540" y="510" width="76" height="44" name="Unhealthy Habits"/>
+				<stock x="1110" y="920" width="76" height="44" name="Perceived Stress"/>
+				<stock x="1110" y="1070" width="76" height="44" name="Rumination"/>
+				<stock x="1110" y="1215" width="76" height="44" name="Mindfulness"/>
+				<stock x="340" y="790" width="76" height="44" name="Self Care Engagement"/>
+				<stock x="340" y="1050" width="76" height="44" name="Sense of Control"/>
+				<flow x="1001.0" y="920.0" name="Change in Stress">
+					<pts>
+						<pt x="930.0" y="920"/>
+						<pt x="1072.0" y="920"/>
+					</pts>
+				</flow>
+				<flow x="1001.0" y="1070.0" name="Change in Rumination">
+					<pts>
+						<pt x="930.0" y="1070"/>
+						<pt x="1072.0" y="1070"/>
+					</pts>
+				</flow>
+				<flow x="1001.0" y="1215.0" name="Change in Mindfulness">
+					<pts>
+						<pt x="930.0" y="1215"/>
+						<pt x="1072.0" y="1215"/>
+					</pts>
+				</flow>
+				<flow x="751.0" y="150.0" name="Qi Stagnation Buildup">
+					<pts>
+						<pt x="680.0" y="150"/>
+						<pt x="822.0" y="150"/>
+					</pts>
+				</flow>
+				<flow x="969.0" y="150.0" name="Liver Qi Soothing">
+					<pts>
+						<pt x="898.0" y="150"/>
+						<pt x="1040.0" y="150"/>
+					</pts>
+				</flow>
+				<flow x="751.0" y="300.0" name="Spleen Nourishment">
+					<pts>
+						<pt x="680.0" y="300"/>
+						<pt x="822.0" y="300"/>
+					</pts>
+				</flow>
+				<flow x="969.0" y="300.0" name="Spleen Depletion">
+					<pts>
+						<pt x="898.0" y="300"/>
+						<pt x="1040.0" y="300"/>
+					</pts>
+				</flow>
+				<flow x="751.0" y="560.0" name="Shen Settling">
+					<pts>
+						<pt x="680.0" y="560"/>
+						<pt x="822.0" y="560"/>
+					</pts>
+				</flow>
+				<flow x="969.0" y="560.0" name="Shen Disturbance">
+					<pts>
+						<pt x="898.0" y="560"/>
+						<pt x="1040.0" y="560"/>
+					</pts>
+				</flow>
+				<flow x="751.0" y="700.0" name="Change in Sleep">
+					<pts>
+						<pt x="680.0" y="700"/>
+						<pt x="822.0" y="700"/>
+					</pts>
+				</flow>
+				<flow x="1431.0" y="150.0" name="Fatigue Accumulation">
+					<pts>
+						<pt x="1360.0" y="150"/>
+						<pt x="1502.0" y="150"/>
+					</pts>
+				</flow>
+				<flow x="1649.0" y="150.0" name="Fatigue Recovery">
+					<pts>
+						<pt x="1578.0" y="150"/>
+						<pt x="1720.0" y="150"/>
+					</pts>
+				</flow>
+				<flow x="1431.0" y="510.0" name="Habit Uptake">
+					<pts>
+						<pt x="1360.0" y="510"/>
+						<pt x="1502.0" y="510"/>
+					</pts>
+				</flow>
+				<flow x="1649.0" y="510.0" name="Habit Quitting">
+					<pts>
+						<pt x="1578.0" y="510"/>
+						<pt x="1720.0" y="510"/>
+					</pts>
+				</flow>
+				<flow x="231.0" y="285.0" name="Congee Habit Change">
+					<pts>
+						<pt x="160.0" y="285"/>
+						<pt x="302.0" y="285"/>
+					</pts>
+				</flow>
+				<flow x="231.0" y="790.0" name="Change in Self Care">
+					<pts>
+						<pt x="160.0" y="790"/>
+						<pt x="302.0" y="790"/>
+					</pts>
+				</flow>
+				<flow x="231.0" y="1050.0" name="Change in Control">
+					<pts>
+						<pt x="160.0" y="1050"/>
+						<pt x="302.0" y="1050"/>
+					</pts>
+				</flow>
+				<aux x="60" y="95" name="Scenario"/>
+				<aux x="160" y="95" name="Congee Plan"/>
+				<aux x="265" y="95" name="Planned Servings"/>
+				<aux x="455" y="232" name="Adherence"/>
+				<aux x="330" y="150" name="Servings Eaten"/>
+				<aux x="470" y="370" name="Batches Cooked"/>
+				<aux x="470" y="470" name="Cooking Workload"/>
+				<aux x="330" y="430" name="Recovery Break"/>
+				<aux x="330" y="530" name="Mindful Cooking"/>
+				<aux x="650" y="225" name="Spleen Strengthening Effect"/>
+				<aux x="860" y="410" name="Qi Blood Generation"/>
+				<aux x="1010" y="430" name="Heart Blood Malnourishment"/>
+				<aux x="650" y="495" name="Shen Calming Effect"/>
+				<aux x="1540" y="262" name="Felt Fatigue"/>
+				<aux x="1690" y="290" name="Body Awareness"/>
+				<aux x="1385" y="615" name="Lifestyle Propensity"/>
+				<aux x="630" y="870" name="Academic Demands"/>
+				<aux x="630" y="965" name="Course Load"/>
+				<aux x="745" y="915" name="Study Load"/>
+				<aux x="745" y="1010" name="Circadian Disruption"/>
+				<aux x="630" y="1065" name="Free Hours"/>
+				<aux x="760" y="1120" name="Time Squeeze"/>
+				<aux x="630" y="1240" name="Constitution"/>
+				<aux x="735" y="1250" name="Yin Deficiency Factor"/>
+				<aux x="840" y="1250" name="Yang Deficiency Factor"/>
+				<aux x="470" y="920" name="TCM Practice"/>
+				<aux x="420" y="1185" name="Behavioural Activation"/>
+				<aux x="1540" y="820" name="Physical Wellbeing"/>
+				<aux x="1540" y="1130" name="Mental Wellbeing"/>
+				<alias font_style="italic" uid="1" x="410" y="70">
+					<of>Self_Care_Engagement</of>
+				</alias>
+				<alias font_style="italic" uid="2" x="525" y="265">
+					<of>Perceived_Stress</of>
+				</alias>
+				<alias font_style="italic" uid="3" x="655" y="98">
+					<of>Perceived_Stress</of>
+				</alias>
+				<alias font_style="italic" uid="4" x="755" y="88">
+					<of>Rumination</of>
+				</alias>
+				<alias font_style="italic" uid="5" x="1050" y="92">
+					<of>TCM_Practice</of>
+				</alias>
+				<alias font_style="italic" uid="6" x="1065" y="228">
+					<of>Rumination</of>
+				</alias>
+				<alias font_style="italic" uid="7" x="1150" y="258">
+					<of>Unhealthy_Habits</of>
+				</alias>
+				<alias font_style="italic" uid="8" x="1125" y="360">
+					<of>Circadian_Disruption</of>
+				</alias>
+				<alias font_style="italic" uid="9" x="745" y="425">
+					<of>TCM_Practice</of>
+				</alias>
+				<alias font_style="italic" uid="10" x="620" y="420">
+					<of>Servings_Eaten</of>
+				</alias>
+				<alias font_style="italic" uid="11" x="1065" y="500">
+					<of>Rumination</of>
+				</alias>
+				<alias font_style="italic" uid="12" x="1150" y="535">
+					<of>Unhealthy_Habits</of>
+				</alias>
+				<alias font_style="italic" uid="13" x="1120" y="625">
+					<of>Circadian_Disruption</of>
+				</alias>
+				<alias font_style="italic" uid="14" x="640" y="630">
+					<of>Unhealthy_Habits</of>
+				</alias>
+				<alias font_style="italic" uid="15" x="760" y="615">
+					<of>Heart_Blood_Malnourishment</of>
+				</alias>
+				<alias font_style="italic" uid="16" x="650" y="760">
+					<of>Circadian_Disruption</of>
+				</alias>
+				<alias font_style="italic" uid="17" x="790" y="760">
+					<of>Yin_Deficiency_Factor</of>
+				</alias>
+				<alias font_style="italic" uid="18" x="1300" y="82">
+					<of>Study_Load</of>
+				</alias>
+				<alias font_style="italic" uid="19" x="1395" y="70">
+					<of>Yang_Deficiency_Factor</of>
+				</alias>
+				<alias font_style="italic" uid="20" x="1300" y="232">
+					<of>Cooking_Workload</of>
+				</alias>
+				<alias font_style="italic" uid="21" x="1610" y="66">
+					<of>Sleep_Quality</of>
+				</alias>
+				<alias font_style="italic" uid="22" x="1715" y="66">
+					<of>Qi_Blood_Generation</of>
+				</alias>
+				<alias font_style="italic" uid="23" x="1785" y="210">
+					<of>Recovery_Break</of>
+				</alias>
+				<alias font_style="italic" uid="24" x="1785" y="320">
+					<of>Mindfulness</of>
+				</alias>
+				<alias font_style="italic" uid="25" x="1320" y="425">
+					<of>Perceived_Stress</of>
+				</alias>
+				<alias font_style="italic" uid="26" x="1300" y="615">
+					<of>Scenario</of>
+				</alias>
+				<alias font_style="italic" uid="27" x="1665" y="615">
+					<of>Servings_Eaten</of>
+				</alias>
+				<alias font_style="italic" uid="28" x="1770" y="610">
+					<of>Self_Care_Engagement</of>
+				</alias>
+				<alias font_style="italic" uid="29" x="1010" y="848">
+					<of>Felt_Fatigue</of>
+				</alias>
+				<alias font_style="italic" uid="30" x="905" y="852">
+					<of>Sense_of_Control</of>
+				</alias>
+				<alias font_style="italic" uid="31" x="640" y="1160">
+					<of>Cooking_Workload</of>
+				</alias>
+				<alias font_style="italic" uid="32" x="1205" y="1000">
+					<of>Sleep_Quality</of>
+				</alias>
+				<alias font_style="italic" uid="33" x="1205" y="1140">
+					<of>Heart_Blood_Malnourishment</of>
+				</alias>
+				<alias font_style="italic" uid="34" x="965" y="1160">
+					<of>Mindful_Cooking</of>
+				</alias>
+				<alias font_style="italic" uid="35" x="110" y="715">
+					<of>Physical_Wellbeing</of>
+				</alias>
+				<alias font_style="italic" uid="36" x="230" y="715">
+					<of>Mental_Wellbeing</of>
+				</alias>
+				<alias font_style="italic" uid="37" x="470" y="718">
+					<of>Unhealthy_Habits</of>
+				</alias>
+				<alias font_style="italic" uid="38" x="520" y="1185">
+					<of>Batches_Cooked</of>
+				</alias>
+				<alias font_style="italic" uid="39" x="1380" y="775">
+					<of>Qi_Blood_Generation</of>
+				</alias>
+				<alias font_style="italic" uid="40" x="1380" y="870">
+					<of>Sleep_Quality</of>
+				</alias>
+				<alias font_style="italic" uid="41" x="1700" y="800">
+					<of>Fatigue</of>
+				</alias>
+				<alias font_style="italic" uid="42" x="1540" y="985">
+					<of>Spleen_Function</of>
+				</alias>
+				<alias font_style="italic" uid="43" x="1360" y="1040">
+					<of>Perceived_Stress</of>
+				</alias>
+				<alias font_style="italic" uid="44" x="1360" y="1130">
+					<of>Rumination</of>
+				</alias>
+				<alias font_style="italic" uid="45" x="1360" y="1220">
+					<of>Mindfulness</of>
+				</alias>
+				<alias font_style="italic" uid="46" x="1720" y="1060">
+					<of>Sense_of_Control</of>
+				</alias>
+				<alias font_style="italic" uid="47" x="1720" y="1180">
+					<of>Calm_Shen</of>
+				</alias>
+				<connector uid="48" angle="12.88">
+					<from>Study_Load</from>
+					<to>Change_in_Stress</to>
+				</connector>
+				<connector uid="49" angle="262.87">
+					<from><alias uid="29"/></from>
+					<to>Change_in_Stress</to>
+				</connector>
+				<connector uid="50" angle="324.69">
+					<from><alias uid="30"/></from>
+					<to>Change_in_Stress</to>
+				</connector>
+				<connector uid="51" angle="31.69">
+					<from>Time_Squeeze</from>
+					<to>Change_in_Stress</to>
+				</connector>
+				<connector uid="52" angle="215.00">
+					<from>Perceived_Stress</from>
+					<to>Change_in_Stress</to>
+				</connector>
+				<connector uid="53" angle="249.00">
+					<from>Perceived_Stress</from>
+					<to>Change_in_Rumination</to>
+				</connector>
+				<connector uid="54" angle="198.94">
+					<from><alias uid="32"/></from>
+					<to>Change_in_Rumination</to>
+				</connector>
+				<connector uid="55" angle="111.93">
+					<from>Mindfulness</from>
+					<to>Change_in_Rumination</to>
+				</connector>
+				<connector uid="56" angle="161.06">
+					<from><alias uid="33"/></from>
+					<to>Change_in_Rumination</to>
+				</connector>
+				<connector uid="57" angle="215.00">
+					<from>Rumination</from>
+					<to>Change_in_Rumination</to>
+				</connector>
+				<connector uid="58" angle="303.21">
+					<from><alias uid="34"/></from>
+					<to>Change_in_Mindfulness</to>
+				</connector>
+				<connector uid="59" angle="145.00">
+					<from>Mindfulness</from>
+					<to>Change_in_Mindfulness</to>
+				</connector>
+				<connector uid="60" angle="215.00">
+					<from>Liver_Qi_Stagnation</from>
+					<to>Qi_Stagnation_Buildup</to>
+				</connector>
+				<connector uid="61" angle="331.56">
+					<from><alias uid="3"/></from>
+					<to>Qi_Stagnation_Buildup</to>
+				</connector>
+				<connector uid="62" angle="266.31">
+					<from><alias uid="4"/></from>
+					<to>Qi_Stagnation_Buildup</to>
+				</connector>
+				<connector uid="63" angle="325.00">
+					<from>Liver_Qi_Stagnation</from>
+					<to>Liver_Qi_Soothing</to>
+				</connector>
+				<connector uid="64" angle="215.60">
+					<from><alias uid="5"/></from>
+					<to>Liver_Qi_Soothing</to>
+				</connector>
+				<connector uid="65" angle="215.00">
+					<from>Spleen_Function</from>
+					<to>Spleen_Nourishment</to>
+				</connector>
+				<connector uid="66" angle="323.40">
+					<from>Spleen_Strengthening_Effect</from>
+					<to>Spleen_Nourishment</to>
+				</connector>
+				<connector uid="67" angle="325.00">
+					<from>Spleen_Function</from>
+					<to>Spleen_Depletion</to>
+				</connector>
+				<connector uid="68" angle="216.87">
+					<from><alias uid="6"/></from>
+					<to>Spleen_Depletion</to>
+				</connector>
+				<connector uid="69" angle="294.00">
+					<from>Liver_Qi_Stagnation</from>
+					<to>Spleen_Depletion</to>
+				</connector>
+				<connector uid="70" angle="193.06">
+					<from><alias uid="7"/></from>
+					<to>Spleen_Depletion</to>
+				</connector>
+				<connector uid="71" angle="158.96">
+					<from><alias uid="8"/></from>
+					<to>Spleen_Depletion</to>
+				</connector>
+				<connector uid="72" angle="215.00">
+					<from>Calm_Shen</from>
+					<to>Shen_Settling</to>
+				</connector>
+				<connector uid="73" angle="327.24">
+					<from>Shen_Calming_Effect</from>
+					<to>Shen_Settling</to>
+				</connector>
+				<connector uid="74" angle="325.00">
+					<from>Calm_Shen</from>
+					<to>Shen_Disturbance</to>
+				</connector>
+				<connector uid="75" angle="212.01">
+					<from><alias uid="11"/></from>
+					<to>Shen_Disturbance</to>
+				</connector>
+				<connector uid="76" angle="187.86">
+					<from><alias uid="12"/></from>
+					<to>Shen_Disturbance</to>
+				</connector>
+				<connector uid="77" angle="156.71">
+					<from><alias uid="13"/></from>
+					<to>Shen_Disturbance</to>
+				</connector>
+				<connector uid="78" angle="247.10">
+					<from>Calm_Shen</from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="79" angle="327.76">
+					<from><alias uid="14"/></from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="80" angle="123.02">
+					<from><alias uid="17"/></from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="81" angle="30.71">
+					<from><alias uid="16"/></from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="82" angle="263.96">
+					<from><alias uid="15"/></from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="83" angle="215.00">
+					<from>Sleep_Quality</from>
+					<to>Change_in_Sleep</to>
+				</connector>
+				<connector uid="84" angle="215.00">
+					<from>Fatigue</from>
+					<to>Fatigue_Accumulation</to>
+				</connector>
+				<connector uid="85" angle="294.23">
+					<from><alias uid="19"/></from>
+					<to>Fatigue_Accumulation</to>
+				</connector>
+				<connector uid="86" angle="332.57">
+					<from><alias uid="18"/></from>
+					<to>Fatigue_Accumulation</to>
+				</connector>
+				<connector uid="87" angle="32.04">
+					<from><alias uid="20"/></from>
+					<to>Fatigue_Accumulation</to>
+				</connector>
+				<connector uid="88" angle="325.00">
+					<from>Fatigue</from>
+					<to>Fatigue_Recovery</to>
+				</connector>
+				<connector uid="89" angle="294.90">
+					<from><alias uid="21"/></from>
+					<to>Fatigue_Recovery</to>
+				</connector>
+				<connector uid="90" angle="231.84">
+					<from><alias uid="22"/></from>
+					<to>Fatigue_Recovery</to>
+				</connector>
+				<connector uid="91" angle="156.19">
+					<from><alias uid="23"/></from>
+					<to>Fatigue_Recovery</to>
+				</connector>
+				<connector uid="92" angle="116.32">
+					<from>Body_Awareness</from>
+					<to>Fatigue_Recovery</to>
+				</connector>
+				<connector uid="93" angle="145.00">
+					<from>Unhealthy_Habits</from>
+					<to>Habit_Uptake</to>
+				</connector>
+				<connector uid="94" angle="66.34">
+					<from>Lifestyle_Propensity</from>
+					<to>Habit_Uptake</to>
+				</connector>
+				<connector uid="95" angle="256.27">
+					<from>Felt_Fatigue</from>
+					<to>Habit_Uptake</to>
+				</connector>
+				<connector uid="96" angle="322.56">
+					<from><alias uid="25"/></from>
+					<to>Habit_Uptake</to>
+				</connector>
+				<connector uid="97" angle="35.00">
+					<from>Unhealthy_Habits</from>
+					<to>Habit_Quitting</to>
+				</connector>
+				<connector uid="98" angle="140.43">
+					<from><alias uid="28"/></from>
+					<to>Habit_Quitting</to>
+				</connector>
+				<connector uid="99" angle="98.66">
+					<from><alias uid="27"/></from>
+					<to>Habit_Quitting</to>
+				</connector>
+				<connector uid="100" angle="175.31">
+					<from>Adherence</from>
+					<to>Congee_Habit_Change</to>
+				</connector>
+				<connector uid="101" angle="259.85">
+					<from>Planned_Servings</from>
+					<to>Congee_Habit_Change</to>
+				</connector>
+				<connector uid="102" angle="145.00">
+					<from>Congee_Habit</from>
+					<to>Congee_Habit_Change</to>
+				</connector>
+				<connector uid="103" angle="328.21">
+					<from><alias uid="35"/></from>
+					<to>Change_in_Self_Care</to>
+				</connector>
+				<connector uid="104" angle="270.76">
+					<from><alias uid="36"/></from>
+					<to>Change_in_Self_Care</to>
+				</connector>
+				<connector uid="105" angle="196.77">
+					<from><alias uid="37"/></from>
+					<to>Change_in_Self_Care</to>
+				</connector>
+				<connector uid="106" angle="215.00">
+					<from>Self_Care_Engagement</from>
+					<to>Change_in_Self_Care</to>
+				</connector>
+				<connector uid="107" angle="129.46">
+					<from>Behavioural_Activation</from>
+					<to>Change_in_Control</to>
+				</connector>
+				<connector uid="108" angle="215.00">
+					<from>Sense_of_Control</from>
+					<to>Change_in_Control</to>
+				</connector>
+				<connector uid="109" angle="346.56">
+					<from>Constitution</from>
+					<to>Yin_Deficiency_Factor</to>
+				</connector>
+				<connector uid="110" angle="329.27">
+					<from>Constitution</from>
+					<to>Yang_Deficiency_Factor</to>
+				</connector>
+				<connector uid="111" angle="338.63">
+					<from>Academic_Demands</from>
+					<to>Study_Load</to>
+				</connector>
+				<connector uid="112" angle="23.50">
+					<from>Course_Load</from>
+					<to>Study_Load</to>
+				</connector>
+				<connector uid="113" angle="232.52">
+					<from>Study_Load</from>
+					<to>Free_Hours</to>
+				</connector>
+				<connector uid="114" angle="270.00">
+					<from>Study_Load</from>
+					<to>Circadian_Disruption</to>
+				</connector>
+				<connector uid="115" angle="0.00">
+					<from>Scenario</from>
+					<to>Congee_Plan</to>
+				</connector>
+				<connector uid="116" angle="0.00">
+					<from>Congee_Plan</from>
+					<to>Planned_Servings</to>
+				</connector>
+				<connector uid="117" angle="0.00">
+					<from><alias uid="26"/></from>
+					<to>Lifestyle_Propensity</to>
+				</connector>
+				<connector uid="118" angle="285.52">
+					<from><alias uid="1"/></from>
+					<to>Adherence</to>
+				</connector>
+				<connector uid="119" angle="24.74">
+					<from>Congee_Habit</from>
+					<to>Adherence</to>
+				</connector>
+				<connector uid="120" angle="304.21">
+					<from>Planned_Servings</from>
+					<to>Adherence</to>
+				</connector>
+				<connector uid="121" angle="154.76">
+					<from><alias uid="2"/></from>
+					<to>Adherence</to>
+				</connector>
+				<connector uid="122" angle="319.76">
+					<from>Planned_Servings</from>
+					<to>Servings_Eaten</to>
+				</connector>
+				<connector uid="123" angle="146.74">
+					<from>Adherence</from>
+					<to>Servings_Eaten</to>
+				</connector>
+				<connector uid="124" angle="302.47">
+					<from>Servings_Eaten</from>
+					<to>Batches_Cooked</to>
+				</connector>
+				<connector uid="125" angle="270.00">
+					<from>Batches_Cooked</from>
+					<to>Cooking_Workload</to>
+				</connector>
+				<connector uid="126" angle="164.05">
+					<from>Cooking_Workload</from>
+					<to>Recovery_Break</to>
+				</connector>
+				<connector uid="127" angle="203.20">
+					<from>Cooking_Workload</from>
+					<to>Mindful_Cooking</to>
+				</connector>
+				<connector uid="128" angle="18.43">
+					<from><alias uid="31"/></from>
+					<to>Time_Squeeze</to>
+				</connector>
+				<connector uid="129" angle="337.07">
+					<from>Free_Hours</from>
+					<to>Time_Squeeze</to>
+				</connector>
+				<connector uid="130" angle="352.81">
+					<from>Servings_Eaten</from>
+					<to>Spleen_Strengthening_Effect</to>
+				</connector>
+				<connector uid="131" angle="291.80">
+					<from><alias uid="10"/></from>
+					<to>Shen_Calming_Effect</to>
+				</connector>
+				<connector uid="132" angle="300.00">
+					<from>Self_Care_Engagement</from>
+					<to>TCM_Practice</to>
+				</connector>
+				<connector uid="133" angle="270.00">
+					<from>Spleen_Function</from>
+					<to>Qi_Blood_Generation</to>
+				</connector>
+				<connector uid="134" angle="7.43">
+					<from><alias uid="9"/></from>
+					<to>Qi_Blood_Generation</to>
+				</connector>
+				<connector uid="135" angle="309.09">
+					<from>Spleen_Function</from>
+					<to>Heart_Blood_Malnourishment</to>
+				</connector>
+				<connector uid="136" angle="352.41">
+					<from>Qi_Blood_Generation</from>
+					<to>Heart_Blood_Malnourishment</to>
+				</connector>
+				<connector uid="137" angle="180.00">
+					<from><alias uid="38"/></from>
+					<to>Behavioural_Activation</to>
+				</connector>
+				<connector uid="138" angle="270.00">
+					<from>Fatigue</from>
+					<to>Felt_Fatigue</to>
+				</connector>
+				<connector uid="139" angle="115.00">
+					<from>Unhealthy_Habits</from>
+					<to>Felt_Fatigue</to>
+				</connector>
+				<connector uid="140" angle="162.47">
+					<from><alias uid="24"/></from>
+					<to>Body_Awareness</to>
+				</connector>
+				<connector uid="141" angle="334.43">
+					<from>Felt_Fatigue</from>
+					<to>Body_Awareness</to>
+				</connector>
+				<connector uid="142" angle="344.29">
+					<from><alias uid="39"/></from>
+					<to>Physical_Wellbeing</to>
+				</connector>
+				<connector uid="143" angle="17.35">
+					<from><alias uid="40"/></from>
+					<to>Physical_Wellbeing</to>
+				</connector>
+				<connector uid="144" angle="187.13">
+					<from><alias uid="41"/></from>
+					<to>Physical_Wellbeing</to>
+				</connector>
+				<connector uid="145" angle="333.43">
+					<from><alias uid="43"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<connector uid="146" angle="0.00">
+					<from><alias uid="44"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<connector uid="147" angle="201.25">
+					<from><alias uid="46"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<connector uid="148" angle="164.48">
+					<from><alias uid="47"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<connector uid="149" angle="270.00">
+					<from><alias uid="42"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<connector uid="150" angle="26.57">
+					<from><alias uid="45"/></from>
+					<to>Mental_Wellbeing</to>
+				</connector>
+				<text_box uid="151" x="28" y="32" width="524" height="20">1  Congee plan, adherence and cooking workload</text_box>
+				<text_box uid="152" x="588" y="32" width="644" height="20">2  TCM organs: Liver, Spleen, qi &amp; blood, Heart, sleep</text_box>
+				<text_box uid="153" x="1268" y="32" width="544" height="20">3  Fatigue: study effort, recovery and body awareness</text_box>
+				<text_box uid="154" x="1268" y="379" width="544" height="20">4  Unhealthy habits (caffeine, cigarettes, alcohol, junk food)</text_box>
+				<text_box uid="155" x="588" y="809" width="644" height="20">5  Stress, rumination, mindfulness; circadian rhythm and constitution</text_box>
+				<text_box uid="156" x="28" y="659" width="524" height="20">6  Self-care, TCM practice and sense of control</text_box>
+				<text_box uid="157" x="1268" y="709" width="544" height="20">7  Wellbeing outcomes (0-100)</text_box>
+			</view>
+		</views>
+	</model>
+</xmile>

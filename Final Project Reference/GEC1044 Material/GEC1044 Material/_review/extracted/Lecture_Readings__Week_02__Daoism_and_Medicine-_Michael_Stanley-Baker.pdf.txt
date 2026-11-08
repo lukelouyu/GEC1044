@@ -1,0 +1,991 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+27 
+DAOISM AND MEDICINE1 
+Michael Stanley-Baker 
+A popular aphorism states, ‘Daoism and medicine emerged from the same source’ ( yidao 
+tongyuan 醫道同源 ). They both share a common ancestry in the Shang dynasty (ca. 1600– 
+1046 BCE), when diviners ( wu 巫) asked the gods and ancestors about the disease of the 
+kings, recording them in the earliest Chinese writings (Keightley 2001). After that time 
+emerged a broad variety of disparate popular medical practices (Cook 2013), including drug 
+recipes, divination and exorcistic magic (Harper 1998). The aphorism also alludes to how 
+the common scientifc and cosmological principles, such as yin –yang, the fve agents ( wuxing
+五行) and qi , which lie at the base of classical medicine (Chapters 1 and 2 in this volume) 
+formalised in the Han dynasty (20 2 BCE–220 CE) were also the basis for Daoist ritual and 
+physiology which emerged towards the end of this period. 
+Taken together, these common origins and expressions might lead one to imagine the 
+Han medical community as intrinsically open to ‘spiritual’ health practices. However, medi -
+cal practitioners and classical texts also demonstrate an antipathy towards spirit-based notions 
+of disease, and towards spirit mediums. This can be seen in another aphorism attributed to 
+the mythical physician Bianque 扁鵲  that one of the six obstacles to treatment is ‘believing 
+in spirit mediums, and not in physicians’ ( xin wu bu xin yi 信巫不信醫 ), a statement re -
+corded and circulated in the early Han dynasty text, Records of the Grand Historian ( Shiji 史記, 
+105.2794). The late Han dynasty ‘Yellow Emperor’s Inner Classic’ (Huangdi neijing 黃帝內經 , 
+hereafter Inner Classic ) also criticised medical incantation (see zhuyou  below) as an outdated 
+practice from bygone times, when bodies were more subtle and diseases less penetrating, 
+arguing that acupuncture was more suited to recent eras (Unschuld and Tessenow 2011: 
+Suwen 13.219–22). Some scholars understand these and other passages to represent a rejec -
+tion among physicians of their competitors who practised spirit medium medicine, the wu 
+(巫) and the emergence of a medicine oriented towards natural, not spiritual laws (Unschuld 
+2010, 2016: 15–19). Others acknowledge that the situation was nuanced, and that anachro -
+nistic frameworks of rationality, empiricism or individualism do not refect the epistemolog -
+ical admixture of early sources (Lloyd and Sivin 2002, 239–51; Cook 2013; Stanley-Baker 
+2014). Early competition amidst groups was not grounded on such terms. It should also be 
+borne in mind that given the time period of these Han dynasty and earlier sources, oppo -
+nents identifed in these physicians’ texts were not ‘Daoists’ per se, as the religion was not 
+created until 142 CE. Rather, they were spirit mediums, a term which by the Han dynasty 
+DOI: 10.4324/9780203740262-32 401 
+===== PAGE 2 =====
+ 
+ 
+   
+Michael Stanley-Baker 
+functioned as an epithet of exclusion much as the term ‘witch’ did in medieval Europe, 
+marking of social or epistemological out-groups without consistency or any attempt to de -
+fne those practitioners on their own terms. The Daoist Church itself was also antagonistic 
+towards wu, but competed with them on diferent terms (Stein 1979), even as it also sought to 
+distinguish itself from physicians, transcendents and other contemporary practitioners, even 
+supressing medical techniques such as acupuncture, herbs and moxibustion. 
+This chapter examines the current state of scholarship in order to discuss what classical 
+Chinese medicine and practices used by Daoists for health, longevity and transcendence have 
+in common. It argues, in addition, that conditions at the end of the Han dynasty infuenced 
+the Daoist religion, as it frst emerged in an institutionalised form, to produce a distinctively 
+medicalised imagination of the workings of the cosmos and individual destiny. With no sin -
+gle solutions to the complex problems of political and military chaos, famine and widespread 
+epidemics of that time, Daoists produced composite ritual programmes that responded to 
+the total situation. It was also from this period that religion and healing began to emerge as 
+co-related, but increasingly distinct, domains of knowledge. 
+Te state, epidemics and individual destiny: the complex  
+problem of Ming 命 
+The Eastern Han dynasty (25–220 CE) was a watershed period which profoundly infuenced 
+the religious imagination of China. The same period saw the crystallisation of the medical 
+classics (Chapter 7 in this volume); the materia medica tradition – the systematic identifcation 
+and defnition of individual medicinal products and their properties (Chapter 8 in this vol -
+ume); the rise in popularity of transcendents ( xian 仙) – practitioners whose self- cultivation 
+exercises and ingestion of rare minerals and herbs were thought to bestow magical powers 
+and supernatural longevity; as well as the birth of the Daoist religion – an organised body 
+with ranks of ordained priests who performed communal and individual rites for healing and 
+salvation. Taken together, these developments point to an inextricably entangled religious 
+and medical imagination, with continuities between self-cultivation, morality and notions 
+of bodily well-being, cure and disease. On the one hand, these continuities were the result 
+of a sophisticated Han state coalescing its philosophical, technical and spiritual rationales 
+about the body and disease. On the other, they were also produced by the collapse of the 
+Han: internal political corruption, extensive military confict and widespread epidemics 
+led to a search for stable communities and systems of meaning and pragmatic responses that 
+integrated various felds of activity. 
+This broader context is important for understanding the emergence of Daoism and its 
+particularly medical imagination, and distinguishes the Daoist medical landscape from the 
+two other major religions which spread medical knowledge at diferent times in China: 
+Buddhism, which arrived in China during the frst century CE, roughly at the same time 
+that the Daoist religion was forming, and Christianity which came much later with the 
+Jesuits during the seventeenth century (Chapters 16, 17 and 28 in this volume). All of them 
+used medicine as a means to promote religious enterprise, as expressions of compassion, and 
+conceived of their teachings as a kind of healing that solved the problem of worldly existence 
+(Choa 1990; Salguero 2018). However, Christian and Buddhist teachings were based on dis -
+embodied concepts of salvation and disparaged the body as an obstacle to the realisation of 
+religious goals. Daoist salvation, on the other hand, integrated a medical framework where 
+the body is seen as the vehicle and  locus of salvation, rather than an obstacle. To understand 
+better how this came about, it is useful to understand the context within which it emerged. 
+402 
+===== PAGE 3 =====
+Daoism and medicine
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+    
+ 
+  
+   
+  
+ 
+  
+ 
+ 
+  
+The collapse at the end of the Han dynasty is commonly attributed to a series of weak child 
+emperors, the rise of the empresses’ families and corrupt eunuchs restricting access to power at 
+court, resistance to which produced various outbreaks of military confict and dissent in multiple 
+regions across the country (Beck 1986). These skirmishes caused human migration as peasants fed 
+war-torn areas, leaving crops untended and unprotected from raiding militias and armies, which, 
+in turn, led to crop failure and famine. As these undernourished, stressed and exposed populations 
+moved across the countryside in search of food and shelter, they brought disease with them, plagues 
+which spread like wildfre across the land (Lin Fushi 2008a, 2008c). Plagues (yibing疫病 ) covered 
+the land with such speed they were considered to be ghost-borne, or ghost infxation (guizhu鬼
+注), the result of the unquiet dead, improperly buried far from home, or bearing grudges against 
+the living (Li Jianmin 2009; Nickerson 1997; Strickmann 2002). The constant impact and stress 
+of epidemics should not be understated. These epidemics were so frequent that imperial histories 
+record outbreaks on average every 7.6 years, with drastic mortality rates ranging between 45% and 
+85% of the local population (Li Wenbo 2004: 1; Chapters 16 and 17 in this volume). 
+To describe these interlinking catastrophes as simply problems of ‘the state’ would be to 
+neglect the scale and complexity of the problem – the Han dynasties covered the largest land 
+mass in Chinese recorded history by that time, a territory which was commonly referred to as 
+‘all under Heaven’ (tianxia 天下 ). This collapse constituted a ‘complex problem’, also known as 
+a ‘wicked’ problem (Rittel and Webber 1973), that is, a situation which brooks no single causal 
+explanation and no unitary solution. This confuence of problems unravelled the very fabric of 
+the world as it was known, and could only be satisfactorily explained on a scale that was cosmic. 
+This complexity is perhaps best encapsulated as a problem of ming 命 (Stanley-Baker 2014), 
+a multi-valent word that is usually translated as ‘life’ or ‘destiny’. Its connotations, however, ex-
+tended to the political, military, social, bodily and the cosmic (Lupke 2005: see especially chapters 
+by Campany and Bokenkamp; Verellen 2019). The concept of ming refects the potential for creat-
+ing a fundamental order within these diferent domains. Mingling命令 can mean ‘to command’, 
+as in to give orders to troops, while the divine authority of the monarch to rule, the heavenly man-
+date, is tianming (天命). Ming refers to one’s individual lifespan, as well as one’s individual destiny – 
+that is, one’s overall trajectory or career, as well as the vicissitudes and minor misfortunes of daily 
+life. These are infuenced by one’s astrological designation or natal destiny (benming本命 ), which 
+is based on the day and time of birth, and for which there are rituals to adjust one’s chances in life. 
+The collapse of the Han dynasty was a threat to all these forms of ming, and saw a prolifer-
+ation of methods, institutions and ideologies which tackled this complex problem in various 
+ways. Medical texts, such as the Inner Classic , specifcally addressed physical disease in the 
+language of political rebellion which had to be controlled (Chapter 7 in this volume). Tran -
+scendents were people who exercised a power not only over the length of their biophysical 
+lives; they transcended the social boundaries of the human order, rising beyond to diferent 
+orders of being. They are portrayed as being literally ‘above’ the rule of the emperor. The 
+hagiography of the Sire who Dwells by the Riverside ( Heshang gong 河上公 ), for example, 
+who foats above the earth when the emperor comes to visit, demonstrating that he has risen 
+above earthly rule (Campany 2002: 91). Late Han self-cultivation texts, such as the commen -
+tary on the Daode jing 道德經 named after the aforesaid Sire, equated bodily self-mastery and 
+spiritual self-governance with the mystical power to govern the country. Exercises length -
+ened life and staved of disease, while grain-fasting diets enabled one to live independently 
+from an agricultural, settled economy. The Daoist ritual programmes initiated by the Celes -
+tial Master (Tianshi 天師 ) and Great Peace (Taiping太平 ) movements conceived of disease as a 
+manifestation of incorrect alignment with the moral order of the universe, while attempting 
+to found an alternate state. In diferent ways, each responded to the complex problem of ming. 
+403 
+===== PAGE 4 =====
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+    
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Michael Stanley-Baker 
+Overlapping goals: preventing disease, long life, delaying death,  
+transcending mortality 
+Between the third and frst centuries BCE, the cosmological principles of yin  and yang , qi 
+and the fve agents coalesced into a coherent foundation for scientifc practice, most fully 
+expressed in the Inner Classic, while multiple styles of therapy remained in use (Harper 1999; 
+Lo 2013; Chapter 1 in this volume). It has been argued that stages of this development may 
+have taken place within a mixed current of ideas and technical practices that articulated a 
+coherent, ethical universe governed by observable predictable laws, which the virtuous sage 
+should learn through observation, and to which he should align himself to maintain personal 
+and cosmic harmony. Some (Peerenboom 1993, among others) identify this as a movement 
+named Huanglao 黃老 , a term used by the father of the great Han historian Sima Qian 司馬遷 
+(ca.145–ca.86 BCE). The name is taken from the sagely fgures of Laozi 老子 and the Yellow 
+Emperor (Huangdi 黃帝 ), who are invoked in the titles of many related works, notably the 
+Inner Classic  itself. However, more recent scholarship argues that no social communities or 
+‘schools’ identifed with the term, and that conceptual boundaries between philosophies such 
+as Legalism and Daoism, reconstructed by later scholars, are inconsistent with the primary 
+sources (Wang 2000, 182–83; Csikszentmihalyi and Nylan 2003). Such historiographic con -
+cerns aside, Han dynasty works such as the Huainanzi 淮南子 (139 BCE), which contains a 
+plethora of chapters on astronomy, geography, philosophy and science in addition to embod -
+ied self-cultivation (Major et al. 2010), as well as manuscripts on silk and on bamboo strips 
+excavated from an early Han dynasty tomb in Mawangdui, in Changsha, which was sealed in 
+168 BCE, exhibit common interests. These include legal culture, cosmogenesis and philoso -
+phies that came to be retroactively associated with ‘Legalism’ and ‘Daoism’, as well as in tech-
+nical notions such as the fve agents, and the emotional or spiritual aspects of the fve organs 
+(wuzang 五臟). In these ways, such texts were contiguous with the Inner Classic, which articu-
+lates disease and cure in political terms of rebellion ( ni 逆) and chaos (luan 亂) vs control (zhi
+治), emphasising a homology between individual bodily cultivation and managing the state.
+是故聖人不治已病，治未病 ;不治已亂，治未亂。 
+This is why the sage does not cure disease when already manifest, but cures it before it 
+manifests; he does not control that which is already chaotic, but governs before chaos manifests. 
+(Huangdi neijing: Suwen 2.12) 
+The aspiration to anticipate disease, and regulate the body so as to avoid falling ill and to 
+lengthen one’s years, took form in a vigorous culture of bodily cultivation aimed at ‘nour -
+ishing life’ (yangsheng 養生 ).
+2 This broad set of exercises, diet, sexual cultivation, attention 
+to daily rhythms and seasonal changes was an integral part of early medicine, and the tex -
+tual works on the subject infuenced the formation of the Inner Classic  (Lo 2001). Attested 
+to in texts dating as early as the fourth century BCE, such as the Guanzi 管子 and Zhuangzi
+莊子 , this culture fourished in the early Han dynasty, and is exemplifed in multiple texts 
+and images excavated from Mawangdui (Chapter 6 in this volume). The relationship to 
+‘Daoism’, that is to the philosophical and spiritual practices of quietude, inwardness and 
+meditative breath practice, was diferently marked in these texts and others, showing an 
+ambivalence about their role in spiritual cultivation. Where the Guanzi afrmed the value 
+of longevity practices and the closeness of spiritual self-cultivation to bodily cultivation, 
+the Zhuangzi  decried such unworthy hufngs and pufngs as beneath the attention of the 
+true aspirant (Stanley-Baker 2019a). 
+404 
+===== PAGE 5 =====
+Daoism and medicine
+ 
+ 
+  
+ 
+ 
+ 
+   
+  
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+  
+ 
+ 
+ 
+It was those who aspired to become transcendents who made it their primary study to 
+cultivate the body to become not only impervious to disease, but even death itself. Myths 
+and hagiographies describe these fgures as human beings possessed of knowledge of rare 
+and exotic plant and mineral drugs, special fasting diets, and skills with talismans and spells 
+which enabled them to ward of disease and death. Transcendent bodies acquired magical 
+powers and spectacular longevity, being able to hear and see for thousands of miles, living 
+from two to three hundred to thousands of years or even avoiding the tomb entirely. Myths 
+and stories date back to 400 BCE, and texts on methods to achieve such powers can be found 
+in the Western Han Mawangdui collection, but it was in the Eastern Han dynasty that they 
+became dramatically more popular, during roughly the same period when the Inner Classic 
+was compiled. Tales in works such as the ‘Arrayed Biographies of Transcendents’ ( Liexian 
+zhuan 列仙傳 ) att. to Liu Xiang 劉向 (77 BCE–6 CE), and the ‘Biographies of Divine Tran-
+scendents’ (Shenxian zhuan 神仙傳 ) by Ge Hong 葛洪 (283–343 CE), describe these individ -
+uals prominently displaying knowledge of drugs and curative arts in the marketplace (Ogata 
+Toru大形徹 2015), and transitioning from their careers as transcendents to those of doctors, 
+and vice versa (Lin Fushi 2008b).
+3 While these narratives are not factual historical accounts, 
+they are not entirely fctitious either, and accurately communicate a cultural understanding 
+of medicine and transcendence as intimately related domains of knowledge.
+4 
+The continuity between transcendence and medicine is further attested to in two im -
+portant historical records of medicine in the Han dynasty. The frst is the catalogue of the 
+imperial library, the Hanshu yiwen zhi 漢書藝文志 , which includes one section on ‘Recipes 
+and Techniques’ ( fangji 方技 ) that lists four parallel sections: ‘Medical Classics’ (yijing 醫經); 
+‘Classic [drug] Recipes’ ( jingfang 經方); ‘[Arts of the] Bedchamber’ ( fangzhong 房中 ) and 
+‘Divine Transcendence’ (shenxian 神僊 ) (Hanshu, 30.1776–81). Although transcendence is 
+listed last, indicating a lower hierarchy of importance (which is corroborated by the com -
+piler’s annotations), there is clearly a perceived continuity between these types of technical 
+expertise (Stanley-Baker 2019a). 
+Second, the organisation of the earliest layers of the materia medica literature is infuenced by 
+transcendent drug culture. The ‘Divine Farmer’s Materia Medica’ (Shennong bencao jing 神農本
+草經 ), produced in the frst or second centuries CE, divides up known drugs into three hier -
+archical categories, where superior drugs beneft one’s lifespan (yangming養命 ), and lighten the 
+body and prevent ageing; middling ones nourish inner nature ( yangxing 養性) and strengthen 
+the body against disease; and the lowest merely cure disease (zhibing治病).
+5 This triple-layered 
+hierarchy was echoed in many transcendent texts from the period which distinguished tran -
+scendence, robust health and curing disease as three stages of spiritual cultivation, or classes 
+of practice. The religious overtones of this ranking are unmistakable in this excerpt from the 
+‘Four Classics of the Divine Husbandman’ (Shennong sijing 神農四經 ).
+6 Here, superior drugs 
+do not merely lighten the body and lengthen the lifespan; they have far more dramatic efects:
+上藥令人身安命延，昇為天神，遨遊上下，使役萬靈，體 生 毛羽，行廚立至。中 藥 養 性 ，
+下藥除病， 能令毒蟲不加， 猛獸不犯， 惡氣不行， 眾妖併辟。 
+Superior drugs put people’s bodies at ease and lengthen their lives; they ascend and 
+become heavenly spirits, freely roaming above and below, and command myriad spirit 
+minions. Their bodies grow feathers and wings, and they can immediately summon the 
+travelling canteen. Middling drugs cultivate inner nature. Inferior drugs purge disease, 
+and can cause poisonous insects not to multiply, wild animals not to ofend, noxious qi 
+not to circulate, and demon hordes to fee en masse.
+7 
+(Baopuzi neipian 11.196) 
+405 
+===== PAGE 6 =====
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Michael Stanley-Baker 
+This family of related practices can be, and sometimes was, articulated in a graded scale of 
+aspirations of health practices, which created a continuity between the goals in the Inner 
+Classic, excavated recipe texts and transcendent literature. This scale ranged from curing 
+manifest disease; to curing disease prior to manifestation; the use of drugs to strengthen the 
+body and prevent disease; to gain miraculous command over bodily health and longevity; 
+and to postpone death indefnitely, roam the heavens and earth, and gain dominion over 
+spirits and the natural world. 
+This continuity was not merely one of common cosmology or shared health goals, but 
+drew from a common repertoire of related techniques . Many of the same or similar culti -
+vation practices used by transcendents to attain the heights of their spiritual goals were also 
+used by mere mortals for the simple goals of preventing or curing disease, or extending a 
+normal lifespan. The diference lay in the aspirations of the practitioner and claims made 
+about the efects of the practice (Stanley-Baker 2006: 34–47). 
+Illness theodicy, disease transmission and the bureaucratic imagination: 
+composite ritual solutions in the early Daoist Church 
+The rich medical imagination of Daoism, and its profusion of health-related practices is 
+perhaps best understood by examining the emergence of the early church in the midst of the 
+vicious cycle at the end of the Eastern Han dynasty, with power waning on the state’s periph-
+ery and increasing epidemics, famine and military unrest all around. The Celestial Master 
+movement began in roughly 142 CE, as some hagiographies relate the tale, when a spirit-
+medium healer Zhang Daoling 張道陵 (also Zhang Ling 張陵 ) had a vision of Laozi 老子 in 
+the form of Taishang Laojun 太上老君  atop Crane-call Mountain ( Heming shan 鶴鳴山 ) in 
+the hills just west of the semi-independent border capital of Shu 蜀 (modern-day Chengdu). 
+While accounts vary – some say he was given talismanic healing practices there, some say 
+he went there to make alchemical drugs – the tradition agrees that during his revelation 
+from the god, he established with him the Covenant of the Powers of the Orthodox Unity 
+(Zhengyi mengwei 正一盟威 ). This contract, a bond based on righteous sacrifce, granted him 
+healing powers and a new ritual of confession which, according to contemporary historical 
+accounts, he then used to attract huge crowds of followers in the Sichuan basin (Kleeman 
+2016: 21–62). These settled into twenty-four small communities, or dioceses ( zhi 治), which 
+maintained their health through communal rites. Members re-established their covenant 
+with the Dao through thrice-yearly communal gatherings, at which they tithed infrastruc -
+tural support – the fxing of roads (a play on the words for ‘the Way of Governance’ zhidao
+治道) and donating rice to travelling way stations or ‘charity lodges’ ( yishe 義舍 ) in the 
+region. In this way, the ritual programme functioned to some degree as a public health 
+programme, responding to the issues of migration and famine. The healing rite of confession 
+invited further health measures: tithing grain, a three-day period of fasting, purifcation and 
+retreat in a chamber of silence, followed by a formal written confession of sin, submitted by 
+a priest with prayers to the gods of the four directions (Strickmann 2002: 1–17). It is worth 
+considering that these interventions would have functioned as rudimentary forms of quar -
+antine, convalescence, dietary therapy and psychological counselling. The later Great Peace 
+(Taiping 太平 ) movement sought to overturn the corrupt Han government, and concep -
+tualised the plagues of the time as the result of a corrupt state, thus aligning political, spir -
+itual, health and military goals. Like the Celestial Masters, they employed talismans and 
+prayers, but also used needles and drugs to preserve health and stave of disease (Toshiaki 2008b). 
+406 
+===== PAGE 7 =====
+Daoism and medicine
+ 
+ 
+ 
+Daoist illness theory resolved two important conceptual problems during this time of 
+widespread epidemics, namely the problem of communicable illness, and the problem of 
+evil. At the time, there was no theory of human-to-human disease transmission in clas -
+sical Chinese medicine. Etiological theory in the Inner Classics  focused on the body’s own 
+strength to resist external meteorological forces, such as wind, damp, dryness and so on (see 
+the six qi  in Chapters 1 and 2 in this volume), and internal emotions, including anger, joy, 
+sadness worry and so on, but did not ofer a theory for how disease was transmitted between 
+humans. Terms for epidemics in imperial histories referred to their fast fowing nature ( yi 
+疫), and described their suddenness and speed ( ji 疾), but nothing about the means by which 
+this occurred. 
+Daoist aetiological theory, however, considered that the fault for the sin which caused dis-
+ease could be shared between people, across families, down generations, within communi -
+ties: it was even meted out to members of a corrupt state. It was communicated by the ghosts 
+of the wronged dead, who wreaked their vengeance on the living. Their fast movement 
+across the land explained the rapid spread of disease, following vectors of military and fam -
+ine migration. Furthermore, this theory also resolved the tacit connection between military 
+confict, mass migration and displacement of communities, and the rapid spread of disease. 
+The disease that entered the body, even if it originated in one’s own, or one’s family’s sins, 
+was frst processed and calculated by bureaucratic denizens of the afterlife, who then meted 
+it out on living individuals via ghost infxation ( guizhu 鬼注 ), that is the pouring of vengeful 
+ghosts or their substance into the body, where it then manifested as disease. Disease thus 
+formed an interlocking part of the breakdown of state, society and civil and military order. 
+Daoist disease theory resolved the problem of evil – why bad things happen to good 
+people and vice versa (Lagerwey 2007). It provided what I term an ‘illness theodicy’, an ex -
+planation for why virtuous people without sin could be struck by disease that was the result 
+of moral failure. Because punishment was meted out down the family line, on those who did 
+not commit evil deeds, and who had no obvious, visible connection to them (Strickmann 
+2002: 1–59; Tsuchiya 2002; Toshiaki 2008a), disease could strike those who had not done 
+anything observably wrong to merit it, ofering a resolution to the unpredictability of epi -
+demic disease transmission. In this way, Daoist disease notions had the potential to settle a 
+sense of random threat and ofered an outlet whereby the bereaved and the diseased could 
+respond with proactive measures, such as ritual confession. This aetiology provided a way of 
+comprehending the passing of loved ones, as can be seen in family records, which provide 
+detailed descriptions of sepulchral lawsuits from deceased family members, as well as ene -
+mies, and the ritual prescriptions to ameliorate them (Nickerson 1997; Bokenkamp 2007: 
+130–57). It may by extension have also provided a means to cope with survivor’s guilt amidst 
+the random, wide spread of multiple pandemics. Read with close attention to the context 
+and motivations for Daoist ritual, early sources show that many rituals were employed in the 
+case of illnesses so conceived. In making these assertions, the Daoist religion maintained, 
+like medical theory, that the universe operated on a series of predictable, regular, impersonal 
+laws. Daoists distanced themselves, just as physicians did, from the mediumistic wu , whose 
+deities were capricious and based their actions on personal favour and corrupt bargains rather 
+than on a just and regular order (Kleeman 1994). Daoists theorised a moral universe in which 
+the apparently random strike of disease was the result of explicable, but hidden, causes orig -
+inating in human behaviour and foibles. The primary diference was that, for physicians, 
+the relevant laws were purely natural laws of material forces, whereas Daoists modelled their 
+spiritual world on an ideal spiritual bureaucracy which operated according to moral laws. 
+407 
+===== PAGE 8 =====
+ 
+ 
+   
+ 
+ 
+ 
+Michael Stanley-Baker 
+Despite these diferences, both classical medicine and early Daoism shared a similar vision 
+of a coherent, predictable world, which could be managed through regularised practices. 
+In this way, the unpredictable strike of epidemic disease could be explained, and ritual 
+solutions ofered to cure it in the present and prevent it in the future. Daoist aetiology did 
+more than explain and produce observable order, i.e. biological or social continuity across 
+generations – patterns discerned and produced by medical theory and Confucian norms. 
+It resolved a fundamental problem of dis order that had become especially pertinent in the 
+context of epidemics. 
+Blended practices 
+From the Han dynasty onwards, we fnd a profusion of health-related practices circulating 
+across diferent communities and genres of writing, many of which have been claimed to be 
+Daoist or related to Daoist aspirations. It must be recalled, however, that these practices were 
+not exclusively or even intrinsically ‘Daoist’, even though they have come to be identifed 
+as such by some. 
+‘Guiding and pulling’ (daoyin 導引) is a genre of stretching and movement exercises 
+mentioned as early as the fourth century BCE, and appearing in excavated Han dynasty 
+practical manuals. During the Six Dynasties (220–589 CE), it became prominently adopted 
+by Daoist and transcendent practitioners, but by the Sui and Tang dynasties (581–907 CE) 
+was assimilated into court medicine (Despeux 1989; Engelhardt 1989). The Treatise on the 
+Causes and Symptoms of All Diseases ( Zhubing yuanhou lun 諸病源侯論 ) lists over a hundred 
+‘methods to nurture life with guiding and pulling’ ( yangsheng fang daoyin fa 養生方導引法 ) 
+as cures for individually specifed syndromes. These are usually some form of exercises to 
+stretch the body or circulate qi  (xingqi 行氣) to nourish health or draw the illness out. Such 
+practices also formed a central element in the Imperial Medical Academy, where the majority 
+of staf appointments were masters of such methods. Many of the practices and texts used 
+were attributed to Daoist masters during the Six Dynasties, but were assimilated into court 
+medicine in the Sui/Tang period (Stanley-Baker 2006; Kohn 2012; Yang 2018, Chapter 6 
+in this volume). 
+‘Arts of the Bedchamber’ (fangzhongshu 房中術 ), or sexual cultivation, was a vari -
+ety of methods which stimulated the female partner and enabled the male partner to retain 
+semen during sex, circulating its nourishing powers throughout the body. These practices 
+were highly regarded for preventing old age. The literature circulated widely beyond Daoist 
+contexts: they are found in the Mawangdui cache, and a huge quantity is listed in the Han 
+dynasty imperial catalogue (Harper 1987; Wile 1992). It also became an important theme 
+in Six Dynasties Daoist cultivation (Eskildsen 1998: 76–8; Kirkland 2008). Related to these 
+were the sexual initiation rites of early Celestial Masters, for which they were harshly crit -
+icised, perhaps unfairly, by their contemporaries. While the Celestial Masters were keen to 
+distinguish their practice from mundane bodily cultivation (Mollier 2008; Raz 2008), they 
+deserve comparison as rites for self-preservation and transformation through sexual congress. 
+By the late imperial period, the relation of sexual cultivation to inner alchemy was a subject 
+of heated debate in male-oriented inner alchemy practice, while the newly emergent female 
+alchemy advocated cognate, but novel, physiological claims in relation to sexual abstinence 
+(Valussi 2009, Chapter 30 in this volume; Hudson 2008). 
+Diet ( fushi 服食) more generally included a wider set of practices of which grain-fasting 
+was only a part. In this period, it encompassed a broader range of substances than is normally 
+considered ‘food’ today, including the ingestion of herbs, rare minerals, alchemical products, 
+408 
+===== PAGE 9 =====
+Daoism and medicine
+ 
+        
+ 
+ 
+ 
+ 
+ 
+   
+talismans, diferent grades of qi氣 and even not eating at all. These ‘cuisines’ were attributed 
+physiological, social or spiritual hierarchies, the more refned products producing more re -
+fned bodies, sensibilities and miraculous ability (Campany 2005). Passages from numerous 
+texts, such as the Huainanzi淮南子 , Shennong jing神農經 , Dadai liji大戴禮記 and Soushen ji
+搜神記 , classify inhabitants of the natural world by their 
+diet.8 Contents vary but the scale is 
+generally of the same ilk: eaters of meat were vicious but powerful; eaters of vegetables, calm 
+and docile; grains, intelligent; lithic potions (minerals) could prevent ageing; those who lived 
+on qi could not die. The Supreme Clarity (Shangqing上清 ) sect of Daoism in particular, but 
+others as well, practised visualisations of stellar, solar and lunar qi, which entered the body 
+and refned it to the extent that the practitioner could rise up to the heavens, whether in 
+meditation or bodily form was a matter of skill and extent of practice. 
+‘Fasting from grains’ (bigu辟榖 ) was nominally the avoidance of cultivated crop 
+grains in preference for a reliance on wild-crafted herbs and plants, with various objectives: 
+to achieve transcendence; as a staged practice among others on the path to become a Per
+-
+fected (zhenren真人), an adept even higher than a transcendent; and to purify the body from 
+the Three Corpses and Nine Worms (sanshi jiuchong三尸九蟲 ), demonic parasites which in -
+fested the body (Kohn 1995; Eskildsen 1998: 43–68; Campany 2002: 22–4; Despeux 2008a; 
+Figure 27.1 Parasites from Taishang chu sanshi jiuchong baosheng jing太上除三尸九蟲保生經 (Most 
+High Scripture on Conserving Life and Expelling the Three Corpses and Nine Worms) 
+DZ 871 9b15a, Five Dynasties (907–960 CE) 
+409 
+===== PAGE 10 =====
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Michael Stanley-Baker 
+Tadd 2012; Arthur 2013). Despite the phantasmagoric properties attributed to these parasitic 
+beings, they were not purely fgments of the imagination – many of their physiological ef -
+fects were described in ways that evoke images of parasites and bugs recognised by modern 
+public health authorities (Kohn 1993), and images in the Daoist canon, while mixed, are 
+clearly partly derived from empirical experience ( Figure 27.1). 
+Although earlier manuals are extant, the rise in popularity of grain-fasting after the East -
+ern Han gives the impression that the widespread famines at the end of the Han played a role 
+in bolstering its appeal (Despeux 2008a). Living without cultivated food was not simply a 
+low-carb fasting diet, but tantamount to an attempt to ‘get of the grid’ of agricultural life 
+and out of civilised society, modes of life that could be starkly precarious during times of 
+political and military strife (Campany 2005). 
+Talismans and Incantations (fuzhou 符咒 ) had the power to command beings from the 
+spirit world (Bumbacher 2012). These magically scripted writs were a hallmark of emergent 
+Han dynasty Daoist sects, such as the Celestial Masters (Tianshi天師 ) and Great Peace (Taiping
+太平 ) movements, and were often prepared, presented or ingested along with a spell or prayer. 
+This means of addressing the spiritual causes of disease was similar to the practice of ‘ incan-
+tations to the origin [of the disease]’ (zhuyou 祝由), and together these formed a broad 
+category of practices (Lin Fushi 2012).
+9 While imperial medical texts distanced themselves 
+from such practices, they never fully rejected the spirit realm – the Song dynasty (960–1279 
+CE) medical academy established zhuyou as the rubric for its thirteenth bureau, which focused 
+on spells and charms in general, including talismans and incantations (Cho 2005). One Ming 
+dynasty (1368–1644) doctor adopted zhuyou into his practice as a form of personalised ‘talking 
+cure’, in which the doctor exhorts the patient, rather than the spiritual cause of the disease 
+(Chapter 15 in this volume). Manuscripts on this practice circulated into the later twentieth 
+century at least, and a good collection are fully scanned and can be downloaded from the Berlin 
+State Library (Unschuld and Zheng Jinsheng 2012; Chapter 18 in this volume) (Figure 27.2). 
+Conclusion: on ‘Daoist Medicine’ as a historical term 
+The homology between Daoism and Medicine, their origins in a common, broad pool of 
+technicians and knowledge has produced a great deal of ambiguity about the ways in which 
+medicine and Daoism were related from then on ( Figure 27.2). From the time of the Eastern 
+Han dynasty (25–220 CE) onwards, the Daoist religion began to transform radically the re -
+ligious landscape of China, and a range of bodily practices and attitudes to bodily well-being 
+began to emerge and circulate in diferent communities, with various medical or religious 
+aims. These ranged from disease treatment, to prevention of disease and old age, and to 
+bodily self-cultivation; from ‘curing disease before it manifests’ to achieving immortality. 
+Earlier scholarship tended to treat the Daoist religion as clearly distinct from the history of 
+classical medicine and vice versa (Porkert 1974; Lu Gwei-Djen and Needham 1980; Maspero 
+1981; Unschuld 1985/2010), but more recently scholars have begun to explore their interre -
+lation (Katz 1995; Davis 2001; Strickmann 2002; Hinrichs 2003; Stanley-Baker 2013; Sivin 
+2015). Scholars and practitioners in China have coined the term ‘Daoist medicine’ ( daojiao 
+yixue 道教醫學 ) to encapsulate a total phenomenon and distinctive historical current, and 
+also to underscore the early scientifc endeavours that emerged within Daoism (Hu Fuchen 
+1995; Gai Jianmin 2001; Xi Zezong et al. 2010; Shen Chen 2020).
+10 In using this term, 
+these latter studies  have produced very useful synoptic views of the broad variety of healing 
+and self-cultivation practices used by Daoists, covering large swaths of material. However, 
+they have not accounted for the fact that ‘Daoist medicine’ is itself a modern term and 
+410 
+===== PAGE 11 =====
+Daoism and medicine
+ 
+   
+Figure 27.2 Talisman from Taishang chu sanshi jiuchong baosheng jing太上除三尸九蟲保生經 (Most 
+High Scripture on Conserving Life and Expelling the Three Corpses and Nine Corpse-
+worms) DZ 871 17a, Five Dynasties (907–960 CE) 
+that it introduces certain biases. This word (in Chinese), and its medieval Chinese analogue 
+daoyi道醫, is nowhere to be found in the Daoist canon itself, nor in other major historical 
+collections (Stanley-Baker 2019b). This neologism privileges early ‘science’, a move expressly 
+intended by Gai Jianmin 盖建民 (Gai 2001: 6–11), who argued that it could be used to pro
+-
+mote more research and prove the relevance of Daoism in the modern scientifc world. This 
+is fne and laudable but has the unintended efect of tacitly separating out ritual as a discrete 
+domain, in ways that do not account for how early practitioners organised knowledge. No 
+historical fgure or writer used this term before the twentieth century, and this fact alone 
+indicates that it is a modern, academic, retrospective, analytical category, but not a term of 
+art from the past. While it is useful for scholars and practitioners today to understand the 
+interrelation of these diferent therapies and therapists, it has the efect of erasing complex 
+relations between early sects of Daoism and how they thought about healing. Many of these 
+studies leave unmentioned the Celestial Master programmes of ritual confession, considered 
+the foundational core of liturgical Daoism, to say nothing of the fact that the early Church 
+forbade the use of classical medical practices: acupuncture, herbs and moxibustion. 
+The object lesson here is that critical attention is necessary when applying organisational 
+categories – we must pay attention to modern assumptions that they may contain. When 
+approaching Daoist methods of healing, it is important to hold in abeyance familiar mod
+-
+ern categories, like ‘medicine’, ‘religion’, ‘science’, ‘ritual’ and ‘politics’, in order to situate 
+Daoists more accurately in their time and place, and understand how they organised and 
+employed therapeutic knowledge. 
+411 
+===== PAGE 12 =====
+  
+  
+  
+  
+  
+ 
+ 
+  
+   
+   
+  
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Michael Stanley-Baker 
+Notes 
+1 Funding for the research, writing and publication of this paper was generously provided by the 
+Max Planck Institute for the History of Science Dept. III, under the project ‘Charting Interior 
+and Exterior Worlds’; the Kolleg Forschungsgruppe ‘Multiple Secularities’ at the University of 
+Leipzig, and Nanyang Technological University, under the project ‘Situating Medicine, Religion 
+and Materia Medica  in China and Beyond’. 
+2 Although used earlier on to refer to other meanings, the term did not cover this general category 
+of practice until the third century CE (Despeux 2008; Chapters 6 and 49 in this volume). 
+3 On these primary sources and the provenance of the versions which survive, see Kaltenmark 
+(1953), Kubo Teruyuki 久保輝幸 (2011), Campany (2002). Campany contains a full translation of 
+the Shenxian zhuan, including its variant editions. 
+4 See Campany (2009) on fctionality and the social roles of transcendence. 
+5 The dating of this text to the frst or second century CE is agreed on by Schmidt (2006) and 
+Harper (1998: 34) although Ma Jixing 馬繼興 (1990) argues that it dates as early as the third cen -
+tury BCE. Earlier bencao have been cited, but none survive. No singular, original, edition of this 
+text survives either, but it has been reconstructed from multiple citations in later Tang and Song 
+works. These, however, require some interpretation as the citations vary considerably. For an 
+overview on the bibliographic history of this text, see Despeux (2015). 
+6 The Sijing no longer survives, but is cited in the famed alchemical work Baopuzi neipian 抱朴子
+內篇 (11.196). For a comparison of how the Shennong sijing and the Shenong bencao  describe these 
+categories, see Stanley-Baker (2013: 149–50, 273). 
+7 The travelling canteen, or mobile kitchen ( xingchu 行廚), referred to here was a magical banquet 
+summoned at will by ascetic masters who could produce exotic food and drink in resplendent table 
+settings (Campany 2002: 29, 221–2; 2005: 46–7). This term also refers to large communal feasts 
+which accompanied Celestial Masters feasting and fasting rituals (Mollier 2008; Stein 1979). 
+8 Dadai liji 大戴禮記 , juan 81; Huainan Honglie jie 淮南鴻烈解 DZ 1176, 7.8b. An independent Shen-
+nong sijing does not survive with this passage intact, but it is cited in the fourth-century Yangsheng yaoji, 
+which survives today as the Yangxing yanming lu養性延命錄 DZ 838, 1.4b (Stanley-Baker 2006: 69–70, 
+130–1). For a translation of the Soushen ji passage, see DeWoskin and Crump (1996: 142). 
+9 On zhuyou across historical periods, see Cho (2005). For an example of a combined use of incan -
+tation with acupuncture, see Kleeman (2009). 
+10 These scholars, in particular Gai Jianmin and Xi Zezong et al., refer to arguments by the historian of 
+science in China, Joseph Needham, who regarded Daoism as a foundational philosophy for Chinese 
+science. However, Needham’s position has been roundly critiqued on the grounds that the term ‘Dao-
+ism’ is often unclearly defned and inconsistently used, and he privileges the earlier ‘philosophy’, but 
+denigrates the religious tradition as a debasement of the ‘purer’ philosophical strands (Sivin 1968, 1978, 
+1995). Sivin called for more refned arguments, which attended specifcally to the Daoist elements in 
+any scientifc endeavour. Xi Zezong 席澤宗 , Jiang Sheng 姜生 and Tang Weixia 汤伟俠 (2010: 7–9, 
+469–594) acknowledge Sivin’s call, and laudably attempt to isolate rationales for a particular brand of 
+‘Daoist medicine’, covering a wide range of useful material. However, their tacit, modern emphasis 
+on ‘science’, as intrinsically distinct from religion, leads into simple but yawning categorical traps. For 
+example, they arbitrarily separate out categories of literature as ‘medical’ and ‘Daoist’ when analysing 
+imperial catalogues of technical literature (Ibid.: 478–9), despite the fact that the early catalogue it -
+self makes no such distinction. It includes all four categories equally as subsets of technical literature, 
+literally ‘techniques and recipes’ ( fangji 方技). Furthermore, their study ignores the Celestial Masters 
+(tianshi天師 ), the founding sect of the Daoist religion and the basis of its enduring liturgical core. 
+Bibliography 
+Pre-modern sources 
+Baopuzi neipian 抱朴子內篇 (The Master Who Embraces Simplicity: inner chapters) 317 CE, Ge Hong 
+葛洪, in Wang Ming 王明 (ed.) (1981) Baopuzi jiaoyi 抱朴子內篇校釋 (Annotated Critical Edition 
+of The Master Who Embraces Simplicity: inner chapters), Taipei: Liren shuju. 
+Da Dai Liji 大戴禮記 (Records of Ritual Matters by Dai the Elder) Western Han (202 BCE–9 CE) , 
+Dai De 戴德 , in Gao Ming 高明 (ed.) (1984) Da Dai liji jinzhu jinyi 大戴禮記今註今譯 (Dadai Liji 
+with Modern Commentary and Translation), Taipei: Taiwan Shangwu yinshuguan. 
+412 
+===== PAGE 13 =====
+Daoism and medicine
+  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Hanshu 漢書 (Records of the Han) 111, Ban Gu 班固 , Yan Shigu 顏師古 and Ban Zhao 班昭 (1962), 
+Beijing: Zhonghua shuju. 
+Huainan Honglie jie 淮南鴻烈解 (Explanations on the Great Achievements  by Huainan), DZ 1184. 
+Huangdi neijing suwen jiaozhu yushi 黄帝内经素问校注语译 (Yellow Emperor’s Inner Classic: Plain 
+Questions – Critically Compared, Annotated and Translated), Guo Aichun 郭霭春  (ed.) (1981), 
+Tianjin: Tianjin kexue jishu chubanshe. 
+Lie xian zhuan 列仙傳 (Arrayed Traditions of Transcendents), DZ 294. 
+Shiji 史記 (Records of the Grand Historian) 78 CE, Sima Qian 司馬遷 , in Pei Yin 裴駰, Yang Shuda 
+楊樹達 and Yang Jialuo 楊家駱 (eds) (1981) 史記集解 (Records of the Grand Historian, Collected 
+Annotations), Taipei: Dingwen shuju. 
+Taishang chu sanshi jiuchong baosheng jing 太上除三尸九蟲保生經 (Life-Preserving Scripture from the 
+Most High on Expelling the Three Corpses and Nine Corpse-worms), DZ 871. 
+Yangxing yanming lu 養性延命錄 (Records of Nourishing Inner Nature and Lengthening Life), DZ 
+838. 
+Modern sources 
+Arthur, S. (2013) Early Daoist Dietary Practices: examining ways to health and longevity , Lanham, MD: 
+Lexington Books. 
+Beck, B.J.M. (1986) ‘The fall of Han’, in D. Twitchett and M. Loewe (eds) The Cambridge History of 
+China: Volume 1: the Ch’in and Han empires, 221 BC–AD 220 , Cambridge: Cambridge University 
+Press. 
+Bokenkamp, S.R. (2007) Ancestors and Anxiety: Daoism and the birth of rebirth in China , Berkeley: Uni -
+versity of California Press. 
+Bumbacher, S.P. (2012) Empowered Writing: exorcistic and apotropaic rituals in medieval China , St. Peters -
+burg, FL: Three Pines. 
+Campany, R.F. (2002) To Live as Long as Heaven and Earth: a translation and study of Ge Hong’s traditions 
+of divine transcendents , Berkeley: University of California Press. 
+——— (2005) ‘The meanings of cuisines of transcendence in late classical and early medieval China’, 
+T’oung Pao, 91: 1–57. 
+——— (2009) Making Transcendents: ascetics and social memory in early medieval China , Honolulu: Uni -
+versity of Hawai’i Press. 
+Cho, P.S. (2005) Ritual and the Occult in Chinese Medicine and Religious Healing: the development of zhuyou 
+exorcism, PhD thesis, University of Pennsylvania. 
+Choa, G.H. (1990) ‘Heal the Sick’ Was Their Motto: the protestant medical missionaries in China , Hong 
+Kong: Chinese University Press. 
+Cook, C.A. (2013) ‘The Pre-Han Period’, in T.J. Hinrich and L.L. Barnes (eds) Chinese Medicine and 
+Healing: an illustrated history, Cambridge, MA: Belknap Press of Harvard University Press , pp. 5–30. 
+Csikszentmihalyi, M. and Nylan, M. (2003) ‘Constructing lineages and inventing traditions through 
+exemplary fgures in early China’, T’oung Pao , 89.1/3: 59–99. 
+Davis, E. (2001) Society and the Supernatural in Song China , Honolulu: University of Hawai’i Press. 
+Despeux, C. (1989) ‘Gymnastics: the ancient tradition’, in L. Kohn and Y. Sakade (eds) Taoist Medita -
+tion and Longevity Techniques , Ann Arbor: Center for Chinese Studies, University of Michigan, pp. 
+223–61. 
+——— (2008a) ‘ Bigu 辟榖’, in F. Pregadio (ed.) The Encyclopedia of Taoism , London: Routledge, pp. 
+233–4. 
+——— (2008b) ‘ Yangsheng 養生 ’, in F. Pregadio (ed.) The Encyclopedia of Taoism , London: Routledge, 
+pp. 1148–50. 
+——— (2015) ‘ Shennong Bencao Jing 神農本草經 ’, in C.L. Chennault, K.N. Knapp, A.E. Dien and A.J. 
+Berkowitz (eds) Early Medieval Chinese Texts: a bibliographical guide , Berkeley: Institute of East Asian 
+Studies, pp. 264 –68. 
+DeWoskin, K.J. and Crump, J.I. (trans.) (1996) In Search of the Supernatural: the written record , Stanford, 
+CA: Stanford University Press. 
+Engelhardt, U. (1989) ‘Qi for Life: longevity in the Tang’, in L. Kohn and Y. Sakade (eds) Taoist Med-
+itation and Longevity Techniques , Ann Arbor: Center for Chinese Studies, University of Michigan, 
+pp. 263–96. 
+Eskildsen, S. (1998) Asceticism in Early Taoist Religion , Albany: State University of New York Press. 
+413 
+===== PAGE 14 =====
+  
+ 
+    
+ 
+ 
+ 
+ 
+  
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+Michael Stanley-Baker 
+Gai Jianmin 盖建民  (2001) Daojiao yixue 道敎医学 (Daoist Medicine), Beijing: Zongjiao wenhua 
+chubanshe. 
+Harper, D. (1987) ‘The sexual arts of ancient China as described in a manuscript of the second century 
+B.C.’, Harvard Journal of Asiatic Studies , 47.2: 539–93. 
+——— (1998) Early Chinese Medical Literature: the Mawangdui medical manuscripts , London; New York: 
+Kegan Paul. 
+——— (1999) ‘Warring states: natural philosophy and occult thought’, in M. Loewe and E.L. Shaugh -
+nessy (eds) The Cambridge History of Ancient China: from the origins of civilization to 221 B.C ., Cam-
+bridge: Cambridge University Press, pp. 813–84. 
+Hinrichs, TJ (2003) The Medical Transforming of Governance and Southern Customs in Song Dynasty China 
+(960–1279 C.E.), PhD thesis, Harvard University. 
+Hu Fuchen 胡孚琛 . (1995) ‘Daojiao yiyao xueshu yao’ 道教医药学述要 (Summary of Studies of Daoist 
+Medicine), Zhongguo zhongyi jichu yixue zazhi , 1.4: 17–18. 
+Hudson, C. (2008) Spreading the Dao, Managing Mastership, and Performing Salvation: the life and alchemical 
+teachings of Chen Zhixu , PhD thesis, Indiana University. 
+Kaltenmark, M. (1953) Le Lie-Sien Tchouan: biographies légendaires des immortels Taoïstes de l’antiquité , 
+Pékin: Centre d’études sinologiques de Pékin. 
+Katz, P.R. (1995) Demon Hordes and Burning Boats: the cult of Marshal Wen in late imperial Chekiang , Al-
+bany: State University of New York Press. 
+Keightley, D.N. (2001) ‘The “science” of the ancestors: divination, curing, and bronze-casting in late 
+Shang China’, Asia Major, XIV.2: 143–88. 
+Kirkland, R. (2008) ‘ Fangzhong shu 房中術 ’, in F. Pregadio (ed.) The Encyclopedia of Taoism , London: 
+Routledge, pp. 407–11. 
+Kleeman, T.F. (1994) ‘Licentious cults and bloody victuals: sacrifce, reciprocity, and violence in tra -
+ditional China’, Asia Major, 7.1: 185–211. 
+——— (2009) ‘The ritualized treatment of stroke in early medieval Daoism and the secret incantation of 
+the Northern Thearch’, in F .C. Reiter (ed.) Foundations of Daoist Ritual: a Berlin symposium, Wiesbaden: 
+Harrassowitz, pp. 227–38. 
+——— (2016) Celestial Masters: history and ritual in early Daoist communities, Cambridge, MA: Harvard 
+University Asia Center. 
+Kohn, L. (1993) ‘Kōshin: a Taoist cult in Japan: part I: contemporary practices’, Japanese Religions , 18.2: 
+113–39. 
+——— (1995) ‘K ōshin: a Taoist cult in Japan: part II: historical development’, Japanese Religions , 20.1: 
+34–55. 
+——— (2012) ‘Daoyin among the Daoists: physical practice and immortal transformation in Highest 
+Clarity’, in V. Lo (ed.) Perfect Bodies: sports, medicine and immortality: ancient and modern , London: 
+British Museum, pp. 111 –20. 
+Kohn, L. and Sakade, Y. (eds) (1989) Taoist Meditation and Longevity Techniques , Ann Arbor: Center for 
+Chinese Studies, University of Michigan. 
+Kubo Teruyuki 久保 輝幸 (2011) ‘“Retsu sen den” no bōshitsu shita senden ni soku nitsuite’ 「 列仙
+伝」の亡失した仙伝2則について , Jinbun gaku ronsh ū 人文学論集 , 29: 109–28. 
+Lagerwey, J. (2007) ‘Evil and its treatment in early Taoism’, in J.D. Gort, H. Jansen and H.M. Vroom 
+(eds) Probing the Depths of Evil and Good , Leiden: Brill, pp. 73 –86. 
+Li Jianmin 李建民 (2009) ‘They shall expel demons: etiology, the medical canon and the transforma -
+tion of medical techniques before the Tang’, in J. Lagerwey and M. Kalinowski (eds) Early Chinese 
+Religion, Part One: Shang through Han (1250 BC –220 AD), Leiden; Boston, MA: Brill, pp. 1103–50. 
+Li Wenbo 李文波 (2004) Zhongguo chuanranbing shiliao 中囯传染病史料 (Historical Records of Infec -
+tious Diseases in China), Beijing: Huaxue gongye. 
+Lin Fushi 林富士 (2008a) ‘Zhongguo zhonggu shiqi de wenyi yu shehui’ 中國中古時期的瘟疫與社會 
+(Epidemics and Society in Medieval China), in Lin Fushi (ed.) Zhongguo zhonggu shiqi de zongjiao 
+yu yiliao 中國中古時期的宗教與醫療 (Medicine and Religion in Medieval China), Taipei: Lianjing 
+chubanshe, pp. 3 –28. 
+——— (2008b) ‘Zhongguo zaoqi daoshi de “yizhe” xingxiang: yi Shenxian zhuan  wei zhu de chubu 
+tantao’中國早 期 道 士 的「醫者」形 象 ：以《神仙傳》為 主 的 初 步 探 討 (The image of Doctors among 
+Early Medieval Daoists in China: preliminary explorations of the Traditions of Divine Transcendents ), 
+in Lin Fushi (ed.) Zhongguo zhonggu shiqi de zongjiao yu yiliao 中國中古時期的宗教與醫療 (Medi -
+cine and Religion in Medieval China), Taipei: Lianjing chubanshe , pp. 277–302. 
+414 
+===== PAGE 15 =====
+Daoism and medicine
+ 
+ 
+ 
+ 
+   
+ 
+  
+ 
+  
+ 
+  
+ 
+ 
+ 
+——— (2008c) ‘Donghan shiqi de jiyi yu zongjiao’ 東漢 時期的疾疫與宗教 (Epidemics and Religion 
+in the Eastern Han), in Lin Fushi (ed.) Zhongguo zhonggu shiqi de zongjiao yu yiliao 中國中古時期的
+宗教與醫療 (Medicine and Religion in Medieval China), Taipei: Lianjing chubanshe, pp. 29–84. 
+——— (2012) ‘ Zhuyou shiyi: yi Huangdi neijing - Suwen wei hexin wenben de taolun’ 「祝由」 釋義：以
+《黃帝內經 ‧素 問 》為 核心文本的討論 (Interpretation of the term ‘chanting to the origins’ (zhuyou): 
+discussion based on ‘The Inner Canon of the Yellow Emperor: Plain Questions’), Zhongyang yanjiu 
+yuan lishu yuyan yanjiu suo jikan 中央研究院歷史語言研究所集刊 , 83.4: 671–738. 
+Lloyd, G. and Sivin, N. (2002) The Way and the Word: science and medicine in early China and Greece , New 
+Haven, CT: Yale University Press. 
+Lo, V. (2001) ‘The infuences of nurturing life culture on the development of Western Han Acumoxa 
+Therapy’, in E. Hsu (ed.) Innovation in Chinese Medicine, Needham Research Institute Studies, Cam -
+bridge: Cambridge University Press, pp. 19–50. 
+——— (2013) ‘The Han period’, in T.J. Hinrich and L.L. Barnes (eds) Chinese Medicine and Healing: 
+an illustrated history , Cambridge, MA: The Belknap Press of Harvard University Press , pp. 31–64. 
+Lu Gwei-Djen and Needham, J. (1980) Celestial Lancets: a history and rationale of acupuncture and moxa , 
+Cambridge: Cambridge University Press. 
+Lupke, C. (ed.) (2005) The Magnitude of Ming: command, allotment, and fate in Chinese Culture , Honolulu: 
+University of Hawai’i Press. 
+Ma Jixing 马继兴  (1990) Zhongyi wenxian xue 中医文献学 (Bibliographic Studies in Chinese Medi -
+cine), Shanghai: Shanghai kexue jishu chubanshe. 
+Major, J.S., Queen, S.A., Roth, H.D., Meyer, A.S., Puett, M. and Murray, J. (trans.) (2010) The 
+Huainanzi: a guide to the theory and practice of government in early Han China , New York: Columbia 
+University Press. 
+Maspero, H. (1981) Taoism and Chinese Religion , trans. F.A. Kierman, Amherst: University of Massa -
+chusetts Press. 
+Mollier, C. (2008) ‘Chu 廚 “Cuisines”’, in F. Pregadio (ed.) The Encyclopedia of Taoism, London: Rout-
+ledge, pp. 539–44. 
+Nickerson, P.S. (1997) ‘The great petition for sepulchral plaints’, in S.R. Bokenkamp (ed.) Early Daoist 
+scriptures , Berkeley: University of California Press, pp. 230 –60. 
+Ogata Toru 大形徹 (2015) ‘Rensen den ni miru doutokuteki sennin no houga’ 「列仙傳」にみる道徳
+的仙人の萌芽 (Emergent ethics in the Liexian zhuan ), Jinbun kagaku ronshyu 人文学論集 , 33: 29–38. 
+Peerenboom, R.P. (1993) Law and Morality in Ancient China: the silk manuscripts of Huang-Lao , New 
+York: State University of New York Press. 
+Porkert, M. (1974) The Theoretical Foundations of Chinese Medicine: systems of correspondence, Cambridge, 
+MA: MIT Press. 
+Raz, G. (2008) ‘The way of the yellow and the red: re-examining the sexual initiation rite of Celestial 
+Master Daoism’, Nan Nü, 10.1: 86–120. 
+Rittel, H.W. and Webber, M.M. (1973) ‘Dilemmas in a general theory of planning’, Policy Sciences, 
+4.2: 155–69. 
+Salguero, C.P. (2018) ‘“This fathom-long body”: bodily materiality and ascetic ideology in medieval 
+Chinese Buddhist scriptures’, Bulletin of the History of Medicine , 92.2: 237–60. 
+Schmidt, F.R.A. (2006) ‘The textual history of the materia medica in the Han period: a system-theo -
+retical reconsideration’, T’oung Pao, 92: 293–324. 
+Shen Chen 申琛 (2020) Daojiao yixue 道教医学 , Zhengzhou: Zhongzhou guji chubanshe. 
+Sivin, N. (1968) Chinese Alchemy: preliminary studies , Harvard Monographs in the History of Science, 
+Cambridge, MA: Harvard University Press. 
+——— (1978) ‘On the word ‘Taoist’ as a source of perplexity: with special reference to the relations of 
+science and religion in traditional China’, History of Religions , 17.34: 303–30. 
+——— (1995) Medicine, Philosophy and Religion in Ancient China , Aldershot: Variorum. 
+——— (2015) Health Care in Eleventh-Century China , New York: Springer. 
+Stanley-Baker, M. (2006) Cultivating Body, Cultivating Self: a critical translation and history of the Tang dy -
+nasty Yangxing yanming lu  (Records of Cultivating Nature and Extending Life), MA thesis, Indiana 
+University, Bloomington. 
+——— (2013) Daoists and Doctors: the role of medicine in six dynasties Shangqing Daoism , PhD thesis, Uni -
+versity College London. 
+——— (2014) ‘Drugs, destiny, and disease in medieval China: situating knowledge in context’, Dao -
+ism: Religion, History and Society , 6: 113–56. 
+415 
+===== PAGE 16 =====
+ 
+ 
+ 
+   
+ 
+ 
+ 
+  
+ 
+Michael Stanley-Baker 
+——— (2019a) ‘Health and philosophy in pre- and early imperial China’, in P. Adamson (ed.) Health: 
+a history, New York: Oxford University Press, pp. 7 –42. 
+——— (2019b) ‘ Daoing medicine: practice theory for considering religion and medicine in early im -
+perial China’, East Asian Science Technology and Medicine , 50: 21–66. 
+Stein, R.A. (1979) ‘Religious Taoism and popular religion from the second to the seventh centuries’, 
+in H. Welch and A. Seidel (eds) Facets of Taoism, New Haven, CT: Yale University Press, pp. 53–81. 
+Strickmann, M. (2002) Chinese Magical Medicine , Stanford, CA: Stanford University Press. 
+Tadd, M. (2012) ‘The power of parasites and worms’, in B.S. Walter and M. Tadd (eds) Parasites, 
+Worms, and the Human Body in Religion and Culture , New York: Peter Lang, pp. ix–xxxv. 
+Toshiaki, Yamada (2008a) ‘Chengfu 承負 ’, in F. Pregadio (ed.) The Encyclopedia of Taoism , London: 
+Routledge, pp. 265 –6. 
+——— (2008b) ‘Taiping 太平 : great peace; great equality’, in F. Pregadio (ed.) The Encyclopedia of Tao -
+ism, London: Routledge, pp. 937–8. 
+Tsuchiya, Mas āki 土屋晶明 (2002) ‘Confessions of sins and awareness of self in the Taiping Jing ’, in L. 
+Kohn and H.D. Roth (eds) Daoist Identity: history, lineage, and ritual , Honolulu: University of Ha -
+wai’i Press, pp. 39–57. 
+Unschuld, P.U. (1985/2010) Medicine in China: a history of ideas, Berkeley: University of California 
+Press. 
+——— (2010) ‘When health was freed from fate: some thoughts on the liberating potential of early 
+Chinese medicine’, East Asian Science Technology and Medicine , 31: 11–24. 
+——— (2016) Huang Di Nei Jing Ling Shu: the ancient classic on needle therapy , Berkeley: University of 
+California Press. 
+Unschuld, P.U. and Tessenow, H. (2011) Huangdi Neijing Suwen: an annotated translation of Huang Di’s 
+inner classic  – basic questions, Berkeley: University of California Press. 
+Unschuld, P.U. and Zheng Jinsheng (2012) Chinese Traditional Healing: the Berlin collection , Leiden; 
+Boston, MA: Brill. 
+Valussi, E. (2009) ‘Female alchemy: an introduction’, in R.R. Wang and L. Kohn (eds) Internal Al -
+chemy: self, society, and the quest for immortality , St. Petersburg, FL: Three Pines Press, pp. 141 –62. 
+Verellen, F. (2019) Imperiled Destinies: the Daoist quest for deliverance in medieval China , Boston, MA: 
+Harvard University Press. 
+Wang, A. (2000) Cosmology and Political Culture in Early China , Cambridge; New York: Cambridge 
+University Press. 
+Wile, D. (1992) Art of the Bedchamber: the Chinese sexual yoga classics: including women’s solo meditation texts, 
+Albany: State University of New York Press. 
+Xi Zezong 席澤宗 , Jiang Sheng 姜生 and Tang Weixia 汤伟俠 (2010) Zhongguo daojiao kexue jishu shi: 
+Nanbeichao Sui Tang Wudai 中国道教科学技术史：南北朝隋唐五代卷 (History of Chinese Daoist 
+Science and Technology: Volume ‘Southern and Northern Dynasties; Sui; Tang and the Five Dy -
+nasties’), Beijing: Kexue chubanshe. 
+Yang, D. (2018) Prescribing ‘Guiding and Pulling’: the institutionalisation of therapeutic exercise in Sui China 
+(581–618 CE), PhD thesis, University College London. 
+416 

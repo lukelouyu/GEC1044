@@ -1,0 +1,303 @@
+{
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 8838,
+                    "endIndex": 8839,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 8839,
+              "endIndex": 8907,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8839,
+                    "endIndex": 8907,
+                    "textRun": {
+                      "content": "5 Local adaptation through products, packaging and cultural contact\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 13,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_1",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 8907,
+              "endIndex": 8956,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8907,
+                    "endIndex": 8956,
+                    "textRun": {
+                      "content": "5.1 Imported materials and locally made products\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 8956,
+              "endIndex": 9572,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8956,
+                    "endIndex": 9571,
+                    "textRun": {
+                      "content": "Staff reported mainly Chinese imports for variety and cost, with limited local cultivation. Table A5 separates three meanings of “local”: grown, packaged or manufactured in Singapore. Cactus and roselle illustrate possible local cultivation, but shop-stock origins remain unconfirmed. Mind Soothe Capsules have a documented Singapore manufacturing link. Five Flower Tea and monk-fruit tea are external examples of local packaging and beverage production, not Tong Keow products. These distinctions illustrate adaptation through Singapore’s retail and production systems, even with imported ingredients (Yang, 2022).",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 9571,
+                    "endIndex": 9572,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 9572,
+              "endIndex": 10244,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 9572,
+                    "endIndex": 10244,
+                    "textRun": {
+                      "content": "HSA lists Nature’s Green Mind Soothe Capsules as manufactured by Tong Jum Chew in Singapore, without establishing ingredient origins (HSA, 2025b). Product categories also have different requirements. Finished Chinese Proprietary Medicines (CPM) require listing and dealer licences; manufacturing and assembly facilities must meet Good Manufacturing Practice requirements (HSA, 2026b, 2026c). Raw or simply processed medicinal herbs are Chinese medicinal materials, while permitted ingredients in culinary soups or drinks for non-medicinal use are food products (Singapore Food Agency, 2025). Local manufacture therefore does not determine a product’s regulatory category.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 10244,
+              "endIndex": 10284,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 10244,
+                    "endIndex": 10284,
+                    "textRun": {
+                      "content": "5.2 Packaging and the language of trust\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 10284,
+              "endIndex": 10867,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 10284,
+                    "endIndex": 10866,
+                    "textRun": {
+                      "content": "Packaging makes product information visible to shoppers. CPM labels require English; Chinese may be added, while other languages must match approved English. Product names, ingredients, batch numbers, expiry dates and manufacturer, importer or assembler details help identify products and trace their supply chains (HSA, 2025a, section 5). These details can support trust, but HSA listing concerns safety and quality, rather than proving effectiveness or individual suitability (HSA, 2026b). Consumer guidance also highlights possible interactions with other medicines (HSA, 2026d).",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 10866,
+                    "endIndex": 10867,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 10867,
+              "endIndex": 11445,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 10867,
+                    "endIndex": 11445,
+                    "textRun": {
+                      "content": "Staff emphasised fresh colour and sulphur-free materials. Photographs show HSA signage, a sulphur-free Dang Shen claim and a separate American ginseng label. The Dang Shen label makes a processing claim; the ginseng label identifies the product. These messages may reassure shoppers, although photographs cannot verify the claims. HSA also warns against describing supplements as safe simply because they are natural (HSA, 2026a). Packaging therefore helps explain how trust is communicated, while the accuracy of claims and suitability for a buyer require separate assessment.\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+             

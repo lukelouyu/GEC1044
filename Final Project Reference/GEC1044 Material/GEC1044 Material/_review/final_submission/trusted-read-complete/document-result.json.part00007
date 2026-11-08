@@ -1,0 +1,302 @@
+tent": "4.1 Easier preparation for younger buyers\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 6345,
+              "endIndex": 6583,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6345,
+                    "endIndex": 6582,
+                    "textRun": {
+                      "content": "Staff described younger customers preferring teas, supplements and simpler preparations over raw herbs. Table A3 lists eight product categories, including ginseng tonics, herbal teas, soup packs, mood-support products and medicated oils.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6582,
+                    "endIndex": 6583,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 6583,
+              "endIndex": 6956,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6583,
+                    "endIndex": 6955,
+                    "textRun": {
+                      "content": "Preselected soup packs transfer selection and portioning to sellers while households retain cooking; capsules reduce preparation further. Staff explained ingredient uses, and a multi-buy promotion presented packs through a familiar supermarket offer. Convenience therefore changes how preparation work is shared, helping traditional materials fit younger buyers’ routines.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 6955,
+                    "endIndex": 6956,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "alignment": "START",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 7,
+                    "unit": "PT"
+                  },
+                  "avoidWidowAndOrphan": true
+                }
+              }
+            },
+            {
+              "startIndex": 6956,
+              "endIndex": 6989,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6956,
+                    "endIndex": 6989,
+                    "textRun": {
+                      "content": "4.2 Products for daily pressures\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "headingId": "h.h5izmet3bbkd",
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 6989,
+              "endIndex": 7545,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 6989,
+                    "endIndex": 7544,
+                    "textRun": {
+                      "content": "Staff linked late nights, long work hours and prolonged phone use to demand for liver-care or mood-support products. Nature’s Green Mind Soothe Capsules use the language of soothing Liver-related constraint (疏肝解郁) and are listed by HSA as a Singapore-manufactured Chinese Proprietary Medicine (CPM) (Health Sciences Authority [HSA], 2025b). Such descriptions connect TCM terminology with familiar concerns about stress and mental well-being. These are retail associations, rather than clinical diagnoses or evidence that the products treat mental illness.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 7544,
+                    "endIndex": 7545,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceBelow": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 7545,
+              "endIndex": 8106,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 7545,
+                    "endIndex": 8105,
+                    "textRun": {
+                      "content": "Kumari’s (2024) report on ADP’s 2023 survey found weekly work-related stress among 68% of Singapore workers, compared with 61% across surveyed Asia-Pacific markets. This gives broader context to the shop’s product language, although it does not measure Tong Keow customers’ reasons for purchase. Together with Section 4.1, the staff account suggests that lifestyle pressures and convenience help explain demand for packaged products: familiar concerns are expressed through traditional terms, while capsules offer a preparation format that fits daily routines.",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "startIndex": 8105,
+                    "endIndex": 8106,
+                    "textRun": {
+                      "content": "\n",
+                      "textStyle": {
+                        "fontSize": {
+                          "magnitude": 11,
+                          "unit": "PT"
+                        }
+                      }
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "NORMAL_TEXT",
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 12,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "unit": "PT"
+                  },
+                  "shading": {
+                    "backgroundColor": {
+                      "color": {
+                        "rgbColor": {
+                          "red": 1,
+                          "green": 1,
+                          "blue": 1
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "startIndex": 8106,
+              "endIndex": 8171,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8106,
+                    "endIndex": 8171,
+                    "textRun": {
+                      "content": "4.3 Preparation effort and staff-described lower-demand products\n",
+                      "textStyle": {}
+                    }
+                  }
+                ],
+                "paragraphStyle": {
+                  "namedStyleType": "HEADING_2",
+                  "lineSpacing": 115,
+                  "direction": "LEFT_TO_RIGHT",
+                  "spaceAbove": {
+                    "magnitude": 10,
+                    "unit": "PT"
+                  },
+                  "spaceBelow": {
+                    "magnitude": 6,
+                    "unit": "PT"
+                  },
+                  "keepLinesTogether": true,
+                  "keepWithNext": true
+                }
+              }
+            },
+            {
+              "startIndex": 8171,
+              "endIndex": 8839,
+              "paragraph": {
+                "elements": [
+                  {
+                    "startIndex": 8171,
+                    "endIndex": 8838,
+                    "textRun": {
+                      "content": "Lower-demand examples included Ban Zhi Lian (半枝莲), specialist herbs requiring combinations and strong tonic formulas (大补方) (Table A4). Staff associated their lower appeal with unfamiliarity and preparation effort, and considered stronger tonics less suitable for Singapore’s hot, humid climate than lighter qing bu (清补) options. Slower-selling items were stocked in smaller quantities. This comparison helps explain the appeal of prepared packs: shoppers receive selected, portioned ingredients instead of assembling combinations themselves. It also suggests that staff guidance and preparation services matter alongside the ingredients’ traditional-use descriptions.",
+                      "textStyle": {
+                        "fontSize": 

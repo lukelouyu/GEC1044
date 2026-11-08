@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEC1044 Study Companion"
+  short_description: "Course knowledge, revision and cited project support"
+  default_prompt: "Use $gec1044-study to answer my GEC1044 question using the course notes and clearly attributed sources."

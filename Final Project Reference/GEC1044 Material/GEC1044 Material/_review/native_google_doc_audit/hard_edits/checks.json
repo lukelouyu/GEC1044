@@ -1,0 +1,188 @@
+{
+  "pdf_pages": [
+    {
+      "page": 1,
+      "characters": 471
+    },
+    {
+      "page": 2,
+      "characters": 2908
+    },
+    {
+      "page": 3,
+      "characters": 1485
+    },
+    {
+      "page": 4,
+      "characters": 1733
+    },
+    {
+      "page": 5,
+      "characters": 1326
+    },
+    {
+      "page": 6,
+      "characters": 1640
+    },
+    {
+      "page": 7,
+      "characters": 1711
+    },
+    {
+      "page": 8,
+      "characters": 1675
+    },
+    {
+      "page": 9,
+      "characters": 1022
+    },
+    {
+      "page": 10,
+      "characters": 1835
+    },
+    {
+      "page": 11,
+      "characters": 2707
+    },
+    {
+      "page": 12,
+      "characters": 2351
+    },
+    {
+      "page": 13,
+      "characters": 2938
+    },
+    {
+      "page": 14,
+      "characters": 2831
+    },
+    {
+      "page": 15,
+      "characters": 2232
+    },
+    {
+      "page": 16,
+      "characters": 2360
+    },
+    {
+      "page": 17,
+      "characters": 1789
+    },
+    {
+      "page": 18,
+      "characters": 2701
+    },
+    {
+      "page": 19,
+      "characters": 2193
+    },
+    {
+      "page": 20,
+      "characters": 2354
+    },
+    {
+      "page": 21,
+      "characters": 1378
+    }
+  ],
+  "docx_headings": {
+    "4.2 Comparative industry examples": 1,
+    "4.3 Products for daily pressures": 1,
+    "8 Limitations": 1
+  },
+  "colds_sentence_count": 1,
+  "garbled_product_name": 0,
+  "bpleurum": 0,
+  "liquorice": 0,
+  "tables": [
+    {
+      "rows": 6,
+      "first_column": [
+        "Name",
+        "Lou Yu (Luke)",
+        "Chang Tze Yi Othniel",
+        "Li Xudong",
+        "Curtis Chang Kai Xian",
+        "Hu Zhixuan, Shirley"
+      ]
+    },
+    {
+      "rows": 10,
+      "first_column": [
+        "Herb",
+        "人参 Ren ShenGinseng (root)",
+        "西洋参 Xi Yang ShenAmerican ginseng (root)",
+        "党参 Dang ShenCodonopsis (root)",
+        "黄芪 Huang QiAstragalus/milkvetch (root)",
+        "玉竹 Yu ZhuFragrant Solomon’s seal (rhizome)",
+        "淮山／山药 Huai Shan / Shan YaoChinese yam (rhizome)",
+        "红枣／大枣 Hong Zao / Da ZaoRed dates/jujube (fruit)",
+        "枸杞子 Gou Qi ZiGoji/wolfberry (fruit)",
+        "罗汉果 Luo Han GuoMonk fruit (fruit)"
+      ]
+    },
+    {
+      "rows": 6,
+      "first_column": [
+        "Soup label",
+        "Qing Bu Liang 清补凉",
+        " Dang Shen and Huang Qi soup党参北芪补气汤",
+        " Yu Zhu and Huai Shan soup玉竹淮山润燥汤",
+        " Goji and red date soup枸杞红枣养生汤",
+        "Five Finger Fig soup五指毛桃健脾汤"
+      ]
+    },
+    {
+      "rows": 9,
+      "first_column": [
+        "Product or category",
+        "Ginseng tonics人参／西洋参",
+        "罗汉果Monk-fruit products",
+        "花茶／凉茶Flower and herbal teas",
+        "药材汤包Soup packs",
+        "灵芝保健品Lingzhi supplements",
+        "养肝／疏肝解郁Nature’s Green 绿叶Mind Soothe Capsules",
+        "银翘类Yin Qiao-type remedies",
+        "红花油／红油精Medicated oils"
+      ]
+    },
+    {
+      "rows": 1,
+      "first_column": [
+        "Figure 4.2a. Heng Foh Tong herbal-drink vending machine. Bottled drinks and self-service purchasing illustrate a convenient retail format that makes herbal products easier to buy and incorporate into daily routines."
+      ]
+    },
+    {
+      "rows": 4,
+      "first_column": [
+        "Product or category",
+        "半枝莲 Ban Zhi LianBarbated skullcup herb",
+        "Specialist herbs",
+        "大补方Strong tonic formulas"
+      ]
+    },
+    {
+      "rows": 6,
+      "first_column": [
+        "Example",
+        "Cactus 仙人掌",
+        "Roselle 洛神花",
+        "Mind Soothe Capsules舒肝解郁胶囊",
+        "Five Flower Tea五花茶",
+        "Monk fruit tea罗汉果茶"
+      ]
+    },
+    {
+      "rows": 7,
+      "first_column": [
+        "Complaint or wellness concern",
+        "Colds",
+        "Diarrhoea",
+        "Fatigue or Qi deficiency language",
+        "Perceived lower immunity",
+        "Late nights, stress and long work hours",
+        "Aches or injuries"
+      ]
+    }
+  ]
+}

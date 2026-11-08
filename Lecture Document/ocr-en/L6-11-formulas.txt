@@ -1,0 +1,7 @@
+﻿EXAMPLE OF TCIVI PRESCRIPTION
+00002 :
+A combination of herbs or a
+TCM formula* used for the
+treatment.
+containing complex compounds
+in specific ratios and doses

@@ -1,0 +1,52 @@
+%% Shifting the Burden overlay (archetype loops labelled STB-* to avoid clashing with R1-R4, B1-B2)
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "15px", "edgeLabelBackground": "#FFFFFF", "lineColor": "#4A4A4A"}, "themeCSS": ".edgeLabel, .edgeLabel p, .edgeLabel span { font-size: 20px !important; font-weight: 700; color: #111111; }", "flowchart": {"curve": "basis", "nodeSpacing": 45, "rankSpacing": 70}}}%%
+flowchart LR
+    FT("Fatigue<br/>(problem symptom)"):::tcm
+    QR("Quick-Relief Use<br/>(kopi / energy drinks, delivery<br/>or skipped meals, scrolling)"):::shared
+    DEP("Reliance on Quick Relief<br/>(side effect)"):::shared
+    SE("Self-Care Engagement"):::psy
+    CR("Congee Routine<br/>(fundamental solution)"):::psy
+    SSE("Spleen-Strengthening Effect"):::tcm
+    SQ("Spleen Qi"):::tcm
+    PE("Physical Energy"):::tcm
+    SL("Sleep Quality"):::tcm
+    FT -- "+" --> QR
+    QR -- "–" --> FT
+    FT -. "+" .-> SE
+    SE -- "+ ||" --> CR
+    CR -- "+" --> SSE
+    SSE -- "+ ||" --> SQ
+    SQ -- "+" --> PE
+    PE -- "–" --> FT
+    QR -- "+ ||" --> DEP
+    DEP -- "–" --> SE
+    QR -- "–" --> SL
+    SL -- "–" --> FT
+    SYM(("STB-B_sym<br/>quick relief")):::loopB
+    QR ~~~ SYM
+    FUND(("STB-B_fund<br/>slow fundamental fix")):::loopB
+    SSE ~~~ FUND
+    DEPL(("STB-R_dep<br/>dependency erodes<br/>self-care")):::loopR
+    DEP ~~~ DEPL
+    FTF(("FtF-R<br/>caffeine → sleep<br/>(Fixes that Fail)")):::loopR
+    SL ~~~ FTF
+    classDef tcm fill:#FFE6BF,stroke:#9A4A00,stroke-width:2px,color:#2E1A00;
+    classDef psy fill:#D3EEF2,stroke:#006D77,stroke-width:2px,color:#00262A;
+    classDef shared fill:#EDEDED,stroke:#4A4A4A,stroke-width:2px,color:#111111;
+    classDef exo fill:#FFFFFF,stroke:#4A4A4A,stroke-width:2px,stroke-dasharray:6 3,color:#111111;
+    classDef exoPsy fill:#FFFFFF,stroke:#006D77,stroke-width:2px,stroke-dasharray:6 3,color:#00262A;
+    classDef loopR fill:#FFFFFF,stroke:#B00020,stroke-width:2px,color:#B00020,font-weight:bold;
+    classDef loopB fill:#FFFFFF,stroke:#1B5E20,stroke-width:2px,color:#1B5E20,font-weight:bold;
+    classDef legend fill:#FAFAFA,stroke:#9E9E9E,stroke-width:1px,color:#111111,text-align:left;
+    linkStyle 0 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 1 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 2 stroke:#4A4A4A,stroke-width:2px,stroke-dasharray:5 4;
+    linkStyle 3 stroke:#006D77,stroke-width:2px;
+    linkStyle 4 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 5 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 6 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 7 stroke:#9A4A00,stroke-width:2px;
+    linkStyle 8 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 9 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 10 stroke:#4A4A4A,stroke-width:2px;
+    linkStyle 11 stroke:#9A4A00,stroke-width:2px;

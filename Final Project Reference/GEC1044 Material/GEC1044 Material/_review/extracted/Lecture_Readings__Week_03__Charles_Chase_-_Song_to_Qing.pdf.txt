@@ -1,0 +1,904 @@
+
+===== PAGE 1 =====
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+9 
+DEVELOPMENTS IN CHINESE 
+MEDICINE FROM THE SONG 
+THROUGH THE QING 
+Charles Chace1 
+Introduction 
+When practitioners of Chinese medicine look to pre-modern literature for insight and inspi -
+ration, we fnd diferent kinds of information in the writings of each era. In terms of practical 
+application, medical literature can be broadly divided into the writings of the last twelve 
+hundred years, and the entirety of what preceded it. We typically refer to the corpus of these 
+earlier writings to deepen our understanding of the larger concepts of Chinese medicine. 
+We may read the Yellow Emperor’s Inner Classic (Huangdi neijing 黃帝內經 , Eastern Han 東漢 , 
+25–225 CE), hereafter Inner Classic , for a fresh contextual perspective on a difcult case, but 
+as a rule we do not expect to fnd a specifc treatment protocol in the Inner Classic  that will 
+solve a particular clinical conundrum. 
+In the literature from the Song d ynasty (960–1279) onwards, however, we fnd precisely 
+this kind of clinical detail. We see how the core ideas presented in the Inner Classic  and the 
+other seminal texts of our literature were interpreted and extrapolated upon in very concrete 
+and tangible ways. This provides us with a multiplicity of approaches adapted to address 
+a vast range of circumstances and individual presentations. The Discussion of Cold Damage 
+(Shanghan lun 傷寒論 , c. 220), a seminal treatise on the progression and treatment of febrile 
+disease, by Zhang Ji 張機 (stylename Zhongjing 仲景, 150–219) is an apt illustration of this 
+phenomenon (Chapter 8 in this volume).
+2 Although now regarded as a cornerstone of medical 
+literature of the frst few centuries of the common era, the Discussion of Cold Damage became 
+much more infuential in the Song , and virtually every clinical perspective on the text in use 
+today was developed in the Song or later.
+3 At least in terms of its clinical relevance today, the 
+Discussion of Cold Damage is a Song document. Chinese medical writings of the past thousand 
+years may be read as a multi-faceted articulation of the canonical literature in clinical practice. 
+This chapter will provide an overview of some of the most important milestones in the devel-
+opment of that body of knowledge and the circumstances that produced them. 
+Te Song dynasty 
+In recent years, the Song d ynasty has been recognised in Anglophone scholarship as a 
+pivotal period in the development of Chinese medicine (Hinrichs 2003; Leung 2003a, b; 
+DOI: 10.4324/9780203740262-11 146 
+===== PAGE 2 =====
+Developments in Chinese medicine
+  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+  
+Scheid 2007; Goldschmidt 2009). By then, the foundations of medical theory were well 
+established, and as Asaf Goldschmidt has observed, it was ‘during the Song that all the 
+intellectual habits of what is now thought of as Chinese medicine assumed their mature 
+form’ (Goldschmidt 2009: 2). Defnitive versions of canonical texts were printed, cosmolog -
+ical and physiological principles were more thoroughly integrated into pharmacology and 
+‘medicine’ (yi 醫) – defned as the administration of drug therapies and, to a lesser extent, 
+acupuncture – eclipsed other ritualistic and shamanistic forms of healing (Hinrichs 2003). 
+The number of medicinals recorded in the materia medica doubled during the Northern Song 
+(960–1127) (Shang Zhijun 2002: 34–57). During the Song, the role of the scholar-physician 
+also emerged as a defnitive social feature, and medical practice gained an unprecedented 
+level of legitimacy. A number of factors were responsible for these changes. 
+Governmental oversight 
+The Song dynasty witnessed unprecedented government involvement in the regulation and 
+distribution of medicine, which was at least partially a political response to the epidemics 
+sweeping the country during this time. This, and a genuine interest in medicine among im -
+perial rulers, prompted the development of ofcial prescription references such as the Formu -
+lary of the Pharmacy Service for Benefting the People in an Era of Great Peace (Taiping huimin hejiju 
+fang 太平惠民和劑局方 , 1107),
+4 which were published and distributed by the court. Such 
+formularies contained fxed prescriptions designed to treat specifc disorders, making them 
+accessible to the masses, which had the efect of radically reducing the demand for specialists. 
+Governmental involvement in medical practice gradually extended to the credentialling 
+of practitioners and the production of texts under the Bureau for Revising Medical Texts 
+(jiaozheng yishu ju 校正醫書局 ) (Liang Jun 1995: 97–8). Its interest in both practitioners and 
+the manner in which medicine was practised ultimately gave rise to governmentally run 
+dispensaries, the frst of which was established in 1076. 
+Te fowering of Cold Damage 
+In terms of clinical practice, the fowering of interest in Discussion of Cold Damage was among 
+the most signifcant theoretical developments of the Song. Again, at least partially in response 
+to the epidemics that plagued this time, the Bureau for Revising Medical Texts published ten 
+primary medical texts. These included an authoritative edition of the Discussion of Cold Dam -
+age, and two other texts concerning Cold Damage theory, as well as three more texts directly 
+relevant to it, testifying to the infuence of this approach to treatment (Goldschmidt 2009: 
+91–5). During this time, concerns with Cold Damage diseases ultimately overshadowed 
+interests in other medical pursuits. Texts such as Pang Anshi’s 龐安時  (stylename Anchang 
+安常, 1042–99) General Discussion of the Disease of Cold Damage (Shanghan zongbing lun傷寒總病論 , 
+1100) and Zhu Gong’s 朱肱 (stylename Yizhong 翼中 , f. 1088) Lifesaving Book that Categorises 
+the Presentations of Cold Damage (Shanghan leizheng huoren shu 傷寒類證活人書 , 1108) both sys-
+tematised Cold Damage theory and made it more easily accessible for laypeople. 
+Perhaps the most signifcant Cold Damage text of this period was Cheng Wuji’s 成無己 
+(1066–1156) Annotation and Explanation of the Discussion of Cold Damage ( Zhujie shanghan lun
+注解傷寒論 , 1144). Cheng explained the course of Cold Damage disorders in the context of 
+the classical doctrines linking the channels and viscera.
+5 This innovative synthesis became 
+part of a medical orthodoxy that physicians in subsequent eras would actively attempt to 
+dismantle (Goldschmidt 2009: 169; Scheid 2013). 
+147 
+===== PAGE 3 =====
+Charles Chace
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Scholarly medicine 
+Prodigious population growth during the Song created a need for jobs among the educated 
+(Hymes 1987; Scheid 2007: 37). Beginning in the Northern Song, governmental endorse -
+ment of medicine as a profession helped to legitimise medical practice and produced career 
+opportunities for the gentry (Boyanton 2015: 171–220). Fan Zhongyan’s 范仲淹 (stylename 
+Xiwen 希文 , 989–1052) admonition that ‘[if] one cannot become a good minister one 
+[should strive] to become a good physician’ is indicative of the new-found status of medicine 
+during this time (Scheid 2007: 41). By the Southern Song (1127–1279), literati were taking 
+up the profession in large numbers and physicians began to be regarded as elite exponents of 
+cultivated ideas (Ibid.: 35). 
+Book printing facilitated intellectual exchange both among physicians and between phy -
+sicians and scholars, making medicine an increasingly scholarly pursuit. In this environment, 
+Daoist and Buddhist ideals also became deeply integrated into Confucian thought. An im -
+portant characteristic of this Neo-Confucianism was the principle of personal cultivation 
+through the investigation of things ( gewu 格物 ), and the place of humanity in them, for the 
+betterment of society as a whole.
+6 Scholars steeped in this sensibility who also had an interest 
+in medicine came to be referred to as ruyi 儒醫 (scholar-physicians). In the Southern Song 
+(1127–1279), the term came to denote not only the degree of a physician’s intellectual un -
+derstanding but also his own level of psychological and spiritual cultivation, and embodied 
+the conviction that both of these qualities were essential to efective medical practice (Ibid.: 
+39–41). 
+Jin and Yuan dynasties 
+The elite ranks of scholarly physicians, or at least those claiming that status, blossomed in the 
+Jin 金 and Yuan 元 dynasties (1115–1368). Their interest in adapting the classical medical 
+literature to contemporary medical concerns was a driving force in the evolution of Chinese 
+medicine. Diagnostic focus shifted away from single pathogenic factors such as wind or cold, 
+and descriptions of specifc medical disorders ( bing 病), and towards a new focus on the dy -
+namics of qi  transformation and how the breakdown of this transformation expressed itself 
+in distinctive presentations ( zheng 證; Ibid.: 43). 
+Scholar-physicians of the Jin-Yuan period further challenged the Song orientation towards 
+established formulæ and globally defned disorders by focusing on local disease processes 
+(Boyanton 2015: 164 f.). Although government involvement in healthcare fostered greater 
+access to medical information among the general population in the form of treatment manu -
+als, and even previously secret hereditary prescriptions were made public, scholar- physicians 
+directly attacked these formulary approaches as a deeply degraded form of medicine. From 
+their perspective, administering fxed formulæ based on identifcation of a patient’s disease 
+was insufcient. Prescriptions should be carefully tailored to the patient and the patient’s 
+relationship to their immediate environment. 
+Systematisation in diagnostics and pharmacology 
+The organisation and systematisation of diagnostic parameters that had begun in the Later 
+Han with the Inner Classic  assumed a more mature form in the Jin-Yuan. The paediatri -
+cian Qianyi 錢乙  (stylename Zhongyang 仲陽, 1032–1113) and Kou Zongshi 寇宗奭  (f. 
+1111–1117) had already begun to articulate the eight necessities ( bayao 八要) for efective 
+148 
+===== PAGE 4 =====
+Developments in Chinese medicine
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+treatment. Synthesising these parameters, Zhang Yuansu 張元 素 (stylename Jiegu 潔古 , f. 
+1151–1254) systematised pattern presentation of the viscera and receptacles ( zangfu 臟腑) 
+and articulated relationships between the viscera and receptacles with the channels and net -
+works (jingluo 經絡), and the six qi. It was Zhang Yuansu who expressed the concepts of root 
+diseases ( benbing 本病), those pathodynamics that are at the root of a problem, and branch 
+diseases ( biaobing 標病), the typically symptomatic expression of an illness. He also defned 
+what today is considered eight-principle diferentiation ( bagang 八綱 ), that any presentation 
+should be described in terms of whether it is yin  or yang, excess or defcient, hot or cold, and 
+whether it originates from inside or outside the body (Buck 2009). 
+A similar consolidation of concepts occurred in the feld of pharmacology where there 
+was an ongoing efort to describe drugs in a more comprehensive and coherent manner. 
+Wang Haogu’s 王好古 (stylename Haizang 海藏 , thirteenth century) Materia Medica for De -
+coctions (Tangye bencao 湯液本草 , 1298) was especially signifcant in its articulation of a phar -
+macology of systematic correspondence, presenting a system for treating specifc conditions 
+based on drug qualities derived from Five Phase (or Five Agent) theory (Unschuld 1986: 
+111).
+7 This trend culminated in Zhu Zhenheng’s 朱震亨 (stylename Danxi 丹溪 , 1281–1358) 
+identifcation of multiple primary drug qualities that rationalised the apparent contradictions 
+between theoretical and empirical efects of drugs (Ibid.: 187). 
+Te four freat masters of the Jin-Yuan 
+Of the many scholar-physicians active during the Jin-Yuan period, four in particular advanced 
+a sequence of related ideas that signifcantly contributed to the development of medical the -
+ory during this time. These were Liu Wansu 劉 完素 (stylename Shouzhen 守真  c. 1120– 
+1200), Zhang Congzheng 張從正 (stylename Zihe 子和, 1156–1228), Li Gao 李杲 (stylename 
+Dongyuan 東垣, 1180–1251) and Zhu Zhenheng 朱震亨 (stylename Danxi 丹溪 , 1281–1358). 
+Liu Wanusu 
+For Liu Wansu, all pathogenic factors, regardless of their origin, eventually manifest as 
+pathogenic fre. Therefore, cool and cold medicinals are indicated to treat nearly all conditions. 
+One of Liu’s characteristic strategies was to drain heart fre while nourishing kidney water, an 
+idea that would be developed by subsequent thinkers, most notably Zhu Zhenheng. Framing this 
+core idea was a belief that diagnosis and treatment must take into account environmental and 
+climatic conditions, as well as the patient’s constitutional predispositions. This would become a 
+defning perspective of all four masters of the Jin-Yuan and a general principle of the time. 
+Zhang Congzheng 
+Like Liu Wansu, Zhang Congzheng’s primary focus was on the accumulation of exogenous 
+pathogenic factors and improper food intake, and he downplayed the role of internally gen -
+erated pathologies due to the emotions or constitutional weakness. Zhang’s fundamental 
+approach involved the removal of these pathogens through diaphoresis, emesis and purga -
+tion, expanding the defnition of these strategies as originally outlined in Discussion of Cold 
+Damage and employing a wider range of therapies that included acupuncture, moxibustion, 
+massage and exercise. Even more vigorously averse to tonifying medicinals than Liu Wansu, 
+Zhang Congzheng preferred to employ dietary stratagems rather than pharmaceuticals when 
+supplementation was indicated. 
+149 
+===== PAGE 5 =====
+Charles Chace
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Li Gao 
+Li founded his approach on the Inner Classic’s assertion that the spleen and stomach were the 
+basis of the body’s qi , and a belief that they could be compromised due to improper food 
+intake, overexertion and emotional disorders (Welden 2015). Although Xu Shuwei 許叔微 
+(stylename Heke 知可 , 1079–1154) had already emphasised the importance of the stomach 
+during the Song, Li made this insight the centrepiece of his own thinking while integrating 
+Zhang Yuansu’s discrimination of viscera and receptacle syndrome patterns. 
+Where Liu Wansu and Zhang Congzheng’s overall approach to therapy stressed the elim-
+ination of excess pathogenic factors, those of Li Gao and Zhu Zhenheng focused more on re-
+plenishing metabolic insufciencies. Later scholars came to believe that this shift in emphasis 
+refected the deteriorating political circumstances during the latter part of Jin-Yuan period. 
+According to Xu Dachun 徐大椿  (stylename Lingtai 靈胎, 1693–1771): 
+When in the fnal years of the Song d ynasty the Chinese territory fell into the hands of 
+the enemy [referring to the northerners], the head of state was weak and his ministers 
+failed to show any strength. At the same time, Zhang Yuansu, Li Gao, and others, in 
+establishing their prescriptions, emphasised supplementation of the central palace. 
+(Xu Lingtai yixue quanshu: 140)
+8 
+A weak central government was analogous to weak digestive function. Strengthening the cen-
+tral government/digestion was the key to both political and individual health (Weldon 2015). 
+The spleen stomach current became one of the most infuential perspectives in subse -
+quent Chinese medical history. Li Gao’s most mature work, his Discussion of the Spleen and 
+Stomach (Piwei lun 脾胃論 , thirteenth century), was very infuential on later writers. 9 Wang 
+Haogu, Li Shizhen, Ye Gui (see below) and others all acknowledged the centrality of the 
+spleen and stomach even as they incorporated a broader range of concepts into their medical 
+understanding.
+10 
+Zhu Zhenheng 
+The last of the four great masters, Zhu Zhenheng is generally regarded as representing 
+the pinnacle of Jin-Yuan medical thought. His ideas refect a synthesis of previous medical 
+currents produced by a consummately cultivated philosopher-physician. Charlotte Furth 
+has detailed the infuence of Zhu’s thought and practice of Zhu Xi’s 朱熹  (1130–1200) 
+Neo-Confucian philosophy of ‘investigating things and extending knowledge’ ( gewu zhizhi
+格物致知 ),
+11 a realist philosophical approach to the external, physical world that sought to 
+understand its basic principles and humanity’s role in them (Furth 2006). Zhu Zhenheng 
+was a prominent exemplar of this principle, which helped to propel and legitimise medical 
+innovation from the Song to the end of the imperial period (Unschuld 1985: 195–6). As the 
+most outspoken critic of formula books and the simplifed Cold Damage therapeutics of his 
+time, Zhu Zhenheng was an icon of the scholar-physician’s intellectual agenda. 
+Zhu Zhenheng’s reading of the three preceding Jin-Yuan currents led him to posit that 
+the faring of ‘ministerial fre’ ( xianghuo 相火 ), the fery aspect of qi  that actually drove the 
+physiological activity of the body, was the central cause of disease (Simonis 2010). Based on 
+his reading of the Inner Classic, he understood ministerial fre as an active yang  that gave rise 
+to human desires and physiological functions. When ministerial fre became pathological, it 
+was due to excessive longings and emotions, particularly of a sexual nature, impairing the 
+150 
+===== PAGE 6 =====
+Developments in Chinese medicine
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+yin and blood. The nourishment of kidney yin  was the primary means of controlling the 
+ensuing symptoms of fre. This strategy has its basis in the Five Phase paradigm where water 
+is the primary means of mitigating fre along the control ( ke 克) cycle. Notwithstanding his 
+emphasis on yin -nourishing therapies, Zhu regarded the support of the spleen and stomach 
+as a central component of an overall yin  nourishing strategy. 12 
+Zhu Zhenheng’s most important ideas are collected in Danxi’s Essential Methods (Danxi 
+xinfa practitioner of the lowest rank. 丹溪心法 , 1347), and in a companion volume, Extra Treatises 
+based on Investigation and Inquiry (Gezhi yulun 格致餘論 , 1347), the title of which refects his 
+Neo-Confucian  orientation.13 
+Te Ming dynasty 
+By the Ming d ynasty (1368–1644), all famous doctors were considered scholar-physicians, 
+though the profession was still so poorly regulated that it was quite easy to make the claim 
+that one was a physician, and so it remained a ‘Minor Way’ (xiao dao 小道) (Scheid 2007:45). 
+Nevertheless, medicine had become a well-established means of social advancement. The 
+family history of Li Shizhen 李 時珍 (1518–93), among the most iconic fgures in Chinese 
+medical history, is emblematic of such a progression. Li’s grandfather was an itinerant bell 
+doctor (lingyi 鈴醫), a medical practitioner of the lowest rank. Li’s father, Li Yuechi 李月池 , 
+passed the central state exams, elevating the family’s social status considerably, though he 
+remained a physician who became famous for his success in treating patients during a local 
+epidemic.
+14 These improved circumstances aforded Li Shizhen himself access to the world 
+of the literati and court physicians making an especially broad range of medical information 
+available to him. 
+Consolidation of medical knowledge 
+Li Shizhen 
+Li Shizhen 李 時珍 (stylename Binhu 瀕湖 , 1518–93) is among the most iconic fgures in 
+Chinese medical history. Each of his three surviving works constituted a defnitive contri -
+bution to Chinese medicine, particularly with regard to the systematisation of knowledge 
+within its specifc feld. Paul Unschuld describes Li’s Comprehensive Materia Medica  (Bencao 
+gangmu 本草綱目 , 1578) as the ‘qualitative and quantitative climax in the development of the 
+materia medica literature, expanding the genre from a work on drugs to a comprehensive and 
+detailed encyclopaedia of medicine, pharmaceutics, minerology, metallurgy, botany and zo -
+ology’ (Unschuld 1986: 163). Carla Nappi articulates Li Shizhen as a naturalist, and the Com-
+prehensive Materia Medica  as a seminal work of naturalist science (Nappi 2009). This magnum 
+opus refects a comprehensive familiarity with the medical literature and drug use through -
+out China at that time. In fact, the primary criticism of the work at the time of its publication 
+was its very size, which made it unwieldy and expensive. The organisation of the book fur -
+ther refned the existing classifcation systems of the materia medica literature. Its title alludes 
+to Zhu Xi’s Comprehensive Mirror to Aid in Government (Zizhi tongqian gangmu 資治通鑑綱目 ), 
+refecting Li’s Neo-Confucian sensibilities (Unschuld 1986: 151). Li’s work is divided into 
+individual monographs called gang 綱 (mainstays) and the criteria for the internal arrange -
+ment within the monographs are referred to as mu 目 (a hierarchical catalogue).
+15 Li’s works 
+on pulse diagnosis, Pulse Studies of the Lakeside Master ( Binhu maixue 瀕湖脈學 , 1564) and on 
+151 
+===== PAGE 7 =====
+Charles Chace
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+the eight Extraordinary Vessels, Exposition on the Eight Extraordinary Vessels ( Qijing bamai kao
+奇經八脈考 , 1577), have been similarly infuential. 16 
+Li’s Pulse Studies of the Lakeside Master organised and codifed pulse diagnosis into the 
+twenty-seven pulses that are the basis for Chinese medical pulse diagnosis today .17 Finally, his 
+Exposition on the Eight Extraordinary Vessels synthesised and extrapolated upon previous ideas 
+concerning the Extraordinary Vessels, particularly with regard to herbal medicine. 18 Li’s inte-
+gration of Daoist inner elixir (neidan 内丹) principles of internal cultivation into medical prac-
+tice in this text is representative of the widespread interest in such practices during the Ming.19 
+Zhang Jiebin 
+Zhang Jiebin 張介賓 (stylename Jingyue 景岳, f. 1562–1639) was an erstwhile soldier who 
+developed the use of military terminology in medical treatment. He presented a perspective 
+that was a counterpoint to the premise of Liu Wansu and Zhu Zhenheng that an excess of 
+yang was the primary source of illness. For Zhang, yang  was qi and yin was form, and since 
+one could never have too much qi , one could never have too much yang . He is remembered 
+as the foremost developer of the Life Gate ( mingmen 命門 ) principle of thought and practice. 
+He understood the Life Gate to be the manifestation of primordial yin  and yang (yuan yinyang
+元陰陽 ), residing between the kidneys.
+20 As such, he stressed the enrichment of genuine or 
+true yin (zhen yin真陰 ). Although the Life Gate was the repository of former heaven (xiantian
+先天 ) yin and yang endowed before birth, he recommended its replenishment through the 
+latter heaven (or postnatal) essence ( houtian jing 後天精 ) provided by the nourishment and 
+digestive processes of the spleen and stomach. 21 
+Regardless of whether it was the True Yin and True Yang (zhenyang 真陽 ) that appeared 
+to be compromised, for Zhang Jiebin the problem was invariably rooted in a debilitation of 
+the true yin . He, therefore, prioritised the nourishment of postnatal essence ( jing 精) and 
+blood (xue 血) in his treatment strategies, often through the support of spleen and stomach 
+function. In this, his approach to treatment refects a synthesis of spleen-, stomach- and 
+yin-nourishing theories that fowered during the Jin-Yuan period. Zhang’s Categorisation of 
+the Classic  (Leijing 類經, 1624) is among the most coherent, and systematically organised of 
+the extant commentaries on the Inner Classic . It and Zhang’s other most important writings 
+are anthologised in his Complete Works of Jingyue  ( Jingyue quanshu 景岳全書 , 1624). 
+Qing dynasty 
+The Qing (清) dynasty (1644–1911) was marked by a political and ideological conservatism 
+that spawned the evidential scholarship ( kaozheng 考證) movement, a re-examination of clas-
+sical sources based on the principle that they were a more reliable basis for the resolution of 
+the problems of the present than more modern ideas (Unschuld 1985: 193; Scheid 2007: 48). 
+Its proponents argued that these earlier texts had not yet been corrupted by the Daoist and 
+Buddhist principles characteristic of Song Neo-Confucianism. The introduction of Western 
+science during this time almost certainly fuelled the evidential scholarship movement by 
+providing multiple models of enquiry that in many cases had much greater predictive accu -
+racy than the theory-laden structures of the past. In medicine, this played out as a search for 
+the true understanding of classical sources, a quest that was tethered to the idea that wisdom 
+must be uncovered through observation coupled with introspection. 
+Those involved in evidential scholarship not only directed medical interest away from the 
+sage writings of antiquity, but also focused more on the experience of individual physicians 
+152 
+===== PAGE 8 =====
+Developments in Chinese medicine
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+in their local environs. This trend centred on physicians in Jiangnan, particularly in and 
+around Suzhou, fostering the invention of a southern medical tradition that was uniquely 
+suited to the local qi  (tuqi 土氣), which endowed the local inhabitants with a weaker ( rouruo
+柔弱) constitution than their northern counterparts (Hanson 1998). 
+Once again, new approaches to medical learning fostered a plurality of ideas tied to indi -
+vidual scholars. Yet, because none of these currents had become so predominant as to achieve 
+the force of doctrine, they were ultimately identifed as part of the problem (Unschuld 1985: 
+197). This plurality inspired eforts in the community of writers to redefne medical ortho -
+doxy in texts such as the Essential Readings from the [Orthodox] Medical Lineage (Yizong bidu
+醫宗必讀 , 1637), and Golden Mirror of the Medical Lineage ( Yizong jinjian 醫宗金鑑 , 1739–42), 
+which strove to identify medicine in terms of the canonical literature.
+22 The vast range of 
+individual approaches to learning was nevertheless legitimised by its representation in the 
+state-sponsored anthology of Chinese knowledge, the Complete Collection of the Four Treasuries 
+(Siku quanshu 四庫全書 , 1773). A number of physicians, however, distinguished themselves as 
+synthesisers of these two intellectual trends. 
+Synthesis 
+Ye Gui 
+Ye Gui 葉桂 (stylename Tianshi 天士 , 1667–1746) was the most infuential physician of the 
+Qing period (1644–1912). In addition to his major contributions to the feld of Warm Disease 
+theory and practice, Ye was renowned as a virtuoso synthesiser and integrator of virtually 
+all of the medical theories that preceded him, masterfully adapting a vast array of approaches 
+and techniques to the demands of the moment. Ye himself is credited with writing very little 
+and the clinical orientation of Ye’s contribution is evident in the case records attributed to 
+him that were collected by his students. 
+Ye’s case records, particularly his Case Record Guide to Clinical Presentation (Linzheng zhinan 
+yi’an臨証指南醫案 , 1746), became immensely popular after his death. Despite the fact that 
+he was not of the scholarly class, Ye’s own family strove to position him not as an innovator 
+but as an exemplar of the scholar-physicians steeped in the literature of antiquity (Hanson 
+1997: 248). 
+Among the most signifcant of Ye’s contributions to Chinese medical practice was his 
+explicit emphasis on treatment strategies ( fa 法) that could be fexibly adjusted, rather than 
+on fxed formulæ. This privileging of methodology over diagnosis pioneered by Yu Chang 
+喻昌 (stylename Jiayan 嘉言, 1585–1664) was the logical extension of the scholarly con -
+cern with specifc disease dynamics presenting in individual patients. Although it required 
+a comprehensive understanding of the full spectrum of Chinese medical theories, it allowed 
+for carefully tailored herbal prescribing. Despite this more generalised infuence on medical 
+practice, Ye Gui is best known in the West for his role in the development of Warm Disease 
+theory. 
+Warm Disease 
+The role of heat as a cause of infectious disease had been a topic of discussion since the term 
+Warm Disease ( wenbing 溫病) was frst mentioned in the Inner Classic  as either a range of 
+acute-onset febrile disorders or as a specifc type of Cold Damage. Building on Liu Wansu’s 
+emphasis on fre as a more predominant pathogenic factor than cold, Wu Youxing 吳 有性
+153 
+===== PAGE 9 =====
+Charles Chace
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+(stylename Youke 又可 , 1582–1652) posited that febrile epidemics ( wenyi 溫疫) were due to 
+pestilential qi (liqi 癘氣) that was hot in nature, establishing the conceptual foundation for 
+Warm Disease therapeutics. From the seventeenth through the nineteenth centuries, Warm 
+Disease theory developed as a methodology that was distinct from Cold Damage therapeu -
+tics (Hanson 2013: 204). Although the Warm Disease current is commonly positioned as a 
+response to the failures of Cold Damage therapeutics, the concept of Warm Disease is both 
+historically and conceptually a logical extension of the Cold Damage current, the principles 
+of which are grounded in the Discussion on Cold Damage (Scheid 2013).
+23 Similarly, Ye’s de-
+velopment of new strategies for treating Warm Disease was undeniably innovative, and yet 
+it is clear that his thinking was frmly rooted in the classically oriented sensibilities of the 
+scholar-physician. 
+The one text that Ye Gui may well have written himself, the Discourse on Warm Disease 
+(Wenre lun 溫熱論 , 1792), systematised the progression of pathogenic heat into the body 
+through four layers: defensive, qi , nutritive and blood. Within this theoretical structure, the 
+text primarily concerned itself with the practicalities of diferential diagnosis and treatment 
+strategy. It is clearly written as a complement to the Discussion on Cold Damage and uses many 
+of its ideas and therapies.
+24 A signifcant portion of Ye’s Case Records Based on Clinical Presen -
+tation is devoted to the treatment of Warm Disease patterns, providing concrete examples of 
+how Ye made use of the therapeutic framework he laid out in his Discourse . 
+Xue Xue 
+Ye’s contemporary rival, the scholar and poet Xue Xue 薛雪 (stylename Shengbai 生白 , 
+1681–1770), posited a complementary approach to the four-layer model of disease progres -
+sion that would form the other pillar of the theoretical framework of Warm Disease. Xue is 
+credited with most thoroughly developing the Three Burner ( sanjiao 三焦 ) model of illness 
+that divided the location of pathogenic factors into upper, middle and lower parts of the 
+body, roughly the thorax, epigastrium and lower abdomen. This model was particularly 
+suited to damp heat ( shire 濕熱) patterns, which he believed were not only diferent from 
+cold patterns but also from Warm Diseases caused by heat alone (Liu 2001: 21). Thus, Xue’s 
+treatment approach refects an abiding concern with the relative predominance of dampness 
+or heat as it presents in a given location or warmer (Burner) in the body. Such patterns were 
+then treated with particular attention to the stomach and spleen, which he believed were es -
+pecially vulnerable to attack by damp heat (Qiu Peiran 1984: 278). Xue published a number 
+of works concerning poetry and medicine. His most signifcant contribution to the Warm 
+Disease current is his Folio on Damp Heat Diseases ( Shirebing pian 濕熱病篇 , 1852) edited by 
+Wang Shixiong 王士雄 (stylename Mengying 孟英,  1808–67).
+25 
+Wu Tang 
+The person who brought the disparate streams of Warm Disease theory together was Wu 
+Tang 吳瑭 (stylename Jutong 鞠通, 1758–1836). Building upon and substantially redefning 
+the works of preceding Warm Disease physicians, Wu combined Xue Xue’s Three Burner 
+model dividing the torso into three regions, with Ye Gui’s four-sector ( sifen 四分) model 
+identifying the relative depth of a pathogenic factor. In the process, he also linked each of 
+the viscera and receptacles to a particular Burner, producing a fnely detailed system for 
+locating the progression of pathogenic heat within the body (Liu 2005: 23). His System -
+atic Diferentiation of Warm Disease ( Wenbing tiaobian 溫病條辨 , 1798) has been immensely 
+154 
+===== PAGE 10 =====
+Developments in Chinese medicine
+  
+ 
+  
+   
+  
+    
+ 
+ 
+    
+  
+  
+  
+  
+ 
+  
+ 
+infuential in popularising the theory and treatment of Warm Disease. In many cases, the 
+formulæ contained in this text are clearly extrapolations on the treatment strategies and herb 
+combinations developed by Ye Gui. Wu was especially concerned with the loss of essence 
+and believed that ‘the words loss of storage of essence should be looked at fexibly and not 
+explained exclusively an overindulgence in sex. Rather it is the case that all human activity 
+can agitate and disturb the essence’ (Liu 2001: 23).
+26 
+Conclusion 
+Even as a basis for critique, canonical literature has remained the impetus for the most sig -
+nifcant developments in Chinese medical thinking over the last millennium. Attempts to 
+understand such texts have produced a dynamic tension between the comparatively liberal 
+or expansive interpretations exemplifed by the four great masters of the Jin-Yuan, and rela -
+tively conservative or restrictive readings such as those of the Qing philologists. The creative 
+interplay between these two impulses is such that one could not have occurred without the 
+other. Each interpretation has produced a concrete and pragmatic response to the principles 
+presented in the canonical literature. In this, Chinese medicine’s perennial return to the 
+classics may be best understood less as the search for an overarching truth than as an ongo -
+ing response to the challenge of developing efective therapies in the face of ever-changing 
+circumstances. 
+Notes 
+1 Sadly, Charles ‘Chip’ Chace passed away while this volume was in production. Beloved by gen -
+erations of Chinese medicine practitioners, Chip made a lasting impact in his published work, 
+his training of many students, his kind humour and generous personality. It is ftting to share his 
+chapter on the legacy of the Jin-Yuan masters, a legacy in which he himself took part. The editors 
+wish to thank Volker Scheid for overseeing the fnal revisions. 
+2 Zhang Ji originally composed a single treatise known as the Discourse on Cold Damage and Miscella -
+neous Diseases . The earliest editor of this document, Wang Shuhe ( 王叔和 , 201-280), subsequently 
+divided the text into two parts, the Discourse on Cold Damage addressing infectious disease and 
+the Essential Prescriptions from the Golden Cabinet  ( Jingui yaolüe 金匱要略 ) concerned with internal 
+medicine. They have been considered as two separate texts ever since. 
+3 The modern clinician Huang Huang 黃煌 is among the most infuential advocates of shanghan-based 
+prescribing in both Asia and the West today. His approach is likely to be far more comprehensible 
+to later shanghan  thinkers than to Zhang Ji himself (Huang 2007). For an examination of the evo -
+lution of shanghan thinking, see Scheid (2013). For an overview of the range of clinical applications 
+to the Cold Damage literature, see Chen and Zhang (1998). The best translation of the Discussion 
+of Cold Damage to date is by Craig Mitchell, Feng Ye and Nigel Wiseman (Mitchell, Feng and 
+Wiseman 1999). 
+4 Taiping huimin heji ju fang太平惠民和劑局方 (Formulary of the Pharmacy Service for Benefting the People 
+in the Taiping Era) 1148, Liu Jingyuan 劉景源 (ed.) (1985), Beijing: Renmin weisheng chubanshe. 
+5 Ed’s note: See Chapter 1 in this volume. 
+6 For a historical survey of the shifting concept of gewu , see Elman (2005: 5–9). 
+7 Ed: On the Five Phases (or Five Agents) ( wuxing 五行) (see Introduction and Chapter 1 in this 
+volume). 
+8 For a translation of Xu Dachun’s Yixue yuanliu lun 醫學源流論 (Discourse on the Origin and De -
+velopment of Medicine, 1764), see Unschuld (1990). 
+9 The Treatise on the Spleen and Stomach appeared relatively early in the wave of pre-modern Chi -
+nese medical texts translated into English beginning in the 1980s. Its appreciation of dietary and 
+environmental aetiological factors, and its approach to modelling complex disease presentations 
+have made it especially infuential in the transmission of Chinese medical ideas into the West. Li’s 
+notion of ‘yin fre’ ( yinhuo 陰火) arising from a spleen stomach debility at the centre of a host of 
+155 
+===== PAGE 11 =====
+Charles Chace
+   
+ 
+   
+ 
+  
+  
+  
+  
+    
+  
+  
+  
+  
+   
+  
+  
+  
+   
+  
+      
+  
+  
+   
+ 
+other pathologies has been a popular model of pathophysiology for a variety of modern complex 
+disease presentations, including autoimmune diseases. See Li and Flaws (2004). 
+10 For Wang Haogu’s perspectives on the spleen and stomach, see Wang Haogu yixue quanshu 王好古
+醫學全書 (2004: 352f.). For Li Shizhen’s perspectives on the spleen and stomach, see Wang Xia -
+oping (2003). For a discussion of Li Gao’s approach to gynaecology, see Chace (2001). 
+11 For an overview of the concept of gewu zhizhi, and the debates surrounding it, see Andrew Plaks’ 
+entry in the RoutledgeCurzon Encyclopedia of Confucianism : ‘Gewu zhizhi (Putting all things into the 
+correct conceptual grid, extending to the utmost one’s range of comprehension)’ (Yao 2003, vol. 
+1: 226–7). On the infuence of gewu zhizhi in pharmacology, see Métailié (2001). 
+12 For a further discussion of Zhu Zhenheng’s intellectual legacy, see Furth (2006). For more on Zhu 
+Zhenheng’s approach to diseases of the stomach and spleen, see Ni and Damone (1992). 
+13 Both texts have been translated into English. See Yang (1993, 1994). For further discussion of 
+scholar-physicians in the Jin-Yuan period, see Chen (1997); Ding et al. (1999); Leung (2001, 2003a, 
+2003b). 
+14 For an examination of itinerant doctors in Chinese medical history, see Qiu (2008); Unschuld 
+(1979). 
+15 For an English language translation of the Comprehensive Materia Medica , see Luo (2003). 
+16 For a comprehensive collection of Li Shizhen’s works, see Li Shizhen yixue quanshu 李时珍医学全书 
+(1999). For a biographical sketch of Li Shizhen, see Chace and Shima (2010: 11–18); Unschuld 
+(1986: 145–8). For further discussion of Li Shizhen’s Comprehensive Materia Medica , see Métailié 
+(2001, 2010); Nappi (2009b). 
+17 For an excellent discussion of Li Shizhen’s pulse diagnosis, see Li, Morris, Li and Mondot (2011). 
+18 For a translation of Li’s Exposition on the Eight Extraordinary Vessels , see Chace and Shima (2010). 
+19 Li’s organisation of this text, pieced together as it is from earlier writings, is also emblematic of 
+a distinctive style of medical writing that developed during this time. For an examination of the 
+infuence of this syncretic style of medical writing on Ming d ynasty medicine, see Simonis (2010). 
+On inner alchemy, see Chapters 29 and 30 in this volume. 
+20 On these physiological terms and their relationship to inner a lchemy, see Chapters 29 and 30 in 
+this volume. 
+21 Houtian jing 後天精 is often rendered in English as ‘postnatal essence’, as it is produced from im -
+bibed substances such as food, concentrated into blood, which is further concentrated into essence. 
+For a detailed discussion of Zhang Jiebin’s physiology of mingmen, and its importance for under -
+standings of sexuality and reproduction, see Wu (2010, ch. 3). 
+22 For a discussion of the infuence of the Golden Mirror of Medicine in late imperial China, see Hanson 
+(2003). 
+23 For a comprehensive collection of case records refecting the synthesis of these two currents in 
+clinical practice, see Luo et al . (2004). 
+24 For an English language translation and commentary on the Discourse on Warm Disease , see Van 
+Wart and Chace (2006). 
+25 The text is also known as the Itemised Diferentiation of Damp Heat ( Shire tiaobian 濕熱條辨 ). 
+26 An English language translation of Systematic Diferentiation of Warm Disease in digital format is 
+forthcoming. See Boyanton, Cm-db.com (Chinese Medicine Database). 
+Bibliography 
+Pre-modern sources 
+Bencao gangmu 本草綱目 (Comprehensive Materia Medica) 1578, Li Shizhen 李時珍 , Liu Hengru 刘衡如 
+and Liu Shanyong 刘山永 (eds) (2013), Beijing: Huaxia chubanshe. 
+Bencao shiyi 本草拾遺 (Gleanings of Materia Medica ) 739, Chen Zangqi 陳藏器 , Shang Zhijun 尚志钧 
+(ed.) (2002), Hefei: Anhui kexue jishu chubanshe. 
+Danxi xinfa 丹溪心法 (Danxi’s Essential Methods) 1347, Zhu Zhenheng 朱震亨 (1997), Shenyang: 
+Liaoning kexue jishu chubanshe. 
+Gezhi yulun格致餘論 (Extra Treatises based on Investigation and Inquiry), 1347, Zhu Zhenheng朱震亨 
+(2018), Beijing: Zhongguo yiyao keji chubanshe. 
+Huangdi neijing 黃帝內經 (Yellow Emperor’s Inner Classic), Eastern Han 東漢 , 25–225 CE), Wang 
+Bing 王冰 (anno. and ed. in 762) (2003), Beijing: Zhongyi guji chubanshe. 
+156 
+===== PAGE 12 =====
+Developments in Chinese medicine
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+ 
+ 
+      
+ 
+ 
+  
+  
+ 
+ 
+ 
+ 
+  
+  
+  
+     
+  
+    
+Jinkui yaolüe 金匱要略 (Essential Prescriptions from the Golden Cabinet), c. 220, Zhang Ji 張機 (sty -
+lename Zhongjing 仲景) (2016), Beijing: Zhongguo yiyao keji chubanshe. 
+Leijing 類經 (Categorisation of the Classic) 1624, Zhang Jingyue 張 景岳 (2011), Beijing: Zhongguo 
+yiyao keji chubanshe. 
+Li Shizhen yixue quanshu 李时珍医学全书 (The Complete Medical Writings of Li Shizhen), Liu Chan -
+ghua 柳长华 (ed.) (1999), Beijing: Zhongguo zhongyiyao chubanshe. 
+Ming Qing mingyi quanshu dacheng 明清名醫全書大成 (A Complete Compendium of the Medical Writ -
+ings of Famous Physicians in the Ming and Qing Dynasties), Hu Guoju 胡國巨 et al. (eds) (1999), 
+Beijing: Zhongguo zhongyiyao chubanshe. 
+Piwei lun 脾胃論 (Discussion of the Spleen and Stomach) 1249, Li Gao李杲 (2007), Beijing: Zhongguo 
+zhongyiyao chubanshe. 
+Qijing bamai kao 奇經八脈考 (Exposition on the Eight Extraordinary Vessels) 1577, in Liu Changhua
+柳长华 (ed.) (1999), Li Shizhen yixue quanshu 李时珍医学全书 (The Complete Medical Writings of 
+Li Shizhen), Beijing: Zhongguo zhongyiyao chubanshe. 
+Shanghan leizheng huoren shu 傷寒類證活人書 (Lifesaving Book that Categorises the Presentations of 
+Cold Damage) 1108, Zhu Gong’s朱肱 (stylename Yizhong 翼中 , f. 1088) (2012), Beijing: Zhongyi 
+guji chubanshe. 
+Shanghan lun 傷寒論 (Discussion of Cold Damage) c. 220, Zhang Ji 張機 (stylename Zhongjing 仲景) 
+(2010), Beijing: Kexue jishu wenxian chubanshe. 
+Shanghan zongbing lun 傷寒總病論 (General Discussion of the Disease of Cold Damage) 1100, Pang 
+Anshi 龐安時 (1989), Beijing: Renmin weisheng chubanshe. 
+Taiping huimin heji ju fang 太平惠民和劑局方 (Formulary of the Pharmacy Service for Benefting the People 
+in the Taiping Era) 1148, Liu Jingyuan 劉景源 (ed.) (1985), Beijing: Renmin weisheng chubanshe. 
+Tangye bencao 湯液本草 (Materia Medica for Decoctions), 1298, Wang Haogu 王好古 (2013), Beijing: 
+Zhongguo zhongyiyao chubanshe. 
+Wang Haogu yixue quanshu 王好古醫學全書 (The Complete Medical Writings of Wang Haogu), Sheng 
+Zengxiu 盛增秀 (ed.) (2004), Beijing: Zhongguo zhongyiyao chubanshe. 
+Wenbing tiaobian 溫病條辨 (Systematic Diferentiation of Warm Disease), 1798, Wu Tang 吳塘 (2013), 
+Beijing: Zhongguo yiyao keji chubanshe. 
+Wenre lun溫熱論 (Discourse on Warm Disease), 1792, Ye Gui葉桂 (2007), Beijing: Renmin weisheng 
+chubanshe. 
+Xu Lingtai yixue quanshu 徐灵胎医学全书 (The Complete Medical Writings of Xu Lingtai), Liu Yang
+刘洋 et al. (eds) (1999), Beijing: Zhongguo zhongyiyao chubanshe. 
+Ye Tianshi yixue quanshu 叶天士医学全书 (The Complete Medical Writings of Ye Tianshi), Huang 
+Yingzhi 黄英志 (ed.) (1999), Beijing: Zhongguo zhongyiyao chubanshe. 
+Yizong bidu 醫宗必讀 (Essential Readings from the [Orthodox] Medical Lineage), 1637, Li Zhongzi 
+李中梓 (1998), Beijing: Zhongguo zhongyiyao chubanshe. 
+Yizong jinjian 醫宗金鑑 (Golden Mirror of the Medical Lineage), 1739–1742, Wu Qian 吳謙 et al . 
+(1997), Shenyang: Liaoning kexue jishu chubanshe. 
+Zhujie shanghan lun 注解傷寒論 (Annotation and Explanation of the Discussion of Cold Damage), 
+1144, Cheng Wuji’s 成無己 (1997), Shenyang: Liaoning kexue jishu chubanshe. 
+Modern sources 
+Boyanton, S. (2015) The Treatise on Cold Damage and the Formation of Literati Medicine: Social, Epidemio -
+logical, and Medical Change in China, 1000–1400 , PhD thesis, Columbia University. 
+——— (trans.) (forthcoming) Wenbing tiaobian 溫病條辨 (Systematic Diferentiation of Warm Disease) 
+by Wu Tang 吳塘 , Chinese Medicine  Database, http://cm-db.com,  accessed 8/3/2020. 
+Buck, C. (2009) ‘Who invented Bagang?’, Journal of Chinese Medicine , 91: 12–16. 
+Chace, C. (2001) ‘Li Dong-yuan’s gynecology; excerpted from the secret treasury of the orchid cham -
+ber (Lanshi mizang 蘭室秘藏 ) (Three Types of Menstrual Block and Failure of Movement)’, Open 
+Gate Acupuncture , http://www.chinesemedicinedoc.com/for-practitioners/chinese-medicine-arti -
+cles, accessed 1/7/2013. 
+Chace, C. and Shima, M. (2010) Exposition on the Eight Extraordinary Vessels , Seattle, WA: Eastland 
+Press. 
+Chen Ming 陈明 and Zhang Yinsheng 张印生 (1998) Shanghan mingyi an jingxuan 伤寒名医验案精选 
+(Selected Efcacious Cases by Famous Cold Damage Physicians), Beijing: Xueyuan chubanshe. 
+157 
+===== PAGE 13 =====
+Charles Chace
+  
+  
+ 
+ 
+ 
+   
+   
+ 
+   
+   
+ 
+  
+Chen Yuanpeng 陳元朋 (1997) Liang Song de ‘shangyi shiren’ yu ‘ru yi’: jianlun qi zai Jin Yuan de liubian
+兩宋的尚醫士人與儒 醫 ：兼 論 其 在 金元的流變 ’ (Elites who Esteemed Medicine and Literati Physi-
+cians in the Northern and Southern Song Dynasties: with a Discussion of Their Spread and Trans -
+formation During the Jin and Yuan), Taipei: Guoli Taiwan daxue chubanshe. 
+Ding Guangdi 丁光迪 et al. (1999) Jin-Yuan yixue pingxi 金元医学评析 (A Critical Assessment of Jin-
+Yuan Medicine), Beijing: Renmin weisheng chubanshe. 
+Elman, B.A. (2005) On Their Own Terms: science in China, 1550 –1900, Cambridge, MA: Harvard 
+University Press. 
+Elvin, M. and Vogel, H.U. (eds) (2010) Concepts of Nature: A Chinese-European cross-cultural perspective , 
+Leiden: Brill. 
+Furth, C. (2006) ‘The physician as philosopher of the way: Zhu Zhenheng (1282–1358)’, Harvard Jour-
+nal of Asiatic Studies , 66.2 (December): 423–59. 
+Goldschmidt, A.M. (2007) ‘Epidemics and medicine during the Northern Song dynasty: the revival 
+of cold damage disorders ( shanghan)’, T’oung Pao, 93: 53–109. 
+——— (2009) The Evolution of Chinese Medicine: Song Dynasty, 960–1200 , London; New York: 
+Routledge. 
+Hanson M.E. (1997) Inventing a Tradition in Chinese Medicine: From universal canon to local medical knowl -
+edge in south China, the seventeenth to the nineteenth century , PhD thesis, University of Pennsylvania. 
+——— (1998) ‘Robust northerners and delicate southerners: the nineteenth-century invention of a 
+southern medical tradition’, Positions: Asia Critique, 6.3: 515–50. 
+——— (2003) ‘The Golden Mirror  in the imperial court of the Qianlong emperor’, 1739–1742’, Early 
+Science and Medicine , 8: 111–47. 
+——— (2013) Speaking of Epidemics in Chinese Medicine: disease and the Geographic Imagination in Late 
+Imperial China , New York: Routledge. 
+Hinrichs, TJ (2003) The Medical Transforming of Governance and Southern Customs in Song Dynasty 
+China, PhD thesis, Harvard University. 
+Hsu, E. (ed.) (2001) Innovation in Chinese Medicine , Cambridge: Cambridge University Press. 
+Huang Huang 黄煌 (2007) Jingfang de meili 经方的魅力 (The Allure of Classical Formulas), Beijing: 
+Renmin weisheng chubanshe. 
+Hymes, R.P. (1987) ‘Not quite gentlemen? Doctors in Sung and Yuan’, Chinese Science, 8: 9–76. 
+Leung A.K.C. (Liang Qizi 梁其姿 ) (2001) Song-Yuan Ming de difang yiliao ziyuan chutan 宋元明的地方
+醫療資源初探 (An Initial Exploration into Resources for Medical Treatment in the Song, Yuan 
+and Ming Periods), Beijing: Zhongguo shehui lishi pinglun. 
+——— (2003a) ‘Medical learning from the Song to the Ming’, in P.J. Smith and R. von Glahn (eds) 
+The Song-Yuan-Ming Transition in Chinese History , Cambridge, MA: Harvard University Asia Cen -
+ter, pp. 374–98. 
+——— (2003b) ‘Medical instruction and popularization in Ming-Qing China’, Late Imperial China , 
+24: 130–52. 
+Li, G. and Flaws, B. (2004) Li Dong-yuan’s Treatise on the Spleen and Stomach: a translation of the Pi wei 
+lun, Boulder, CO: Blue Poppy Press. 
+Li, S., Morris, W.R., Li, S. and Mondot, M. (2011) Li Shi-Zhen’s Pulse Studies: An Illustrated Guide ( Li 
+Shizhen mai xiang tu pu 李時珍脉象圖譜 ), Beijing: Renmin weisheng chubanshe. 
+Liang Jun 梁峻 (1995) Zhongguo gudai yizheng shilüe 中国古代医政史略 (A Brief History of Medicine 
+and State Policies in Ancient China), Hohhot: Neimenggu renmin chubanshe. 
+Liu, G.H. (2005) Warm Pathogen Diseases: a clinical guide , Seattle, WA: Eastland Press. 
+Luo Hegu 罗和古 et al . (eds) (2004) Shanghan wenbing yian 伤寒温病医案 (Case Records on Cold 
+Damage and Warm Disease), Beijing: Zhongguo yiyaoke chubanshe. 
+Luo, X. (trans.) (2003) Compendium of Materia Medica: Bencao gangmu , Beijing: Foreign Languages Press. 
+Métailié, G. (2001) ‘The Bencao gangmu  of Li Shizhen: an innovation in natural history?’, in E. Hsu 
+(ed.) Innovation in Chinese Medicine , Cambridge: Cambridge University Press , pp. 221–61. 
+——— (2010) ‘Concepts of nature in traditional Chinese materia medica and botany (sixteenth to 
+seventeenth century)’, in M. Elvin and H.U. Vogel (eds) Concepts of Nature: a Chinese-European 
+cross-cultural perspective , Leiden: Brill, pp. 345 –67. 
+Mitchell, C., Feng, Y. and Wiseman, N. (1999) Shang Han Lun (On Cold Damage) Brookline, MA: 
+Paradigm Publications. 
+Morris, W. and Mondot, M. (2011) Li Shi-Zhen’s Pulse Studies: an illustrated guide , Beijing: Renmin 
+weisheng chubanshe. 
+158 
+===== PAGE 14 =====
+Developments in Chinese medicine
+ 
+ 
+  
+  
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+  
+  
+ 
+ 
+ 
+    
+Nappi, C.S. (2009a) ‘Bolatu’s pharmacy: theriac in early modern China’, Early Science and Medicine, 
+14: 737–64. 
+——— (2009b) The Monkey and the Inkpot: natural history and its transformations in early modern China , 
+Cambridge, MA: Harvard University Press. 
+Ni Yitian and Damone, R. (1992) ‘Zhu Dan Xi’s treatment of diseases of the spleen and stomach’, 
+Journal of Chinese Medicine , 40: 25–9. 
+Qian Chaochen 钱超尘 and Wen Changlu 溫長路  (eds) (2003) Li Shizhen yanjiu jicheng 李时珍硏究
+集成 (Collected Research on Li Shizhen), Beijing: Zhongyi guji chubanshe. 
+Qiu, Y. (2008) ‘Itinerant doctors in Chinese history’, Journal of Chinese Medicine , 86: 28–33. 
+Qiu Peiran, 裘沛然 (1984) Zhongyi lidai ge jia xueshuo 中医历代各家学说 (Currents of Medical Theory 
+Associated with Physicians from Past Generations), Shanghai: Shanghai kexue jishu chubanshe. 
+Scheid, V. (1995) ‘The great qi, Zhang Xichun’s refections on the nature, pathology and treatment of 
+the daqi’, Journal of Chinese Medicine , 49: 5–11. 
+——— (2007) Currents of Tradition in Chinese Medicine, 1626–2006 , Seattle, WA: Eastland Press. 
+——— (2013) ‘Transmitting Chinese medicine: changing perceptions of body, pathology, and treat -
+ment in Late Imperial China’, Asian Medicine , 8.2: 299–360. 
+Shang Zhijun 尚志钧 (2002) ‘Bencao shiyi yanjiu lunwen本草拾遗研究论文 ’ (Studies on the Gleanings 
+of Materia Medica ), in Shang Zhijun (ed.) Bencao shiyi jishi 《本草拾 遗》辑 释 (Gleanings of Materia 
+Medica), Hefei: Anhui kexue jishu chubanshe, pp. 470–528. 
+Simonis, F. (2010) Mad Acts, Mad Speech and Mad People in Late Imperial Chinese Law and Medicine , PhD 
+thesis, Princeton University. 
+Smith, P.J. and Von Glahn, R. (eds) (2003) The Song-Yuan-Ming Transition in Chinese History, Cambridge, 
+MA: Harvard University Asia Center. 
+Unschuld, P.U. (1979) Medical Ethics in Imperial China: a study in historical anthropology , Berkeley: Uni -
+versity of California Press. 
+——— (1985) Medicine in China: a history of ideas , Berkeley: University of California Press. 
+——— (1986) Medicine in China: a history of pharmaceutics , Berkeley: University of California Press. 
+——— (1990) Forgotten Traditions of Ancient Chinese Traditions , Brookline, MA: Paradigm Publishers. 
+Unschuld, P.U. and Zheng Jinsheng 鄭金 生 (2012) Chinese Traditional Healing: the Berlin collections of 
+manuscript volumes from the 16th through the early 20th century (3 vols), Leiden: Brill. 
+Van Wart, D. and Chace, C. (2006) ‘Ye Tian-Shi’s wen re lun, part 1, discourse on warm–heat disease, 
+Lantern , 3: 8–15. 
+Wang Xiaoping 王晓萍 (2003) ‘Shishu Li Shizhen tiaozhi piwei zhi fangfa试述李时珍调治脾胃之方法 ’ 
+(The Development of Li Shizhen’s Prescription Method on the Regulation and Treatment of the 
+Stomach and Spleen), in Qian Chaochen 钱超尘 and Wen Changlu 溫長路 (eds) Li Shizhen yanjiu 
+jicheng 李时珍硏究集成 (Collected Research on Li Shizhen), Beijing: Zhongyi guji chubanshe, 
+pp. 624–6. 
+Welden, J. (2015) To Bring Order Out of Chaos: literati medicine of the Jin dynasty (1115–1234), PhD thesis, 
+University of Hawai’i. 
+Wu, Y.-L. (2010) Reproducing Women: medicine, metaphor, and childbirth in late imperial China , Berkeley; 
+London: University of California Press. 
+Yang Shou-zhong (1993) Danxi zhifa xinyao 丹溪治要心法 (The Heart & Essence of Dan-xi’s Methods 
+of Treatment) by Zhu Danxi 朱丹溪 (1347), Boulder, CO: Blue Poppy Press. 
+——— (trans.) (1994) Gezhi yulun 格致餘論 (Extra Treatises based on Investigation and Inquiry) by 
+Zhu Danxi 朱丹溪 (1347), Boulder, CO: Blue Poppy Press. 
+Yao Xinzhong 姚新 中 (ed.) (2003) RoutledgeCurzon Encyclopedia of Confucianism , London: 
+RoutledgeCurzon. 
+159 

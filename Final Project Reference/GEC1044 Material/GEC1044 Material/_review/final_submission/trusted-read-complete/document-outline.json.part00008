@@ -1,0 +1,421 @@
+ 20788,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "黄芪 Huang Qi",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00167",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20788,
+      "endIndex": 20816,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 0
+      },
+      "text": "Astragalus/milkvetch[(root)](https://herbaltcm.sn.polyu.edu.hk/herbal/milkvetch-root)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00168",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20817,
+      "endIndex": 20829,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 1
+      },
+      "text": "Sweet; warm",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00169",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20830,
+      "endIndex": 20843,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 2
+      },
+      "text": "Spleen, Lung",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00170",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20844,
+      "endIndex": 20931,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 3
+      },
+      "text": "Tonifies Qi; strengthens exterior defence; promotes fluid discharge and tissue repair.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00171",
+      "path": "tabs.t.0.body.content[128].table.rows[4].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 20932,
+      "endIndex": 21039,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 4,
+        "columnIndex": 4
+      },
+      "text": "Fatigue, poor appetite and loose stools in Qi deficiency; spontaneous sweating from weak exterior defence.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00172",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21041,
+      "endIndex": 21043,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.w74mgl1kovml]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00173",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21043,
+      "endIndex": 21053,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "玉竹 Yu Zhu",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00174",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21053,
+      "endIndex": 21087,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 0
+      },
+      "text": "[Fragrant Solomon’s seal (rhizome)](https://herbaltcm.sn.polyu.edu.hk/herbal/fragrant-solomonseal-rhizome)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00175",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21088,
+      "endIndex": 21109,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 1
+      },
+      "text": "Sweet; slightly cold",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00176",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21110,
+      "endIndex": 21124,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 2
+      },
+      "text": "Lung, Stomach",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00177",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21125,
+      "endIndex": 21196,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 3
+      },
+      "text": "Nourishes Yin; moistens dryness; generates fluids and relieves thirst.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00178",
+      "path": "tabs.t.0.body.content[128].table.rows[5].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21197,
+      "endIndex": 21262,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 5,
+        "columnIndex": 4
+      },
+      "text": "Dry cough, dry throat and thirst in Lung–Stomach Yin deficiency.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00179",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21264,
+      "endIndex": 21266,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.9diojr5yl8wi]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00180",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21266,
+      "endIndex": 21293,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 0
+      },
+      "text": "淮山／山药 Huai Shan / Shan Yao",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00181",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[0].content[2]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21293,
+      "endIndex": 21315,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 0
+      },
+      "text": "[Chinese yam (rhizome)](https://herbaltcm.sn.polyu.edu.hk/herbal/common-yam-rhizome)",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00182",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[1].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21316,
+      "endIndex": 21331,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 1
+      },
+      "text": "Sweet; neutral",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00183",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[2].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21332,
+      "endIndex": 21353,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 2
+      },
+      "text": "Spleen, Lung, Kidney",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00184",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[3].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21354,
+      "endIndex": 21439,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 3
+      },
+      "text": "Supports Spleen and Stomach; generates fluids and benefits Lung; strengthens Kidney.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00185",
+      "path": "tabs.t.0.body.content[128].table.rows[6].cells[4].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21440,
+      "endIndex": 21576,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 6,
+        "columnIndex": 4
+      },
+      "text": "Poor appetite and persistent diarrhoea in Spleen deficiency; chronic cough in Lung deficiency; frequent urination in Kidney deficiency.",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00186",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[0].content[0]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21578,
+      "endIndex": 21580,
+      "namedStyleType": "NORMAL_TEXT",
+      "isListItem": false,
+      "listId": null,
+      "nestingLevel": null,
+      "table": {
+        "tableStartIndex": 19978,
+        "rowIndex": 7,
+        "columnIndex": 0
+      },
+      "text": "[INLINE_OBJECT kix.r1gtugogylpj]",
+      "protectedControls": []
+    },
+    {
+      "paragraphId": "P00187",
+      "path": "tabs.t.0.body.content[128].table.rows[7].cells[0].content[1]",
+      "tabId": "t.0",
+      "tabTitle": "Tab 1",
+      "segmentId": null,
+      "startIndex": 21580,
+      "endIndex": 21604

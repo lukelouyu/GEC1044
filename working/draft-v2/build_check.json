@@ -1,0 +1,39 @@
+{
+  "docx": "C:\\Users\\lukel\\Downloads\\GEC1044 Final Project\\Final_Report_V2.docx",
+  "estimated_words_including_notes": 3057,
+  "footnotes": 27,
+  "photos": {
+    "pulse": [
+      "photo_2026-10-15_23-47-39.jpg",
+      [
+        0,
+        150,
+        1220,
+        920
+      ]
+    ],
+    "properties": [
+      "photo_2026-10-15_23-47-48.jpg",
+      [
+        0,
+        210,
+        960,
+        805
+      ]
+    ],
+    "acupuncture": [
+      "photo_2026-10-15_23-47-53.jpg",
+      [
+        0,
+        180,
+        960,
+        790
+      ]
+    ]
+  },
+  "pending": [
+    "Student ID",
+    "Cooking photographs",
+    "Cooking and tasting record"
+  ]
+}
